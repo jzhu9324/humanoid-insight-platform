@@ -1,0 +1,62 @@
+{
+  "companies": {
+    "international": [
+      "Boston Dynamics",
+      "Tesla",
+      "Figure AI",
+      "Agility Robotics",
+      "1X Technologies",
+      "Sanctuary AI"
+    ],
+    "domestic": [
+      "优必选",
+      "小米机器人",
+      "智元机器人",
+      "傅利叶智能",
+      "达闼科技",
+      "乐聚机器人"
+    ]
+  },
+  "research_keywords": {
+    "hardware": [
+      "humanoid actuator",
+      "servo motor force control",
+      "compliant mechanism",
+      "dexterous hand",
+      "bionic design humanoid"
+    ],
+    "software": [
+      "whole-body control",
+      "humanoid locomotion",
+      "manipulation planning",
+      "reinforcement learning robot",
+      "sim-to-real humanoid"
+    ]
+  },
+  "social_sources": {
+    "wechat": [
+      {
+        "name": "机器人大讲堂",
+        "keywords": ["人形机器人", "机器人技术"]
+      },
+      {
+        "name": "机器之心",
+        "keywords": ["humanoid", "embodied AI"]
+      }
+    ],
+    "twitter": [
+      "@BostonDynamics",
+      "@Tesla",
+      "@Figure_robot"
+    ],
+    "reddit": [
+      "r/robotics",
+      "r/MachineLearning"
+    ]
+  },
+  "update_settings": {
+    "schedule": "daily",
+    "time": "08:00",
+    "timezone": "Asia/Shanghai"
+  }
+}
