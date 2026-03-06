@@ -1,0 +1,151 @@
+/* Anthropic Brand Colors */
+:root {
+  /* Main Colors */
+  --color-dark: #141413;
+  --color-light: #faf9f5;
+  --color-mid-gray: #b0aea5;
+  --color-light-gray: #e8e6dc;
+
+  /* Accent Colors */
+  --color-orange: #d97757;
+  --color-blue: #6a9bcc;
+  --color-green: #788c5d;
+
+  /* VitePress Theme Overrides */
+  --vp-c-brand-1: var(--color-orange);
+  --vp-c-brand-2: var(--color-orange);
+  --vp-c-brand-3: var(--color-orange);
+
+  --vp-c-bg: var(--color-light);
+  --vp-c-bg-soft: var(--color-light-gray);
+  --vp-c-text-1: var(--color-dark);
+  --vp-c-text-2: var(--color-mid-gray);
+}
+
+/* Dark Mode Colors */
+.dark {
+  --vp-c-bg: var(--color-dark);
+  --vp-c-bg-soft: #1f1f1e;
+  --vp-c-text-1: var(--color-light);
+  --vp-c-text-2: var(--color-mid-gray);
+}
+
+/* Typography - Anthropic Fonts */
+:root {
+  /* Headings: Poppins with Arial fallback */
+  --vp-font-family-base: 'Lora', Georgia, serif;
+  --vp-font-family-mono: 'Monaco', 'Courier New', monospace;
+}
+
+/* Apply Poppins to headings */
+h1, h2, h3, h4, h5, h6,
+.VPHero .name,
+.VPHero .text,
+.VPFeature .title {
+  font-family: 'Poppins', Arial, sans-serif;
+}
+
+/* Body text: Lora */
+body,
+p,
+.VPHero .tagline,
+.VPFeature .details {
+  font-family: 'Lora', Georgia, serif;
+}
+
+/* Hero Section Styling */
+.VPHero .name {
+  background: linear-gradient(120deg, var(--color-orange) 30%, var(--color-blue));
+  -webkit-background-clip: text;
+  background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.VPHero .tagline {
+  color: var(--color-mid-gray);
+}
+
+/* Button Styling */
+.VPButton.brand {
+  background-color: var(--color-orange);
+  border-color: var(--color-orange);
+}
+
+.VPButton.brand:hover {
+  background-color: var(--color-blue);
+  border-color: var(--color-blue);
+}
+
+.VPButton.alt {
+  border-color: var(--color-mid-gray);
+  color: var(--color-dark);
+}
+
+.VPButton.alt:hover {
+  border-color: var(--color-orange);
+  color: var(--color-orange);
+}
+
+/* Feature Cards */
+.VPFeature {
+  border: 1px solid var(--color-light-gray);
+  transition: all 0.3s ease;
+}
+
+.VPFeature:hover {
+  border-color: var(--color-orange);
+  box-shadow: 0 4px 12px rgba(217, 119, 87, 0.15);
+}
+
+/* Links */
+a {
+  color: var(--color-orange);
+}
+
+a:hover {
+  color: var(--color-blue);
+}
+
+/* Code Blocks */
+.vp-code {
+  background-color: var(--color-light-gray);
+}
+
+.dark .vp-code {
+  background-color: #1f1f1e;
+}
+
+/* Custom Block Styling */
+.custom-block.tip {
+  border-color: var(--color-green);
+}
+
+.custom-block.warning {
+  border-color: var(--color-orange);
+}
+
+.custom-block.danger {
+  border-color: #c9554c;
+}
+
+/* Footer Styling */
+.VPFooter {
+  background-color: var(--color-light-gray);
+}
+
+.dark .VPFooter {
+  background-color: #1f1f1e;
+}
+
+/* Navigation */
+.VPNav {
+  backdrop-filter: blur(10px);
+}
+
+.VPNavBar {
+  background-color: rgba(250, 249, 245, 0.8);
+}
+
+.dark .VPNavBar {
+  background-color: rgba(20, 20, 19, 0.8);
+}
