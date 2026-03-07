@@ -7,12 +7,38 @@ export default {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '每日洞察', link: '/daily/' },
+      { text: '每日精选', link: '/daily/' },
+      { text: '学术论文', link: '/papers/' },
+      { text: '公司动态', link: '/company-news/' },
+      { text: '行业资讯', link: '/wechat/' },
+      { text: '行业报告', link: '/reports/' },
       { text: '管理后台', link: '/admin/' }
     ],
 
     sidebar: {
-      '/daily/': []
+      '/daily/': [],
+      '/papers/': [],
+      '/company-news/': [],
+      '/wechat/': [],
+      '/reports/': []
+    },
+
+    search: {
+      provider: 'local'
+    },
+
+    outline: {
+      level: [2, 3],
+      label: '目录'
+    },
+
+    docFooter: {
+      prev: '上一页',
+      next: '下一页'
+    },
+
+    lastUpdated: {
+      text: '最后更新'
     },
 
     socialLinks: [

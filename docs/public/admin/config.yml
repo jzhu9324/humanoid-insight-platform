@@ -1,0 +1,72 @@
+backend:
+  name: git-gateway
+  branch: main
+
+# Publish mode
+publish_mode: editorial_workflow
+
+# Media files
+media_folder: "docs/public/images"
+public_folder: "/images"
+
+# Collections
+collections:
+  # Papers collection
+  - name: "papers"
+    label: "学术论文"
+    folder: "docs/papers"
+    create: true
+    slug: "papers-{{year}}-{{month}}-{{day}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "日期", name: "date", widget: "datetime"}
+      - {label: "类型", name: "type", widget: "hidden", default: "papers"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  # Company news collection
+  - name: "company-news"
+    label: "公司动态"
+    folder: "docs/company-news"
+    create: true
+    slug: "company-news-{{year}}-{{month}}-{{day}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "日期", name: "date", widget: "datetime"}
+      - {label: "类型", name: "type", widget: "hidden", default: "company-news"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  # WeChat articles collection
+  - name: "wechat"
+    label: "微信文章"
+    folder: "docs/wechat"
+    create: true
+    slug: "wechat-articles-{{year}}-{{month}}-{{day}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "日期", name: "date", widget: "datetime"}
+      - {label: "类型", name: "type", widget: "hidden", default: "wechat-articles"}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  # Reports collection
+  - name: "reports"
+    label: "行业报告"
+    folder: "docs/reports"
+    create: true
+    slug: "{{type}}-report-{{year}}-{{month}}-{{day}}"
+    fields:
+      - {label: "标题", name: "title", widget: "string"}
+      - {label: "日期", name: "date", widget: "datetime"}
+      - {label: "报告类型", name: "type", widget: "select", options: ["daily", "weekly", "monthly"]}
+      - {label: "内容", name: "body", widget: "markdown"}
+
+  # Pages collection
+  - name: "pages"
+    label: "页面"
+    files:
+      - label: "首页"
+        name: "index"
+        file: "docs/index.md"
+        fields:
+          - {label: "布局", name: "layout", widget: "hidden", default: "home"}
+          - {label: "标题", name: "title", widget: "string"}
+          - {label: "内容", name: "body", widget: "markdown"}

@@ -1,0 +1,93 @@
+name: Data Collection Workflow
+
+on:
+  # Run daily at 00:00 UTC (8:00 AM Beijing time)
+  schedule:
+    - cron: '0 0 * * *'
+
+  # Allow manual trigger
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  collect-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: Install Python dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Collect arXiv papers
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "Collecting arXiv papers..."
+          python scripts/collect_papers.py
+        continue-on-error: true
+
+      - name: Collect company news
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "Collecting company news..."
+          python scripts/collect_company_news.py
+        continue-on-error: true
+
+      - name: Collect WeChat articles
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "Collecting WeChat articles..."
+          python scripts/collect_wechat_articles.py
+        continue-on-error: true
+
+      - name: Generate weekly report
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: |
+          echo "Generating weekly report..."
+          python scripts/generate_report.py --type weekly
+        continue-on-error: true
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+
+          # Add all new content
+          git add docs/ cache/ config/
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update data and reports [skip ci]
+
+          - Collected arXiv papers
+          - Collected company news
+          - Collected WeChat articles
+          - Generated weekly report
+
+          Date: $(date +'%Y-%m-%d %H:%M:%S')"
+            git push
+          fi
+
+      - name: Upload artifacts
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: collection-logs
+          path: logs/
+          retention-days: 7
