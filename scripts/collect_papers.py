@@ -37,7 +37,8 @@ HUMANOID_KEYWORDS = [
 ]
 
 # Relevance threshold (0.0 to 1.0)
-RELEVANCE_THRESHOLD = 0.6
+# Set to 0.0 to analyze all papers since arXiv search already filters by relevant keywords
+RELEVANCE_THRESHOLD = 0.0
 
 
 def search_arxiv_papers(query: str, max_results: int = 50, days_back: int = 7) -> List[arxiv.Result]:
@@ -239,9 +240,9 @@ def main():
         print("Please ensure ANTHROPIC_API_KEY environment variable is set.")
         sys.exit(1)
 
-    # Search arXiv
+    # Search arXiv (半周更新：3-4天)
     query = " OR ".join([f'"{kw}"' for kw in HUMANOID_KEYWORDS[:5]])
-    papers = search_arxiv_papers(query, max_results=30, days_back=7)
+    papers = search_arxiv_papers(query, max_results=30, days_back=4)
 
     if not papers:
         print("\nNo papers found.")

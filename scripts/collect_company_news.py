@@ -356,7 +356,7 @@ def main():
 
     # Collect news from all companies
     all_news = []
-    days_back = 7
+    days_back = 1  # 每日更新
 
     print("\n" + "=" * 60)
     print("Collecting Company News")

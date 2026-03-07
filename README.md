@@ -113,11 +113,20 @@ python scripts/generate_report.py --type daily
 
 ### 自动收集
 
-项目配置了 GitHub Actions 工作流，每天自动运行数据收集和报告生成:
+项目配置了 GitHub Actions 工作流，自动运行数据收集和报告生成:
+
+#### 更新频率设置
+
+- **论文收集**: 每 3-4 天（半周）更新一次，只收集半周内新发布的论文
+- **公司动态**: 每天更新，获取最新行业新闻
+- **微信文章**: 根据配置文件手动添加，每天检查
+- **行业报告**: 每周生成一次
+
+#### GitHub Actions 配置
 
 - 运行时间: 每天 00:00 UTC (北京时间 08:00)
 - 工作流文件: `.github/workflows/data-collection.yml`
-- 需要配置: 在 GitHub 仓库设置中添加 `ANTHROPIC_API_KEY` secret
+- 需要配置: 在 GitHub 仓库设置中添加 `MINIMAX_API_KEY` secret（用于 AI 分析）
 
 ## 🏗️ 项目结构
 
@@ -158,12 +167,12 @@ humanoid-insight-platform/
 
 ## 🔧 配置
 
-### Anthropic API
+### MiniMax API
 
-1. 获取 API Key: https://console.anthropic.com/
+1. 获取 API Key: https://platform.minimaxi.com/
 2. 设置环境变量:
    ```bash
-   export ANTHROPIC_API_KEY="your-api-key-here"
+   export MINIMAX_API_KEY="your-api-key-here"
    ```
 3. 或在 GitHub 仓库设置中添加 Secret (用于 GitHub Actions)
 
@@ -173,13 +182,16 @@ humanoid-insight-platform/
 
 - 关键词: 在脚本中的 `HUMANOID_KEYWORDS` 列表中配置
 - 相关性阈值: `RELEVANCE_THRESHOLD` (默认 0.6)
-- 查询范围: `days_back` (默认 7 天)
+- **查询范围**: `days_back` (默认 3-4 天，半周更新)
+- **建议更新频率**: 每 3-4 天运行一次，确保覆盖最新发布的论文
 
 #### 公司动态 (collect_company_news.py)
 
 - 监控公司: 在脚本中的 `COMPANIES` 字典中配置
 - RSS 订阅源: 为每个公司配置 `rss_feeds`
 - 关键词过滤: 为每个公司配置 `keywords`
+- **查询范围**: `days_back` (默认 1 天，每日更新)
+- **建议更新频率**: 每天运行一次，获取最新行业动态
 
 #### 微信文章 (collect_wechat_articles.py)
 

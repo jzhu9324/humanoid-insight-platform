@@ -3,7 +3,8 @@ name: Data Collection Workflow
 on:
   # Run daily at 00:00 UTC (8:00 AM Beijing time)
   schedule:
-    - cron: '0 0 * * *'
+    - cron: '0 0 * * *'  # 每天运行（公司动态、微信文章）
+    - cron: '0 0 * * 1,4'  # 每周一、四运行（论文收集）
 
   # Allow manual trigger
   workflow_dispatch:
@@ -29,33 +30,37 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Collect arXiv papers
+      - name: Collect arXiv papers (半周更新：每周一、周四)
+        # 只在周一(1)和周四(4)运行
+        if: github.event.schedule == '0 0 * * 1,4' || github.event_name == 'workflow_dispatch'
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: |
-          echo "Collecting arXiv papers..."
+          echo "Collecting arXiv papers (半周更新)..."
           python scripts/collect_papers.py
         continue-on-error: true
 
-      - name: Collect company news
+      - name: Collect company news (每日更新)
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: |
-          echo "Collecting company news..."
+          echo "Collecting company news (每日更新)..."
           python scripts/collect_company_news.py
         continue-on-error: true
 
-      - name: Collect WeChat articles
+      - name: Collect WeChat articles (每日检查)
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: |
-          echo "Collecting WeChat articles..."
+          echo "Collecting WeChat articles (每日检查)..."
           python scripts/collect_wechat_articles.py
         continue-on-error: true
 
-      - name: Generate weekly report
+      - name: Generate weekly report (每周日)
+        # 只在周日(0)运行
+        if: github.event.schedule == '0 0 * * 0' || github.event_name == 'workflow_dispatch'
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: |
           echo "Generating weekly report..."
           python scripts/generate_report.py --type weekly
@@ -73,14 +78,19 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit"
           else
-            git commit -m "chore: update data and reports [skip ci]
+            # 生成更新说明
+            UPDATE_MSG="chore: update data [skip ci]"
+            if [ $(date +%u) -eq 1 ] || [ $(date +%u) -eq 4 ]; then
+              UPDATE_MSG="${UPDATE_MSG}\n\n- Collected arXiv papers (半周更新)"
+            fi
+            UPDATE_MSG="${UPDATE_MSG}\n- Collected company news (每日更新)"
+            UPDATE_MSG="${UPDATE_MSG}\n- Checked WeChat articles"
+            if [ $(date +%u) -eq 0 ]; then
+              UPDATE_MSG="${UPDATE_MSG}\n- Generated weekly report"
+            fi
+            UPDATE_MSG="${UPDATE_MSG}\n\nDate: $(date +'%Y-%m-%d %H:%M:%S')"
 
-          - Collected arXiv papers
-          - Collected company news
-          - Collected WeChat articles
-          - Generated weekly report
-
-          Date: $(date +'%Y-%m-%d %H:%M:%S')"
+            git commit -m "$(echo -e \"${UPDATE_MSG}\")"
             git push
           fi
 

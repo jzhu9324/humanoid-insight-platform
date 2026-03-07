@@ -1,14 +1,14 @@
 """
 AI Analysis Utilities for Humanoid Insight Platform
 
-This module provides AI-powered analysis capabilities using Claude API:
-1. Relevance scoring (Claude Haiku) - Quick filtering of papers
-2. Deep analysis (Claude Opus 4) - Comprehensive 5-dimension analysis
+This module provides AI-powered analysis capabilities using MiniMax API:
+1. Relevance scoring (MiniMax-M2.5) - Quick filtering of papers
+2. Deep analysis (MiniMax-M2.5) - Comprehensive 5-dimension analysis
 """
 
 import os
 from typing import Dict, Optional
-from anthropic import Anthropic
+from openai import OpenAI
 
 
 class AIAnalyzer:
@@ -16,16 +16,20 @@ class AIAnalyzer:
 
     def __init__(self, api_key: Optional[str] = None):
         """
-        Initialize AI analyzer with Claude API.
+        Initialize AI analyzer with MiniMax API.
 
         Args:
-            api_key: Anthropic API key. If None, reads from ANTHROPIC_API_KEY env var.
+            api_key: MiniMax API key. If None, reads from MINIMAX_API_KEY env var.
         """
-        self.client = Anthropic(api_key=api_key or os.environ.get("ANTHROPIC_API_KEY"))
+        api_key = api_key or os.environ.get("MINIMAX_API_KEY")
+        self.client = OpenAI(
+            api_key=api_key,
+            base_url="https://api.minimax.chat/v1"
+        )
 
     def score_relevance(self, title: str, abstract: str, keywords: list[str]) -> float:
         """
-        Score paper relevance using Claude Haiku (fast, cost-effective).
+        Score paper relevance using MiniMax-M2.5 (fast, cost-effective).
 
         Args:
             title: Paper title
@@ -50,26 +54,35 @@ class AIAnalyzer:
 - 0.7: 高度相关
 - 1.0: 核心相关
 
-只返回数字分数，不需要解释。"""
+请直接返回数字分数（例如：0.8），不要包含任何其他文字、解释或思考过程。"""
 
         try:
-            response = self.client.messages.create(
-                model="claude-haiku-4-20250514",
-                max_tokens=50,
-                messages=[{"role": "user", "content": prompt}]
+            response = self.client.chat.completions.create(
+                model="MiniMax-M2.5",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=10,
+                temperature=0.3
             )
 
-            score_text = response.content[0].text.strip()
-            score = float(score_text)
-            return max(0.0, min(1.0, score))  # Clamp to [0, 1]
+            score_text = response.choices[0].message.content.strip()
+            # Extract first number found
+            import re
+            numbers = re.findall(r'\d+\.?\d*', score_text)
+            if numbers:
+                score = float(numbers[0])
+                # If score > 1, assume it's a percentage and divide by 100
+                if score > 1:
+                    score = score / 100
+                return max(0.0, min(1.0, score))  # Clamp to [0, 1]
+            return 0.5  # Default to medium relevance if can't parse
 
         except (ValueError, AttributeError, IndexError) as e:
             print(f"Warning: Failed to parse relevance score: {e}")
-            return 0.0
+            return 0.5  # Default to medium relevance on error
 
     def analyze_paper(self, title: str, abstract: str, arxiv_url: str) -> Dict[str, str]:
         """
-        Perform deep 5-dimension analysis using Claude Opus 4.
+        Perform deep 5-dimension analysis using MiniMax-M2.5.
 
         Args:
             title: Paper title
@@ -108,14 +121,15 @@ class AIAnalyzer:
 }}"""
 
         try:
-            response = self.client.messages.create(
-                model="claude-opus-4-5-20251101",
+            response = self.client.chat.completions.create(
+                model="MiniMax-M2.5",
+                messages=[{"role": "user", "content": prompt}],
                 max_tokens=1500,
-                messages=[{"role": "user", "content": prompt}]
+                temperature=0.7
             )
 
             import json
-            analysis_text = response.content[0].text.strip()
+            analysis_text = response.choices[0].message.content.strip()
 
             # Try to extract JSON from markdown code blocks if present
             if "```json" in analysis_text:
@@ -149,7 +163,7 @@ def create_analyzer(api_key: Optional[str] = None) -> AIAnalyzer:
     Factory function to create an AIAnalyzer instance.
 
     Args:
-        api_key: Optional API key. If None, uses ANTHROPIC_API_KEY env var.
+        api_key: Optional API key. If None, uses MINIMAX_API_KEY env var.
 
     Returns:
         AIAnalyzer instance
