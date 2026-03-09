@@ -24,7 +24,9 @@ class AIAnalyzer:
         api_key = api_key or os.environ.get("MINIMAX_API_KEY")
         self.client = OpenAI(
             api_key=api_key,
-            base_url="https://api.minimax.chat/v1"
+            base_url="https://api.minimax.chat/v1",
+            timeout=60.0,
+            max_retries=3
         )
 
     def score_relevance(self, title: str, abstract: str, keywords: list[str]) -> float:
