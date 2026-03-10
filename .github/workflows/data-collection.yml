@@ -1,10 +1,9 @@
 name: Data Collection Workflow
 
 on:
-  # Run daily at 00:00 UTC (8:00 AM Beijing time)
+  # Run twice daily at 00:00 and 12:00 UTC (8:00 AM and 8:00 PM Beijing time)
   schedule:
-    - cron: '0 0 * * *'  # 每天运行（公司动态、微信文章）
-    - cron: '0 0 * * 1,4'  # 每周一、四运行（论文收集）
+    - cron: '0 0,12 * * *'  # 每12小时运行一次（公司动态、微信文章）
 
   # Allow manual trigger
   workflow_dispatch:
@@ -30,40 +29,46 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: Collect arXiv papers (半周更新：每周一、周四)
-        # 只在周一(1)和周四(4)运行
-        if: github.event.schedule == '0 0 * * 1,4' || github.event_name == 'workflow_dispatch'
+      - name: Collect arXiv papers (每2天更新一次)
+        # 每2天运行一次：只在偶数日期的00:00运行
+        if: (github.event.schedule == '0 0,12 * * *' && github.event.schedule == '0 0 * * *') || github.event_name == 'workflow_dispatch'
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: |
-          echo "Collecting arXiv papers (半周更新)..."
-          python scripts/collect_papers.py
+          # 检查是否应该运行（每2天）
+          DAY_OF_YEAR=$(date +%j)
+          if [ $((DAY_OF_YEAR % 2)) -eq 0 ] || [ "${{ github.event_name }}" == "workflow_dispatch" ]; then
+            echo "Collecting arXiv papers (每2天更新)..."
+            python scripts/collect_papers.py
+          else
+            echo "Skipping paper collection (not scheduled for today)"
+          fi
         continue-on-error: true
 
-      - name: Collect company news (每日更新)
+      - name: Collect company news (每12小时更新)
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: |
-          echo "Collecting company news (每日更新)..."
+          echo "Collecting company news (每12小时更新)..."
           python scripts/collect_company_news.py
         continue-on-error: true
 
-      - name: Collect WeChat articles (每日检查)
+      - name: Collect WeChat articles (每12小时检查)
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: |
-          echo "Collecting WeChat articles (每日检查)..."
+          echo "Collecting WeChat articles (每12小时检查)..."
           python scripts/collect_wechat_articles.py
         continue-on-error: true
 
-      - name: Generate weekly report (每周日)
-        # 只在周日(0)运行
-        if: github.event.schedule == '0 0 * * 0' || github.event_name == 'workflow_dispatch'
+      - name: Generate daily report (每日生成)
+        # 每天00:00运行一次
+        if: github.event.schedule == '0 0 * * *' || github.event_name == 'workflow_dispatch'
         env:
           MINIMAX_API_KEY: ${{ secrets.MINIMAX_API_KEY }}
         run: |
-          echo "Generating weekly report..."
-          python scripts/generate_report.py --type weekly
+          echo "Generating daily report..."
+          python scripts/generate_report.py --type daily
         continue-on-error: true
 
       - name: Commit and push changes
@@ -80,14 +85,16 @@ jobs:
           else
             # 生成更新说明
             UPDATE_MSG="chore: update data [skip ci]"
-            if [ $(date +%u) -eq 1 ] || [ $(date +%u) -eq 4 ]; then
-              UPDATE_MSG="${UPDATE_MSG}\n\n- Collected arXiv papers (半周更新)"
+
+            # 检查是否是论文收集日（每2天）
+            DAY_OF_YEAR=$(date +%j)
+            if [ $((DAY_OF_YEAR % 2)) -eq 0 ]; then
+              UPDATE_MSG="${UPDATE_MSG}\n\n- Collected arXiv papers (每2天更新)"
             fi
-            UPDATE_MSG="${UPDATE_MSG}\n- Collected company news (每日更新)"
-            UPDATE_MSG="${UPDATE_MSG}\n- Checked WeChat articles"
-            if [ $(date +%u) -eq 0 ]; then
-              UPDATE_MSG="${UPDATE_MSG}\n- Generated weekly report"
-            fi
+
+            UPDATE_MSG="${UPDATE_MSG}\n- Collected company news (每12小时更新)"
+            UPDATE_MSG="${UPDATE_MSG}\n- Checked WeChat articles (每12小时)"
+            UPDATE_MSG="${UPDATE_MSG}\n- Generated daily report"
             UPDATE_MSG="${UPDATE_MSG}\n\nDate: $(date +'%Y-%m-%d %H:%M:%S')"
 
             git commit -m "$(echo -e \"${UPDATE_MSG}\")"
