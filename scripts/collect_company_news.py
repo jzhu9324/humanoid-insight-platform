@@ -211,7 +211,12 @@ def analyze_news_with_ai(news_items: List[Dict], company_name: str, analyzer) ->
 链接: {item['link']}
 摘要: {item.get('summary', 'N/A')}
 
-请用1-2句话（50字以内）总结这条新闻的关键信息和对人形机器人行业的意义。"""
+请用1-2句话（50字以内）总结这条新闻的关键信息和对人形机器人行业的意义。
+
+要求：
+1. 直接输出摘要内容，不要包含任何思考过程
+2. 不要使用 <think> 标签
+3. 简洁明了，突出关键信息"""
 
             response = analyzer.client.chat.completions.create(
                 model="MiniMax-M2.5",
@@ -220,6 +225,11 @@ def analyze_news_with_ai(news_items: List[Dict], company_name: str, analyzer) ->
             )
 
             ai_summary = response.choices[0].message.content.strip()
+
+            # 移除 <think> 标签及其内容
+            import re
+            ai_summary = re.sub(r'<think>.*?</think>', '', ai_summary, flags=re.DOTALL)
+            ai_summary = ai_summary.strip()
 
             analyzed_news.append({
                 "company": company_name,
@@ -292,12 +302,20 @@ type: company-news
 
 """
         for item in items:
+            # 只显示有完整信息的新闻
+            if not item['link'] or item['link'] == '' or not item['title'] or item['title'].strip() == '':
+                continue
+
+            # 如果摘要提示信息不完整，跳过
+            if '无法从给定信息' in item.get('ai_summary', '') or '建议提供完整' in item.get('ai_summary', ''):
+                continue
+
             content += f"""### {item['title']}
 
 **发布日期**: {item['published']}
-**链接**: [{item['link']}]({item['link']})
+**链接**: [查看原文]({item['link']})
 
-{item['ai_summary'] if item['ai_summary'] else item['original_summary']}
+{item['ai_summary'] if item['ai_summary'] else item['original_summary'][:200]}
 
 ---
 
