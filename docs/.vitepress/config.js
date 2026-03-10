@@ -12,6 +12,7 @@ export default {
       { text: '公司动态', link: '/company-news/' },
       { text: '行业资讯', link: '/wechat/' },
       { text: '行业报告', link: '/reports/' },
+      { text: '配置管理', link: '/config' },
       { text: '管理后台', link: '/admin/' }
     ],
 

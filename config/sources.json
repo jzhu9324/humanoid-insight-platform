@@ -1,0 +1,112 @@
+{
+  "companies": [
+    {
+      "name": "Tesla",
+      "name_cn": "特斯拉",
+      "rss_feeds": ["https://www.tesla.com/blog/rss"],
+      "website": "https://www.tesla.com/",
+      "keywords": ["optimus", "robot", "humanoid", "ai", "automation"]
+    },
+    {
+      "name": "Boston Dynamics",
+      "name_cn": "波士顿动力",
+      "rss_feeds": ["https://bostondynamics.com/blog/feed/"],
+      "website": "https://bostondynamics.com/",
+      "keywords": ["atlas", "humanoid", "robot", "robotics"]
+    },
+    {
+      "name": "Figure AI",
+      "name_cn": "Figure AI",
+      "rss_feeds": [],
+      "website": "https://www.figure.ai/",
+      "keywords": ["figure", "humanoid", "robot", "ai"]
+    },
+    {
+      "name": "Agility Robotics",
+      "name_cn": "敏捷机器人",
+      "rss_feeds": [],
+      "website": "https://agilityrobotics.com/news",
+      "keywords": ["digit", "humanoid", "robot", "bipedal"]
+    },
+    {
+      "name": "Sanctuary AI",
+      "name_cn": "Sanctuary AI",
+      "rss_feeds": [],
+      "website": "https://sanctuary.ai/news/",
+      "keywords": ["phoenix", "humanoid", "robot", "ai"]
+    },
+    {
+      "name": "Unitree Robotics",
+      "name_cn": "宇树科技",
+      "rss_feeds": [],
+      "website": "https://www.unitree.com/",
+      "keywords": ["humanoid", "robot", "h1", "g1"]
+    },
+    {
+      "name": "优必选",
+      "name_cn": "优必选",
+      "rss_feeds": [],
+      "website": "https://www.ubtrobot.com/",
+      "keywords": ["walker", "humanoid", "人形机器人"]
+    },
+    {
+      "name": "小米机器人",
+      "name_cn": "小米机器人",
+      "rss_feeds": [],
+      "website": "https://www.mi.com/",
+      "keywords": ["cyberone", "人形机器人", "机器人"]
+    }
+  ],
+  "paper_keywords": [
+    "humanoid robot",
+    "bipedal robot",
+    "humanoid locomotion",
+    "whole-body control",
+    "humanoid manipulation",
+    "human-robot interaction",
+    "legged locomotion",
+    "biped walking",
+    "humanoid learning",
+    "humanoid reinforcement learning",
+    "embodied AI",
+    "dexterous manipulation"
+  ],
+  "wechat_accounts": [
+    {
+      "name": "机器人大讲堂",
+      "keywords": ["人形机器人", "机器人技术", "具身智能"]
+    },
+    {
+      "name": "机器人在线",
+      "keywords": ["人形机器人", "工业机器人"]
+    },
+    {
+      "name": "高工机器人",
+      "keywords": ["人形机器人", "机器人产业"]
+    },
+    {
+      "name": "智东西",
+      "keywords": ["人形机器人", "AI", "机器人"]
+    },
+    {
+      "name": "量子位",
+      "keywords": ["人形机器人", "AI", "具身智能"]
+    },
+    {
+      "name": "机器之心",
+      "keywords": ["humanoid", "embodied AI", "人形机器人"]
+    },
+    {
+      "name": "新智元",
+      "keywords": ["人形机器人", "AI", "机器人"]
+    },
+    {
+      "name": "36氪",
+      "keywords": ["人形机器人", "机器人", "科技"]
+    },
+    {
+      "name": "钛媒体",
+      "keywords": ["人形机器人", "机器人", "科技"]
+    }
+  ]
+}
