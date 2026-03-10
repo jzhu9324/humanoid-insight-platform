@@ -17,13 +17,7 @@ title: 公司动态
 
 ## 最新动态
 
-动态将在数据收集脚本运行后自动出现在这里。
-
-你可以运行以下命令手动收集动态:
-
-```bash
-python scripts/collect_company_news.py
-```
+- [2026-03-10 公司动态 (6条)](/company-news/company-news-2026-03-10)
 
 ---
 

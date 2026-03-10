@@ -13,17 +13,7 @@ AI 自动生成的周报和月报，提供趋势分析和行业洞察。
 
 ## 最新报告
 
-报告将在生成脚本运行后自动出现在这里。
-
-你可以运行以下命令生成报告:
-
-```bash
-# 生成周报
-python scripts/generate_report.py --type weekly
-
-# 生成日报
-python scripts/generate_report.py --type daily
-```
+- [2026-03-10 日报](/reports/daily-report-2026-03-10)
 
 ## 报告内容
 
