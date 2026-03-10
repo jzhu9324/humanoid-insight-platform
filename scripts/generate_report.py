@@ -139,13 +139,13 @@ def generate_executive_summary(data: Dict, analyzer) -> str:
 请使用简洁、专业的语言，突出关键信息。"""
 
     try:
-        response = analyzer.client.messages.create(
-            model="claude-opus-4-5-20251101",
+        response = analyzer.client.chat.completions.create(
+            model="MiniMax-M2.5",
             max_tokens=800,
             messages=[{"role": "user", "content": prompt}]
         )
 
-        summary = response.content[0].text.strip()
+        summary = response.choices[0].message.content.strip()
         print("  ✓ Executive summary generated")
         return summary
 
@@ -186,13 +186,13 @@ def generate_trend_analysis(data: Dict, analyzer) -> str:
 格式: 使用 markdown 列表"""
 
     try:
-        response = analyzer.client.messages.create(
-            model="claude-opus-4-5-20251101",
+        response = analyzer.client.chat.completions.create(
+            model="MiniMax-M2.5",
             max_tokens=1000,
             messages=[{"role": "user", "content": prompt}]
         )
 
-        analysis = response.content[0].text.strip()
+        analysis = response.choices[0].message.content.strip()
         print("  ✓ Trend analysis generated")
         return analysis
 

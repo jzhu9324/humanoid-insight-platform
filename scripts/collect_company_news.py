@@ -213,13 +213,13 @@ def analyze_news_with_ai(news_items: List[Dict], company_name: str, analyzer) ->
 
 请用1-2句话（50字以内）总结这条新闻的关键信息和对人形机器人行业的意义。"""
 
-            response = analyzer.client.messages.create(
-                model="claude-haiku-4-20250514",
+            response = analyzer.client.chat.completions.create(
+                model="MiniMax-M2.5",
                 max_tokens=200,
                 messages=[{"role": "user", "content": prompt}]
             )
 
-            ai_summary = response.content[0].text.strip()
+            ai_summary = response.choices[0].message.content.strip()
 
             analyzed_news.append({
                 "company": company_name,

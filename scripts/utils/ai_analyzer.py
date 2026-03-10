@@ -160,6 +160,80 @@ class AIAnalyzer:
             }
 
 
+    def analyze_news(self, title: str, summary: str, url: str, company: str) -> Dict[str, str]:
+        """
+        Analyze company news using MiniMax-M2.5.
+
+        Args:
+            title: News title
+            summary: News summary/content
+            url: URL to the news article
+            company: Company name
+
+        Returns:
+            Dictionary with analysis:
+            - summary: One-sentence summary
+            - key_points: Key points and highlights
+            - impact: Potential impact and significance
+            - url: Original news URL
+        """
+        prompt = f"""你是一个人形机器人行业分析专家。请对以下公司动态进行分析。
+
+公司: {company}
+标题: {title}
+内容: {summary}
+
+请按以下3个维度进行分析，每个维度用一段话（50-100字）说明：
+
+1. **一句话摘要**: 用一句话概括这条新闻的核心内容
+2. **关键要点**: 提取新闻中的关键信息和亮点
+3. **影响与意义**: 分析这条新闻对行业或公司的潜在影响
+
+请严格按照以下JSON格式返回（不要包含其他文字）：
+{{
+  "summary": "一句话摘要内容",
+  "key_points": "关键要点分析",
+  "impact": "影响与意义分析",
+  "url": "{url}"
+}}"""
+
+        try:
+            response = self.client.chat.completions.create(
+                model="MiniMax-M2.5",
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=1000,
+                temperature=0.7
+            )
+
+            import json
+            analysis_text = response.choices[0].message.content.strip()
+
+            # Try to extract JSON from markdown code blocks if present
+            if "```json" in analysis_text:
+                analysis_text = analysis_text.split("```json")[1].split("```")[0].strip()
+            elif "```" in analysis_text:
+                analysis_text = analysis_text.split("```")[1].split("```")[0].strip()
+
+            analysis = json.loads(analysis_text)
+
+            # Ensure all required fields are present
+            required_fields = ["summary", "key_points", "impact", "url"]
+            for field in required_fields:
+                if field not in analysis:
+                    analysis[field] = ""
+
+            return analysis
+
+        except (json.JSONDecodeError, AttributeError, IndexError) as e:
+            print(f"Error: Failed to parse news analysis: {e}")
+            return {
+                "summary": "",
+                "key_points": "",
+                "impact": "",
+                "url": url
+            }
+
+
 def create_analyzer(api_key: Optional[str] = None) -> AIAnalyzer:
     """
     Factory function to create an AIAnalyzer instance.
