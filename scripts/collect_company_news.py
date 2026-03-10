@@ -276,13 +276,22 @@ def save_news_to_markdown(news_items: List[Dict], output_dir: Path):
     date_str = datetime.now().strftime("%Y-%m-%d")
     output_file = output_dir / f"company-news-{date_str}.md"
 
-    # Group by company
+    # Group by company and filter valid items
     by_company = {}
+    valid_count = 0
     for item in news_items:
+        # 只统计有完整信息的新闻
+        if not item['link'] or item['link'] == '' or not item['title'] or item['title'].strip() == '':
+            continue
+        # 如果摘要提示信息不完整，跳过
+        if '无法从给定信息' in item.get('ai_summary', '') or '建议提供完整' in item.get('ai_summary', ''):
+            continue
+
         company = item["company"]
         if company not in by_company:
             by_company[company] = []
         by_company[company].append(item)
+        valid_count += 1
 
     # Build markdown content
     content = f"""---
@@ -293,7 +302,7 @@ type: company-news
 
 # 人形机器人公司动态 - {date_str}
 
-本期收录 {len(by_company)} 家公司的 {len(news_items)} 条动态。
+本期收录 {len(by_company)} 家公司的 {valid_count} 条动态。
 
 """
 
@@ -302,14 +311,6 @@ type: company-news
 
 """
         for item in items:
-            # 只显示有完整信息的新闻
-            if not item['link'] or item['link'] == '' or not item['title'] or item['title'].strip() == '':
-                continue
-
-            # 如果摘要提示信息不完整，跳过
-            if '无法从给定信息' in item.get('ai_summary', '') or '建议提供完整' in item.get('ai_summary', ''):
-                continue
-
             content += f"""### {item['title']}
 
 **发布日期**: {item['published']}
