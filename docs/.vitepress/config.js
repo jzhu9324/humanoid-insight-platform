@@ -2,6 +2,8 @@ export default {
   title: '人形机器人洞察平台',
   description: '追踪人形机器人领域的最新论文、公司动态和行业观点',
 
+  base: '/humanoid-insight-platform/',
+
   lang: 'zh-CN',
 
   ignoreDeadLinks: true,
