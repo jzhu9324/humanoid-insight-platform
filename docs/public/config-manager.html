@@ -1,0 +1,785 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>配置管理 - 人形机器人洞察平台</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            min-height: 100vh;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 16px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+            overflow: hidden;
+        }
+
+        .header {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 30px;
+            text-align: center;
+        }
+
+        .header h1 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+
+        .header p {
+            opacity: 0.9;
+            font-size: 14px;
+        }
+
+        .tabs {
+            display: flex;
+            background: #f8f9fa;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .tab {
+            flex: 1;
+            padding: 20px;
+            text-align: center;
+            cursor: pointer;
+            font-weight: 500;
+            color: #6c757d;
+            transition: all 0.3s;
+            border-bottom: 3px solid transparent;
+        }
+
+        .tab:hover {
+            background: #e9ecef;
+        }
+
+        .tab.active {
+            color: #667eea;
+            background: white;
+            border-bottom-color: #667eea;
+        }
+
+        .content {
+            padding: 30px;
+        }
+
+        .tab-content {
+            display: none;
+        }
+
+        .tab-content.active {
+            display: block;
+            animation: fadeIn 0.3s;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(10px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .section-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 20px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid #e9ecef;
+        }
+
+        .section-header h2 {
+            color: #333;
+            font-size: 20px;
+        }
+
+        .btn {
+            padding: 10px 20px;
+            border: none;
+            border-radius: 8px;
+            cursor: pointer;
+            font-size: 14px;
+            font-weight: 500;
+            transition: all 0.3s;
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.4);
+        }
+
+        .btn-success {
+            background: #28a745;
+            color: white;
+        }
+
+        .btn-success:hover {
+            background: #218838;
+        }
+
+        .btn-danger {
+            background: #dc3545;
+            color: white;
+            padding: 6px 12px;
+            font-size: 12px;
+        }
+
+        .btn-danger:hover {
+            background: #c82333;
+        }
+
+        .btn-secondary {
+            background: #6c757d;
+            color: white;
+        }
+
+        .btn-secondary:hover {
+            background: #5a6268;
+        }
+
+        .card {
+            background: #f8f9fa;
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 15px;
+            border: 2px solid #e9ecef;
+            transition: all 0.3s;
+        }
+
+        .card:hover {
+            border-color: #667eea;
+            box-shadow: 0 5px 15px rgba(102, 126, 234, 0.1);
+        }
+
+        .card-header {
+            display: flex;
+            justify-content: space-between;
+            align-items: flex-start;
+            margin-bottom: 15px;
+        }
+
+        .card-title {
+            font-size: 18px;
+            font-weight: 600;
+            color: #333;
+            margin-bottom: 5px;
+        }
+
+        .card-subtitle {
+            font-size: 14px;
+            color: #6c757d;
+        }
+
+        .card-body {
+            color: #495057;
+            font-size: 14px;
+            line-height: 1.6;
+        }
+
+        .card-body p {
+            margin: 8px 0;
+        }
+
+        .card-body strong {
+            color: #333;
+            font-weight: 600;
+        }
+
+        .tag {
+            display: inline-block;
+            background: #e7f3ff;
+            color: #0066cc;
+            padding: 4px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            margin: 4px 4px 4px 0;
+        }
+
+        .modal {
+            display: none;
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            bottom: 0;
+            background: rgba(0,0,0,0.5);
+            z-index: 1000;
+            align-items: center;
+            justify-content: center;
+        }
+
+        .modal.active {
+            display: flex;
+            animation: fadeIn 0.3s;
+        }
+
+        .modal-content {
+            background: white;
+            border-radius: 16px;
+            padding: 30px;
+            max-width: 600px;
+            width: 90%;
+            max-height: 90vh;
+            overflow-y: auto;
+            animation: slideUp 0.3s;
+        }
+
+        @keyframes slideUp {
+            from { transform: translateY(50px); opacity: 0; }
+            to { transform: translateY(0); opacity: 1; }
+        }
+
+        .modal-header {
+            margin-bottom: 25px;
+        }
+
+        .modal-header h3 {
+            color: #333;
+            font-size: 22px;
+        }
+
+        .form-group {
+            margin-bottom: 20px;
+        }
+
+        .form-group label {
+            display: block;
+            margin-bottom: 8px;
+            color: #333;
+            font-weight: 500;
+            font-size: 14px;
+        }
+
+        .form-group input,
+        .form-group textarea {
+            width: 100%;
+            padding: 12px;
+            border: 2px solid #e9ecef;
+            border-radius: 8px;
+            font-size: 14px;
+            transition: all 0.3s;
+        }
+
+        .form-group input:focus,
+        .form-group textarea:focus {
+            outline: none;
+            border-color: #667eea;
+            box-shadow: 0 0 0 3px rgba(102, 126, 234, 0.1);
+        }
+
+        .form-group small {
+            display: block;
+            margin-top: 5px;
+            color: #6c757d;
+            font-size: 12px;
+        }
+
+        .form-actions {
+            display: flex;
+            gap: 10px;
+            justify-content: flex-end;
+            margin-top: 25px;
+            padding-top: 20px;
+            border-top: 2px solid #e9ecef;
+        }
+
+        .empty-state {
+            text-align: center;
+            padding: 60px 20px;
+            color: #6c757d;
+        }
+
+        .stats {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+            gap: 20px;
+            margin-bottom: 30px;
+        }
+
+        .stat-card {
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            padding: 25px;
+            border-radius: 12px;
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 36px;
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            opacity: 0.9;
+        }
+
+        .keyword-item {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            background: #f8f9fa;
+            padding: 8px 15px;
+            border-radius: 20px;
+            margin: 5px;
+            border: 2px solid #e9ecef;
+        }
+
+        .keyword-item:hover {
+            border-color: #667eea;
+        }
+
+        .save-notice {
+            background: #fff3cd;
+            border: 2px solid #ffc107;
+            padding: 15px;
+            border-radius: 8px;
+            margin-top: 20px;
+            display: none;
+        }
+
+        .save-notice.show {
+            display: block;
+            animation: fadeIn 0.3s;
+        }
+
+        .save-notice strong {
+            color: #856404;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header">
+            <h1>🤖 配置管理中心</h1>
+            <p>人形机器人洞察平台 - 数据源配置</p>
+        </div>
+
+        <div class="tabs">
+            <div class="tab active" onclick="switchTab('companies')">
+                📊 监控公司
+            </div>
+            <div class="tab" onclick="switchTab('keywords')">
+                📚 论文关键词
+            </div>
+            <div class="tab" onclick="switchTab('wechat')">
+                📱 微信公众号
+            </div>
+        </div>
+
+        <div class="content">
+            <!-- 统计卡片 -->
+            <div class="stats">
+                <div class="stat-card">
+                    <div class="stat-number" id="companyCount">0</div>
+                    <div class="stat-label">监控公司</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="keywordCount">0</div>
+                    <div class="stat-label">论文关键词</div>
+                </div>
+                <div class="stat-card">
+                    <div class="stat-number" id="wechatCount">0</div>
+                    <div class="stat-label">微信公众号</div>
+                </div>
+            </div>
+
+            <!-- 公司标签页 -->
+            <div id="companies-tab" class="tab-content active">
+                <div class="section-header">
+                    <h2>监控公司列表</h2>
+                    <button class="btn btn-primary" onclick="showAddCompanyModal()">
+                        ➕ 添加公司
+                    </button>
+                </div>
+                <div id="companiesList"></div>
+            </div>
+
+            <!-- 关键词标签页 -->
+            <div id="keywords-tab" class="tab-content">
+                <div class="section-header">
+                    <h2>论文关键词</h2>
+                    <button class="btn btn-primary" onclick="showAddKeywordModal()">
+                        ➕ 添加关键词
+                    </button>
+                </div>
+                <div id="keywordsList"></div>
+            </div>
+
+            <!-- 微信公众号标签页 -->
+            <div id="wechat-tab" class="tab-content">
+                <div class="section-header">
+                    <h2>微信公众号列表</h2>
+                    <button class="btn btn-primary" onclick="showAddWechatModal()">
+                        ➕ 添加公众号
+                    </button>
+                </div>
+                <div id="wechatList"></div>
+            </div>
+
+            <!-- 保存提示 -->
+            <div class="save-notice" id="saveNotice">
+                <strong>💾 保存配置</strong><br>
+                修改后请点击下方按钮保存配置文件
+            </div>
+
+            <div style="text-align: center; margin-top: 30px;">
+                <button class="btn btn-success" onclick="saveConfig()" style="font-size: 16px; padding: 15px 40px;">
+                    💾 保存配置到文件
+                </button>
+            </div>
+        </div>
+    </div>
+
+    <!-- 添加公司模态框 -->
+    <div id="addCompanyModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>➕ 添加新公司</h3>
+            </div>
+            <form id="addCompanyForm">
+                <div class="form-group">
+                    <label>公司名称（英文）*</label>
+                    <input type="text" id="companyName" required placeholder="例如: Tesla">
+                </div>
+                <div class="form-group">
+                    <label>公司名称（中文）*</label>
+                    <input type="text" id="companyNameCn" required placeholder="例如: 特斯拉">
+                </div>
+                <div class="form-group">
+                    <label>官网地址*</label>
+                    <input type="url" id="companyWebsite" required placeholder="https://www.example.com">
+                </div>
+                <div class="form-group">
+                    <label>RSS订阅源</label>
+                    <input type="text" id="companyRss" placeholder="https://www.example.com/rss">
+                    <small>可选，多个用逗号分隔</small>
+                </div>
+                <div class="form-group">
+                    <label>关键词*</label>
+                    <input type="text" id="companyKeywords" required placeholder="robot, humanoid, ai">
+                    <small>多个关键词用逗号分隔</small>
+                </div>
+                <div class="form-actions">
+                    <button type="button" class="btn btn-secondary" onclick="closeModal('addCompanyModal')">取消</button>
+                    <button type="submit" class="btn btn-primary">添加</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- 添加关键词模态框 -->
+    <div id="addKeywordModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>➕ 添加论文关键词</h3>
+            </div>
+            <form id="addKeywordForm">
+                <div class="form-group">
+                    <label>关键词*</label>
+                    <input type="text" id="keywordInput" required placeholder="例如: embodied AI">
+                    <small>用于搜索 arXiv 论文</small>
+                </div>
+                <div class="form-actions">
+                    <button type="button" class="btn btn-secondary" onclick="closeModal('addKeywordModal')">取消</button>
+                    <button type="submit" class="btn btn-primary">添加</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <!-- 添加微信公众号模态框 -->
+    <div id="addWechatModal" class="modal">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h3>➕ 添加微信公众号</h3>
+            </div>
+            <form id="addWechatForm">
+                <div class="form-group">
+                    <label>公众号名称*</label>
+                    <input type="text" id="wechatName" required placeholder="例如: 机器人大讲堂">
+                </div>
+                <div class="form-group">
+                    <label>关键词*</label>
+                    <input type="text" id="wechatKeywords" required placeholder="人形机器人, 机器人技术">
+                    <small>多个关键词用逗号分隔</small>
+                </div>
+                <div class="form-actions">
+                    <button type="button" class="btn btn-secondary" onclick="closeModal('addWechatModal')">取消</button>
+                    <button type="submit" class="btn btn-primary">添加</button>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script>
+        let config = {
+            companies: [],
+            paper_keywords: [],
+            wechat_accounts: []
+        };
+
+        // 加载配置
+        async function loadConfig() {
+            try {
+                const response = await fetch('/sources.json');
+                config = await response.json();
+                renderAll();
+            } catch (error) {
+                console.error('加载配置失败:', error);
+                alert('加载配置失败: ' + error.message);
+            }
+        }
+
+        // 渲染所有内容
+        function renderAll() {
+            renderCompanies();
+            renderKeywords();
+            renderWechat();
+            updateStats();
+        }
+
+        // 更新统计
+        function updateStats() {
+            document.getElementById('companyCount').textContent = config.companies.length;
+            document.getElementById('keywordCount').textContent = config.paper_keywords.length;
+            document.getElementById('wechatCount').textContent = config.wechat_accounts.length;
+        }
+
+        // 渲染公司列表
+        function renderCompanies() {
+            const container = document.getElementById('companiesList');
+            if (config.companies.length === 0) {
+                container.innerHTML = '<div class="empty-state">暂无公司，点击上方按钮添加</div>';
+                return;
+            }
+
+            container.innerHTML = config.companies.map((company, index) => `
+                <div class="card">
+                    <div class="card-header">
+                        <div>
+                            <div class="card-title">${company.name}</div>
+                            <div class="card-subtitle">${company.name_cn}</div>
+                        </div>
+                        <button class="btn btn-danger" onclick="removeCompany(${index})">删除</button>
+                    </div>
+                    <div class="card-body">
+                        <p><strong>官网:</strong> <a href="${company.website}" target="_blank">${company.website}</a></p>
+                        ${company.rss_feeds && company.rss_feeds.length > 0 ?
+                            `<p><strong>RSS:</strong> ${company.rss_feeds.join(', ')}</p>` : ''}
+                        <p><strong>关键词:</strong></p>
+                        <div>
+                            ${company.keywords.map(k => `<span class="tag">${k}</span>`).join('')}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 渲染关键词列表
+        function renderKeywords() {
+            const container = document.getElementById('keywordsList');
+            if (config.paper_keywords.length === 0) {
+                container.innerHTML = '<div class="empty-state">暂无关键词，点击上方按钮添加</div>';
+                return;
+            }
+
+            container.innerHTML = config.paper_keywords.map((keyword, index) => `
+                <div class="keyword-item">
+                    <span>${keyword}</span>
+                    <button class="btn btn-danger" onclick="removeKeyword(${index})" style="padding: 4px 8px;">×</button>
+                </div>
+            `).join('');
+        }
+
+        // 渲染微信公众号列表
+        function renderWechat() {
+            const container = document.getElementById('wechatList');
+            if (config.wechat_accounts.length === 0) {
+                container.innerHTML = '<div class="empty-state">暂无公众号，点击上方按钮添加</div>';
+                return;
+            }
+
+            container.innerHTML = config.wechat_accounts.map((account, index) => `
+                <div class="card">
+                    <div class="card-header">
+                        <div>
+                            <div class="card-title">${account.name}</div>
+                        </div>
+                        <button class="btn btn-danger" onclick="removeWechat(${index})">删除</button>
+                    </div>
+                    <div class="card-body">
+                        <p><strong>关键词:</strong></p>
+                        <div>
+                            ${account.keywords.map(k => `<span class="tag">${k}</span>`).join('')}
+                        </div>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        // 切换标签页
+        function switchTab(tabName) {
+            // 更新标签样式
+            document.querySelectorAll('.tab').forEach(tab => tab.classList.remove('active'));
+            event.target.classList.add('active');
+
+            // 更新内容
+            document.querySelectorAll('.tab-content').forEach(content => content.classList.remove('active'));
+            document.getElementById(tabName + '-tab').classList.add('active');
+        }
+
+        // 显示模态框
+        function showAddCompanyModal() {
+            document.getElementById('addCompanyModal').classList.add('active');
+        }
+
+        function showAddKeywordModal() {
+            document.getElementById('addKeywordModal').classList.add('active');
+        }
+
+        function showAddWechatModal() {
+            document.getElementById('addWechatModal').classList.add('active');
+        }
+
+        // 关闭模态框
+        function closeModal(modalId) {
+            document.getElementById(modalId).classList.remove('active');
+        }
+
+        // 添加公司
+        document.getElementById('addCompanyForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+
+            const company = {
+                name: document.getElementById('companyName').value.trim(),
+                name_cn: document.getElementById('companyNameCn').value.trim(),
+                website: document.getElementById('companyWebsite').value.trim(),
+                rss_feeds: document.getElementById('companyRss').value.trim()
+                    .split(',').map(s => s.trim()).filter(s => s),
+                keywords: document.getElementById('companyKeywords').value.trim()
+                    .split(',').map(s => s.trim()).filter(s => s)
+            };
+
+            config.companies.push(company);
+            renderCompanies();
+            updateStats();
+            showSaveNotice();
+            closeModal('addCompanyModal');
+            e.target.reset();
+        });
+
+        // 添加关键词
+        document.getElementById('addKeywordForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+
+            const keyword = document.getElementById('keywordInput').value.trim();
+            if (keyword && !config.paper_keywords.includes(keyword)) {
+                config.paper_keywords.push(keyword);
+                renderKeywords();
+                updateStats();
+                showSaveNotice();
+            }
+
+            closeModal('addKeywordModal');
+            e.target.reset();
+        });
+
+        // 添加微信公众号
+        document.getElementById('addWechatForm').addEventListener('submit', (e) => {
+            e.preventDefault();
+
+            const account = {
+                name: document.getElementById('wechatName').value.trim(),
+                keywords: document.getElementById('wechatKeywords').value.trim()
+                    .split(',').map(s => s.trim()).filter(s => s)
+            };
+
+            config.wechat_accounts.push(account);
+            renderWechat();
+            updateStats();
+            showSaveNotice();
+            closeModal('addWechatModal');
+            e.target.reset();
+        });
+
+        // 删除公司
+        function removeCompany(index) {
+            if (confirm('确定要删除这家公司吗？')) {
+                config.companies.splice(index, 1);
+                renderCompanies();
+                updateStats();
+                showSaveNotice();
+            }
+        }
+
+        // 删除关键词
+        function removeKeyword(index) {
+            config.paper_keywords.splice(index, 1);
+            renderKeywords();
+            updateStats();
+            showSaveNotice();
+        }
+
+        // 删除微信公众号
+        function removeWechat(index) {
+            if (confirm('确定要删除这个公众号吗？')) {
+                config.wechat_accounts.splice(index, 1);
+                renderWechat();
+                updateStats();
+                showSaveNotice();
+            }
+        }
+
+        // 显示保存提示
+        function showSaveNotice() {
+            document.getElementById('saveNotice').classList.add('show');
+        }
+
+        // 保存配置
+        function saveConfig() {
+            const dataStr = JSON.stringify(config, null, 2);
+            const blob = new Blob([dataStr], { type: 'application/json' });
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url;
+            a.download = 'sources.json';
+            a.click();
+
+            alert('✅ 配置文件已下载！\n\n请将下载的 sources.json 文件保存到:\nconfig/sources.json\n\n然后数据收集脚本就会使用新配置了！');
+            document.getElementById('saveNotice').classList.remove('show');
+        }
+
+        // 点击模态框外部关闭
+        document.querySelectorAll('.modal').forEach(modal => {
+            modal.addEventListener('click', (e) => {
+                if (e.target === modal) {
+                    modal.classList.remove('active');
+                }
+            });
+        });
+
+        // 页面加载时初始化
+        loadConfig();
+    </script>
+</body>
+</html>
