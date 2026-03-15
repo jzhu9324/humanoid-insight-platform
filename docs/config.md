@@ -47,7 +47,8 @@ const loadConfig = async () => {
     if (!res.ok) throw new Error('Token 无效或无权限')
     const data = await res.json()
     fileSha.value = data.sha
-    config.value = JSON.parse(atob(data.content.replace(/\n/g, '')))
+    const decoded = new TextDecoder().decode(Uint8Array.from(atob(data.content.replace(/\n/g, '')), c => c.charCodeAt(0)))
+    config.value = JSON.parse(decoded)
     saveMessage.value = '✅ 配置加载成功'
     setTimeout(() => saveMessage.value = '', 3000)
   } catch (e) {
@@ -62,7 +63,9 @@ const saveConfig = async () => {
   loading.value = true
   saveMessage.value = '正在保存...'
   try {
-    const content = btoa(unescape(encodeURIComponent(JSON.stringify(config.value, null, 2))))
+    const json = JSON.stringify(config.value, null, 2)
+    const bytes = new TextEncoder().encode(json)
+    const content = btoa(String.fromCharCode(...bytes))
     const res = await fetch(
       `https://api.github.com/repos/${REPO_OWNER}/${REPO_NAME}/contents/${FILE_PATH}`,
       {
