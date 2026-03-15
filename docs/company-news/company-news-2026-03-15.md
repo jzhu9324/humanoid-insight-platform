@@ -15,7 +15,7 @@ type: company-news
 **发布日期**: 2026-03-15
 **链接**: [查看原文](https://agilityrobotics.com/content/agility-robotics-announces-commercial-agreement-with-toyota-motor-manufacturing-canada)
 
-Agility
+Agility Robotics与丰田加拿大制造公司达成商业合作，加速人形机器人在汽车制造领域的商业化应用，标志着工业场景应用拓展的重要突破。
 
 ---
 
@@ -26,7 +26,7 @@ Agility
 **发布日期**: 2026-03-15
 **链接**: [查看原文](https://sanctuary.ai/blog/sanctuary-ai-controlling-advanced-hydraulic-hands)
 
-Sanctuary AI率先将强化学习应用于液压机械手控制，显著提升人形机器人手部灵活性与精细操作能力，推动行业向更高效智能的机器人控制系统发展。
+Sanctuary AI通过强化学习
 
 ---
 
