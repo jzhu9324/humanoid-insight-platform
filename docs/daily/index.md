@@ -9,7 +9,7 @@ title: 每日精选
 ## 📅 按日期浏览
 
 <script setup>
-import { data as dailyData } from './daily.data.js'
+import { data as dailyData } from './daily.data.mjs'
 </script>
 
 <div v-for="item in dailyData" :key="item.date" class="daily-item">
