@@ -1,21 +1,6 @@
 {
   "companies": [
     {
-      "name": "Tesla",
-      "name_cn": "特斯拉",
-      "rss_feeds": [
-        "https://www.tesla.com/blog/rss"
-      ],
-      "website": "https://www.tesla.com/",
-      "keywords": [
-        "optimus",
-        "robot",
-        "humanoid",
-        "ai",
-        "automation"
-      ]
-    },
-    {
       "name": "Boston Dynamics",
       "name_cn": "波士顿动力",
       "rss_feeds": [
