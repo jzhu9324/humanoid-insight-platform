@@ -47,8 +47,10 @@ const loadConfig = async () => {
     if (!res.ok) throw new Error('Token 无效或无权限')
     const data = await res.json()
     fileSha.value = data.sha
-    const decoded = new TextDecoder().decode(Uint8Array.from(atob(data.content.replace(/\n/g, '')), c => c.charCodeAt(0)))
-    config.value = JSON.parse(decoded)
+    const raw = atob(data.content.replace(/\s/g, ''))
+    const bytes = new Uint8Array(raw.length)
+    for (let i = 0; i < raw.length; i++) bytes[i] = raw.charCodeAt(i)
+    config.value = JSON.parse(new TextDecoder().decode(bytes))
     saveMessage.value = '✅ 配置加载成功'
     setTimeout(() => saveMessage.value = '', 3000)
   } catch (e) {
