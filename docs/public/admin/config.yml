@@ -2,6 +2,9 @@ backend:
   name: git-gateway
   branch: main
 
+# Local backend for development
+local_backend: true
+
 # Publish mode
 publish_mode: editorial_workflow
 
@@ -70,3 +73,31 @@ collections:
           - {label: "布局", name: "layout", widget: "hidden", default: "home"}
           - {label: "标题", name: "title", widget: "string"}
           - {label: "内容", name: "body", widget: "markdown"}
+
+  # Configuration collection
+  - name: "config"
+    label: "数据源配置"
+    files:
+      - label: "数据源配置"
+        name: "sources"
+        file: "config/sources.json"
+        extension: "json"
+        fields:
+          - label: "监控公司"
+            name: "companies"
+            widget: "list"
+            fields:
+              - {label: "公司名称（英文）", name: "name", widget: "string"}
+              - {label: "公司名称（中文）", name: "name_cn", widget: "string"}
+              - {label: "官网地址", name: "website", widget: "string"}
+              - {label: "RSS订阅源", name: "rss_feeds", widget: "list", required: false, default: []}
+              - {label: "关键词", name: "keywords", widget: "list"}
+          - label: "论文关键词"
+            name: "paper_keywords"
+            widget: "list"
+          - label: "微信公众号"
+            name: "wechat_accounts"
+            widget: "list"
+            fields:
+              - {label: "公众号名称", name: "name", widget: "string"}
+              - {label: "关键词", name: "keywords", widget: "list"}

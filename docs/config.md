@@ -28,14 +28,20 @@ const newWechatAccount = ref({
 const showAddCompany = ref(false)
 const showAddKeyword = ref(false)
 const showAddWechat = ref(false)
+const saving = ref(false)
+const saveMessage = ref('')
+
+// API 基础地址
+const API_BASE = 'http://localhost:3001'
 
 // 加载配置
 onMounted(async () => {
   try {
-    const response = await fetch('/config/sources.json')
+    const response = await fetch(`${API_BASE}/api/config`)
     config.value = await response.json()
   } catch (error) {
     console.error('加载配置失败:', error)
+    saveMessage.value = '⚠️ 无法连接到配置服务器，请确保 API 服务器正在运行'
   }
 })
 
@@ -95,9 +101,35 @@ const removeWechatAccount = (index) => {
 }
 
 // 保存配置
-const saveConfig = () => {
-  // 显示保存提示
-  alert('配置已更新！请将以下内容保存到 config/sources.json 文件中：\n\n' + JSON.stringify(config.value, null, 2))
+const saveConfig = async () => {
+  saving.value = true
+  saveMessage.value = '正在保存...'
+
+  try {
+    const response = await fetch(`${API_BASE}/api/config`, {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+      },
+      body: JSON.stringify(config.value)
+    })
+
+    const result = await response.json()
+
+    if (response.ok) {
+      saveMessage.value = '✅ 配置已成功保存到 config/sources.json！'
+      setTimeout(() => {
+        saveMessage.value = ''
+      }, 3000)
+    } else {
+      saveMessage.value = `❌ 保存失败: ${result.error}`
+    }
+  } catch (error) {
+    saveMessage.value = '❌ 保存失败: 无法连接到服务器'
+    console.error('保存配置失败:', error)
+  } finally {
+    saving.value = false
+  }
 }
 
 // 导出配置
@@ -115,6 +147,10 @@ const exportConfig = () => {
 # 配置管理
 
 管理数据收集的来源和关键词配置。
+
+<div v-if="saveMessage" class="save-message" :class="{ 'success': saveMessage.includes('✅'), 'error': saveMessage.includes('❌'), 'warning': saveMessage.includes('⚠️') }">
+  {{ saveMessage }}
+</div>
 
 ## 监控公司
 
@@ -202,10 +238,47 @@ const exportConfig = () => {
 
 <div class="config-section">
   <button @click="exportConfig" class="btn-primary">下载配置文件</button>
-  <p class="help-text">下载后请将文件保存到 config/sources.json</p>
+  <p class="help-text">备份配置文件到本地</p>
 </div>
 
 <style scoped>
+.save-message {
+  padding: 1rem;
+  margin-bottom: 1.5rem;
+  border-radius: 8px;
+  font-weight: 500;
+  animation: slideIn 0.3s ease-out;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.save-message.success {
+  background: #d1fae5;
+  color: #065f46;
+  border: 1px solid #10b981;
+}
+
+.save-message.error {
+  background: #fee2e2;
+  color: #991b1b;
+  border: 1px solid #ef4444;
+}
+
+.save-message.warning {
+  background: #fef3c7;
+  color: #92400e;
+  border: 1px solid #f59e0b;
+}
+
 .config-section {
   margin: 2rem 0;
   padding: 1.5rem;

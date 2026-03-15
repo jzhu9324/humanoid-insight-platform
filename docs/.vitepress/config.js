@@ -7,17 +7,14 @@ export default {
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },
-      { text: '每日精选', link: '/daily/' },
       { text: '学术论文', link: '/papers/' },
       { text: '公司动态', link: '/company-news/' },
       { text: '行业资讯', link: '/wechat/' },
-      { text: '行业报告', link: '/reports/' },
-      { text: '配置管理', link: '/config' },
-      { text: '管理后台', link: '/admin/' }
+      { text: '周度总结', link: '/reports/' },
+      { text: '配置管理', link: '/config' }
     ],
 
     sidebar: {
-      '/daily/': [],
       '/papers/': [],
       '/company-news/': [],
       '/wechat/': [],

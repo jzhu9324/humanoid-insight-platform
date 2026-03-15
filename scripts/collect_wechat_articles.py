@@ -24,7 +24,7 @@ sys.path.append(str(Path(__file__).parent / "utils"))
 from ai_analyzer import create_analyzer
 
 
-# WeChat public accounts to monitor (account names)
+# WeChat public accounts to monitor (account names) - fallback
 WECHAT_ACCOUNTS = [
     "机器人大讲堂",
     "机器人在线",
@@ -37,7 +37,7 @@ WECHAT_ACCOUNTS = [
     "钛媒体"
 ]
 
-# Keywords for filtering humanoid content
+# Keywords for filtering humanoid content - fallback
 HUMANOID_KEYWORDS = [
     "人形机器人", "人型机器人", "仿人机器人",
     "Optimus", "Tesla Bot", "特斯拉机器人",
@@ -45,6 +45,55 @@ HUMANOID_KEYWORDS = [
     "波士顿动力", "Boston Dynamics",
     "具身智能", "embodied AI"
 ]
+
+
+def load_wechat_config(config_path: Path) -> tuple[List[str], List[str]]:
+    """
+    Load WeChat accounts and keywords from JSON config file.
+
+    Args:
+        config_path: Path to sources.json config file
+
+    Returns:
+        Tuple of (account_names, keywords)
+    """
+    try:
+        if not config_path.exists():
+            print(f"⚠ Config file not found: {config_path}")
+            print("  Using hardcoded accounts and keywords as fallback")
+            return WECHAT_ACCOUNTS, HUMANOID_KEYWORDS
+
+        with open(config_path, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+
+        wechat_accounts = config.get('wechat_accounts', [])
+
+        if not wechat_accounts:
+            print("⚠ No WeChat accounts found in config file")
+            print("  Using hardcoded accounts and keywords as fallback")
+            return WECHAT_ACCOUNTS, HUMANOID_KEYWORDS
+
+        # Extract account names and combine all keywords
+        account_names = []
+        all_keywords = set()
+
+        for account in wechat_accounts:
+            name = account.get('name')
+            if name:
+                account_names.append(name)
+
+            keywords = account.get('keywords', [])
+            all_keywords.update(keywords)
+
+        keywords_list = list(all_keywords)
+
+        print(f"✓ Loaded {len(account_names)} WeChat accounts and {len(keywords_list)} keywords from config file")
+        return account_names, keywords_list
+
+    except Exception as e:
+        print(f"⚠ Error loading config: {e}")
+        print("  Using hardcoded accounts and keywords as fallback")
+        return WECHAT_ACCOUNTS, HUMANOID_KEYWORDS
 
 
 def parse_wechat_article_url(url: str) -> Optional[Dict]:
@@ -195,13 +244,14 @@ def load_wechat_urls_from_file(file_path: Path) -> List[str]:
         return []
 
 
-def collect_wechat_articles(url_file: Path, analyzer) -> List[Dict]:
+def collect_wechat_articles(url_file: Path, analyzer, keywords: List[str]) -> List[Dict]:
     """
     Collect and analyze WeChat articles.
 
     Args:
         url_file: Path to file with WeChat article URLs
         analyzer: AI analyzer instance
+        keywords: List of keywords for relevance filtering
 
     Returns:
         List of analyzed articles
@@ -229,7 +279,7 @@ def collect_wechat_articles(url_file: Path, analyzer) -> List[Dict]:
             continue
 
         # Check relevance
-        if not check_article_relevance(article, HUMANOID_KEYWORDS):
+        if not check_article_relevance(article, keywords):
             print(f"    Skipped: Not relevant to humanoid robotics")
             continue
 
@@ -365,6 +415,11 @@ def main():
     docs_dir = project_root / "docs" / "wechat"
     cache_dir = project_root / "cache" / "wechat"
     url_file = project_root / "config" / "wechat_urls.txt"
+    config_file = project_root / "config" / "sources.json"
+
+    # Load WeChat configuration
+    print("\nLoading WeChat configuration...")
+    account_names, keywords = load_wechat_config(config_file)
 
     # Create example URL file if needed
     create_example_url_file(url_file)
@@ -383,7 +438,7 @@ def main():
     print("Collecting WeChat Articles")
     print("=" * 60)
 
-    articles = collect_wechat_articles(url_file, analyzer)
+    articles = collect_wechat_articles(url_file, analyzer, keywords)
 
     # Save results
     if articles:
@@ -397,6 +452,17 @@ def main():
         print("\n" + "=" * 60)
         print(f"✓ Collection complete! Processed {len(articles)} articles.")
         print("=" * 60)
+
+        # 更新首页最新内容
+        print("\nUpdating homepage latest updates...")
+        try:
+            import subprocess
+            subprocess.run([
+                'python3',
+                str(project_root / 'scripts' / 'generate_latest_updates.py')
+            ], check=True)
+        except Exception as e:
+            print(f"⚠ Failed to update homepage: {e}")
     else:
         print("\n" + "=" * 60)
         print("No articles collected.")

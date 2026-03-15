@@ -22,7 +22,7 @@ sys.path.append(str(Path(__file__).parent / "utils"))
 from ai_analyzer import create_analyzer
 
 
-# Keywords for humanoid robotics research
+# Keywords for humanoid robotics research (fallback)
 HUMANOID_KEYWORDS = [
     "humanoid robot",
     "bipedal robot",
@@ -39,6 +39,41 @@ HUMANOID_KEYWORDS = [
 # Relevance threshold (0.0 to 1.0)
 # Set to 0.0 to analyze all papers since arXiv search already filters by relevant keywords
 RELEVANCE_THRESHOLD = 0.0
+
+
+def load_keywords_from_config(config_path: Path) -> List[str]:
+    """
+    Load paper keywords from JSON config file.
+
+    Args:
+        config_path: Path to sources.json config file
+
+    Returns:
+        List of keywords for paper search
+    """
+    try:
+        if not config_path.exists():
+            print(f"⚠ Config file not found: {config_path}")
+            print("  Using hardcoded keywords as fallback")
+            return HUMANOID_KEYWORDS
+
+        with open(config_path, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+
+        keywords = config.get('paper_keywords', [])
+
+        if not keywords:
+            print("⚠ No keywords found in config file")
+            print("  Using hardcoded keywords as fallback")
+            return HUMANOID_KEYWORDS
+
+        print(f"✓ Loaded {len(keywords)} keywords from config file")
+        return keywords
+
+    except Exception as e:
+        print(f"⚠ Error loading config: {e}")
+        print("  Using hardcoded keywords as fallback")
+        return HUMANOID_KEYWORDS
 
 
 def search_arxiv_papers(query: str, max_results: int = 50, days_back: int = 7) -> List[arxiv.Result]:
@@ -74,13 +109,14 @@ def search_arxiv_papers(query: str, max_results: int = 50, days_back: int = 7) -
     return results
 
 
-def filter_and_analyze_papers(papers: List[arxiv.Result], analyzer) -> List[Dict]:
+def filter_and_analyze_papers(papers: List[arxiv.Result], analyzer, keywords: List[str]) -> List[Dict]:
     """
     Filter papers by relevance and analyze relevant ones.
 
     Args:
         papers: List of arXiv paper results
         analyzer: AI analyzer instance
+        keywords: List of keywords for relevance scoring
 
     Returns:
         List of analyzed papers with metadata
@@ -94,7 +130,7 @@ def filter_and_analyze_papers(papers: List[arxiv.Result], analyzer) -> List[Dict
         relevance_score = analyzer.score_relevance(
             title=paper.title,
             abstract=paper.summary,
-            keywords=HUMANOID_KEYWORDS
+            keywords=keywords
         )
 
         print(f"  Relevance score: {relevance_score:.2f}")
@@ -229,6 +265,11 @@ def main():
     project_root = Path(__file__).parent.parent
     docs_dir = project_root / "docs" / "papers"
     cache_dir = project_root / "cache" / "papers"
+    config_file = project_root / "config" / "sources.json"
+
+    # Load keywords from config file
+    print("\nLoading paper keywords configuration...")
+    keywords = load_keywords_from_config(config_file)
 
     # Initialize AI analyzer
     print("\nInitializing AI analyzer...")
@@ -241,7 +282,7 @@ def main():
         sys.exit(1)
 
     # Search arXiv (半周更新：3-4天)
-    query = " OR ".join([f'"{kw}"' for kw in HUMANOID_KEYWORDS[:5]])
+    query = " OR ".join([f'"{kw}"' for kw in keywords[:5]])
     papers = search_arxiv_papers(query, max_results=30, days_back=4)
 
     if not papers:
@@ -253,7 +294,7 @@ def main():
     print("Filtering and Analyzing Papers")
     print("=" * 60)
 
-    analyzed_papers = filter_and_analyze_papers(papers, analyzer)
+    analyzed_papers = filter_and_analyze_papers(papers, analyzer, keywords)
 
     # Save results
     print("\n" + "=" * 60)
@@ -266,6 +307,17 @@ def main():
     print("\n" + "=" * 60)
     print(f"✓ Collection complete! Processed {len(analyzed_papers)} relevant papers.")
     print("=" * 60)
+
+    # 更新首页最新内容
+    print("\nUpdating homepage latest updates...")
+    try:
+        import subprocess
+        subprocess.run([
+            'python3',
+            str(project_root / 'scripts' / 'generate_latest_updates.py')
+        ], check=True)
+    except Exception as e:
+        print(f"⚠ Failed to update homepage: {e}")
 
 
 if __name__ == "__main__":

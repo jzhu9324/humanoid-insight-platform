@@ -23,7 +23,7 @@ sys.path.append(str(Path(__file__).parent / "utils"))
 from ai_analyzer import create_analyzer
 
 
-# Major humanoid robotics companies and their news sources
+# Major humanoid robotics companies and their news sources (fallback)
 COMPANIES = {
     "Tesla": {
         "rss_feeds": [
@@ -54,6 +54,50 @@ COMPANIES = {
         "keywords": ["humanoid", "robot", "h1", "g1"]
     }
 }
+
+
+def load_companies_from_config(config_path: Path) -> Dict:
+    """
+    Load companies configuration from JSON file.
+
+    Args:
+        config_path: Path to sources.json config file
+
+    Returns:
+        Dictionary of companies with their configurations
+    """
+    try:
+        if not config_path.exists():
+            print(f"⚠ Config file not found: {config_path}")
+            print("  Using hardcoded companies as fallback")
+            return COMPANIES
+
+        with open(config_path, 'r', encoding='utf-8') as f:
+            config = json.load(f)
+
+        companies = {}
+        for company in config.get('companies', []):
+            name = company.get('name')
+            if not name:
+                continue
+
+            companies[name] = {
+                'keywords': company.get('keywords', []),
+                'website': company.get('website', '')
+            }
+
+            # Add RSS feeds if available
+            rss_feeds = company.get('rss_feeds', [])
+            if rss_feeds:
+                companies[name]['rss_feeds'] = rss_feeds
+
+        print(f"✓ Loaded {len(companies)} companies from config file")
+        return companies
+
+    except Exception as e:
+        print(f"⚠ Error loading config: {e}")
+        print("  Using hardcoded companies as fallback")
+        return COMPANIES
 
 
 def fetch_rss_feed(feed_url: str, days_back: int = 7) -> List[Dict]:
@@ -362,6 +406,11 @@ def main():
     project_root = Path(__file__).parent.parent
     docs_dir = project_root / "docs" / "company-news"
     cache_dir = project_root / "cache" / "company-news"
+    config_file = project_root / "config" / "sources.json"
+
+    # Load companies from config file
+    print("\nLoading companies configuration...")
+    companies = load_companies_from_config(config_file)
 
     # Initialize AI analyzer
     print("\nInitializing AI analyzer...")
@@ -381,7 +430,7 @@ def main():
     print("Collecting Company News")
     print("=" * 60)
 
-    for company_name, config in COMPANIES.items():
+    for company_name, config in companies.items():
         news_items = collect_company_news(company_name, config, days_back)
 
         # Analyze with AI if available
@@ -410,8 +459,19 @@ def main():
     save_news_to_json(all_news, cache_dir)
 
     print("\n" + "=" * 60)
-    print(f"✓ Collection complete! Processed {len(all_news)} news items from {len(COMPANIES)} companies.")
+    print(f"✓ Collection complete! Processed {len(all_news)} news items from {len(companies)} companies.")
     print("=" * 60)
+
+    # 更新首页最新内容
+    print("\nUpdating homepage latest updates...")
+    try:
+        import subprocess
+        subprocess.run([
+            'python3',
+            str(project_root / 'scripts' / 'generate_latest_updates.py')
+        ], check=True)
+    except Exception as e:
+        print(f"⚠ Failed to update homepage: {e}")
 
 
 if __name__ == "__main__":
