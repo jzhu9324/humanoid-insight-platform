@@ -4,6 +4,10 @@ export default {
 
   lang: 'zh-CN',
 
+  markdown: {
+    html: true
+  },
+
   themeConfig: {
     nav: [
       { text: '首页', link: '/' },

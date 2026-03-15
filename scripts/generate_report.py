@@ -145,7 +145,9 @@ def generate_executive_summary(data: Dict, analyzer) -> str:
             messages=[{"role": "user", "content": prompt}]
         )
 
+        import re
         summary = response.choices[0].message.content.strip()
+        summary = re.sub(r'<think>.*?</think>', '', summary, flags=re.DOTALL).strip()
         print("  ✓ Executive summary generated")
         return summary
 
@@ -192,7 +194,9 @@ def generate_trend_analysis(data: Dict, analyzer) -> str:
             messages=[{"role": "user", "content": prompt}]
         )
 
+        import re
         analysis = response.choices[0].message.content.strip()
+        analysis = re.sub(r'<think>.*?</think>', '', analysis, flags=re.DOTALL).strip()
         print("  ✓ Trend analysis generated")
         return analysis
 
