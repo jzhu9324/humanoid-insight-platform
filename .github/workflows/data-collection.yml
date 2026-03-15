@@ -71,7 +71,7 @@ jobs:
           git config --local user.name "github-actions[bot]"
 
           # Add all new content
-          git add docs/ cache/ config/
+          git add docs/ config/
 
           # Check if there are changes to commit
           if git diff --staged --quiet; then
