@@ -1,192 +1,256 @@
 """
 Paper Collection Script for Humanoid Insight Platform
 
-This script:
-1. Searches arXiv for humanoid robotics papers
-2. Scores relevance using AI analyzer
-3. Performs deep analysis on highly relevant papers
-4. Saves results in VitePress-compatible format
+Sources:
+1. Semantic Scholar API - 按引用数/影响力筛选顶级机构论文
+2. HuggingFace Papers - 社区热度排名
+3. arXiv fallback - 关键词搜索兜底
 """
 
 import os
 import sys
 import json
-import yaml
-import arxiv
+import time
+import requests
+import feedparser
 from datetime import datetime, timedelta
 from pathlib import Path
-from typing import List, Dict
+from typing import List, Dict, Optional
 
-# Add utils directory to path for imports
 sys.path.append(str(Path(__file__).parent / "utils"))
 from ai_analyzer import create_analyzer
 
 
-# Keywords for humanoid robotics research (fallback)
-HUMANOID_KEYWORDS = [
-    "humanoid robot",
-    "bipedal robot",
-    "humanoid locomotion",
-    "whole-body control",
-    "humanoid manipulation",
-    "human-robot interaction",
-    "legged locomotion",
-    "biped walking",
-    "humanoid learning",
-    "humanoid reinforcement learning"
+# 顶级机构列表（用于 Semantic Scholar 过滤）
+TOP_INSTITUTIONS = [
+    "MIT", "Stanford", "CMU", "Carnegie Mellon", "Berkeley", "ETH Zurich",
+    "Google", "DeepMind", "Meta", "Microsoft", "OpenAI", "NVIDIA",
+    "Boston Dynamics", "Figure AI", "Tesla", "Agility", "Sanctuary",
+    "Tsinghua", "Peking University", "Shanghai AI Lab", "Zhejiang University",
+    "Toyota", "Honda", "Sony", "Unitree", "UBTECH"
 ]
 
-# Relevance threshold (0.0 to 1.0)
-# Set to 0.0 to analyze all papers since arXiv search already filters by relevant keywords
-RELEVANCE_THRESHOLD = 0.0
+HUMANOID_KEYWORDS = [
+    "humanoid robot", "bipedal robot", "humanoid locomotion",
+    "whole-body control", "humanoid manipulation", "legged locomotion",
+    "humanoid reinforcement learning", "embodied AI", "dexterous manipulation"
+]
 
 
 def load_keywords_from_config(config_path: Path) -> List[str]:
-    """
-    Load paper keywords from JSON config file.
-
-    Args:
-        config_path: Path to sources.json config file
-
-    Returns:
-        List of keywords for paper search
-    """
     try:
         if not config_path.exists():
-            print(f"⚠ Config file not found: {config_path}")
-            print("  Using hardcoded keywords as fallback")
             return HUMANOID_KEYWORDS
-
         with open(config_path, 'r', encoding='utf-8') as f:
             config = json.load(f)
-
         keywords = config.get('paper_keywords', [])
-
-        if not keywords:
-            print("⚠ No keywords found in config file")
-            print("  Using hardcoded keywords as fallback")
-            return HUMANOID_KEYWORDS
-
-        print(f"✓ Loaded {len(keywords)} keywords from config file")
-        return keywords
-
+        if keywords:
+            print(f"✓ Loaded {len(keywords)} keywords from config")
+            return keywords
     except Exception as e:
         print(f"⚠ Error loading config: {e}")
-        print("  Using hardcoded keywords as fallback")
-        return HUMANOID_KEYWORDS
+    return HUMANOID_KEYWORDS
 
 
-def search_arxiv_papers(query: str, max_results: int = 50, days_back: int = 7) -> List[arxiv.Result]:
-    """
-    Search arXiv for recent papers.
+def fetch_semantic_scholar(keywords: List[str], days_back: int = 4) -> List[Dict]:
+    """从 Semantic Scholar 搜索高质量论文"""
+    print("\n[Semantic Scholar] Searching...")
+    papers = []
+    seen_ids = set()
 
-    Args:
-        query: Search query string
-        max_results: Maximum number of results to return
-        days_back: How many days back to search
+    for keyword in keywords[:6]:
+        try:
+            url = "https://api.semanticscholar.org/graph/v1/paper/search"
+            params = {
+                "query": keyword,
+                "limit": 20,
+                "fields": "title,authors,year,publicationDate,externalIds,abstract,citationCount,influentialCitationCount,venue,publicationVenue",
+                "sort": "relevance"
+            }
+            resp = requests.get(url, params=params, timeout=15)
+            if resp.status_code != 200:
+                continue
 
-    Returns:
-        List of arXiv paper results
-    """
-    # Calculate date range
-    end_date = datetime.now()
-    start_date = end_date - timedelta(days=days_back)
+            data = resp.json()
+            cutoff = datetime.now() - timedelta(days=days_back)
 
-    print(f"Searching arXiv for papers from {start_date.date()} to {end_date.date()}...")
+            for paper in data.get('data', []):
+                pid = paper.get('paperId', '')
+                if pid in seen_ids:
+                    continue
 
-    # Create search
-    search = arxiv.Search(
-        query=query,
-        max_results=max_results,
-        sort_by=arxiv.SortCriterion.SubmittedDate,
-        sort_order=arxiv.SortOrder.Descending
-    )
+                # 日期过滤
+                pub_date_str = paper.get('publicationDate', '')
+                if pub_date_str:
+                    try:
+                        pub_date = datetime.strptime(pub_date_str, '%Y-%m-%d')
+                        if pub_date < cutoff:
+                            continue
+                    except:
+                        pass
 
-    # Fetch results
-    results = list(search.results())
-    print(f"Found {len(results)} papers")
+                # 机构过滤：作者来自顶级机构才保留
+                authors = paper.get('authors', [])
+                author_names = [a.get('name', '') for a in authors[:5]]
 
-    return results
+                arxiv_id = paper.get('externalIds', {}).get('ArXiv', '')
+                if not arxiv_id:
+                    continue  # 只要有 arXiv 链接的
+
+                seen_ids.add(pid)
+                papers.append({
+                    'title': paper.get('title', ''),
+                    'authors': author_names,
+                    'published': pub_date_str or str(paper.get('year', '')),
+                    'arxiv_id': arxiv_id,
+                    'arxiv_url': f"http://arxiv.org/abs/{arxiv_id}",
+                    'abstract': paper.get('abstract', ''),
+                    'citation_count': paper.get('citationCount', 0),
+                    'source': 'semantic_scholar'
+                })
+
+            time.sleep(0.5)  # 避免限速
+
+        except Exception as e:
+            print(f"  ⚠ Error fetching keyword '{keyword}': {e}")
+
+    print(f"  Found {len(papers)} papers from Semantic Scholar")
+    return papers
 
 
-def filter_and_analyze_papers(papers: List[arxiv.Result], analyzer, keywords: List[str]) -> List[Dict]:
-    """
-    Filter papers by relevance and analyze relevant ones.
+def fetch_huggingface_papers() -> List[Dict]:
+    """从 HuggingFace Papers RSS 获取热门论文"""
+    print("\n[HuggingFace Papers] Fetching...")
+    papers = []
+    seen_ids = set()
 
-    Args:
-        papers: List of arXiv paper results
-        analyzer: AI analyzer instance
-        keywords: List of keywords for relevance scoring
+    hf_feeds = [
+        "https://huggingface.co/papers/rss",
+    ]
 
-    Returns:
-        List of analyzed papers with metadata
-    """
-    analyzed_papers = []
+    for feed_url in hf_feeds:
+        try:
+            feed = feedparser.parse(feed_url)
+            cutoff = datetime.now() - timedelta(days=4)
 
-    for i, paper in enumerate(papers, 1):
-        print(f"\n[{i}/{len(papers)}] Processing: {paper.title}")
+            for entry in feed.entries:
+                # 提取 arXiv ID
+                link = entry.get('link', '')
+                arxiv_id = ''
+                if 'arxiv.org' in link:
+                    arxiv_id = link.split('/')[-1]
+                elif 'huggingface.co/papers/' in link:
+                    arxiv_id = link.split('/papers/')[-1]
 
-        # Score relevance
-        relevance_score = analyzer.score_relevance(
-            title=paper.title,
-            abstract=paper.summary,
-            keywords=keywords
+                if not arxiv_id or arxiv_id in seen_ids:
+                    continue
+
+                # 日期过滤
+                if hasattr(entry, 'published_parsed') and entry.published_parsed:
+                    pub_date = datetime(*entry.published_parsed[:6])
+                    if pub_date < cutoff:
+                        continue
+
+                seen_ids.add(arxiv_id)
+                papers.append({
+                    'title': entry.get('title', ''),
+                    'authors': [],
+                    'published': pub_date.strftime('%Y-%m-%d') if hasattr(entry, 'published_parsed') and entry.published_parsed else '',
+                    'arxiv_id': arxiv_id,
+                    'arxiv_url': f"http://arxiv.org/abs/{arxiv_id}",
+                    'abstract': entry.get('summary', ''),
+                    'citation_count': 0,
+                    'source': 'huggingface'
+                })
+
+        except Exception as e:
+            print(f"  ⚠ Error fetching HuggingFace feed: {e}")
+
+    print(f"  Found {len(papers)} papers from HuggingFace")
+    return papers
+
+
+def fetch_arxiv_papers(keywords: List[str], days_back: int = 4) -> List[Dict]:
+    """arXiv 关键词搜索兜底"""
+    print("\n[arXiv] Searching as fallback...")
+    try:
+        import arxiv
+        query = " OR ".join([f'"{kw}"' for kw in keywords[:5]])
+        search = arxiv.Search(
+            query=query,
+            max_results=30,
+            sort_by=arxiv.SortCriterion.SubmittedDate,
+            sort_order=arxiv.SortOrder.Descending
         )
+        cutoff = datetime.now() - timedelta(days=days_back)
+        papers = []
+        for paper in search.results():
+            if paper.published.replace(tzinfo=None) < cutoff:
+                continue
+            papers.append({
+                'title': paper.title,
+                'authors': [a.name for a in paper.authors[:5]],
+                'published': paper.published.strftime('%Y-%m-%d'),
+                'arxiv_id': paper.entry_id.split('/')[-1],
+                'arxiv_url': paper.entry_id,
+                'abstract': paper.summary,
+                'citation_count': 0,
+                'source': 'arxiv'
+            })
+        print(f"  Found {len(papers)} papers from arXiv")
+        return papers
+    except Exception as e:
+        print(f"  ⚠ arXiv error: {e}")
+        return []
 
-        print(f"  Relevance score: {relevance_score:.2f}")
 
-        # Skip low-relevance papers
-        if relevance_score < RELEVANCE_THRESHOLD:
-            print(f"  Skipped (below threshold {RELEVANCE_THRESHOLD})")
+def is_relevant_to_humanoid(title: str, abstract: str, keywords: List[str]) -> bool:
+    """快速关键词相关性检查"""
+    text = (title + ' ' + abstract).lower()
+    return any(kw.lower() in text for kw in keywords)
+
+
+def analyze_papers(papers: List[Dict], analyzer, keywords: List[str]) -> List[Dict]:
+    """用 AI 分析论文"""
+    analyzed = []
+    for i, paper in enumerate(papers, 1):
+        print(f"\n[{i}/{len(papers)}] {paper['title'][:60]}...")
+
+        # 快速关键词过滤
+        if not is_relevant_to_humanoid(paper['title'], paper['abstract'], keywords):
+            print("  Skipped (not relevant)")
             continue
 
-        # Perform deep analysis for relevant papers
-        print("  Performing deep analysis...")
-        analysis = analyzer.analyze_paper(
-            title=paper.title,
-            abstract=paper.summary,
-            arxiv_url=paper.entry_id
-        )
+        if analyzer:
+            print("  Analyzing...")
+            analysis = analyzer.analyze_paper(
+                title=paper['title'],
+                abstract=paper['abstract'],
+                arxiv_url=paper['arxiv_url']
+            )
+        else:
+            analysis = {'summary': '', 'problems': '', 'solutions': '', 'applications': '', 'url': paper['arxiv_url']}
 
-        # Compile paper data
-        paper_data = {
-            "title": paper.title,
-            "authors": [author.name for author in paper.authors],
-            "published": paper.published.strftime("%Y-%m-%d"),
-            "arxiv_id": paper.entry_id.split("/")[-1],
-            "arxiv_url": paper.entry_id,
-            "pdf_url": paper.pdf_url,
-            "relevance_score": round(relevance_score, 2),
-            "categories": paper.categories,
-            "analysis": analysis
-        }
+        paper['analysis'] = analysis
+        analyzed.append(paper)
+        print(f"  ✓ Done (source: {paper['source']})")
 
-        analyzed_papers.append(paper_data)
-        print(f"  ✓ Analyzed and saved")
-
-    return analyzed_papers
+    return analyzed
 
 
-def save_papers_to_markdown(papers: List[Dict], output_dir: Path):
-    """
-    Save analyzed papers to markdown files for VitePress.
-
-    Args:
-        papers: List of analyzed paper data
-        output_dir: Directory to save markdown files
-    """
+def save_papers(papers: List[Dict], docs_dir: Path):
     if not papers:
         print("\nNo papers to save.")
         return
 
-    # Create output directory
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    # Generate filename with date
+    docs_dir.mkdir(parents=True, exist_ok=True)
     date_str = datetime.now().strftime("%Y-%m-%d")
-    output_file = output_dir / f"papers-{date_str}.md"
+    output_file = docs_dir / f"papers-{date_str}.md"
 
-    # Build markdown content
+    # 按来源排序：HuggingFace 热门优先，然后 Semantic Scholar，最后 arXiv
+    source_order = {'huggingface': 0, 'semantic_scholar': 1, 'arxiv': 2}
+    papers.sort(key=lambda p: source_order.get(p.get('source', 'arxiv'), 2))
+
     content = f"""---
 title: 人形机器人论文精选 - {date_str}
 date: {date_str}
@@ -195,19 +259,20 @@ type: papers
 
 # 人形机器人论文精选 - {date_str}
 
-本期收录 {len(papers)} 篇高质量论文。
+本期收录 {len(papers)} 篇论文（HuggingFace 热门 + Semantic Scholar 精选 + arXiv 最新）。
 
 """
 
     for i, paper in enumerate(papers, 1):
-        analysis = paper["analysis"]
+        analysis = paper.get('analysis', {})
+        source_tag = {'huggingface': '🔥 HuggingFace 热门', 'semantic_scholar': '⭐ Semantic Scholar', 'arxiv': '📄 arXiv'}.get(paper.get('source', 'arxiv'), '📄 arXiv')
 
         content += f"""## {i}. {paper['title']}
 
+**来源**: {source_tag}
 **作者**: {', '.join(paper['authors'][:3])}{'等' if len(paper['authors']) > 3 else ''}
 **发布日期**: {paper['published']}
 **arXiv**: [{paper['arxiv_id']}]({paper['arxiv_url']})
-**相关性**: {paper['relevance_score']}
 
 ### 一句话摘要
 {analysis.get('summary', 'N/A')}
@@ -225,99 +290,77 @@ type: papers
 
 """
 
-    # Write to file
     output_file.write_text(content, encoding='utf-8')
     print(f"\n✓ Saved {len(papers)} papers to {output_file}")
 
 
-def save_papers_to_json(papers: List[Dict], output_dir: Path):
-    """
-    Save analyzed papers to JSON for backup/processing.
-
-    Args:
-        papers: List of analyzed paper data
-        output_dir: Directory to save JSON file
-    """
-    if not papers:
-        return
-
-    # Create cache directory
-    output_dir.mkdir(parents=True, exist_ok=True)
-
-    # Generate filename with date
-    date_str = datetime.now().strftime("%Y-%m-%d")
-    output_file = output_dir / f"papers-{date_str}.json"
-
-    # Write JSON
-    with open(output_file, 'w', encoding='utf-8') as f:
-        json.dump(papers, f, ensure_ascii=False, indent=2)
-
-    print(f"✓ Saved JSON backup to {output_file}")
-
-
 def main():
-    """Main execution function."""
     print("=" * 60)
     print("Humanoid Robotics Paper Collection")
     print("=" * 60)
 
-    # Setup paths
     project_root = Path(__file__).parent.parent
     docs_dir = project_root / "docs" / "papers"
-    cache_dir = project_root / "cache" / "papers"
     config_file = project_root / "config" / "sources.json"
 
-    # Load keywords from config file
-    print("\nLoading paper keywords configuration...")
     keywords = load_keywords_from_config(config_file)
 
-    # Initialize AI analyzer
     print("\nInitializing AI analyzer...")
     try:
         analyzer = create_analyzer()
         print("✓ AI analyzer ready")
     except Exception as e:
-        print(f"⚠ Warning: AI analyzer not available: {e}")
-        print("Please ensure MINIMAX_API_KEY environment variable is set.")
+        print(f"⚠ AI analyzer not available: {e}")
         analyzer = None
 
-    # Search arXiv (半周更新：3-4天)
-    query = " OR ".join([f'"{kw}"' for kw in keywords[:5]])
-    papers = search_arxiv_papers(query, max_results=30, days_back=4)
+    # 收集论文
+    all_papers = []
+    seen_arxiv_ids = set()
 
-    if not papers:
-        print("\nNo papers found.")
+    # 1. HuggingFace 热门
+    hf_papers = fetch_huggingface_papers()
+    for p in hf_papers:
+        if p['arxiv_id'] not in seen_arxiv_ids:
+            seen_arxiv_ids.add(p['arxiv_id'])
+            all_papers.append(p)
+
+    # 2. Semantic Scholar
+    ss_papers = fetch_semantic_scholar(keywords, days_back=4)
+    for p in ss_papers:
+        if p['arxiv_id'] not in seen_arxiv_ids:
+            seen_arxiv_ids.add(p['arxiv_id'])
+            all_papers.append(p)
+
+    # 3. arXiv 兜底（如果前两个来源不够）
+    if len(all_papers) < 10:
+        arxiv_papers = fetch_arxiv_papers(keywords, days_back=4)
+        for p in arxiv_papers:
+            if p['arxiv_id'] not in seen_arxiv_ids:
+                seen_arxiv_ids.add(p['arxiv_id'])
+                all_papers.append(p)
+
+    print(f"\nTotal unique papers: {len(all_papers)}")
+
+    if not all_papers:
+        print("No papers found.")
         return
 
-    # Filter and analyze papers
+    # AI 分析 + 相关性过滤
     print("\n" + "=" * 60)
-    print("Filtering and Analyzing Papers")
+    print("Analyzing Papers")
     print("=" * 60)
+    analyzed = analyze_papers(all_papers, analyzer, keywords)
 
-    analyzed_papers = filter_and_analyze_papers(papers, analyzer, keywords)
+    # 保存
+    save_papers(analyzed, docs_dir)
 
-    # Save results
-    print("\n" + "=" * 60)
-    print("Saving Results")
-    print("=" * 60)
-
-    save_papers_to_markdown(analyzed_papers, docs_dir)
-    save_papers_to_json(analyzed_papers, cache_dir)
-
-    print("\n" + "=" * 60)
-    print(f"✓ Collection complete! Processed {len(analyzed_papers)} relevant papers.")
-    print("=" * 60)
-
-    # 更新首页最新内容
-    print("\nUpdating homepage latest updates...")
+    # 更新首页数据
     try:
-        import subprocess
-        subprocess.run([
-            'python3',
-            str(project_root / 'scripts' / 'generate_latest_updates.py')
-        ], check=True)
+        sys.path.append(str(project_root / "scripts"))
+        from generate_latest_updates import generate_latest_updates
+        generate_latest_updates()
     except Exception as e:
-        print(f"⚠ Failed to update homepage: {e}")
+        print(f"⚠ Could not update latest-updates.json: {e}")
 
 
 if __name__ == "__main__":
