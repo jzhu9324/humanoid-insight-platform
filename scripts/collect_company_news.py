@@ -81,15 +81,20 @@ def load_companies_from_config(config_path: Path) -> Dict:
             if not name:
                 continue
 
+            rss_feeds = company.get('rss_feeds', [])
+
+            # 如果没有配置 RSS，自动生成 Google News RSS
+            if not rss_feeds:
+                query = f"{name} humanoid robot"
+                auto_rss = f"https://news.google.com/rss/search?q={query.replace(' ', '+')}&hl=en-US&gl=US&ceid=US:en"
+                rss_feeds = [auto_rss]
+                print(f"  ℹ {name}: 无 RSS 配置，自动使用 Google News 搜索")
+
             companies[name] = {
                 'keywords': company.get('keywords', []),
-                'website': company.get('website', '')
+                'website': company.get('website', ''),
+                'rss_feeds': rss_feeds
             }
-
-            # Add RSS feeds if available
-            rss_feeds = company.get('rss_feeds', [])
-            if rss_feeds:
-                companies[name]['rss_feeds'] = rss_feeds
 
         print(f"✓ Loaded {len(companies)} companies from config file")
         return companies
