@@ -65,6 +65,23 @@ jobs:
           python scripts/generate_report.py --type daily
         continue-on-error: true
 
+      - name: Clean think tags from generated content
+        run: |
+          python3 - <<'EOF'
+          import re
+          from pathlib import Path
+
+          docs_dir = Path("docs")
+          pattern = re.compile(r'<think>.*?</think>', re.DOTALL)
+
+          for md_file in docs_dir.rglob("*.md"):
+              content = md_file.read_text(encoding='utf-8')
+              cleaned = pattern.sub('', content).strip()
+              if cleaned != content.strip():
+                  md_file.write_text(cleaned + '\n', encoding='utf-8')
+                  print(f"Cleaned: {md_file}")
+          EOF
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"

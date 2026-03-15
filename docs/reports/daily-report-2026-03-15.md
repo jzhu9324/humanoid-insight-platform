@@ -20,32 +20,7 @@ type: report
 
 ## 🎯 核心摘要
 
-<think>
-用户要求我作为人形机器人行业的首席分析师，撰写一份200-300字的行业周报摘要。需要包含四个部分：
-1. 本周行业整体态势
-2. 技术研究主要方向和突破
-3. 主要公司动态和产业进展
-4. 值得关注的趋势或信号
 
-数据情况：
-- 论文：30篇（给出了5篇主要论文标题）
-- 公司动态：6条（给出了5条具体信息）
-- 微信文章：0篇
-
-主要论文：
-1. $Ψ_0$: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation - 通用基础模型
-2. SPARK: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization - 动作迁移
-3. Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning - 多智能体强化学习辅助
-4. RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion - 非步态/混合运动
-5. Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation - 全身运动-操作框架
-
-公司动态：
-1. Agility Robotics与Toyota Motor Manufacturing Canada达成商业协议（2月19日）
-2. Agility Robotics与Mercado Libre达成商业协议部署人形机器人
-3. Sanctuary AI在控制先进液压手部方面处于行业领先地位，使用强化学习
-
-现在需要撰写200-300字的摘要。
-</think>
 
 ## 人形机器人行业周报（2026年2月第3周）
 
@@ -61,33 +36,7 @@ type: report
 
 ## 📈 趋势分析
 
-<think>
-让我分析这些数据，识别本周人形机器人行业的主要技术趋势和热点话题。
 
-首先，让我看看论文标题：
-1. $Ψ_0$: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation - 通用人形机器人locomanipulation的开放基础模型
-2. SPARK: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization - 骨骼参数对齐的重新定位技术
-3. Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning - 通过多智能体强化学习学习物理基础的人类辅助
-4. RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion - 用于无步态腿式和混合运动的强化学习增强MPC
-5. Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation - 人形全身运动操作的物理智能体框架
-6. Kinodynamic Motion Retargeting for Humanoid Locomotion via Multi-Contact Whole-Body Trajectory Optimization - 通过多接触全身轨迹优化的人形运动重定位
-7. SCDP: Learning Humanoid Locomotion from Partial Observations via Mixed-Observation Distillation - 通过混合观察蒸馏从部分观察学习人形运动
-
-
-8. MO-Playground: Massively Parallelized Multi-Objective Reinforcement Learning for Robotics - 大规模并行多目标强化学习
-9. Embodied Human Simulation for Interactive Robotics - 交互式机器人具身人类模拟
-10. ZeroWBC: Learning Natural Visuomotor Humanoid Control Directly from Human Egocentric Video - 从人类自我中心视频学习自然视觉运动人形控制
-
-接下来关注公司动态：
-
-Agility Robotics与Toyota和Mercado Libre建立重要商业合作，反映了人形机器人在工业应用领域的快速发展。Sanctuary AI专注于先进液压机械手的强化学习控制，展示了精细运动控制技术的进步。Unitree Robotics继续推
-
-进机器人技术边界。
-
-我确定了几个关键趋势：基础模型、多接触全身运动、零样本学习、强化学习与模型预测控制的融合、商业化应用以及物理智能体框架。这些研究方向凸显了人形机器人技术的快速演进。
-
-重点包括通用基础模型、无WC学习、多接触运动、RL增强的MPC、商业化应用、物理智能体框架和具身模拟等领域。这些技术趋势反映了机器人技术的不断突破和创新。
-</think>
 
 ## 人形机器人行业本周技术趋势分析
 
