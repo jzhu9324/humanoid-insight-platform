@@ -1,111 +1,102 @@
 {
   "companies": [
     {
+<<<<<<< HEAD
+=======
+      "name": "Tesla",
+      "name_cn": "特斯拉",
+      "rss_feeds": [
+        "https://www.tesla.com/blog/rss",
+        "https://news.google.com/rss/search?q=Tesla+Optimus+robot&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "website": "https://www.tesla.com/",
+      "keywords": ["optimus", "robot", "humanoid", "ai", "automation"]
+    },
+    {
+>>>>>>> 32ed454 (feat: 为所有公司添加 Google News RSS 源，覆盖全网新闻)
       "name": "Boston Dynamics",
       "name_cn": "波士顿动力",
       "rss_feeds": [
-        "https://bostondynamics.com/blog/feed/"
+        "https://bostondynamics.com/blog/feed/",
+        "https://news.google.com/rss/search?q=Boston+Dynamics+Atlas+robot&hl=en-US&gl=US&ceid=US:en"
       ],
       "website": "https://bostondynamics.com/",
-      "keywords": [
-        "atlas",
-        "humanoid",
-        "robot",
-        "robotics"
-      ]
+      "keywords": ["atlas", "humanoid", "robot", "robotics"]
     },
     {
       "name": "Figure AI",
       "name_cn": "Figure AI",
-      "rss_feeds": [],
+      "rss_feeds": [
+        "https://news.google.com/rss/search?q=Figure+AI+humanoid+robot&hl=en-US&gl=US&ceid=US:en"
+      ],
       "website": "https://www.figure.ai/",
-      "keywords": [
-        "figure",
-        "humanoid",
-        "robot",
-        "ai"
-      ]
+      "keywords": ["figure", "humanoid", "robot", "ai"]
     },
     {
       "name": "Agility Robotics",
       "name_cn": "敏捷机器人",
-      "rss_feeds": [],
+      "rss_feeds": [
+        "https://news.google.com/rss/search?q=Agility+Robotics+Digit+humanoid&hl=en-US&gl=US&ceid=US:en"
+      ],
       "website": "https://agilityrobotics.com/news",
-      "keywords": [
-        "digit",
-        "humanoid",
-        "robot",
-        "bipedal"
-      ]
+      "keywords": ["digit", "humanoid", "robot", "bipedal"]
     },
     {
       "name": "Sanctuary AI",
       "name_cn": "Sanctuary AI",
-      "rss_feeds": [],
+      "rss_feeds": [
+        "https://news.google.com/rss/search?q=Sanctuary+AI+humanoid+robot&hl=en-US&gl=US&ceid=US:en"
+      ],
       "website": "https://sanctuary.ai/news/",
-      "keywords": [
-        "phoenix",
-        "humanoid",
-        "robot",
-        "ai"
-      ]
+      "keywords": ["phoenix", "humanoid", "robot", "ai"]
     },
     {
       "name": "Unitree Robotics",
       "name_cn": "宇树科技",
-      "rss_feeds": [],
+      "rss_feeds": [
+        "https://news.google.com/rss/search?q=Unitree+Robotics+humanoid&hl=en-US&gl=US&ceid=US:en"
+      ],
       "website": "https://www.unitree.com/",
-      "keywords": [
-        "humanoid",
-        "robot",
-        "h1",
-        "g1"
-      ]
+      "keywords": ["humanoid", "robot", "h1", "g1"]
     },
     {
       "name": "优必选",
       "name_cn": "优必选",
-      "rss_feeds": [],
+      "rss_feeds": [
+        "https://news.google.com/rss/search?q=UBTECH+Walker+humanoid+robot&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=优必选+人形机器人&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+      ],
       "website": "https://www.ubtrobot.com/",
-      "keywords": [
-        "walker",
-        "humanoid",
-        "人形机器人"
-      ]
+      "keywords": ["walker", "humanoid", "人形机器人"]
     },
     {
       "name": "小米机器人",
       "name_cn": "小米机器人",
-      "rss_feeds": [],
+      "rss_feeds": [
+        "https://news.google.com/rss/search?q=Xiaomi+CyberOne+robot&hl=en-US&gl=US&ceid=US:en",
+        "https://news.google.com/rss/search?q=小米+机器人&hl=zh-CN&gl=CN&ceid=CN:zh-Hans"
+      ],
       "website": "https://www.mi.com/",
-      "keywords": [
-        "cyberone",
-        "人形机器人",
-        "机器人"
-      ]
+      "keywords": ["cyberone", "人形机器人", "机器人"]
     },
     {
       "name": "1X Technologies",
       "name_cn": "1X科技",
-      "website": "https://www.1x.tech/",
       "rss_feeds": [
-        "https://www.1x.tech/blog/rss.xml"
+        "https://www.1x.tech/blog/rss.xml",
+        "https://news.google.com/rss/search?q=1X+Technologies+NEO+humanoid&hl=en-US&gl=US&ceid=US:en"
       ],
-      "keywords": [
-        "NEO",
-        "humanoid",
-        "robot",
-        "embodied AI"
-      ]
+      "website": "https://www.1x.tech/",
+      "keywords": ["NEO", "humanoid", "robot", "embodied AI"]
     },
     {
       "name": "Sunday Robotics",
       "name_cn": "",
       "website": "",
-      "rss_feeds": [],
-      "keywords": [
-        "humanoid"
-      ]
+      "rss_feeds": [
+        "https://news.google.com/rss/search?q=Sunday+Robotics+humanoid&hl=en-US&gl=US&ceid=US:en"
+      ],
+      "keywords": ["humanoid"]
     }
   ],
   "paper_keywords": [
