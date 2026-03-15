@@ -277,9 +277,9 @@ def main():
         analyzer = create_analyzer()
         print("✓ AI analyzer ready")
     except Exception as e:
-        print(f"✗ Failed to initialize analyzer: {e}")
-        print("Please ensure ANTHROPIC_API_KEY environment variable is set.")
-        sys.exit(1)
+        print(f"⚠ Warning: AI analyzer not available: {e}")
+        print("Please ensure MINIMAX_API_KEY environment variable is set.")
+        analyzer = None
 
     # Search arXiv (半周更新：3-4天)
     query = " OR ".join([f'"{kw}"' for kw in keywords[:5]])
