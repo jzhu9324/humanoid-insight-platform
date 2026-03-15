@@ -4,6 +4,8 @@ export default {
 
   lang: 'zh-CN',
 
+  ignoreDeadLinks: true,
+
   markdown: {
     html: true
   },
