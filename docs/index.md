@@ -26,22 +26,14 @@ features:
 <script setup>
 import { ref, onMounted } from 'vue'
 
-const latestUpdates = ref({
-  papers: [],
-  companyNews: [],
-  wechat: []
-})
-
+const latestUpdates = ref({ papers: [], companyNews: [], wechat: [] })
 const loading = ref(true)
+const base = '/humanoid-insight-platform'
 
-// 加载最新更新
 onMounted(async () => {
   try {
-    const response = await fetch('/latest-updates.json')
-    if (response.ok) {
-      const data = await response.json()
-      latestUpdates.value = data
-    }
+    const response = await fetch(`${base}/latest-updates.json`)
+    if (response.ok) latestUpdates.value = await response.json()
   } catch (error) {
     console.error('加载最新更新失败:', error)
   } finally {
@@ -50,58 +42,46 @@ onMounted(async () => {
 })
 </script>
 
-## 📰 最近更新
+## 最新动态
 
 <div class="updates-container">
+
   <div class="update-section">
-    <h3>📄 最新论文</h3>
-    <div class="update-list">
-      <div v-if="latestUpdates.papers.length === 0" class="empty-state">
-        暂无内容
-      </div>
+    <div class="section-title">📄 最新论文</div>
+    <div v-if="loading" class="empty-state">加载中...</div>
+    <div v-else-if="latestUpdates.papers.length === 0" class="empty-state">暂无内容</div>
+    <div v-else>
       <div v-for="item in latestUpdates.papers" :key="item.title" class="update-item">
-        <a :href="item.link">{{ item.title }}</a>
-        <span class="update-date">{{ item.date }}</span>
+        <a :href="item.link" target="_blank" class="item-title">{{ item.title }}</a>
+        <p v-if="item.summary" class="item-summary">{{ item.summary }}</p>
+        <span class="item-date">{{ item.date }}</span>
       </div>
     </div>
-    <a href="/papers/" class="view-more">查看更多 →</a>
+    <a :href="`${base}/papers/`" class="view-more">查看全部论文 →</a>
   </div>
 
   <div class="update-section">
-    <h3>🏢 公司动态</h3>
-    <div class="update-list">
-      <div v-if="latestUpdates.companyNews.length === 0" class="empty-state">
-        暂无内容
-      </div>
+    <div class="section-title">🏢 公司动态</div>
+    <div v-if="loading" class="empty-state">加载中...</div>
+    <div v-else-if="latestUpdates.companyNews.length === 0" class="empty-state">暂无内容</div>
+    <div v-else>
       <div v-for="item in latestUpdates.companyNews" :key="item.title" class="update-item">
-        <a :href="item.link">{{ item.title }}</a>
-        <span class="update-date">{{ item.date }}</span>
+        <a :href="item.link" target="_blank" class="item-title">{{ item.title }}</a>
+        <p v-if="item.summary" class="item-summary">{{ item.summary }}</p>
+        <span class="item-date">{{ item.date }}</span>
       </div>
     </div>
-    <a href="/company-news/" class="view-more">查看更多 →</a>
+    <a :href="`${base}/company-news/`" class="view-more">查看全部动态 →</a>
   </div>
 
-  <div class="update-section">
-    <h3>💬 行业资讯</h3>
-    <div class="update-list">
-      <div v-if="latestUpdates.wechat.length === 0" class="empty-state">
-        暂无内容
-      </div>
-      <div v-for="item in latestUpdates.wechat" :key="item.title" class="update-item">
-        <a :href="item.link">{{ item.title }}</a>
-        <span class="update-date">{{ item.date }}</span>
-      </div>
-    </div>
-    <a href="/wechat/" class="view-more">查看更多 →</a>
-  </div>
 </div>
 
 <style scoped>
 .updates-container {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
   gap: 2rem;
-  margin-top: 2rem;
+  margin-top: 1.5rem;
 }
 
 .update-section {
@@ -109,79 +89,71 @@ onMounted(async () => {
   padding: 1.5rem;
   border-radius: 12px;
   border: 1px solid var(--vp-c-divider);
-  transition: all 0.3s;
 }
 
-.update-section:hover {
-  border-color: var(--vp-c-brand);
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
-}
-
-.update-section h3 {
-  margin: 0 0 1rem 0;
-  font-size: 1.2rem;
+.section-title {
+  font-size: 1.1rem;
+  font-weight: 600;
+  margin-bottom: 1.25rem;
   color: var(--vp-c-text-1);
-}
-
-.update-list {
-  display: flex;
-  flex-direction: column;
-  gap: 0.75rem;
-  margin-bottom: 1rem;
-  min-height: 120px;
 }
 
 .update-item {
-  display: flex;
-  flex-direction: column;
-  gap: 0.25rem;
-  padding: 0.5rem;
-  border-radius: 6px;
-  transition: background 0.2s;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid var(--vp-c-divider);
 }
 
-.update-item:hover {
-  background: var(--vp-c-bg);
+.update-item:last-child {
+  border-bottom: none;
 }
 
-.update-item a {
+.item-title {
+  display: block;
+  font-size: 0.95rem;
+  font-weight: 500;
   color: var(--vp-c-text-1);
   text-decoration: none;
-  font-size: 0.95rem;
   line-height: 1.5;
+  margin-bottom: 0.25rem;
+}
+
+.item-title:hover {
+  color: var(--vp-c-brand);
+}
+
+.item-summary {
+  font-size: 0.85rem;
+  color: var(--vp-c-text-2);
+  line-height: 1.5;
+  margin: 0.25rem 0;
   display: -webkit-box;
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
 
-.update-item a:hover {
-  color: var(--vp-c-brand);
-}
-
-.update-date {
-  font-size: 0.85rem;
-  color: var(--vp-c-text-2);
+.item-date {
+  font-size: 0.8rem;
+  color: var(--vp-c-text-3);
 }
 
 .empty-state {
   color: var(--vp-c-text-2);
   font-size: 0.9rem;
+  padding: 1.5rem 0;
   text-align: center;
-  padding: 2rem 0;
 }
 
 .view-more {
   display: inline-block;
+  margin-top: 1rem;
   color: var(--vp-c-brand);
-  text-decoration: none;
   font-size: 0.9rem;
   font-weight: 500;
-  transition: all 0.2s;
+  text-decoration: none;
 }
 
 .view-more:hover {
   text-decoration: underline;
-  transform: translateX(4px);
 }
 </style>

@@ -1,44 +1,50 @@
 {
   "papers": [
     {
-      "title": "人形机器人论文精选 - 2026-03-15",
-      "date": "2026-03-15",
-      "link": "/papers/papers-2026-03-15",
-      "file_date": 1773579829.2186947
+      "title": "$Ψ_0$: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation",
+      "summary": "本文提出Ψ_0人形机器人基础模型，通过分阶段训练策略（先在大规模人类 egocentric 视频上预训练视觉-动作表示，再在真实机器人数据上微调动作专家），在仅800小时人类视频+30小时机器人数据条件下，超越使用10倍以上数据的基线方法40%以上。",
+      "date": "2026-03-12",
+      "link": "http://arxiv.org/abs/2603.12263v1"
     },
     {
-      "title": "人形机器人论文精选 - 2026-03-09",
-      "date": "2026-03-09",
-      "link": "/papers/papers-2026-03-09",
-      "file_date": 1773579829.2186947
+      "title": "SPARK: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization",
+      "summary": "论文提出两阶段管道，先通过URDF骨骼表示和对齐校准将人类运动转换为机器人兼容格式，再通过渐进式运动动力学轨迹优化生成自然、动力学可行的运动参考。",
+      "date": "2026-03-12",
+      "link": "http://arxiv.org/abs/2603.11480v1"
     },
     {
-      "title": "人形机器人论文精选 - 2024-03-07",
-      "date": "2024-03-07",
-      "link": "/papers/papers-2024-03-07",
-      "file_date": 1773579829.2186947
+      "title": "Learning to Assist: Physics-Grounded Human-Human Control via Multi-Agent Reinforcement Learning",
+      "summary": "论文提出AssistMimic方法，将紧密交互的力量交换动作模仿建模为多智能体强化学习问题，联合训练助手和接受者策略，实现物理 grounded 的辅助动作追踪。",
+      "date": "2026-03-11",
+      "link": "http://arxiv.org/abs/2603.11346v1"
+    },
+    {
+      "title": "RL-Augmented MPC for Non-Gaited Legged and Hybrid Locomotion",
+      "summary": "该论文提出一种结合强化学习（RL）与模型预测控制（MPC）的层级架构，通过RL智能体学习非周期步态并将接触时机规划卸载给MPC，实现50-120kg不同体型机器人的零样本sim-to-real迁移。",
+      "date": "2026-03-11",
+      "link": "http://arxiv.org/abs/2603.10878v1"
+    },
+    {
+      "title": "Cybo-Waiter: A Physical Agentic Framework for Humanoid Whole-Body Locomotion-Manipulation",
+      "summary": "论文提出Cybo-Waiter框架，将VLM规划的自然语言指令转换为可验证的JSON任务程序，通过SAM3和RGB-D多目标3D几何监督实现人形机器人全身运动与操作的闭环执行与重规划。",
+      "date": "2026-03-11",
+      "link": "http://arxiv.org/abs/2603.10675v1"
     }
   ],
   "companyNews": [
     {
-      "title": "人形机器人公司动态 - 2026-03-15",
+      "title": "Agility Robotics Announces Commercial Agreement with Toyota Motor Manufacturing CanadaPress ReleaseFebruary 19, 2026",
+      "summary": "Agility Robotics与丰田加拿大制造公司达成商业合作，加速人形机器人在汽车制造领域的商业化应用，标志着工业场景应用拓展的重要突破。",
       "date": "2026-03-15",
-      "link": "/company-news/company-news-2026-03-15",
-      "file_date": 1773579894.4651427
+      "link": "https://agilityrobotics.com/content/agility-robotics-announces-commercial-agreement-with-toyota-motor-manufacturing-canada"
     },
     {
-      "title": "人形机器人公司动态 - 2026-03-10",
-      "date": "2026-03-10",
-      "link": "/company-news/company-news-2026-03-10",
-      "file_date": 1773579829.2183132
-    },
-    {
-      "title": "人形机器人公司动态 - 2024-03-07",
-      "date": "2024-03-07",
-      "link": "/company-news/company-news-2024-03-07",
-      "file_date": 1773579829.2182152
+      "title": "Sanctuary AI Leads the Industry in Controlling Advanced Hydraulic Hands Using Reinforcement Learning",
+      "summary": "Sanctuary AI通过强化学习",
+      "date": "2026-03-15",
+      "link": "https://sanctuary.ai/blog/sanctuary-ai-controlling-advanced-hydraulic-hands"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-15T13:04:54.485627"
+  "updated_at": "2026-03-15T22:54:40.254090"
 }
