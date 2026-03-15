@@ -23,11 +23,11 @@ jobs:
         uses: actions/setup-python@v5
         with:
           python-version: '3.11'
-          cache: 'pip'
 
       - name: Install Python dependencies
         run: |
-          pip install -r requirements.txt
+          pip install --upgrade pip
+          pip install --no-cache-dir -r requirements.txt
 
       - name: Collect arXiv papers (每天00:00运行)
         # 只在每天00:00 UTC 或手动触发时运行
