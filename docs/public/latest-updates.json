@@ -1,44 +1,50 @@
 {
   "papers": [
     {
-      "title": "PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization",
-      "summary": "PhysMoDPO提出一种直接偏好优化框架，将全身控制器集成到扩散模型的训练流程中，确保生成的运动既符合物理约束又忠实于文本指令。",
-      "date": "2026-03-13",
-      "link": "http://arxiv.org/abs/2603.13228v1"
+      "title": "Exploring the dynamic properties and motion reproducibility of a small upper-body humanoid robot with 13-DOF pneumatic actuation for data-driven control",
+      "summary": "该论文开发了一款13自由度气动驱动上半身类人机器人，通过验证系统动态特性和可重复性，采用带显式时间延迟补偿的多层感知器数据驱动控制器，在4-DOF手臂上实现优于传统PID控制的轨迹跟踪性能。",
+      "date": "2026-03-16",
+      "link": "http://arxiv.org/abs/2603.14787v1"
     },
     {
-      "title": "Learning Athletic Humanoid Tennis Skills from Imperfect Human Motion Data",
-      "summary": "提出LATENT系统，利用不完美的人类运动片段数据学习人形机器人网球技能，通过校正与组合策略实现鲁棒的sim-to-real迁移。",
-      "date": "2026-03-13",
-      "link": "http://arxiv.org/abs/2603.12686v1"
+      "title": "CyboRacket: A Perception-to-Action Framework for Humanoid Racket Sports",
+      "summary": "本文提出CyboRacket层级感知-行动框架，整合 onboard 视觉感知、物理轨迹预测与大规模预训练全身控制，实现仅依赖机载传感器的类人网球击打任务。",
+      "date": "2026-03-15",
+      "link": "http://arxiv.org/abs/2603.14605v1"
     },
     {
-      "title": "$Ψ_0$: An Open Foundation Model Towards Universal Humanoid Loco-Manipulation",
-      "summary": "Ψ_0是一个开放的人形机器人基础模型，通过分阶段训练策略（先在人类 egocentric 视频上预训练视觉-动作表示，再在机器人数据上微调），用800小时人类视频+30小时机器人数据的规模，实现了超越使用10倍以上数据的基线方法40%以上成功率的效果。",
-      "date": "2026-03-12",
-      "link": "http://arxiv.org/abs/2603.12263v1"
+      "title": "OmniClone: Engineering a Robust, All-Rounder Whole-Body Humanoid Teleoperation System",
+      "summary": "OmniClone是一个全人形机器人遥操作系统，通过OmniBench诊断基准和优化训练策略，在消费级GPU上实现高保真全身控制，MPJPE降低66%以上。",
+      "date": "2026-03-15",
+      "link": "http://arxiv.org/abs/2603.14327v1"
     },
     {
-      "title": "SPARK: Skeleton-Parameter Aligned Retargeting on Humanoid Robots with Kinodynamic Trajectory Optimization",
-      "summary": "SPARK提出两阶段管道，通过骨骼参数对齐将人体运动转换为机器人兼容的运动表示，并使用渐进式运动动力学轨迹优化生成自然且物理可行的运动参考。",
-      "date": "2026-03-12",
-      "link": "http://arxiv.org/abs/2603.11480v1"
+      "title": "Load-Aware Locomotion Control for Humanoid Robots in Industrial Transportation Tasks",
+      "summary": "该论文提出了一种基于强化学习的负载感知运动控制框架，通过解耦的运动-操作架构和历史状态估计器，实现人形机器人在工业运输任务中携带不同负载时的稳定运动控制，且可无微调地从仿真部署到真实机器人。",
+      "date": "2026-03-15",
+      "link": "http://arxiv.org/abs/2603.14308v1"
+    },
+    {
+      "title": "REFINE-DP: Diffusion Policy Fine-tuning for Humanoid Loco-manipulation via Reinforcement Learning",
+      "summary": "提出REFINE-DP框架，通过PPO扩散策略梯度联合微调高层扩散策略规划器和低层RL控制器，解决人形机器人locomanipulation中规划与控制解耦导致的命令跟踪差和分布偏移问题。",
+      "date": "2026-03-14",
+      "link": "http://arxiv.org/abs/2603.13707v1"
     }
   ],
   "companyNews": [
     {
       "title": "Agility Robotics Announces Commercial Agreement with Toyota Motor Manufacturing CanadaPress ReleaseFebruary 19, 2026",
-      "summary": "Agility Robotics与丰田加拿大制造公司达成商业合作，标志着人形机器人在汽车制造业实现商业化应用，对推动工业自动化具有重要意义。",
-      "date": "2026-03-16",
+      "summary": "Agility Robotics与丰田加拿大制造公司签署商业协议，标志着人形机器人正式进入汽车制造业商业化应用阶段，将加速工业场景中双足机器人的落地部署。",
+      "date": "2026-03-17",
       "link": "https://agilityrobotics.com/content/agility-robotics-announces-commercial-agreement-with-toyota-motor-manufacturing-canada"
     },
     {
       "title": "Sanctuary AI Leads the Industry in Controlling Advanced Hydraulic Hands Using Reinforcement Learning",
-      "summary": "Sanctuary AI突破性采用强化学习控制先进液压机械手，为人形机器人精细操作能力树立新标杆，推动行业技术进步。",
-      "date": "2026-03-16",
+      "summary": "Sanctuary AI突破性地使用强化学习控制先进液压手，为人形机器人精细操作能力树立新标杆，推动行业向更灵活、",
+      "date": "2026-03-17",
       "link": "https://sanctuary.ai/blog/sanctuary-ai-controlling-advanced-hydraulic-hands"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-16T13:25:18.996020"
+  "updated_at": "2026-03-17T02:13:04.624324"
 }
