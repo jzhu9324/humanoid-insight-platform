@@ -34,17 +34,17 @@
   "companyNews": [
     {
       "title": "Agility Robotics Announces Commercial Agreement with Toyota Motor Manufacturing CanadaPress ReleaseFebruary 19, 2026",
-      "summary": "Agility Robotics与丰田加拿大签署商业协议，标志着人形机器人在汽车制造业实现商业化落地，加速工业场景应用拓展。",
+      "summary": "",
       "date": "2026-03-19",
       "link": "https://agilityrobotics.com/content/agility-robotics-announces-commercial-agreement-with-toyota-motor-manufacturing-canada"
     },
     {
       "title": "Sanctuary AI Leads the Industry in Controlling Advanced Hydraulic Hands Using Reinforcement Learning",
-      "summary": "Sanctuary AI突破性地将强化学习应用于控制先进液压机械手，提升人形机器人手部灵活性和精细操作能力，推动行业技术进步。",
+      "summary": "Sanctuary AI采用强化学习技术成功控制先进液压机械手，实现人形机器人灵巧操作突破，推动行业技术进步。",
       "date": "2026-03-19",
       "link": "https://sanctuary.ai/blog/sanctuary-ai-controlling-advanced-hydraulic-hands"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-19T02:28:46.765503"
+  "updated_at": "2026-03-19T13:18:10.124724"
 }
