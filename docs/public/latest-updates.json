@@ -1,50 +1,50 @@
 {
   "papers": [
     {
+      "title": "ADMM-Based Distributed MPC with Control Barrier Functions for Safe Multi-Robot Quadrupedal Locomotion",
+      "summary": "提出基于ADMM的分布式MPC框架，通过节点-边分裂形式将CBF安全约束的集中式优化问题分解为可并行求解的局部二次规划，实现多足机器人完全去中心化的安全轨迹规划。",
+      "date": "2026-03-19",
+      "link": "http://arxiv.org/abs/2603.19170v1"
+    },
+    {
+      "title": "PRIOR: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors",
+      "summary": "### 现状痛点",
+      "date": "2026-03-19",
+      "link": "http://arxiv.org/abs/2603.18979v1"
+    },
+    {
+      "title": "Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture",
+      "summary": "提出RG-VLMD框架，通过门控混合专家模型进行多模态情感估计，结合教学动作策略和推理引导的扩散架构，为人形教育机器人生成语义一致、适应性强的共演讲手势。",
+      "date": "2026-03-19",
+      "link": "http://arxiv.org/abs/2603.18771v1"
+    },
+    {
       "title": "RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids",
-      "summary": "提出物理可行性优化(PP-Opt)模块实现生成与控制的双向耦合，构建自改进循环，在Unitree G1人形机器人上将扩散模型运动生成与物理约束结合，显著提升跟踪精度和成功率。",
+      "summary": "提出RoboForge框架，通过物理可信度优化(PP-Opt)模块实现文本驱动的人形机器人全身运动生成与物理执行的双向耦合，解决传统重定向方法的物理不可行性问题。",
       "date": "2026-03-18",
-      "link": "http://arxiv.org/abs/2603.17927v1"
+      "link": "http://arxiv.org/abs/2603.17927v2"
     },
     {
       "title": "Learning Whole-Body Control for a Salamander Robot",
-      "summary": "本文提出利用强化学习训练蝾螈机器人整体式关节控制策略，实现水陆两栖运动控制，并通过模拟到真实迁移在真实机器人上实现稳定行走。",
+      "summary": "该论文提出使用深度强化学习开发蝾螈机器人的统一关节级全身控制策略，实现从仿真到真实硬件的稳定迁移，并在行走和游泳模式间实现无缝转换。",
       "date": "2026-03-17",
       "link": "http://arxiv.org/abs/2603.16683v1"
-    },
-    {
-      "title": "ADAPT: Adaptive Dual-projection Architecture for Perceptive Traversal",
-      "summary": "论文提出ADAPT自适应双投影架构，将3D环境表示为水平高程图和垂直距离图，并将感知范围作为可学习动作，实现动态调整感知视野，在保证感知质量的同时大幅降低计算开销。",
-      "date": "2026-03-17",
-      "link": "http://arxiv.org/abs/2603.16328v1"
-    },
-    {
-      "title": "ECHO: Edge-Cloud Humanoid Orchestration for Language-to-Motion Control",
-      "summary": "ECHO提出边缘-云协同框架，云端扩散模型根据文本指令生成运动，边缘端强化学习策略执行闭环控制，实现人形机器人全身运动控制。",
-      "date": "2026-03-17",
-      "link": "http://arxiv.org/abs/2603.16188v1"
-    },
-    {
-      "title": "Enforcing Task-Specified Compliance Bounds for Humanoids via Anisotropic Lipschitz-Constrained Policies",
-      "summary": "提出各向异性Lipschitz约束策略(ALCP)，将任务空间刚度上界映射为策略Jacobian的状态依赖Lipschitz约束，实现可解释的方向相关柔顺性控制。",
-      "date": "2026-03-17",
-      "link": "http://arxiv.org/abs/2603.16180v1"
     }
   ],
   "companyNews": [
     {
       "title": "Agility Robotics Announces Commercial Agreement with Toyota Motor Manufacturing CanadaPress ReleaseFebruary 19, 2026",
       "summary": "",
-      "date": "2026-03-19",
+      "date": "2026-03-20",
       "link": "https://agilityrobotics.com/content/agility-robotics-announces-commercial-agreement-with-toyota-motor-manufacturing-canada"
     },
     {
       "title": "Sanctuary AI Leads the Industry in Controlling Advanced Hydraulic Hands Using Reinforcement Learning",
-      "summary": "Sanctuary AI采用强化学习技术成功控制先进液压机械手，实现人形机器人灵巧操作突破，推动行业技术进步。",
-      "date": "2026-03-19",
+      "summary": "Sanctuary AI突破性地将强化学习应用于控制先进液压手，提升人形机器人精细操作能力，推动行业向更灵活、精密的机器人控制技术发展。",
+      "date": "2026-03-20",
       "link": "https://sanctuary.ai/blog/sanctuary-ai-controlling-advanced-hydraulic-hands"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-19T13:18:10.124724"
+  "updated_at": "2026-03-20T02:17:09.657338"
 }
