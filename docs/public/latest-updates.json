@@ -2,31 +2,31 @@
   "papers": [
     {
       "title": "ADMM-Based Distributed MPC with Control Barrier Functions for Safe Multi-Robot Quadrupedal Locomotion",
-      "summary": "提出基于ADMM的分布式MPC框架，通过节点-边分裂形式将CBF安全约束的集中式优化问题分解为可并行求解的局部二次规划，实现多足机器人完全去中心化的安全轨迹规划。",
+      "summary": "论文提出基于ADMM的分布式MPC框架，通过控制屏障函数(CBF)确保多足机器人安全协同，利用节点-边分裂技术实现去中心化优化分解，在保持安全性的同时实现实时计算。",
       "date": "2026-03-19",
       "link": "http://arxiv.org/abs/2603.19170v1"
     },
     {
       "title": "PRIOR: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors",
-      "summary": "### 现状痛点",
+      "summary": "PRIOR提出基于Isaac Lab的人形机器人感知 locomotion框架，通过参数化步态生成器提供运动捕捉参考轨迹、GRU状态估计器从深度图像重建地形高度图、地形自适应足部奖励引导可穿越区域放置，实现无需对抗训练的100%地形穿越成功率。",
       "date": "2026-03-19",
       "link": "http://arxiv.org/abs/2603.18979v1"
     },
     {
       "title": "Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture",
-      "summary": "提出RG-VLMD框架，通过门控混合专家模型进行多模态情感估计，结合教学动作策略和推理引导的扩散架构，为人形教育机器人生成语义一致、适应性强的共演讲手势。",
+      "summary": "本文提出RG-VLMD框架，通过融合多模态情感估计、教学推理和教学动作条件运动合成，为教育场景中的人形机器人生成具有同理心的协同手势。",
       "date": "2026-03-19",
       "link": "http://arxiv.org/abs/2603.18771v1"
     },
     {
       "title": "RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids",
-      "summary": "提出RoboForge框架，通过物理可信度优化(PP-Opt)模块实现文本驱动的人形机器人全身运动生成与物理执行的双向耦合，解决传统重定向方法的物理不可行性问题。",
+      "summary": "提出RoboForge框架，通过物理可行性优化模块(PP-Opt)实现文本驱动的人形机器人全身运动生成与控制的 bidirectional coupling，形成自优化循环",
       "date": "2026-03-18",
       "link": "http://arxiv.org/abs/2603.17927v2"
     },
     {
       "title": "Learning Whole-Body Control for a Salamander Robot",
-      "summary": "该论文提出使用深度强化学习开发蝾螈机器人的统一关节级全身控制策略，实现从仿真到真实硬件的稳定迁移，并在行走和游泳模式间实现无缝转换。",
+      "summary": "本文提出基于强化学习的蝾螈机器人全身控制方法，实现从仿真到真实硬件的迁移，完成稳定行走和水中游动两种运动模式的协调控制。",
       "date": "2026-03-17",
       "link": "http://arxiv.org/abs/2603.16683v1"
     }
@@ -34,17 +34,17 @@
   "companyNews": [
     {
       "title": "Agility Robotics Announces Commercial Agreement with Toyota Motor Manufacturing CanadaPress ReleaseFebruary 19, 2026",
-      "summary": "Agility Robotics与丰田汽车制造加拿大公司达成商业协议，标志着人形机器人头部企业获得汽车制造业认可，加速工业场景应用落地，对行业发展具有里程碑意义。",
-      "date": "2026-03-20",
+      "summary": "Agility Robotics与丰田加拿大达成商业合作，推动人形机器人在汽车制造领域的商业化应用，加速行业产业化进程。",
+      "date": "2026-03-21",
       "link": "https://agilityrobotics.com/content/agility-robotics-announces-commercial-agreement-with-toyota-motor-manufacturing-canada"
     },
     {
       "title": "Sanctuary AI Leads the Industry in Controlling Advanced Hydraulic Hands Using Reinforcement Learning",
-      "summary": "Sanctuary AI通过强化学习实现对先进液压机械手的精准控制，推动人形机器人精细操作能力行业新高度。",
-      "date": "2026-03-20",
+      "summary": "Sanctuary AI通过强化学习技术实现对先进液压手的精确控制，突破人形机器人精细操作难题，推动行业手部控制技术发展。",
+      "date": "2026-03-21",
       "link": "https://sanctuary.ai/blog/sanctuary-ai-controlling-advanced-hydraulic-hands"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-20T13:11:11.842904"
+  "updated_at": "2026-03-21T02:08:15.209101"
 }
