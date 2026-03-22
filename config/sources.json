@@ -135,6 +135,21 @@
       "name": "MIT News AI",
       "rss_feed": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
       "keywords": ["humanoid", "robot", "robotics"]
+    },
+    {
+      "name": "Ars Technica Robotics",
+      "rss_feed": "https://arstechnica.com/tag/robotics/feed/",
+      "keywords": ["humanoid", "robot"]
+    },
+    {
+      "name": "Wired AI",
+      "rss_feed": "https://www.wired.com/feed/tag/ai/latest/rss",
+      "keywords": ["humanoid", "robot", "robotics"]
+    },
+    {
+      "name": "ZDNet Robotics",
+      "rss_feed": "https://www.zdnet.com/topic/robotics/rss.xml",
+      "keywords": ["humanoid", "robot"]
     }
   ],
   "wechat_accounts": [
