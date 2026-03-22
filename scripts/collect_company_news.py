@@ -599,6 +599,21 @@ def main():
     print("Saving Results")
     print("=" * 60)
 
+    if all_news:
+        print(f"\n📊 收集统计:")
+        print(f"   总计: {len(all_news)} 条新闻")
+
+        # 按公司统计
+        by_company_count = {}
+        for item in all_news:
+            company = item.get('company', 'Unknown')
+            by_company_count[company] = by_company_count.get(company, 0) + 1
+
+        for company, count in sorted(by_company_count.items(), key=lambda x: x[1], reverse=True):
+            print(f"   • {company}: {count} 条")
+    else:
+        print("\n⚠ 没有收集到新内容")
+
     save_news_to_markdown(all_news, docs_dir)
     save_news_to_json(all_news, cache_dir)
 
