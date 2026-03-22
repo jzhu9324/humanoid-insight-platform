@@ -118,7 +118,18 @@ def fetch_rss_feed(feed_url: str, days_back: int = 7) -> List[Dict]:
     """
     try:
         print(f"  Fetching RSS feed: {feed_url}")
+
+        # 添加 User-Agent 避免被屏蔽
+        import urllib.request
+        opener = urllib.request.build_opener()
+        opener.addheaders = [('User-Agent', 'Mozilla/5.0 (compatible; HumanoidInsightBot/1.0)')]
+        urllib.request.install_opener(opener)
+
         feed = feedparser.parse(feed_url)
+
+        # 检查解析错误
+        if feed.bozo and hasattr(feed, 'bozo_exception'):
+            print(f"    ⚠ Parse warning: {feed.bozo_exception}")
 
         # Filter by date
         cutoff_date = datetime.now() - timedelta(days=days_back)
@@ -127,9 +138,15 @@ def fetch_rss_feed(feed_url: str, days_back: int = 7) -> List[Dict]:
         for entry in feed.entries:
             # Parse publish date
             if hasattr(entry, 'published_parsed') and entry.published_parsed:
-                pub_date = datetime(*entry.published_parsed[:6])
+                try:
+                    pub_date = datetime(*entry.published_parsed[:6])
+                except (TypeError, ValueError):
+                    pub_date = datetime.now()
             elif hasattr(entry, 'updated_parsed') and entry.updated_parsed:
-                pub_date = datetime(*entry.updated_parsed[:6])
+                try:
+                    pub_date = datetime(*entry.updated_parsed[:6])
+                except (TypeError, ValueError):
+                    pub_date = datetime.now()
             else:
                 pub_date = datetime.now()
 
@@ -142,7 +159,7 @@ def fetch_rss_feed(feed_url: str, days_back: int = 7) -> List[Dict]:
                     "summary": entry.get('summary', entry.get('description', ''))[:500]
                 })
 
-        print(f"    Found {len(entries)} recent entries")
+        print(f"    Found {len(entries)} recent entries (from {len(feed.entries)} total)")
         return entries
 
     except Exception as e:
