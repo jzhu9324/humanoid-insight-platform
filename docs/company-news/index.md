@@ -6,19 +6,19 @@ title: 公司动态
 
 追踪全球领先的人形机器人公司最新动态和产品发布。
 
-## 监控公司
-
-- **Tesla (Optimus)**
-- **Boston Dynamics (Atlas)**
-- **Figure AI**
-- **Agility Robotics (Digit)**
-- **Sanctuary AI (Phoenix)**
-- **Unitree Robotics**
-
 ## 最新动态
 
-- [2026-03-10 公司动态 (6条)](/company-news/company-news-2026-03-10)
+- [2026-03-22 公司动态 (2条)](/company-news/company-news-2026-03-22)
+- [2026-03-21 公司动态 (2条)](/company-news/company-news-2026-03-21)
+- [2026-03-20 公司动态 (2条)](/company-news/company-news-2026-03-20)
+- [2026-03-19 公司动态 (2条)](/company-news/company-news-2026-03-19)
+- [2026-03-18 公司动态 (2条)](/company-news/company-news-2026-03-18)
+- [2026-03-17 公司动态 (2条)](/company-news/company-news-2026-03-17)
+- [2026-03-16 公司动态 (2条)](/company-news/company-news-2026-03-16)
+- [2026-03-15 公司动态 (2条)](/company-news/company-news-2026-03-15)
+- [2026-03-10 公司动态 (2条)](/company-news/company-news-2026-03-10)
+- [2024-03-07 公司动态 (6条)](/company-news/company-news-2024-03-07)
 
 ---
 
-*由 Claude Haiku 提供智能分析和总结*
+*由 AI 提供智能分析和总结*

@@ -65,6 +65,11 @@ jobs:
           python scripts/generate_report.py --type daily
         continue-on-error: true
 
+      - name: Update index pages
+        run: |
+          echo "Updating index pages..."
+          python scripts/generate_indexes.py
+
       - name: Clean think tags from generated content
         run: |
           python3 - <<'EOF'
