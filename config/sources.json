@@ -1,8 +1,6 @@
 {
   "companies": [
     {
-<<<<<<< HEAD
-=======
       "name": "Tesla",
       "name_cn": "特斯拉",
       "rss_feeds": [
@@ -13,7 +11,6 @@
       "keywords": ["optimus", "robot", "humanoid", "ai", "automation"]
     },
     {
->>>>>>> 32ed454 (feat: 为所有公司添加 Google News RSS 源，覆盖全网新闻)
       "name": "Boston Dynamics",
       "name_cn": "波士顿动力",
       "rss_feeds": [

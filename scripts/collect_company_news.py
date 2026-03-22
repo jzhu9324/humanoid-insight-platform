@@ -325,6 +325,13 @@ def save_news_to_markdown(news_items: List[Dict], output_dir: Path):
     date_str = datetime.now().strftime("%Y-%m-%d")
     output_file = output_dir / f"company-news-{date_str}.md"
 
+    # 收集过去 7 天已收录的链接，用于去重
+    seen_links = set()
+    for existing_file in sorted(output_dir.glob('company-news-*.md'), reverse=True)[:7]:
+        content_existing = existing_file.read_text(encoding='utf-8')
+        import re as _re
+        seen_links.update(_re.findall(r'\[查看原文\]\((.+?)\)', content_existing))
+
     # Group by company and filter valid items
     by_company = {}
     valid_count = 0
@@ -334,6 +341,10 @@ def save_news_to_markdown(news_items: List[Dict], output_dir: Path):
             continue
         # 如果摘要提示信息不完整，跳过
         if '无法从给定信息' in item.get('ai_summary', '') or '建议提供完整' in item.get('ai_summary', ''):
+            continue
+        # 去重：跳过已收录的链接
+        if item['link'] in seen_links:
+            print(f"  ⊘ 跳过重复: {item['title'][:50]}")
             continue
 
         company = item["company"]
