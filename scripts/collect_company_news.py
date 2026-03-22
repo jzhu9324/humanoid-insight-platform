@@ -342,14 +342,8 @@ def save_news_to_markdown(news_items: List[Dict], output_dir: Path):
     date_str = datetime.now().strftime("%Y-%m-%d")
     output_file = output_dir / f"company-news-{date_str}.md"
 
-    # 收集过去 7 天已收录的链接，用于去重
-    seen_links = set()
-    for existing_file in sorted(output_dir.glob('company-news-*.md'), reverse=True)[:7]:
-        content_existing = existing_file.read_text(encoding='utf-8')
-        import re as _re
-        seen_links.update(_re.findall(r'\[查看原文\]\((.+?)\)', content_existing))
-
     # Group by company and filter valid items
+    # 注意：去重已经在收集阶段完成，这里只需要过滤无效内容
     by_company = {}
     valid_count = 0
     for item in news_items:
@@ -359,10 +353,6 @@ def save_news_to_markdown(news_items: List[Dict], output_dir: Path):
         # 如果摘要提示信息不完整，跳过
         if '无法从给定信息' in item.get('ai_summary', '') or '建议提供完整' in item.get('ai_summary', ''):
             continue
-        # 去重：跳过已收录的链接
-        if item['link'] in seen_links:
-            print(f"  ⊘ 跳过重复: {item['title'][:50]}")
-            continue
 
         company = item["company"]
         if company not in by_company:
@@ -371,6 +361,11 @@ def save_news_to_markdown(news_items: List[Dict], output_dir: Path):
         valid_count += 1
 
     # Build markdown content
+    # 如果没有有效内容，不生成文件
+    if valid_count == 0:
+        print("\n⚠ No new valid news items to save. Skipping file generation.")
+        return
+
     content = f"""---
 title: 人形机器人公司动态 - {date_str}
 date: {date_str}
@@ -481,6 +476,33 @@ def collect_from_news_sources(news_sources: List[Dict], days_back: int = 7) -> L
     return all_news
 
 
+def get_seen_links(output_dir: Path, days_back: int = 14) -> set:
+    """
+    获取过去 N 天已收录的所有链接
+
+    Args:
+        output_dir: 输出目录
+        days_back: 查看多少天的历史
+
+    Returns:
+        已收录链接的集合
+    """
+    seen_links = set()
+    if not output_dir.exists():
+        return seen_links
+
+    import re
+    for existing_file in sorted(output_dir.glob('company-news-*.md'), reverse=True)[:days_back]:
+        try:
+            content = existing_file.read_text(encoding='utf-8')
+            links = re.findall(r'\[查看原文\]\((.+?)\)', content)
+            seen_links.update(links)
+        except Exception as e:
+            print(f"  ⚠ Error reading {existing_file.name}: {e}")
+
+    return seen_links
+
+
 def main():
     """Main execution function."""
     print("=" * 60)
@@ -511,6 +533,11 @@ def main():
     all_news = []
     days_back = 7  # 改为7天，增加覆盖范围
 
+    # 先获取已收录的链接，用于去重
+    print("\nLoading previously collected links for deduplication...")
+    seen_links = get_seen_links(docs_dir, days_back=14)
+    print(f"✓ Found {len(seen_links)} previously collected links")
+
     print("\n" + "=" * 60)
     print("Collecting Company News")
     print("=" * 60)
@@ -518,14 +545,22 @@ def main():
     for company_name, config in companies.items():
         news_items = collect_company_news(company_name, config, days_back)
 
+        # 先过滤掉已收录的链接
+        filtered_items = []
+        for item in news_items:
+            if item['link'] in seen_links:
+                print(f"  ⊘ 跳过已收录: {item['title'][:50]}")
+            else:
+                filtered_items.append(item)
+
         # Analyze with AI if available
-        if analyzer and news_items:
-            print(f"  Analyzing {len(news_items)} items with AI...")
-            analyzed = analyze_news_with_ai(news_items, company_name, analyzer)
+        if analyzer and filtered_items:
+            print(f"  Analyzing {len(filtered_items)} new items with AI...")
+            analyzed = analyze_news_with_ai(filtered_items, company_name, analyzer)
             all_news.extend(analyzed)
         else:
             # Add without AI analysis
-            for item in news_items:
+            for item in filtered_items:
                 all_news.append({
                     "company": company_name,
                     "title": item["title"],
@@ -543,13 +578,21 @@ def main():
 
         general_news = collect_from_news_sources(news_sources, days_back)
 
+        # 过滤掉已收录的链接
+        filtered_general = []
+        for item in general_news:
+            if item['link'] in seen_links:
+                print(f"  ⊘ 跳过已收录: {item['title'][:50]}")
+            else:
+                filtered_general.append(item)
+
         # 对通用新闻也进行 AI 分析
-        if analyzer and general_news:
-            print(f"\nAnalyzing {len(general_news)} general news items with AI...")
-            analyzed_general = analyze_news_with_ai(general_news, "Industry News", analyzer)
+        if analyzer and filtered_general:
+            print(f"\nAnalyzing {len(filtered_general)} new general news items with AI...")
+            analyzed_general = analyze_news_with_ai(filtered_general, "Industry News", analyzer)
             all_news.extend(analyzed_general)
         else:
-            all_news.extend(general_news)
+            all_news.extend(filtered_general)
 
     # Save results
     print("\n" + "=" * 60)
