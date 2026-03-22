@@ -165,6 +165,16 @@
       "name": "The Robot Report",
       "rss_feed": "https://www.therobotreport.com/feed/",
       "keywords": ["humanoid", "robot"]
+    },
+    {
+      "name": "Reddit r/robotics",
+      "rss_feed": "https://www.reddit.com/r/robotics/.rss",
+      "keywords": ["humanoid", "robot", "bipedal", "legged"]
+    },
+    {
+      "name": "Reddit r/robotics humanoid search",
+      "rss_feed": "https://www.reddit.com/r/robotics/search.rss?q=humanoid&restrict_sr=1&sort=new&t=week",
+      "keywords": ["humanoid"]
     }
   ],
   "wechat_accounts": [
