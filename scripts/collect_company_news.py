@@ -440,7 +440,7 @@ def main():
 
     # Collect news from all companies
     all_news = []
-    days_back = 2  # 每2天更新
+    days_back = 7  # 改为7天，增加覆盖范围
 
     print("\n" + "=" * 60)
     print("Collecting Company News")
