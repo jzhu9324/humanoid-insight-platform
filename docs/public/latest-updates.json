@@ -27,18 +27,36 @@
   ],
   "companyNews": [
     {
-      "title": "Agility Robotics Announces Commercial Agreement with Toyota Motor Manufacturing CanadaPress ReleaseFebruary 19, 2026",
-      "summary": "",
-      "date": "2026-03-22",
-      "link": "https://agilityrobotics.com/content/agility-robotics-announces-commercial-agreement-with-toyota-motor-manufacturing-canada"
+      "title": "Tesla Faces the ‘Couch Problem’: Modern Physics Warns the Optimus Robot Will Fail and Send TSLA Stock Falling - Barchart",
+      "summary": "Tesla Optimus机器人被指存在技术瓶颈，现代物理学视角质疑其可行性，或将导致TSLA股价下跌，对人形机器人行业投资者信心造成",
+      "date": "2026-03-20",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa0lPSHpDb0VyNHllUWVpS2tPcGFHMUp4OERyTEFDWlA1VkwtT3FnamlFdnBFV1lsZEdiYWNVT25yZWt4RzY4dXhaazg2akkyZmlvNGw4TU1jRXJ4bWFNSUFPWF9RTGxEbkE5RGg0STcweGhuZW5XR3F5WlpGdVRpdGktOEFxbG9rbnlUR2xjckZ5aGQ1Zm8ya1JTRkcxb1hubEF5R3AzRDFveHJCZjJuX3JscVlMTHptZmtJdmhsbGNiOXIzdXZMdFBVQVBEUjhVTTJvVFNRekhiMUozRWNudGU5OA?oc=5"
     },
     {
-      "title": "Sanctuary AI Leads the Industry in Controlling Advanced Hydraulic Hands Using Reinforcement Learning",
-      "summary": "Sanctuary AI突破性地将强化学习应用于液压机械手控制，提升人形机器人精细操作能力，为液压驱动在机器人领域的应用开辟新路径。",
+      "title": "Tesla Needs 200 Million Chips for Optimus. How the ‘Terafab’ Solves Its Supply Gap. - Barron's",
+      "summary": "Tesla为Optimus机器人自研Terafab芯片以解决2亿芯片供应缺口，显示核心零部件自研对人形机器人量产的重要性，将推动行业加速突破芯片供应链瓶颈。",
+      "date": "2026-03-20",
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPSXcwY2VZWG9maGhaWnJZcnVWT0Zpd3hlQzd5bFVTOGpTT2V3SUZ5V0g5M0RxLWtPeElqMzRFbHBoMnNMWC1IZ3FWMHJPeXYtdHQycHI2M1VGQk9hU3dQdFVicHZUWUM4S3JfcXVXOEg0aXNZTWVSd1RVSThSa0VHenRwT2dTa204SnNPbXhFck0wUTNycEJyb2pVLTJTYVdNZHlOc3pqMHlUX1dyWW1EalQ3dkdfMDdoVkNxNHNzQ0pNSHZvS0UxR3RObFVHUGk3cWZsemtWRDJRaWQzNVF1VGRJVkZpQVRFQjdXUWVIYW5GWjMzTGk4OHBwMXExZWNuNzV5dFpWQWRORmpRdkJkMzl1MGt0OGlsSTdPT1lsWDRVdFpiOGVMaXBudEM1RjlqT1hPQ1BQVkZuWEE3U0VEel85d2Z6THNTUU1DV2dmZVhOZEpVMTdULXBmbDZlY2k0VE1QdkpLM3g4bmJUMHhObGxLV0NpbGtnTmZNZFZ1RVVLaS16c1pTaXdKVnk?oc=5"
+    },
+    {
+      "title": "Goldman shares latest updates on Tesla’s Optimus project - Investing.com",
+      "summary": "高盛发布Tesla Optimus",
+      "date": "2026-03-21",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzJMWFcxSXRQYUVFX3RnR0pVejN5cF90WkRnQXYyQW94MmVBMVdVdENTODVBUXJxTGxZQ1JJSHVuazloZGxBa3hsdUJHdUhCWHBVa1VaVTdmZkVGTlRCZGVqeTBnWUJxVkRiLW9xNWtHSEFfdEJ4WGo2QW1Lc1VXczF4QjRjQXNZZzlJQmdrOGkybGtLa0Y3clQ5aVk4eVFUTlVYNzdqQ19lVTg?oc=5"
+    },
+    {
+      "title": "Forget Tesla’s Optimus: Renault’s Robot Is Already Doing Backbreaking Work - InsideEVs",
+      "summary": "雷诺人形机器人已在工厂从事重体力劳动，比特斯拉Optimus更早实现商业部署，显示传统车企在工业机器人应用领域取得领先进展。",
+      "date": "2026-03-17",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRm5MVEl0di1KUWlGTW5MWTdoS0tTVWY0VUVVNVJuVXNmdWgwalMxZGNmY3pndGJ4dk00NURGRlZETmlpTnBIWndFdG9URWt2QUt5SEU3dFhFX1Y1ejAyNVNlMHl3bGNmdWgwaW84V3lMakpzcXFjaHpoRjlkUFp2cFpzSEsyc1k?oc=5"
+    },
+    {
+      "title": "Elon Musk to build own AI chips with help of Optimus robots - news.cgtn.com",
+      "summary": "特斯拉计划利用Optimus机器人协助自研AI芯片，展示人形机器人在高科技制造领域的应用潜力，推动行业向智能化生产转型。",
       "date": "2026-03-22",
-      "link": "https://sanctuary.ai/blog/sanctuary-ai-controlling-advanced-hydraulic-hands"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1dBU0NzLUZHVDRUSGw0UXhqSmdzUlVVRW9HLTIydUpjeE1LampreU5zV2tYTnNzOEg0ZnVTWTRqSlE3RlNTU3VLMWFIcEk4cWYybHJoNnRXaTh3alNoMHQwdUtZTzBFT21sTE42bGNuOTR5dkgtMWhwdHlicHYyMU1NS3RsM0JoTDFEU0doNWdjX05OTkY1RnkzMGF4S0lOMzhSNDA5dGdGc3VJYk5sdVJFTHhhYUE?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-22T02:26:06.707524"
+  "updated_at": "2026-03-22T13:33:22.684764"
 }
