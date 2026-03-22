@@ -110,6 +110,33 @@
     "embodied AI",
     "dexterous manipulation"
   ],
+  "news_sources": [
+    {
+      "name": "TechCrunch Robotics",
+      "rss_feed": "https://techcrunch.com/tag/robotics/feed/",
+      "keywords": ["humanoid", "robot", "robotics"]
+    },
+    {
+      "name": "IEEE Spectrum Robotics",
+      "rss_feed": "https://spectrum.ieee.org/feeds/topic/robotics.rss",
+      "keywords": ["humanoid", "robot", "robotics"]
+    },
+    {
+      "name": "The Verge Robotics",
+      "rss_feed": "https://www.theverge.com/rss/robotics/index.xml",
+      "keywords": ["humanoid", "robot"]
+    },
+    {
+      "name": "VentureBeat AI",
+      "rss_feed": "https://venturebeat.com/category/ai/feed/",
+      "keywords": ["humanoid", "robot", "robotics"]
+    },
+    {
+      "name": "MIT News AI",
+      "rss_feed": "https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml",
+      "keywords": ["humanoid", "robot", "robotics"]
+    }
+  ],
   "wechat_accounts": [
     {
       "name": "机器人大讲堂",

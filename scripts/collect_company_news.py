@@ -97,12 +97,12 @@ def load_companies_from_config(config_path: Path) -> Dict:
             }
 
         print(f"✓ Loaded {len(companies)} companies from config file")
-        return companies
+        return companies, config.get('news_sources', [])
 
     except Exception as e:
         print(f"⚠ Error loading config: {e}")
         print("  Using hardcoded companies as fallback")
-        return COMPANIES
+        return COMPANIES, []
 
 
 def fetch_rss_feed(feed_url: str, days_back: int = 7) -> List[Dict]:
@@ -412,6 +412,58 @@ def save_news_to_json(news_items: List[Dict], output_dir: Path):
     print(f"✓ Saved JSON backup to {output_file}")
 
 
+def collect_from_news_sources(news_sources: List[Dict], days_back: int = 7) -> List[Dict]:
+    """
+    从通用新闻源收集人形机器人相关新闻
+
+    Args:
+        news_sources: 新闻源配置列表
+        days_back: 收集多少天内的新闻
+
+    Returns:
+        新闻列表
+    """
+    all_news = []
+
+    for source in news_sources:
+        source_name = source.get('name', 'Unknown')
+        rss_feed = source.get('rss_feed', '')
+        keywords = source.get('keywords', [])
+
+        if not rss_feed:
+            continue
+
+        print(f"\n[{source_name}]")
+        entries = fetch_rss_feed(rss_feed, days_back)
+
+        # 过滤包含关键词的新闻
+        filtered = []
+        for entry in entries:
+            title_lower = entry['title'].lower()
+            summary_lower = entry.get('summary', '').lower()
+
+            # 检查是否包含任何关键词
+            if any(kw.lower() in title_lower or kw.lower() in summary_lower for kw in keywords):
+                filtered.append(entry)
+                print(f"  ✓ {entry['title'][:60]}")
+
+        print(f"  Found {len(filtered)} relevant articles (filtered from {len(entries)})")
+
+        # 添加到结果，标记为 "Industry News"
+        for item in filtered:
+            all_news.append({
+                "company": "Industry News",
+                "title": item["title"],
+                "link": item["link"],
+                "published": item["published"],
+                "original_summary": item.get("summary", ""),
+                "ai_summary": "",
+                "source": source_name
+            })
+
+    return all_news
+
+
 def main():
     """Main execution function."""
     print("=" * 60)
@@ -426,7 +478,7 @@ def main():
 
     # Load companies from config file
     print("\nLoading companies configuration...")
-    companies = load_companies_from_config(config_file)
+    companies, news_sources = load_companies_from_config(config_file)
 
     # Initialize AI analyzer
     print("\nInitializing AI analyzer...")
@@ -465,6 +517,22 @@ def main():
                     "original_summary": item.get("summary", ""),
                     "ai_summary": ""
                 })
+
+    # 收集通用新闻源
+    if news_sources:
+        print("\n" + "=" * 60)
+        print("Collecting from General News Sources")
+        print("=" * 60)
+
+        general_news = collect_from_news_sources(news_sources, days_back)
+
+        # 对通用新闻也进行 AI 分析
+        if analyzer and general_news:
+            print(f"\nAnalyzing {len(general_news)} general news items with AI...")
+            analyzed_general = analyze_news_with_ai(general_news, "Industry News", analyzer)
+            all_news.extend(analyzed_general)
+        else:
+            all_news.extend(general_news)
 
     # Save results
     print("\n" + "=" * 60)
