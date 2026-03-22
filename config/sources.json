@@ -150,6 +150,21 @@
       "name": "ZDNet Robotics",
       "rss_feed": "https://www.zdnet.com/topic/robotics/rss.xml",
       "keywords": ["humanoid", "robot"]
+    },
+    {
+      "name": "ScienceDaily Robotics",
+      "rss_feed": "https://www.sciencedaily.com/rss/computers_math/robotics.xml",
+      "keywords": ["humanoid", "robot", "bipedal", "legged"]
+    },
+    {
+      "name": "Robotics Business Review",
+      "rss_feed": "https://www.roboticsbusinessreview.com/feed/",
+      "keywords": ["humanoid", "robot"]
+    },
+    {
+      "name": "The Robot Report",
+      "rss_feed": "https://www.therobotreport.com/feed/",
+      "keywords": ["humanoid", "robot"]
     }
   ],
   "wechat_accounts": [
