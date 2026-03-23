@@ -1,62 +1,62 @@
 {
   "papers": [
     {
+      "title": "Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis",
+      "summary": "本文提出Dream2Act框架，通过视频生成模型合成形态一致的机器人交互视频，无需人工标注或策略训练即可实现零样本机器人操作技能获取。",
+      "date": "2026-03-20",
+      "link": "http://arxiv.org/abs/2603.19709v1"
+    },
+    {
       "title": "ADMM-Based Distributed MPC with Control Barrier Functions for Safe Multi-Robot Quadrupedal Locomotion",
-      "summary": "论文提出基于ADMM的分布式MPC框架，通过节点-边分裂 formulation 将CBF安全约束引入的多机器人四足运动规划问题分解为可并行求解的子问题，实现完全去中心化的实时安全控制。",
+      "summary": "本文提出基于ADMM的分布式MPC框架，通过新颖的节点-边分裂形式将含控制障碍函数约束的安全关键MPC问题分解为可并行求解的局部二次规划，实现了四足机器人多机安全协同运动， planning时间降低51%",
       "date": "2026-03-19",
       "link": "http://arxiv.org/abs/2603.19170v1"
     },
     {
       "title": "PRIOR: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors",
-      "summary": "PRIOR提出基于Isaac Lab的高效人形机器人感知 locomotion 框架，通过参数化步态生成器、GRU状态估计器和地形自适应脚步奖励三大组件，实现了无需对抗训练即可在复杂地形上达到100%成功率的自然步态穿越。",
+      "summary": "PRIOR通过参数化步态生成器、GRU状态估计器和地形自适应奖励机制，在Isaac Lab上实现了100%成功率的类人机器人地形穿越。",
       "date": "2026-03-19",
       "link": "http://arxiv.org/abs/2603.18979v1"
     },
     {
       "title": "Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture",
-      "summary": "本文提出RG-VLMD框架，通过融合多模态情感估计、教学推理和扩散模型动作合成，为教育类人机器人生成具备同理心且与指令一致的手势动作，实现自适应且语义连贯的机器人行为。",
+      "summary": "提出了RG-VLMD框架，通过融合多模态情感估计、教学推理和扩散模型动作生成，实现教育场景下共手势的自适应合成与控制。",
       "date": "2026-03-19",
       "link": "http://arxiv.org/abs/2603.18771v1"
-    },
-    {
-      "title": "RoboForge: Physically Optimized Text-guided Whole-Body Locomotion for Humanoids",
-      "summary": "提出RoboForge框架，通过Physical Plausibility Optimization（PP-Opt）模块实现扩散运动生成与物理优化的双向耦合，构建自改进循环，使运动生成器学习物理可行的潜在空间，控制器学习动态完整性的潜在条件行为。",
-      "date": "2026-03-18",
-      "link": "http://arxiv.org/abs/2603.17927v2"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla Faces the ‘Couch Problem’: Modern Physics Warns the Optimus Robot Will Fail and Send TSLA Stock Falling - Barchart",
-      "summary": "Tesla Optimus机器人被指存在技术瓶颈，现代物理学视角质疑其可行性，或将导致TSLA股价下跌，对人形机器人行业投资者信心造成",
+      "title": "Tesla Faces the ‘Couch Problem’: Modern Physics Warns the Optimus Robot Will Fail and Send TSLA Stock Falling - Yahoo Finance",
+      "summary": "Tesla Optimus机器人被指存在技术缺陷，现代物理学警告其可能失败，或将导致TSLA股价下跌。这对人形机器人行业提出技术警示，提醒业界需重视底层物理原理的可行性。",
       "date": "2026-03-20",
-      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPa0lPSHpDb0VyNHllUWVpS2tPcGFHMUp4OERyTEFDWlA1VkwtT3FnamlFdnBFV1lsZEdiYWNVT25yZWt4RzY4dXhaazg2akkyZmlvNGw4TU1jRXJ4bWFNSUFPWF9RTGxEbkE5RGg0STcweGhuZW5XR3F5WlpGdVRpdGktOEFxbG9rbnlUR2xjckZ5aGQ1Zm8ya1JTRkcxb1hubEF5R3AzRDFveHJCZjJuX3JscVlMTHptZmtJdmhsbGNiOXIzdXZMdFBVQVBEUjhVTTJvVFNRekhiMUozRWNudGU5OA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUFhfNXFZbGRuTlZPR20tWl8yNWxlaWx0bGJCRW4yRlVXeXpVS3AyV2pjbVVhSUJYR1Y2RGxfM3Z1NkFNV2dHNDU1bTRPSzlkOUoyUjhidzA3NzdQZ09jdHZyX0I0STRtWFhCUnBrZEd1cTNWU2ZIN1RlLUVtVkEzeUFzcldRSDNyOHlUVmdoWUZCUW5FZjNndUlucTJOQQ?oc=5"
     },
     {
       "title": "Tesla Needs 200 Million Chips for Optimus. How the ‘Terafab’ Solves Its Supply Gap. - Barron's",
-      "summary": "Tesla为Optimus机器人自研Terafab芯片以解决2亿芯片供应缺口，显示核心零部件自研对人形机器人量产的重要性，将推动行业加速突破芯片供应链瓶颈。",
+      "summary": "Tesla为Optimus机器人需要2亿芯片，自研\"Terafab\"芯片解决供应瓶颈，显示核心芯片自主化对人形机器人规模化量产至关重要，为行业供应链提供新思路。",
       "date": "2026-03-20",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPSXcwY2VZWG9maGhaWnJZcnVWT0Zpd3hlQzd5bFVTOGpTT2V3SUZ5V0g5M0RxLWtPeElqMzRFbHBoMnNMWC1IZ3FWMHJPeXYtdHQycHI2M1VGQk9hU3dQdFVicHZUWUM4S3JfcXVXOEg0aXNZTWVSd1RVSThSa0VHenRwT2dTa204SnNPbXhFck0wUTNycEJyb2pVLTJTYVdNZHlOc3pqMHlUX1dyWW1EalQ3dkdfMDdoVkNxNHNzQ0pNSHZvS0UxR3RObFVHUGk3cWZsemtWRDJRaWQzNVF1VGRJVkZpQVRFQjdXUWVIYW5GWjMzTGk4OHBwMXExZWNuNzV5dFpWQWRORmpRdkJkMzl1MGt0OGlsSTdPT1lsWDRVdFpiOGVMaXBudEM1RjlqT1hPQ1BQVkZuWEE3U0VEel85d2Z6THNTUU1DV2dmZVhOZEpVMTdULXBmbDZlY2k0VE1QdkpLM3g4bmJUMHhObGxLV0NpbGtnTmZNZFZ1RVVLaS16c1pTaXdKVnk?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxOeDQ1V2Q0YWRPOFJOWmNSZHZzTnFFd1BnM3JUaGlpSlJVY3VLVHBsNzYzYUViVEt1WGRHSkpQUDZuZDFGWTZFUjhfY3pYSnJzelV6MTltMTZEQnZZcXFlNWZCT3d4MmRoc3dMVE81dWVPVkZWY2hrSXQyLUZnTEdIcWw2OElmeUJhRENrTl9BcldEa0JkakZ3ajVVRzdIUm94OWNpZWlzYjNmUEJIMUNySUVYSWxaOUJrT3lLbG9kWW9EdFJCUEczTXJwXzJRdDVDM3lCM3lWd1d3RzdhTlJCWERoWmtoRC1La0F3N3JoVER0QUNPUGlCdXJlLUJnT3NxVFRhUm5FcWNKVmJrUEMzc1l1dEozalRkbE5oYVhXUGE5LVVHdV8xOEtpVTJYMXpCZ2wyRkl5YjlHWTYzYS1fRi1HRVZiWGw4cmZTV01xdTZUeFFuU3B2WVVtY2YzdU4xRk1mRWFuX3lVeEN4X2Z1Zndva01sNzJYVHNPeWVxenhNckVPT3V5cGM4LUE?oc=5"
     },
     {
-      "title": "Goldman shares latest updates on Tesla’s Optimus project - Investing.com",
-      "summary": "高盛发布Tesla Optimus",
-      "date": "2026-03-21",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQNzJMWFcxSXRQYUVFX3RnR0pVejN5cF90WkRnQXYyQW94MmVBMVdVdENTODVBUXJxTGxZQ1JJSHVuazloZGxBa3hsdUJHdUhCWHBVa1VaVTdmZkVGTlRCZGVqeTBnWUJxVkRiLW9xNWtHSEFfdEJ4WGo2QW1Lc1VXczF4QjRjQXNZZzlJQmdrOGkybGtLa0Y3clQ5aVk4eVFUTlVYNzdqQ19lVTg?oc=5"
-    },
-    {
-      "title": "Forget Tesla’s Optimus: Renault’s Robot Is Already Doing Backbreaking Work - InsideEVs",
-      "summary": "雷诺人形机器人已在工厂从事重体力劳动，比特斯拉Optimus更早实现商业部署，显示传统车企在工业机器人应用领域取得领先进展。",
-      "date": "2026-03-17",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRm5MVEl0di1KUWlGTW5MWTdoS0tTVWY0VUVVNVJuVXNmdWgwalMxZGNmY3pndGJ4dk00NURGRlZETmlpTnBIWndFdG9URWt2QUt5SEU3dFhFX1Y1ejAyNVNlMHl3bGNmdWgwaW84V3lMakpzcXFjaHpoRjlkUFp2cFpzSEsyc1k?oc=5"
-    },
-    {
-      "title": "Elon Musk to build own AI chips with help of Optimus robots - news.cgtn.com",
-      "summary": "特斯拉计划利用Optimus机器人协助自研AI芯片，展示人形机器人在高科技制造领域的应用潜力，推动行业向智能化生产转型。",
+      "title": "Tesla and SpaceX announce $25B 'Terafab' chip factory — here's why it reeks of desperation - Electrek",
+      "summary": "Tesla与SpaceX宣布投资250亿美元建设\"Terafab\"芯片工厂，强化自研芯片能力。此举凸显芯片供应链对人形机器人行业的重要性，但也反映出对外部供应商的依赖风险。",
       "date": "2026-03-22",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU1dBU0NzLUZHVDRUSGw0UXhqSmdzUlVVRW9HLTIydUpjeE1LampreU5zV2tYTnNzOEg0ZnVTWTRqSlE3RlNTU3VLMWFIcEk4cWYybHJoNnRXaTh3alNoMHQwdUtZTzBFT21sTE42bGNuOTR5dkgtMWhwdHlicHYyMU1NS3RsM0JoTDFEU0doNWdjX05OTkY1RnkzMGF4S0lOMzhSNDA5dGdGc3VJYk5sdVJFTHhhYUE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3lNUW9zdm5xZXB6S2JCRHBnZkUxN0xqS1l5RV9PQmpyWFdlRnlFTVlDSEZHRWswdFVSYVBHRTVFNmxTUTZkTkNWV1Z4YkxpSVdYZUlpdUlQTEdVOVd2NmozT09saUNkN3FUM1ZZVFF0VWpUUTA2QkxLVHB2SU1LUlpCZUNTc2s?oc=5"
+    },
+    {
+      "title": "Elon Musk Says Tesla and SpaceX Will Manufacture Chips at ‘Terafab’ - The Information",
+      "summary": "**新闻摘要**：Elon Musk宣布Tesla与SpaceX将在自建芯片工厂\"Terafab\"自主制造芯片，实现芯片供应链垂直整合。",
+      "date": "2026-03-22",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekdHbVpoeV9qeTdBRmxTR3pjUW5Ud3QwQkt6bnBLdC1tMWo3SC1YcERMYXZDTFJTR2lwdUVYZVFDd1lETGd0M01BTDkzWkhBa3JmeUxaaVRuMmhvaEx1Tjgwa2xtMi03ZGRBa0EzSHpHUnNCaGJPbzB6OXhYeHRaQzR1R1c2Mmx5a3RldVpMYWNETXRsQWd3ZFZIb3REc3dR?oc=5"
+    },
+    {
+      "title": "Musk says SpaceX and Tesla to build advanced 'Terafab' chip factories in Austin - CNBC TV18",
+      "summary": "Tesla和SpaceX将在Austin投资建设先进\"Terafab\"芯片工厂，强化芯片自给能力，为人形机器人等AI硬件提供关键供应链支撑。",
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNb2pzaGNMMDB2YUVzOVhtYS1udDN2WENIMzlXbGtTLTF1dktGUjlyZEdjdEFCT2NVaDdhVFUtUTBjNnVpRU5iQWJIQmVJelNEaDVZNEZkTzN1YVN3UGdwcjZqZDh5Q1J1YXo2elVsMjNiVHpqV0RkS29RTWY0RUVXS2pyYXlOb0xMeExlM1dxdEVhVk5aSmtpY21kUUl4eFdERDdnWGpLT2hTZUVfV3JCU3NSaHJKLXlPVm5hNlJBT3g5TnF2X2VKWdIBzgFBVV95cUxNeVphN2NDQWRaWlltZDZIa2pud1Z6YklnWFJHQzF0RDFiZHQ1QWRpU29YRG5qN1JLSUJFSndoaVNiVU9zUENJQkNsMTZlckdTY0dtY0RZV0xJQWRFQTVmcmVrVUxoODNMblRSU1V5RkhXN0c0WFc4U3Q3LWQ0MXM3V3NNamRmTkdYU3g4MjFtTW9pbGFLOElneGNraG5UamFqaGswOWJDdng4WWJMTUllMEpDTF96bmdGeU4xckR2aWtrMkdyNVFzTW01bXllUQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-22T13:33:22.684764"
+  "updated_at": "2026-03-23T02:28:57.033401"
 }
