@@ -1,62 +1,62 @@
 {
   "papers": [
     {
+      "title": "Sim-to-Real of Humanoid Locomotion Policies via Joint Torque Space Perturbation Injection",
+      "summary": "论文提出在关节扭矩空间注入状态相关扰动的方法，通过神经网络生成复杂非线性不确定性扰动，无需额外训练即可显著提升人形机器人 locomotion 策略的 sim-to-real 迁移鲁棒性。",
+      "date": "2026-03-23",
+      "link": "http://arxiv.org/abs/2603.21853v1"
+    },
+    {
+      "title": "Can a Robot Walk the Robotic Dog: Triple-Zero Collaborative Navigation for Heterogeneous Multi-Agent Systems",
+      "summary": "本文提出Triple Zero Path Planning (TZPP)框架，通过协调器-探索器架构结合多模态大语言模型，实现异构多机器人（人形+四足）零训练、零先验知识、零仿真的协作导航，在真实环境中达到人类相当的效率。",
+      "date": "2026-03-23",
+      "link": "http://arxiv.org/abs/2603.21723v1"
+    },
+    {
+      "title": "Evaluating Factor-Wise Auxiliary Dynamics Supervision for Latent Structure and Robustness in Simulated Humanoid Locomotion",
+      "summary": "该论文评估了DynaMITE中因子级辅助动力学监督在模拟人形机器人 locomotion 中的效果，发现辅助监督既不产生可解释的潜在结构，也不提升奖励或鲁棒性，bottleneck 压缩有轻微优势但非鲁棒性机制。",
+      "date": "2026-03-22",
+      "link": "http://arxiv.org/abs/2603.21268v1"
+    },
+    {
       "title": "Morphology-Consistent Humanoid Interaction through Robot-Centric Video Synthesis",
-      "summary": "本文提出Dream2Act框架，通过视频生成模型合成形态一致的机器人交互视频，无需人工标注或策略训练即可实现零样本机器人操作技能获取。",
+      "summary": "本文提出Dream2Act框架，通过视频生成模型合成机器人执行任务的视觉想象，提取机器人原生关节轨迹后在全身控制器上执行，实现零样本形态一致的人形机器人交互。",
       "date": "2026-03-20",
       "link": "http://arxiv.org/abs/2603.19709v1"
-    },
-    {
-      "title": "ADMM-Based Distributed MPC with Control Barrier Functions for Safe Multi-Robot Quadrupedal Locomotion",
-      "summary": "本文提出基于ADMM的分布式MPC框架，通过新颖的节点-边分裂形式将含控制障碍函数约束的安全关键MPC问题分解为可并行求解的局部二次规划，实现了四足机器人多机安全协同运动， planning时间降低51%",
-      "date": "2026-03-19",
-      "link": "http://arxiv.org/abs/2603.19170v1"
-    },
-    {
-      "title": "PRIOR: Perceptive Learning for Humanoid Locomotion with Reference Gait Priors",
-      "summary": "PRIOR通过参数化步态生成器、GRU状态估计器和地形自适应奖励机制，在Isaac Lab上实现了100%成功率的类人机器人地形穿越。",
-      "date": "2026-03-19",
-      "link": "http://arxiv.org/abs/2603.18979v1"
-    },
-    {
-      "title": "Empathetic Motion Generation for Humanoid Educational Robots via Reasoning-Guided Vision--Language--Motion Diffusion Architecture",
-      "summary": "提出了RG-VLMD框架，通过融合多模态情感估计、教学推理和扩散模型动作生成，实现教育场景下共手势的自适应合成与控制。",
-      "date": "2026-03-19",
-      "link": "http://arxiv.org/abs/2603.18771v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla Needs 200 Million Chips for Optimus. How the ‘Terafab’ Solves Its Supply Gap. - Barron's",
-      "summary": "Tesla为Optimus机器人需2亿颗芯片，自研\"Terafab\"技术解决供应瓶颈。此举凸显芯片供应链对人形机器人量产的关键性，或将推动行业自研芯片趋势。",
+      "title": "Tesla Faces the ‘Couch Problem’: Modern Physics Warns the Optimus Robot Will Fail and Send TSLA Stock Falling - Yahoo Finance",
+      "summary": "Tesla的Optimus机器人被指存在物理设计缺陷，面临“沙发问题”挑战，技术难题可能致其失败并拖累股价。这对人形机器人行业敲响警钟，提示技术落地难度不容忽视。",
       "date": "2026-03-20",
-      "link": "https://news.google.com/rss/articles/CBMijANBVV95cUxPRkRLY3F4Z0ItTlY4X3o2OW5MaTNoMkVUVjBiZzdwVVdFeHFuN2FqR2h0Z0F3UXZmckdlU080MFRtTDFTUGJXZjJqS3htTHVWaHhUTkhTSGZrZG5KbEJ1RWI4aUZZdVNKVDBNTlgyWmJzN2tseG9DRlM0bkZuWUtrQUNCNE8yRU9kUVFXM0hyaTFfNTB4TFpzNnZJTm9pNDJhT0cyMFNxbVJDMVBQMmJHMGM1QjAzUWpyMklwT2h2T09rdURkZTZXaW1xVHBQSGotbG5NSEtmTFhKM0x6M3lEd3QzdzdWMUx3YmhiVUEtenVLMVctVm1DZUd3VHdDZEFtTmVSOC1ZVVpWWGREWnNDOVJQOTNIRnpKSGxHSWl5T2FDRzV5c3JoeFhIS0NhdXd6WXpBY1BzTjJEbDFNRjhUNmx0eWliZzl5SlVtd1JOUWhFaTJKUlhCS2pfWEtobjVVWVpoMXVRbUMySEZIbWF4M0gtRU9qSzM4c1dNT0oxUEg4Vnd1eW93ZUNGY3o?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUFhfNXFZbGRuTlZPR20tWl8yNWxlaWx0bGJCRW4yRlVXeXpVS3AyV2pjbVVhSUJYR1Y2RGxfM3Z1NkFNV2dHNDU1bTRPSzlkOUoyUjhidzA3NzdQZ09jdHZyX0I0STRtWFhCUnBrZEd1cTNWU2ZIN1RlLUVtVkEzeUFzcldRSDNyOHlUVmdoWUZCUW5FZjNndUlucTJOQQ?oc=5"
     },
     {
-      "title": "Tesla's New Robotic Rival Has a Strangely Familiar Face - AOL.com",
-      "summary": "特斯拉",
+      "title": "Tesla: The Overlooked Lunar Strategy That Can Drive Optimus Adoption (Upgrade) (TSLA) - Seeking Alpha",
+      "summary": "Tesla的月球战略可能被忽视，但有望推动Optimus人形机器人应用，对行业意味着特斯拉在机器人领域的技术路线可能多元化，从地面作业延伸至太空场景。",
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONTNINm5CMFpYVlp5cFNuVVBWQ0R1MGx0aVJvWEdiU3piMGJxenVOb0pVZWxmYVRzbGdDM3gyc1duelQ5ZnZEeHkxam56VUlqem9EeG5vbk80aS1sT2VuRlAwRTFMTVcwWkllZHExT0F0VHJIRW5LWU1kRGpJQU52RVpMZ05uWUJWWGtOcEMxazZ3Y21WcE9Pa250ZjNCbmRnV0RUUDgwZnV5anNZLTE0MEVIY3lDV3c?oc=5"
+    },
+    {
+      "title": "What is Elon Musk's Terafab chip project? Here are his \"most epic\" goals for the factory. - CBS News",
+      "summary": "Tesla启动Terafab芯片项目，计划建设超大规模芯片工厂，为人形机器人提供高性能AI计算芯片，推动机器人智能化发展。",
+      "date": "2026-03-23",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY2V2dFZ0U08ySkRWR0ZIY01IMWFwYlE2UVVVUEhiRlJLaU5BTkREaktTN2x6RHdxNHhRZkNCVTBsOHktVmJjMXBkSnJZd1p2RlZBMFBPZjhKbDB2TlRjZDJ4b19ZcHN6WnhWTEhDRFIxdmoxU2RfdEI0Tzg2S2FkcVN5Y21jR2RG0gGOAUFVX3lxTE9DaWxCSnNjcThfNzYzMHh6VXp2YkZDM2xBVXFBeUt2dXAzeGZUUFprSUQ1eDF4QmJPT1RraUQtRW1GejhtTktvb1VfV0RabHdZT1JhWnNmX2VZbk5mV0FpVzU0Nk1hOUJKQ3M5RmdfZjExUzVHUWJlY05nQnMwWUU0cUJXOVcwOEFCanVUT1E?oc=5"
+    },
+    {
+      "title": "Tesla and SpaceX announce $25B 'Terafab' chip factory — here's why it reeks of desperation - Electrek",
+      "summary": "Tesla与SpaceX宣布投资250亿美元建设\"Terafab\"芯片工厂，旨在自研芯片降低人形机器人成本，但高额投资也反映其对供应链安全的焦虑。",
       "date": "2026-03-22",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTTRnVnFtOWpSekNRRUlXQllDczI0dlFlT0pwRjN5a2F6bGFnUzlSYWo4bzF0a194c2lxN1YxSDE4bzdadkd3QXpVdFVhZ1RlNzBSbkdKRXNrZml5c09fSHZNS3B3dGFuSDJLeGhMYm14LWpKcDNLQXJFUFVpWjYtTGRvUk40UXFESFNV?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3lNUW9zdm5xZXB6S2JCRHBnZkUxN0xqS1l5RV9PQmpyWFdlRnlFTVlDSEZHRWswdFVSYVBHRTVFNmxTUTZkTkNWV1Z4YkxpSVdYZUlpdUlQTEdVOVd2NmozT09saUNkN3FUM1ZZVFF0VWpUUTA2QkxLVHB2SU1LUlpCZUNTc2s?oc=5"
     },
     {
-      "title": "Elon Musk's next moonshot: The $20B \"largest chip manufacturing facility ever\" - New Atlas",
-      "summary": "Tesla计划投资2000亿美元建设全球最大芯片制造厂，此举将大幅提升芯片产能、降低制造成本，为人形机器人",
-      "date": "2026-03-23",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPYzN6LWlMWmFCdWFjQ3JPalBwTkZUTXAwUGdiVlNBbk5obzRJTFdmQVA2aVd2VWd3ZGRJSk5LX2NlNVZTVVBoSFFIODN6YllsaXJrX3Jab2M5d29sblpHTkJIaFkyelI1LUg3TURRSXZpc0NUR2d0b3VVTkNhNWJqdkcxX2VYcjV1aHBxYmtrNA?oc=5"
-    },
-    {
-      "title": "SpaceX and Tesla to Build Twin AI Chip Factories in Austin Under 'Terafab' Plan - ACKO Drive",
-      "summary": "特斯拉与SpaceX计划在奥斯汀共建AI芯片工厂，提升芯片产能，可能降低人形机器人核心部件成本，加速行业发展。",
-      "date": "2026-03-23",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPblBrWTdIb2Rlbk10MmF3VXlRemdtNEhQNXlKVmhMZkZNSzR1UXZnZ2hCb0VDdXZCREZhaVpMVnFFZXJRTzhGRnJXaHJVR1VMYTVabFVDdkVjOS10b0ZvX01JblVWc3RmSHRtUmx4eEViSmZrZWNNVDFDTjNFWk1Ia2FqWVhuaTVad0UwZG0wbmdPbjJHNVZwRnZVZVZoOGxGYmVseGRaTkdQZw?oc=5"
-    },
-    {
-      "title": "Tesla Deploys Two Optimus Robots in Factory - Not a Tesla App",
-      "summary": "Tesla已在工厂部署两台Optimus机器人进行实际作业，标志着其人形机器人从研发进入商业化测试阶段，为行业树立了产业化应用标杆。",
-      "date": "2026-03-19",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA4ZTkzaThtd0xwaUczTUVXQWJXaVNlTmZzNTVNemh3eGxsaVVBOFktSWhQSUdVMWZJQUpFLTFPNDc4Wm5ramZWV1dSem1IQkgzRkVj?oc=5"
+      "title": "Boston Dynamics joins US push to shape robotics strategy - The Korea Herald",
+      "summary": "Boston Dynamics参与美国机器人技术战略制定，体现人形机器人行业获得美国政府高度重视，将推动政策支持与行业标准化，助力美国在全球机器人竞争中保持领先地位。",
+      "date": "2026-03-24",
+      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uM0tDbkptY0YxM3ZRREVnUmNBc0YtX0gzZnhmQjR0MjhzT2kzbE1NQ1JFcVloODJlQ2xkS2w5dTl1V1hDaGR3TWd6dDhfeDQzVG5La3o4aw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-23T13:25:32.695356"
+  "updated_at": "2026-03-24T02:21:23.112535"
 }
