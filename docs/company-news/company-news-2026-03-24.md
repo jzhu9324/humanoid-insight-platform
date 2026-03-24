@@ -6,494 +6,264 @@ type: company-news
 
 # 人形机器人公司动态 - 2026-03-24
 
-本期收录 6 家公司的 53 条动态。
-
-## Tesla
-
-### Tesla Faces the ‘Couch Problem’: Modern Physics Warns the Optimus Robot Will Fail and Send TSLA Stock Falling - Yahoo Finance
-
-**发布日期**: 2026-03-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMingFBVV95cUxPUFhfNXFZbGRuTlZPR20tWl8yNWxlaWx0bGJCRW4yRlVXeXpVS3AyV2pjbVVhSUJYR1Y2RGxfM3Z1NkFNV2dHNDU1bTRPSzlkOUoyUjhidzA3NzdQZ09jdHZyX0I0STRtWFhCUnBrZEd1cTNWU2ZIN1RlLUVtVkEzeUFzcldRSDNyOHlUVmdoWUZCUW5FZjNndUlucTJOQQ?oc=5)
-
-Tesla的Optimus机器人被指存在物理设计缺陷，面临“沙发问题”挑战，技术难题可能致其失败并拖累股价。这对人形机器人行业敲响警钟，提示技术落地难度不容忽视。
-
----
-
-### Tesla: The Overlooked Lunar Strategy That Can Drive Optimus Adoption (Upgrade) (TSLA) - Seeking Alpha
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxONTNINm5CMFpYVlp5cFNuVVBWQ0R1MGx0aVJvWEdiU3piMGJxenVOb0pVZWxmYVRzbGdDM3gyc1duelQ5ZnZEeHkxam56VUlqem9EeG5vbk80aS1sT2VuRlAwRTFMTVcwWkllZHExT0F0VHJIRW5LWU1kRGpJQU52RVpMZ05uWUJWWGtOcEMxazZ3Y21WcE9Pa250ZjNCbmRnV0RUUDgwZnV5anNZLTE0MEVIY3lDV3c?oc=5)
-
-Tesla的月球战略可能被忽视，但有望推动Optimus人形机器人应用，对行业意味着特斯拉在机器人领域的技术路线可能多元化，从地面作业延伸至太空场景。
-
----
-
-### What is Elon Musk's Terafab chip project? Here are his "most epic" goals for the factory. - CBS News
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOY2V2dFZ0U08ySkRWR0ZIY01IMWFwYlE2UVVVUEhiRlJLaU5BTkREaktTN2x6RHdxNHhRZkNCVTBsOHktVmJjMXBkSnJZd1p2RlZBMFBPZjhKbDB2TlRjZDJ4b19ZcHN6WnhWTEhDRFIxdmoxU2RfdEI0Tzg2S2FkcVN5Y21jR2RG0gGOAUFVX3lxTE9DaWxCSnNjcThfNzYzMHh6VXp2YkZDM2xBVXFBeUt2dXAzeGZUUFprSUQ1eDF4QmJPT1RraUQtRW1GejhtTktvb1VfV0RabHdZT1JhWnNmX2VZbk5mV0FpVzU0Nk1hOUJKQ3M5RmdfZjExUzVHUWJlY05nQnMwWUU0cUJXOVcwOEFCanVUT1E?oc=5)
-
-Tesla启动Terafab芯片项目，计划建设超大规模芯片工厂，为人形机器人提供高性能AI计算芯片，推动机器人智能化发展。
-
----
-
-### Tesla and SpaceX announce $25B 'Terafab' chip factory — here's why it reeks of desperation - Electrek
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihwFBVV95cUxPa3lNUW9zdm5xZXB6S2JCRHBnZkUxN0xqS1l5RV9PQmpyWFdlRnlFTVlDSEZHRWswdFVSYVBHRTVFNmxTUTZkTkNWV1Z4YkxpSVdYZUlpdUlQTEdVOVd2NmozT09saUNkN3FUM1ZZVFF0VWpUUTA2QkxLVHB2SU1LUlpCZUNTc2s?oc=5)
-
-Tesla与SpaceX宣布投资250亿美元建设"Terafab"芯片工厂，旨在自研芯片降低人形机器人成本，但高额投资也反映其对供应链安全的焦虑。
-
----
+本期收录 8 家公司的 27 条动态。
 
 ## Boston Dynamics
 
-### Boston Dynamics joins US push to shape robotics strategy - The Korea Herald
+### Boston Dynamics joins US robot strategy commission to shape policy - CHOSUNBIZ - Chosunbiz
 
 **发布日期**: 2026-03-24
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTE1uM0tDbkptY0YxM3ZRREVnUmNBc0YtX0gzZnhmQjR0MjhzT2kzbE1NQ1JFcVloODJlQ2xkS2w5dTl1V1hDaGR3TWd6dDhfeDQzVG5La3o4aw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxOcXVVamt1TDdKYllyNVVmbHJ3TDc1Y1V3MVB5cnBzdWQxMTctc0N3a2VKSVowR3NKaWx3SGo2clVGRTNJU0p3Ymwxbnp5Q2RVbmVSVldRRDM1ZGl5Tk9uX2NNNHpqbmdSVU5pZXhMY0g2dG9GMWRYb0l0NmlEVjBfSUJ30gGWAUFVX3lxTE9SS0NXUk83RThhajlscmdpUGZCY1d2Y3U1SngtZDhnYWVPNk1TZ1lMdkJEbm5KeTBUR3ROQUd5bVk2a0FNUDh3LWtjT0dseW1icW1vT1JvcnU4Qm5YTDZpdzBBWlEtbkVqV1lKazZpRUE4WndUVlBFeHNxd3BwMXEtdkFISUI4Y2tsMGQxbzNxclppUHpDdw?oc=5)
 
-Boston Dynamics参与美国机器人技术战略制定，体现人形机器人行业获得美国政府高度重视，将推动政策支持与行业标准化，助力美国在全球机器人竞争中保持领先地位。
+Boston Dynamics加入美国机器人战略委员会，参与制定国家机器人政策。此举将提升人形机器人行业的话语权，并有望推动政策支持与行业标准制定。
 
 ---
 
-### Boston Dynamics Joins U.S. AI and Robotics Strategy Advisory Body SCSP - 매일경제
+### Boston Dynamics Joins U.S. Robotics Strategy Think Tank - 서울경제신문
 
 **发布日期**: 2026-03-24
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5KYVE1dDNLQVBmNDdlUG5fLWhVV0hwdlRFZzZkRXhyemx0a3NqdGhRTkRmb0FqVWJ5LTVycWwwQTl0b3RuaXZBTS1fVFNjYXR4UDlJ?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSzNHTi14dHNRM0Z1NUlfbklVLV9iQXZLcHdPNmotaTh0S3FveTVmOHNnOW90WlhkeGVBMnBLOVpFckxweVVxWGdJUmxiNWU1dzl4LWZocDltcXlCdG1DVUxCRlFhYnpnWEFMUHVvak9oMnFsNDBtSk9oTlNmY3g5Q2FzVC15U3U0a3ItREtmWFpYcERJbGd5Ny1MMA?oc=5)
 
-Boston Dynamics加入美国AI和机器人战略咨询机构SCSP，体现其在行业内的技术领先地位，将有助于推动美国人形机器人政策的制定与行业标准建立。
+Boston Dynamics加入美国机器人战略智囊团，参与国家机器人政策制定。此举标志着公司从技术研发向行业标准制定者的角色转变，将影响人形机器人技术的应用方向和政策环境。
+
+---
+
+## Figure AI
+
+### Figure AI Founder and iPhone Air Designer Team Up on AI Mystery Product - Gizmodo
+
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxOUUYwZ256YXhqOUNzTy1aU01BUWE0ZE9BMkhTT0thSmtpcG5PZEF5WGJJTFdkZHNiQl8tQXp6YVBWWVEwYzNfdGtrZmxSb3pPaEU1X0VNQzJQYVUtV1E4SG9NV1p2aVk3Y1ZXZUFybUtfZFpEME5LQnhBalU3UFhfdlJPSHYyem80R1k4ZW81bjhSS2lfOVpJOWdlSzFmY0VTX0NQZg?oc=5)
+
+Figure AI创始人联手iPhone Air设计师，共同开发AI神秘产品。此举有望将消费电子的设计理念引入人形机器人领域，推动行业在外观设计与用户体验方面的创新突破。
+
+---
+
+## Agility Robotics
+
+### Humanoid Tote-Handling Robots - Trend Hunter
+
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE9aQUVDclVCOVdKUUZDdEo2ZFhhQTJKV3ZYUjdBd2tHX1NIZXJRMnA4MDI5WUFiaHFiNkw2RXFDaFg4R1ZqTHBNSXhxeGJmUXRqeTEtYzlfUmFlRTZJS1gwRXFxdTbSAWRBVV95cUxPWkFFQ3JVQjlXSlFGQ3RKNmRYYUEySld2WFI3QXdrR19TSGVyUTJwODAyOVlBYmhxYjZMNkVxQ2hYOEdWakxwTUl4cXhiZlF0ankxLWM5X1JhZUU2SUtYMEVxcXU2?oc=5)
+
+Agility Robotics开发用于仓储搬运的人形机器人，展示人形机器人在物流行业的商业化应用前景，推动仓储自动化发展。
+
+---
+
+## Sanctuary AI
+
+### Robots learn to feel: How next-gen tactile sensing is revolutionizing humanoid touch! - MSN
+
+**发布日期**: 2026-03-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMizgFBVV95cUxPMEQtS3VDSlUyeXV6TV9sYXhaazc3ckpabnFwUTNLUzZaQUNNYVhTdUNod1FZOUV1SGdTWDJYeHU0d1Y1Tk5wZ2VIUXd6cE5VdjA4SEJSczJNM3owVG0xZDBrc3dmeDV5WXZYRlFYMW9haTFyT1d0bk5jbHI3Mm1KdEVZSHVjNWthdWJDVVFQTzk2VzBJU3NoTGJPcHN6SlhpNEVGLTg2MmdSeEdmSDN3cGVPYXdrWFFuVU1lN0dHWU1BR2hlVklsQ0Mtc2pCZw?oc=5)
+
+新一代触觉传感技术让人形机器人获得真实触觉感知能力，显著提升其操作精确度和人机交互体验，推动行业向更智能化实用化发展。
 
 ---
 
 ## Unitree Robotics
 
-### Inside Unitree’s landmark IPO: what to know about China’s humanoid giant - South China Morning Post
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxOVVFyUHZESDJEcUR5WWx6d3VWYXlCLWtOQ0VKNUZjV2s0cmhTWUptUklpNTBybnVkVEJHajZWczVQVERLenRYSi0yZmItLXI3Qi1xZHNJaHlId3pteExLa2pfUlF1NWhRUFdLRTNiRElkemJ0X0pBbDNWSS04aTJwTWtDNEZoZkNUSHVCMDFFTG9UWjJHbnYwUGtBM1pQQTdfemMxcUhHZjB6RWVO0gGsAUFVX3lxTFBPb3BQNnE2S2kyVnNMeVRuQjBNYzdpVVpmLUVWd0szUnlNT25oZ0NhRWxhaEdlajFPbnFJeXV1SnQ0MmV3cGtOQVlKUG50Q3dLOTlWcEJ3QjhMeEk4eWktcnY2WS1sdjRnaHIwRnhvXzUwV3NJTE9SZVZuN25QYUR0eWlSalB0b2ZSRmRtY2ZTc0NaZFd3cnVxcEY2YW9zRXo0bXE3N25kaHdDbXk?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOVVFyUHZESDJEcUR5WWx6d3VWYXlCLWtOQ0VKNUZjV2s0cmhTWUptUklpNTBybnVkVEJHajZWczVQVERLenRYSi0yZmItLXI3Qi1xZHNJaHlId3pteExLa2pfUlF1NWhRUFdLRTNiRE
-
----
-
-### 🤖Chinese Star Robot Maker Unitree Doesn’t Look Like a High-Tech Company - Recode China AI
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi4wFBVV95cUxON2l2WXpXNXYtOWtkVkktZjYxQmtFUnBnMjMtYndJMVRRcjRPUlNXT3I4WEk0WVNEcU9QUmI5M0RuRWM3R2hXcnAyQ2U0eEdpSzRsNXYwN0FLUzNVTUtmSDRyZE54MmhfclNKQTJpZmU2TEZtWlJLclJwZzBuQU83RGJUeTlhbGdXMndueU1xUWNHZEhxNEMyOG5BMlJrQm90MkJMS0JCa1Y4YlVLTHFOYmd1VENzalhCcjdnVjFsVHBTTzRRdUQ3cjNyU2x5X2NaeHhWY1p5TmJsRWRtUkRkbTEyOA?oc=5)
-
-该新闻质疑Unitree作为明星机器人企业的科技属性，指出其缺乏高科技公司特征，可能影响市场对其技术实力的认知。
-
----
-
-### After viral martial arts demos, Unitree Robotics files for $610M IPO in Shanghai - Tech Funding News
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqwFBVV95cUxPQzFyQlBmYjQ5UnpFOTdYRlZSM0NpR2ZYUl8zTEJka0s4TG1TTjk3clFfT21hUHZISnZWWDB5eTJubjNwSElHeG1CMHRuZGlfMXlGV2N6bG92d0E3T1FmcmdQMDFrQm1TRFBkTUdQbWFXQUw4aUhvdW8wSGdLZ09kNThJUkVuTk5lWk9KNW9PYlRkV1VuYVpmXzRMdGpENmRQNVRaV0p4WmF6cFU?oc=5)
-
-Unitree Robotics在武术视频走红后申请6100万美元上海IPO，
-
----
-
-### Unitree Robotics accelerates production to meet surging global demand - China Daily
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE91WUJ2d0EtcUMzcEVGaXdpVTBydVo1QW44RWZfbXllRlBFbE8zVTVaY2ctVkc5R1ZzNU9LRVE1V0MxdVg4S2pxTEtfMk9iY19BWno2S25nWThRSnFJb29tWVcwRy1UcGxJcVNEMnBWa3Nmb3ViOHFwdm12QlFwUQ?oc=5)
-
-Unitree Robotics加速生产以满足全球激增的人形机器人需求，反映该行业正处于快速成长期，市场前景广阔。
-
----
-
-### Robotics: Unitree capitalizes on the hype surrounding humanoids for its IPO - Table.Briefings
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjFhdXEzSEk1LUp5UHdfVVZkVk9MNW5ELTZKOXVvQWM0dmw0MEd0Y3Q4U2xlSTRWSkxoZzNQcG5MSjVsZldVMFhjVzhHSWRpVEh1VkhHZGYtMEhvSkZqZ2pDVzRXc3VSemFxMGVMRElXcWdtVzBIQWc2V0VJTl8xSG1wVGRzT3NHS0RVRzR2ZlZkYTBERGwyNGZXVUUyVWowQjNWZzhmVkV0bHFmQWVSZw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOYjFhdXEzSEk1LUp5UHdfVVZkVk9MNW5ELTZKOXVvQWM0dmw0MEd0Y3Q4U2xlSTRWSkxoZzNQcG5MSjVsZldVMFhjVzhHSWRpVEh1VkhHZGYtMEhvSkZqZ2pDVzRXc3VSemFxMGVMRE
-
----
-
-### Unitree Achieves a Net Profit of 600 Million: Unveiling the Truth - 36Kr
+### This $4,900 robot can run, flip, and do kung fu - Fast Company
 
 **发布日期**: 2026-03-24
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTFBCTTMwZjF4MFQ2NGY4Smp0bWRUVFNQX2lKZDRJY2N6WExKTzBaTmFjVDZrZllPeVhCQWZCbVA3bHJSc2RMU0xxcWZkc05oYW1HRFNj?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQ09aTFdMMDR6R25kS28zNGpmN0VKY3FtdkJ1UmNVMEhUelFOVl9RQTFLMld5WXN3MlQwamt5dDlCSFRIakJtVElmaHlfbWdDTHItbzVxNjg5dUFiTW9sSWxUaHZ5Vnp6dFhWZzMyUmRQeWx5ZnozVm5EOUQ1VUUwMm94bWJLXzUzM1VqMg?oc=5)
 
-宇树科技实现6亿元净利润，展示人形机器人商业化潜力，为行业盈利前景提供参考。
-
----
-
-### Unitree Moves Step Closer to Becoming First Chinese Mainland-Listed Humanoid Robot Stock - citynewsservice.cn
-
-**发布日期**: 2026-03-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdFpPWkhGZ3lWT2xfaE5nUTlBbVNlWnZWazllaXlCRThiSGVnRm93akhaNHhIZ2c4dzZHZFFmM2RGOVBEeVF0VENtZElWSnpocm1haTljRHlyZldDR0tOaldaZ2tIUHp3U09PcTRGVlN4WVM3ZVNNQkRJcjRKLTFaUW9nWGJJSWdOVGRNTkNUODZPQVNqUm82aXRKaUZyWkZ2MVNpeEJEN3YzN1lUMXoxRzlXUllfNnAxLTZtbS1NLXlmTWh1eE5WTWxEeTRpQnRQYkpHek9iaTY3ZjVxSzl3cUZrYlVmejZwMk4taDBn?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi7gFBVV95cUxNdFpPWkhGZ3lWT2xfaE5nUTlBbVNlWnZWazllaXlCRThiSGVnRm93akhaNHhIZ2c4dzZHZFFmM2RGOVBEeVF0VENtZElWSnpocm1haTljRHlyZldDR0tOaldaZ2tIUHp3U09PcTRGVl
+Unitree G1定价4900美元，具备跑步、翻跟头、功夫等运动能力，标志着消费级人形机器人进入万元以内价位，推动行业商业化进程。
 
 ---
 
-### Unitree says humanoid robots may beat sprint record - Tech in Asia
+### Unitree targets IPO after revenue quadruples on robotics demand - KrASIA
 
-**发布日期**: 2026-03-18
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOZjk5RTJHWmM1MEl4QTl3a3RqSC1mbEJXdmFiX1lvRnV0RUZyLXRGa0JvRWpfZXRjRGkweEgwNFAwS09VNkRPZ0d2ZXVZZ2poZzZGVnQ2dXF1VWlQNV85TFZxLXBSYmxQZTFnU1kyRU5ER3JWRTJLUDhidUxDcmFFdVRCQnhsZlJlWDRN?oc=5)
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPYmRQOHVWV0hSRmFtaGdCOE5qR0hWYVFFWXBuX3d5ZzB4SElaUTJubUllSWpwdUI4djV5cXBhYThoTGFJd3Juc0I0bWJPV2g0ZVd5bkQtQWNmTFZ5bk80eGdjUFNURm85V2FPcEtkWkZ4bGhtUk1LVmlwUWpab0VleEtKdGpKbTdJTTBz?oc=5)
 
-Unitree称其人形机器人有望打破短跑纪录，展现双足机器人运动能力新突破，推动行业向高速动态作业应用发展。
-
----
-
-### Unitree Robotics IPO: How China's $610M Robot Startup Turned Profitable Before the Industry Did - CTOL Digital Solutions
-
-**发布日期**: 2026-03-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxNSmIxa1FWUHlMcTloN1U1S1hNT3dJdFFjVFdXM0xQc3BKekVXVnFTRE9YLUNQbDBYNzlvcDFZRlhYeUNxQlh2SVh2TmhzVDFGNWNfQ2w2UlJ3Yi10SWs1eUFpM1ZBNlk1REpuSDBpUlI4bDd5ZlNHUHNNdDVUSUtnZnBhUWdLU2ZBMjJiWGVudkNtdWFkRGR4Q1dnT2I?oc=5)
-
-Unitree Robotics以6100万美元估值冲刺IPO，成为中国首个在人形机器人行业实现盈利的创业公司，为行业盈利模式树立标杆。
+Unitree收入因机器人需求激增而增长4倍，计划IPO。标志着人形机器人商业化加速，行业迎来资本化机遇。
 
 ---
 
-### Oriental Securities: Unitree Releases Prospectus, Certainty of Humanoid Robot Industry Chain Improves - 富途牛牛
+### Humanoid robot plays tennis with 96.5% accuracy using new AI framework - Interesting Engineering
+
+**发布日期**: 2026-03-20
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxPRFVfbmJfbmZsNnoxYzAwWElUdF9FSXlXVm81UVA0cV9ySzNodG9PZ2YyQzZ3Ykk3NFg5d3VnYzJkRmM1SDktbU1Uel9WWkpsZFdTY2VDRnZTeXVfLUZLTnYwZTIySy05d0xJSy02N0hCSkFQa3NTY0lQbWNva0I0MjZUSW1lOUN5UlB0elp1UWs?oc=5)
+
+宇树科技人形机器人采用新AI框架
+
+---
+
+### Half of the investment community is grateful to Yushu. - PANews
 
 **发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwwFBVV95cUxQejdKSldjMGtKVjRoZkx3TzBBaVhpcFhSR0hHRGhLdGZfaS1qdDF5djBPR0Q2RTVvSWhtX0hSTjFXb2hZdUZLbXpuZ2xxcnB6Mm42aEpqR1NWSXhoNXk1Sy1vd3BEWVZxUlZEc1Uwd21KTHNBNzQwNlloaFpTUWloYzI4Ynh4NEJOQ240NHR1MmZxRENkS2NZd1JsWGZKNlpnWmJLN0NNTk83cllCbmJoNDY4NURLNDJpZzBsamJTa1dpaGM?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQ0tlT0J3QUY3N0RIc2pkUVJfclRpRTFMZG1ZZmt3QUNwVWxlWUJLTmU1UC0xNHdpMTB3aEp3RU1YUml4Q2RHeUZSUzR6OHFCR0tEU1hYMlpHREJaM04zdlhQNXFtU1hCaldtRXlUNXdWbTd3SEZsWk9ibUZrazA?oc=5)
 
-Unitree发布招股书，标志其上市进程加速，人形机器人产业链确定性增强，行业发展前景更趋明朗。
+<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9ZQ0tlT0J3QUY3N0RIc2pkUVJfclRpRTFMZG1ZZmt3QUNwVWxlWUJLTmU1UC0xNHdpMTB3aEp3RU1YUml4Q2RHeUZSUzR6OHFCR0tEU1hYMlpHREJaM04zdlhQNXFtU1hCaldtRXlUNX
 
 ---
 
 ## 优必选
 
-### 优必选与西门子合作量产机器人，中国技术+德国制造会否成为行业新潮流？ - 财联社
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTE9Sblc5cExTQmNtck9Vamlzd1Q3R0FSUVI3RloxMUpuZjZJLUVQXzlkZ0ZuSkk3NkhSakRqZ2JyRmZjOTVWMFZhdA?oc=5)
-
-优必选与西门子达成战略合作，实现机器人量产，中国技术结合德国制造模式，有望引领人形机器人行业国际合作新潮流。
-
----
-
-### 机器人行业周报：宇树科技IPO申请被受理，优必选与西门子达成合作_行业研究_研报 - 证券之星
+### 比宇树更早登上春晚的优必选，用23亿投入换来50亿巨亏 - 36kr.com
 
 **发布日期**: 2026-03-24
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9Xem9CTlJzNzNlcE9oYUJaM2pzcXFFUktpM1FxTVJnTFJGRTdUOWV6SmlqZXdSQ2N3Wi1OYktEUVdVOUFPeHNBM3Zmc29GQ2k4YlZIN0FNOEJKdzU5dU40ekJ3?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE54b29tcWVFTFdFckRXTnhCOUhZTEQzV2xuSlpYR1ltei1lQmdIcEU1eEtOX2FyU2NaN3VmeHFvdVZ5TWhOYjJNelFPMnRRWjlT?oc=5)
 
-宇树科技IPO获受理，优必选与西门子达成合作，反映资本市场对机器人行业持续看好，以及国际巨头对中国机器人技术的认可，推动行业发展。
+优必选虽比宇树更早登上春晚，但23亿投入换来50亿巨亏，显示人形机器人行业商业化变现困难，盈利模式仍待验证。
 
 ---
 
-### 从“会跳舞”到“能干活”：人形机器人距离走进家庭还有几道关？ - AgeClub
+### 优必选CEO周剑：机器人首先替代的是一些招工难、环境困难的岗位 - 新浪财经
+
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjNFTjJVcGN6OVZuYXJKT2RHamUwYzNpelZ2TENyWTV2SmhzVFM5dGdLSU5LNkJIT1RadTktX0tiVXFtdE1XVjZ1MWduNDBWR0JnZ1R3cy1GOURpVHZsbjFlWEw3MWpxWlM2ekVvbEpfYWw1aUVwcGdjQ2llZHpLbk85bnh6dlQ4cTh0TW9mSEJuQ3RaWE1iMjU1MmctRlVjazZtbFh2Tm01bGFlTXlXRmY5REY5aWM0T0Zocg?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxOUjNFTjJVcGN6OVZuYXJKT2RHamUwYzNpelZ2TENyWTV2SmhzVFM5dGdLSU5LNkJIT1RadTktX0tiVXFtdE1XVjZ1MWduNDBWR0JnZ1R3cy1GOURpVHZsbjFlWEw3MWpxWlM2ekVvbE
+
+---
+
+### 机器人租赁市场走热 - 中国经济网
 
 **发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE9vbFpBM2F6a2RWWnA5cEhBZHBfMU5fektkX2NGbHhzVHdrTU83Vy1fYjc0ak1uZVE2aXpLeG5hOURrVWRjM2NTdmRUcGZkYUMxRm1VcV9n?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMia0FVX3lxTFBYYWt0aVdHWFY5Y09HcFo0ZGdiTUxYdFJsZG9IRUxqYThibVhMS0tMb0JEMmFRSE01cEtfX3ZmZlJoeEFzNzU5ak1oTVF3c1pFTVVUN3hfRGtzcFhreUhvczNoTENsemIySURF?oc=5)
 
-人形机器人正从展示功能向实际家务应用发展，探讨进入家庭场景面临的技术、成本等挑战，推动行业向实际应用落地。
+机器人租赁市场正在兴起，为人形机器人提供了更灵活的商业化路径，降低了使用门槛，有助于推动技术普及和应用场景拓展。
 
 ---
 
-### 中国“人形机器人第一股”，买下绍兴一上市公司控股权 - 新浪财经
+### 优必选与西门子合作量产机器人 万台人形机器人量产加速落地 - Sohu
 
 **发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE5vaUlBQTNRZ1BqOWhXcnFkRU4xcVVLcTNuMVNwYkVXTHdEdzJOTldUU2x3TmtRWFN1S1Fsa1FLS29KRXZnem9sTU1NYXdaYzFxeGdkMGxGM2swVEtmYWJya2xEeUJEdW9rNEVvLVRTRElNcklSQ3NJNg?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTFBudjFUNU9FNXBqcXpJeWUyLV81M1N0U24xcHJlN3dyeXlIb2lGVk5IaDlUS2JxeUp0OC1fVmhnVzNKZ0RRQkM1WHFxSVRNXzhqd0o4WE5n?oc=5)
 
-优必选收购绍兴上市公司控股权，加速人形机器人产业链整合与业务版图扩张。
-
----
-
-### 优必选与西门子合作量产机器人 - 新浪财经
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE8xOVMxcEZxSktxUE5ob0wxcUNVQUMzeWR6UjVBczVILW1FVGlDdTRmR1lmQTc4MHFuN0VvM1VENW5VYlh5cVhNVzgyTmJUVDYyOWlIN2RFeWthS0N4elhrYUNKdWpwOGg0bnlzMWZ5M2xzUWZOMy1LOXpLZjZGQQ?oc=5)
-
-优必选与西门子达成战略合作，共同推进机器人量产进程，此次合作将加速人形机器人技术的规模化应用，促进行业发展。
-
----
-
-### 「优必选」总部落沪！万台人形机器人量产加速落地 - 新浪财经
-
-**发布日期**: 2026-03-18
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPSE4zLVc3b0phbFI5ZVg3b2pjYjYxRGRoQk5QTEVaRWljb1Fia2psWVZDa1RwNTVDcWlPRldYSmEzc0NfTDBzMTV2TXVtQlI3b200WTc5bXNHWFN2d2RQOEFKVUlxcF9TZVBHeGx4MzJaU25qSzM0NHVYY1dmX1FSb3JUZTU?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPSE4zLVc3b0phbFI5ZVg3b2pjYjYxRGRoQk5QTEVaRWljb1Fia2psWVZDa1RwNTVDcWlPRldYSmEzc0NfTDBzMTV2TXVtQlI3b200WTc5bXNHWFN2d2RQOEFKVUlxcF9TZVBHeGx4Mz
-
----
-
-### 优必选与西门子合作量产机器人 计划在2026年底前实现1万台产能 - 17173
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5zZWZaN0ljZWVCY0xtRE40WFdOUW0yblQ5LVo1NEd6RXlmVTVJWlVYX0UxdU9rZTRvRldxU1hLeU1heF9QWU1kY21IY05aVm81WWlqcjRRbTFiOFdkcElFajU2LTdRQQ?oc=5)
-
-优必选与西门子达成战略合作，计划2026年底前实现1万台机器人产能。此举将推动人形机器人规模化量产，加速行业商业化进程。
-
----
-
-### 机器人租赁市场走热 - 集微网
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE9RN1pCUm9UTkV4d2xTSW1DUkxJcmFMUDNFZVhxc3lrWVZxWVBqeV8yWTBkSWdhcDdXMllnSDlpa0I4cXdaZ3lnR0FqMS1lOGkySS1pTjk0a0pDcjhINWxmR2p3bGluNTJKYlpaMFFXd0RZajl3SGJnMQ?oc=5)
-
-机器人租赁市场正在升温，为人形机器人企业提供了新的商业化路径，降低了客户使用门槛，有望加速人形机器人技术的普及应用。
-
----
-
-### 宇树科技，凭什么撑起420亿估值？ - wenxuan.news
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiUkFVX3lxTFB6TlFVaEZ2LTdGMjY1Z015bjdCS3JpamVHMkZ5WFRfMkhtZ0xVcnViRlZWS0xIc193U0tPendpamctNDBGZTNSM19VYjBQS0F0OXc?oc=5)
-
-宇树科技获420亿高估值，反映资本市场对人形机器人赛道的强烈看好，凸显技术实力与商业潜力成行业估值关键。
+优必选与西门子达成战略合作，共同推进万台人形机器人量产，加速行业商业化进程，提升中国机器人产业国际竞争力。
 
 ---
 
 ## 小米机器人
 
-### EVWORLD.COM - EVWORLD.COM
+### 雷军最新发文：小米机器人已在汽车工厂实习，未来5年会有大批人形机器人进厂干活 - 新浪财经
 
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tNmhidHJaMU1sSWtkU0FpSzRHT0dqWUNsM25wUmI1ZTY4MWtaLTZndHZkaGtWU2dtUHJwYlVlanlZdzlDeGlRa0g2OUdPNXY3VVBJbFRPbw?oc=5)
+**发布日期**: 2026-03-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimwVBVV95cUxQOUhtVnZDZVJxWEp1eTN6MGo5Z0VfRk0wWTlyUjU2VzNYeWFCWTFQU25teVlzRzhpaHJUTVA4ZjZjeFpsTmppT19Ic1hZaUxQUGNQSXQtT1V5RzBTcXlFM2pySDdWcVNnZ0IyQmU4TjZya21GYkkwT1BjVGNfMGhxUlZYNk00WFFxcmV6aDY4TFBOS1pRRF9zcmNnLWY0RGVEYTFKTmk3aDJjYWk4ZThrRFQ1TzlxbExnaGdmSEFVWk1ZSXZjeElvYWt5RFRWU2hlVl9fZElSSjM5NzBDZERIVVV5NVc0U2hrTkxBODBVR2Z5eDJLajNDZm13eWhQRVo3VFliczYwRUI1bkpTdVhwb21LQWtnV2NaSGVkVEQyVlNyS0ZhZFlFUl9POE13WXdld2tDcUctYmF5ekh4NnBhRDJvTFpPbE1JY2JyV1Z6TFpWbVV0cmFIM1o5cXRoQ1E4dDdzWUk2Uldvc21xbjhZd1RRU0dkSkJJUmF5TmcxbWstMVBQMVVVWmJwTTZrRGhQamJteHdiS0xHZXQ5b2w3UERTNmIxc0R2ZUh4c3ZjWUZoVnVTcFBTQjJ1dGlidk51YUQ2a2dRT0Vvbk5WVXNyR0d4X2dtS202cXRXSnE3U1pVeEJ1ZUZoNUlHbVdNbFVVS2NUYUsyeG5nYlNZYS1XdGtuanh3TElKU1lvODhzSzBXTE16Wm9Dd2FTTlFHRm1iRW9uUGtNcTFVb25VcXVqTktpcnN2WVFLRV9RNFZya1pXU3VMV1lhQVllbktOaVN4S2dXajhoSEMxcWExQWNzeGFva0J0NlJfTjh6MlItNENTTVRqRlI0R2t4NE9DaF85b1Ita0RudzVHYW5zOEpXRHlpbGs4YmNjQ09R?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE0tNmhidHJaMU1sSWtkU0FpSzRHT0dqWUNsM25wUmI1ZTY4MWtaLTZndHZkaGtWU2dtUHJwYlVlanlZdzlDeGlRa0g2OUdPNXY3VVBJbFRPbw?oc=5" target="_blank">EVWORLD.C
+小米人形机器人已在汽车工厂实习，雷军称未来5年将大规模进厂工作。这标志着人形机器人商业化加速
 
 ---
 
-### 雷军：小米是最早一批做机器人的公司 - 东方财富
+### 小米机器人或许比你想象的更强，小米战投加码曦诺未来 - 新浪财经
 
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTE0yRGprakxHbHpjM1E5bHRNWFE1VGJmSDVUWWQ0NER4cWE2dVVtTTFESUtiUUpOcTFvS2hKcFE0aWJUcG5sRWlGMmlpV3pXbll4MS1YYXc5a0pkWE1ITW05Vg?oc=5)
+**发布日期**: 2026-03-20
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE0ycGhCVVhrXzBWQlN5TmtmSzJDbVZweEphV0hGTEpXNVZONWNwaVVlWU5PNmEwLU1hRkF5b2x4Umh1VWVwNzhrWFFfSXlTNi1QR3FseGQzWVhWeEFsVXA2S3BZWVRta08yWmFQRUFteVRTY3p5VGc?oc=5)
 
-雷军称小米是最早一批做机器人的公司，强调其在机器人领域的先发优势。这表明科技巨头持续加码人形机器人赛道，将加剧行业竞争并推动技术发展。
-
----
-
-### 雷军回应小米老是赶潮流：我们是最早一批做机器人的公司 - 汽车之家
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5CNTJXcE8xc1dsSGZGY2w1THd1VW5RcEd1QUt6cHUyREppcDNRQ1M4MnZYZ21wZ2dVcmo0V1VFSHRCdUFFc0tKMDF6ekxqdG1GOHBZWHZCUEx5akE?oc=5)
-
-雷军回应小米被指“赶潮流”，强调公司是最早一批布局
+小米战投加码投资曦诺未来，展现其在人形机器人领域的战略布局野心。该投资将加速小米机器人技术研发进程，加剧行业竞争格局，推动国产人形机器人产业加速发展。
 
 ---
 
-### 雷军回应小米老赶潮流质疑 ：我们是最早做机器人一批公司 - 新浪财经
+### 卢伟冰：预计5年后将有大批机器人进小米工厂“打工” - 新浪财经
 
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxNVU9GZk54SjNoM1k3dzZySWxsN0VPbTkxSmlSTVJlOTBsUGVlaDdCbmI2UzJLSU1hajB1VS1YdVVKTEViNEdJVTZOa1lOR1pFZHluaGNpR2ZlME9Kd1RfX0llUE11WDJacERSQ0RKR1VtWHcyenNnSUI2dXBKTTFwVC1wSVo?oc=5)
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiS0FVX3lxTFB0RnY0NXVGajFZd21raU9YU0tkSjJuYmlDeEFuQlA3YU9UV0hCOUhSSEx1SnM0UFMtSDNSTDREQ1RUQmZyMkZSVUdzRQ?oc=5)
 
-雷军回应质疑称小米是最早布局机器人领域的公司之一，强调并非追热点而是长期投入。此表态显示小米在人形机器人赛道的战略自信，加剧行业竞争格局。
-
----
-
-### 小米有品众筹爆品 lumiAI车载机器人 ，目前已经上线预热，你的爱车也可以有自己的AI机器人，支持上下左右摇动摆动还会跳舞，还可以AI对话互动，内置陀螺仪，不挑车，油车、电车都能用，无需布线，简易安装可选太阳能充电即放即用，轻松上手太阳能+内置电池保障 - 新浪网
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTFAxcnAwUWw1N0IwWGluQXA4YWlTdDJPa19wSVFmdUV6WnZqVk1WM2VDa0EyZVlpQVJ5ZWlfaG9NX2ZYS3NIMDNoc1JzTTA5M3RwU0xzNFNKMWZ2NTVBRkMxU3lXRQ?oc=5)
-
-小米推出l
-
----
-
-### 雷军：小米2017年启动机器人研发，已跻身全球头部阵营 - 新浪财经
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPZ0xUeEROdmdmVzlDcDNGQXRHUE5LVXdkdmRPNWR5QVlOdGctdUtkdURxQmVPdjYtNXlGTHduaEU3MXkzU3ZwaGVZT0lLdmRCRm81eEJJMlpHX1R0VkV0dmxyZlBhbjNhNGtmeUo4OTI3TUdaMHdCTW44VWRDakp0WkhCVmNydw?oc=5)
-
-小米自2017年启动机器人研发，现已跻身全球头部阵营，标志着中国企业在人形机器人领域的崛起，将加剧全球竞争并推动行业技术进步。
+小米计划5年内在工厂大规模部署机器人，彰显人形机器人在工业场景的应用潜力，为行业发展提供重要实践验证。
 
 ---
 
 ### 手机长出“手脚”？机器人扔掉遥控器！ - 新浪网
 
-**发布日期**: 2026-03-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiwJBVV95cUxPWVY5Ul92UGN1cVV2cW5JUTJJWmlZNUdITzVaZUVBR1ZzdzFUcS1Jb1NKNE9HNzhlMDJPNGhiVjRaSm9zeWdSZ2w3ZzRRUWhQOTdZVzJjR2pUaVJObndIZ1FFSndRRlJHMEx5ZW8zZC1LTkVyWC05SWp4S3Z5a29wZUNrUTFWY3ViellMZ0VfMm12WTVJS2pyMDB1Nl9NSUF6d3VMMExYeDhOSGpha1BrbEdvZ21YVEw3blFzdFZCUE9icGhDclJlVGg5ZUxidk9YMF94RHdKV2E0Z1JabmI0ZFdoSWh0UjVUNXI3UUhIYjdTdXZ6Y1BGUjRic1FVUGpYWm8xRS1CUTNUWTQ?oc=5)
+**发布日期**: 2026-03-22
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYlNBRzJHM3ZwYUNidURITzhLYkN4bkNRUHYzTTVET01xak43R3lBWk1nWDhZZGRsNVBjMXNSejdBdVptZ1NmUnNQc3RhajBGeG5mSFBaV3ZsSkpRbGU2QjMzU1Exb2gwSDVDZEJkRnc1NEUzVzBac2lVNnY4MDhVTkFNR0FRNXFkMHVhQWRiVTFQWHpJTDFna0R5MVpoVWlWcHV2QzhRcFBIWm9TN2hHMjYxSXFyNzZqRGZZcnhIYjJWWmhSNHpxRXJxNDBCQXpDYjNSeWlrQWRsSEpoREZWcDRQZjU?oc=5)
 
-小米展示手机与机器人融合技术，实现机器人自主控制，摆脱传统遥控方式，标志着智能终端向具身智能演进的重要突破。
-
----
-
-### 雷军：小米一直在研发具身智能机器人 - 新浪财经
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAJBVV95cUxNWjdzT0tIZDlNTm9BdmJvMm1hMGtDNDhlVUVjZDgwSGdUMVhqUDRFdWtCSzJlUXYwamZiQVg0Z0kyV2FRX2UzRm8ybDB1TG1WNVlBVGlZeUdpSzNzVm8yc0JWZG0wa1NLRjFZVXNDTHVCWjFiNkVzVWxnS0xFbGpna3gxdWN1a0VKT2hJd3pkWTVYVGpyVzZOR3FraU5oaWlxbXdKOFVBRVYzMF94UmIyYndxWDVaenNpdU15ckZTWjBDdm10aGZhendfZUpra2hfdDVyek9JcEFkWnN5Wno1cHNiNjBSeWN6RUhmTC13eVpsSlN3bE43TVlVX2FNcmlRU0lBQkViRGsxY1U5?oc=5)
-
-**摘要：** 雷军表示小米持续研发具身智能机器人，显示科技巨头加码布局人形机器人领域，将加速行业竞争与技术迭代，推动具身智能从概念走向商业化应用。
+<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYlNBRzJHM3ZwYUNidURITzhLYkN4bkNRUHYzTTVET01xak43R3lBWk1nWDhZZGRsNVBjMXNSejdBdVptZ1NmUnNQc3RhajBGeG5mSFBaV3ZsSkpRbGU2QjMzU1Exb2gwSDVDZEJkRn
 
 ---
 
-### 王兴兴为小米新SU7站台，与雷军一起看宇树机器人跳舞 - 新浪财经
+### 小米推出 3999~4699 元米家扫拖机器人 5 Pro：AI 三摄全景识别，国补 3399.15~3994.15 元 - 新浪财经
+
+**发布日期**: 2026-03-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9rSEEyUnI3NFVkRDI4N19fZlVKbGM0QllYbUhOYlE3bV9PM1ExOGJaRV82M3RJZ2pPR0VORk4wRWtGckdrWkZMaTRPaXlrVTBJYXBGYTY5QkowWDcwOVBaM05BbzFPclBLazlsTjZNaFZSNjBQOTduVHFLT21Mdw?oc=5)
+
+小米推出米家扫拖机器人5 Pro，定价399
+
+---
+
+### 小米米家扫拖机器人6 Max今日开售，国补价4899元起 - 新浪财经
 
 **发布日期**: 2026-03-19
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMizwFBVV95cUxOTTlQNjM5YklSeC10VnNlZlZHQUg2LXo1VUJIdHNxT0VMZkhuNFpyNG96UC1XVUF6cUs0bUJPQURwcWxZQlUtYUVvaW5iTWdnVVB4WFhfY05fdzdSaUZfREF1R2ZaUFVORHVNdndDalk0dDRNWHh6Y3JZOEcyM3cwdm1zOTBRRUthaTJNelVRVFY3eWVwQW95WG82SFY0SElLS3Z1VmhpbWdLc19tOGtLUlpsZTdJSDN2N3U4alEtN1pSdFNSY3g5MExPVG1iTm8?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxNZkVuRnU2NTFzQWxPRTlxNEM5UVRQc1ppd0JRRUlRQTZVdFQ3ZGRaa3RCdzBaTEdsZmU4THB5WS1ucXpGenJCZnlMb2lkdHVFc3BYMFBZQWZqUzFXU0VyN3d0YjRLR3d1dmhRcEhQMzhpU2RDN1NndDhqcEgtS3NYUVU4Zw?oc=5)
 
-小米SU7发布会上，王兴兴与雷军共同观看宇树机器人表演，显示科技巨头加速布局人形机器人赛道，宇树科技有望获得更多曝光与合作机会。
+小米推出扫拖机器人6 Max，售价4899元起，加速家用服务机器人市场竞争。该产品虽非人形机器人，但反映消费级机器人市场增长，对人形机器人商业化具有参考价值。
 
 ---
 
 ## Industry News
 
-### Vention releases Rapid Operator AI to automate deep bin picking
+### Agile Robots becomes the latest robotics company to partner with Google DeepMind
 
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.therobotreport.com/vention-releases-rapid-operator-ai-automate-deep-bin-picking/)
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://techcrunch.com/2026/03/24/agile-robots-becomes-the-latest-robotics-company-to-partner-with-google-deepmind/)
+
+Agile Robots与Google DeepMind达成合作，成为最新一家与该AI巨头合作的人形机器人公司。此举将加速AI技术在人形机器人领域的应用，推动行业技术进步。
+
+---
+
+### FANUC America to invest $90M in U.S. robot manufacturing
+
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://www.therobotreport.com/fanuc-america-invests-90m-u-s-robot-manufacturing/)
+
+FANUC America 宣布投资9000万美元在美国建立机器人制造工厂，强化本地化生产布局。此举将促进北美机器人供应链发展，为人形机器人行业提供更高效的制造支持。
+
+---
+
+### FANUC America to invest $90M in U.S. robot manufacturing
+
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://www.therobotreport.com/fanuc-america-invests-90m-u-s-robot-manufacturing/)
 
 
 
 ---
 
-### Palladyne AI and Draganfly reach milestone for autonomous drone swarms
+### New video of Figure 03 autonomously sorting deformable packages and placing them labels-down for the scanner
 
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.therobotreport.com/palladyne-ai-draganfly-reach-integration-milestone-autonomous-drone-swarms/)
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s22tt5/new_video_of_figure_03_autonomously_sorting/)
 
-Palladyne AI与Draganfly达成自主无人机蜂群整合里程碑，推动AI多机体协同技术发展。该技术突破为未来人形机器人的群体协作与自主决策系统提供重要参考。
-
----
-
-### Vention releases Rapid Operator AI to automate deep bin picking
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.therobotreport.com/vention-releases-rapid-operator-ai-automate-deep-bin-picking/)
-
-Vention推出Rapid Operator AI，实现深箱取件自动化。该技术将提升人形机器人在工业物流和制造场景中的分拣能力，推动行业应用深化。
+Figure 03展示柔性包装分拣与标签扫描能力，推动人形机器人在物流仓储自动化领域的商业化应用。
 
 ---
 
-### Palladyne AI and Draganfly reach milestone for autonomous drone swarms
+### New demo by Kyber Labs showing a system doing real lab tasks (one single take, no cuts, and no teleoperation just accelerated and some parts in 1x)
 
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.therobotreport.com/palladyne-ai-draganfly-reach-integration-milestone-autonomous-drone-swarms/)
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s299ix/new_demo_by_kyber_labs_showing_a_system_doing/)
 
-Palladyne AI与Draganfly达成自主无人机群技术整合，提升了机器人协同作业能力。这一进展可迁移至人形机器人的群体智能开发，推动其在复杂环境中的协同应用。
-
----
-
-### Autonomous transport vehicles handling cargo operations at a modern port
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s1m49a/autonomous_transport_vehicles_handling_cargo/)
-
-自动驾驶运输车辆在现代港口实现自主货物运输，提升物流效率。该技术虽非人形机器人，但反映了机器人技术在工业自动化领域的发展趋势，为未来人形机器人在物流仓储等场景的应用提供参考。
+Kyber Labs展示人形机器人独立完成实验室任务，单镜头无剪辑无遥控，凸显自主操作能力进步，推动人形机器人实用化发展。
 
 ---
 
-### Roadrunner, the latest robot from the Robotics and AI Institute, is a bipedal, wheeled robot for multi-modal locomotion
+### Foresight into robots...???? The milkshake machine...
 
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s1jo4q/roadrunner_the_latest_robot_from_the_robotics_and/)
-
-Roadrunner是 Robotics and AI Institute推出的双足+轮式多模态运动机器人，融合行走与轮动模式，提升移动效率与灵活性，标志着人形机器人运动控制技术的新突破。
-
----
-
-### IEEE RAS / Czech Technical University in Multi-Robot Systems Summer Camp in Prague -- learn ROS, earn course credits, and visit Prague
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s1uy0i/ieee_ras_czech_technical_university_in_multirobot/)
-
-IEEE RAS与捷克技术大学联合举办多机器人系统夏令营，教授ROS并提供学分，面向机器人学习者。该活动培养多机器人协调与ROS开发人才，促进行业技术交流与人才培养。
-
----
-
-### How are all these robots moving in perfectly straight lines and having GPS?
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s1tbaw/how_are_all_these_robots_moving_in_perfectly/)
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s2avkf/foresight_into_robots_the_milkshake_machine/)
 
 
 
 ---
 
-### HEXAPOD PROGRESSSSS
+### The robot phone dancing at MWC actually surprised me
 
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s0s75e/hexapod_progresssss/)
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s2c0ao/the_robot_phone_dancing_at_mwc_actually_surprised/)
 
-
-
----
-
-### AR26 Kick-off This Friday + NVIDIA Hardware Raffle
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s1mplh/ar26_kickoff_this_friday_nvidia_hardware_raffle/)
-
-AR26机器人活动将于本周五启动，并有NVIDIA硬件
+在MWC展会上，一款具备机器人功能的手机展示了舞蹈能力，凭借出色表现令人惊喜。这体现了消费电子与人形机器人技术的融合创新，为智能设备交互开辟新方向。
 
 ---
 
-### Release RealSense SDK 2.0 beta (v2.57.7) · realsenseai/librealsense
+### Why Timestamps & Data Retransmission Are Crucial for LoRaWAN Devices—Insights from Our Practice
 
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s1pzli/release_realsense_sdk_20_beta_v2577/)
+**发布日期**: 2026-03-24
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s23ggq/why_timestamps_data_retransmission_are_crucial/)
 
-Intel发布RealSense SDK 2.0 beta版(v2.57.7)，为人形机器人提供更优化的深度视觉感知能力，提升环境识别与导航精度。
-
----
-
-### Warehouse Robotics Are Now Sorting Books in Public Libraries
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s0qomy/warehouse_robotics_are_now_sorting_books_in/)
-
-仓库机器人技术已应用于公共图书馆书籍分拣，显示机器人技术在服务领域的扩展，为人形机器人在图书馆等场景的应用奠定基础。
-
----
-
-### Update: ROS 2 Claude Code skill — Skills 2.0, 5 new docs, 94% test coverage
-
-**发布日期**: 2026-03-23
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s1j3lk/update_ros_2_claude_code_skill_skills_20_5_new/)
-
-ROS 2 Claude Code技能更新至2.0版本，新增5个文档，测试覆盖率达94%。这将提升人形机器人软件开发效率与代码质量，推动AI辅助机器人编程的应用。
-
----
-
-### LiPo batteries in parallel issue on robot
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s0tso6/lipo_batteries_in_parallel_issue_on_robot/)
-
-人形机器人在使用锂电池并联时出现技术问题，涉及电池管理和平衡问题，这对机器人电源系统设计具有重要参考价值。
-
----
-
-### Robotic Fish Are This Invasive Species' 'Worst Nightmare'
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s0sff2/robotic_fish_are_this_invasive_species_worst/)
-
-机器鱼被用于捕捉入侵物种，展现了特种机器人在生态保护中的应用潜力，但对人形
-
----
-
-### Followed a ROS2 tutorial, but my robot model looks completely different , not sure what I did
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s0mjh3/followed_a_ros2_tutorial_but_my_robot_model_looks/)
-
-用户在学习ROS2教程时机器人模型显示异常，反映出人形机器人开发中ROS2工具链的技术门槛和问题。
-
----
-
-### Working on an experimental micro‑swarm drone concept — looking for technical feedback
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s0y1wn/working_on_an_experimental_microswarm_drone/)
-
-有人正在开发实验性微群体无人机概念并在机器人技术社区寻求反馈。对人形机器人行业而言，微群体协同技术可为未来群控机器人提供技术参考，推动集群
-
----
-
-### Those of you running multiple AI models on a single edge GPU (Jetson, etc.) - how do you handle resource allocation?
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s0olg0/those_of_you_running_multiple_ai_models_on_a/)
-
-在边缘GPU上运行多AI模型的资源分配问题讨论，涉及人形机器人如何在有限算力下优化多个实时AI任务并行运行。
-
----
-
-### LiPo batteries in parallel issue on robot
-
-**发布日期**: 2026-03-22
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1s0tso6/lipo_batteries_in_parallel_issue_on_robot/)
-
-技术帖讨论人形机器人中锂电池并联使用问题，反映出电池系统集成仍是行业关键技术挑战，影响机器人续航与动力系统设计。
+该新闻介绍了LoRaWAN设备中时间戳和数据重传的重要性。对人形机器人行业而言，这有助于提升远程通信的可靠性和数据完整性，支持机器人在更复杂环境中的稳定运行。
 
 ---
 
