@@ -1,68 +1,68 @@
 {
   "papers": [
     {
+      "title": "PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning",
+      "summary": "本文提出PCHC框架，利用多目标强化学习（MORL）结合Beta分布对齐机制和混合专家（MoE）模块，使单一策略能够根据偏好向量动态生成多样化的类人机器人行为，解决速度与能耗等多目标冲突问题。",
+      "date": "2026-03-25",
+      "link": "http://arxiv.org/abs/2603.24047v1"
+    },
+    {
+      "title": "MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics",
+      "summary": "提出一种GPU并行化的基于延拓的差分逆运动学方法，通过并行求解多个约束IK二次规划并利用Lyapunov进展准则选择最优更新，在保持实时性能的同时有效逃离关节限制、奇异点和碰撞边界导致的局部极小值。",
+      "date": "2026-03-25",
+      "link": "http://arxiv.org/abs/2603.23995v1"
+    },
+    {
+      "title": "SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating",
+      "summary": "SafeFlow通过结合物理引导的流匹配生成与三阶段安全门控，实现文本驱动的类人全身实时控制，在保证物理可执行性的同时过滤不安全动作。",
+      "date": "2026-03-25",
+      "link": "http://arxiv.org/abs/2603.23983v1"
+    },
+    {
       "title": "A Multimodal Framework for Human-Multi-Agent Interaction",
-      "summary": "论文提出一种多模态框架，使两个人形机器人作为自主认知智能体，通过LLM驱动规划和集中式协调机制实现协同多模态交互。",
+      "summary": "论文提出一种多模态框架，使每个人形机器人作为具备多模态感知和LLM驱动规划的自主认知智能体，并通过集中协调机制实现团队级协同交互，解决多机器人系统中感知-表达-决策的整合难题。",
       "date": "2026-03-24",
       "link": "http://arxiv.org/abs/2603.23271v1"
     },
     {
       "title": "Human vs. NAO: A Computational-Behavioral Framework for Quantifying Social Orienting in Autism and Typical Development",
-      "summary": "该研究通过视频计算方法比较自闭症谱系障碍(ASD)与典型发育(TD)儿童对人类和NAO机器人呼叫名字时的社交定向行为差异，量化眼接触、反应延迟、头部转向等多项行为指标，为ASD早期筛查和机器人辅助评估提供量化框架。",
+      "summary": "通过视频计算方法对比人类与NAO机器人呼唤名字时，自闭症与典型发育儿童的社会导向行为差异，为自闭症评估提供客观量化框架。",
       "date": "2026-03-24",
       "link": "http://arxiv.org/abs/2603.22759v1"
-    },
-    {
-      "title": "Learning Safe-Stoppability Monitors for Humanoid Robots",
-      "summary": "提出PRISM框架，通过模拟驱动的神经预测器学习人形机器人的状态级安全可停止性，利用重要性采样迭代细化决策边界，实现安全停止能力的精准预测与sim-to-real迁移。",
-      "date": "2026-03-24",
-      "link": "http://arxiv.org/abs/2603.22703v1"
-    },
-    {
-      "title": "Allometric Scaling Laws for Bipedal Robots",
-      "summary": "该论文通过文献数据分析和Drake仿真实验，揭示了双足机器人的异速生长缩放规律：机体质量随腿长L呈L²缩放（而非生物的L³），行走速度呈L^(1/2)缩放，所需扭矩随m*L变化（而非m*L²），为机器人尺寸缩放设计提供了理论指导。",
-      "date": "2026-03-23",
-      "link": "http://arxiv.org/abs/2603.22560v1"
-    },
-    {
-      "title": "Make Tracking Easy: Neural Motion Retargeting for Humanoid Whole-body Control",
-      "summary": "本文提出NMR神经运动重定向框架，将传统基于几何的映射转化为动力学感知的可学习过程，通过VAE运动聚类和强化学习专家修复来实现高质量人体动作到机器人动作的迁移。",
-      "date": "2026-03-23",
-      "link": "http://arxiv.org/abs/2603.22201v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Elon Musk’s $10 Trillion robot: Inside Tesla’s push to mass produce Optimus - Teslarati",
-      "summary": "Tesla计划投资10万亿美元推进Optimus人形机器人量产，马斯克视其为未来核心业务。这标志着特斯拉正式入局人形机器人赛道，将加速行业竞争与商业化进程。",
+      "title": "Tesla (TSLA): Musk Eyes $10 Trillion Revenue from Optimus Robot Program - CoinCentral",
+      "summary": "Musk预期Tesla的Optimus机器人项目将创造10万亿美元收入，彰显人形机器人市场的巨大潜力，或将加速行业商业化进程。",
       "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5OV1JzdXBIWWROYVFZMVJqeEVBMk1RdU5kNkNrYlNqY0NHTGstLWNHTmZLX081ajEyNWZ3TlVjOHphOUpPb2tMZUJ3eG5rbGZhN0FYYW0taVFydHkwQWhkZ2F6NA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTGk2VUw1a2xFUzkyV1VFZG1iSGdEemhDRTdqeDdoU2Q0YmJ5eXRyYVdWenhVVV95aFk5YmVwS0dTNHNkR2Y2R2xIbjBQYTF2b3k5akIyWjFCb2N5YzZid0hzR3dnOEZYcHZOcm5MVlE1VlJWRkFtSm9NYUNvV1AzcF9Ma25CMV9XMUM5UDlSRmxQM1pMQjNZ?oc=5"
     },
     {
-      "title": "Tesla's Optimus Robot Set to Revolutionize Workforce and Manufac - GuruFocus",
-      "summary": "用户要求我分析一条关于Tesla Optimus机器人的新闻，并要求用1-2句话（50字以内）总结关键信息和对行业的意义。",
+      "title": "Tesla Stock Today (TSLA): Live Price, Analysis & Forecast | 2026 - techi.com",
+      "summary": "该新闻为Tesla股票(TSLA)2026年价格走势分析与预测，属于股票市场动态，未涉及Tesla人形机器人Optimus的具体技术或行业进展，对人形机器人行业分析价值有限。",
       "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPYTF5RnlOaU1fbUVCdHh6WjlpSUtHblhQUHphbGpKS3NPc256eVNlT3R1c1dMaVJsNTZOdDRra0RKWlpnWDlFb3d4UjRRdzEyT2lUUkVZcERPa1lJZDBDNEVPZ1FZYzE5UjAyS0g1b1hxbFZHR2kwX0JGVWxuNkU1aUotX05kUGJ1Z0dzbnBQS1pyT3pjcEdYT0Z6ZFBuQTk5NjBfTER2eUVQTmlK?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dHVFMzlnNi1QRTh5Q0Rxd1RzUmlUN25DaHRBR2F4SmRjbHBjV081czB0M01YZld3UjRfRnBNY0NKdmpWWlpCQTRnRHM2YzE0ZXc?oc=5"
     },
     {
-      "title": "Tesla's Optimus robot division has posted a job opening, stating its goal is to achieve mass production as soon as possible. - PANews",
-      "summary": "Tesla Optimus机器人部门发布招聘启事，明确目标是尽快实现大规模生产。此举表明Tesla加速推进人形机器人商业化进程，将加剧行业竞争并推动产业链快速发展。",
+      "title": "First Humanoid Robot Appears At White House With Melania Trump — And No, It Wasn't Elon Musk's Optimus - Benzinga",
+      "summary": "首款人形机器人随梅拉尼娅·特朗普亮相白宫，但非特斯拉Optimus。此事件标志着人形机器人进入",
+      "date": "2026-03-25",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOM3ZaU0FCZmViUGl6cHc5cGI0aXZEVlZyY1h1alc4NDJTOXFDQ0tJbnhsWVFMY3NncXdsdXRtUU9tT0FoeVNnMDlMSE5uRS1wZFh5bUhqN2JleUF6NG1CR0ZGRkpUd05SZmZpVkhRY1RvZ2pES1o0Z01IVERBZU1ZS0Y1YmdvV29EQjJ2YUl5UjA4RllNRWxBNmxHOF9remJUMVJhaGNjeHpaNmRtSi1jTUEwWDVWWEJPYlBfV0NXYlNUbXNsSExzMjNJZnNXT3ZWVFZOcjhLWC1TRWZMb1RWVjZuLW8?oc=5"
+    },
+    {
+      "title": "Tesla (TSLA): Musk Eyes $10 Trillion Revenue from Optimus Robot Program - mexc.co",
+      "summary": "Tesla CEO Elon Musk预计Optimus机器人项目将实现10万亿美元营收，此目标彰显人形机器人在工业与服务领域的巨大商业潜力，推动行业加速发展。",
+      "date": "2026-03-25",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFB2V2xGLTd0cEx6a05IYV9sSEZ1UC1xUVRxTUNNLUNtWDRBYXgxdWVIeU40TGkydE1JOXR4T2pJTlJWaGxZZlE?oc=5"
+    },
+    {
+      "title": "Tesla's Optimus robot division has posted a job opening, stating its goal is to achieve mass production as soon as possible. - | PANews",
+      "summary": "Tesla Optimus发布招聘启事，目标直指大规模生产，表明特斯拉加速推进人形机器人商业化进程，将加剧行业竞争并推动技术快速迭代。",
       "date": "2026-03-25",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42NzM4cFFvUVQ2TWROb082V003YUh1Y0R0a3EyRTB3WEEwRXRrR3RDOWNERVQ5RHFVcThnRmR0SFpNMFVseU1USXhRYkRnejlKdmFrY0dLNXpSNmp0SFduX2ZiZ1doVkUzb1EwNGdUSFhVZWNSS3Q3eEVNaDFSYnM?oc=5"
-    },
-    {
-      "title": "The latest video of the Tesla robot has been released, showcasing the design of the reduction gearbox and dexterous hands. - 富途牛牛",
-      "summary": "特斯拉发布最新机器人视频，重点展示减速齿轮箱和灵巧手机器人核心部件设计。这表明特斯拉在人形机器人关键技术领域持续突破，将加速行业发展并提升市场对机器人灵巧性的期待。",
-      "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNclRIanRXT2ZBOE9ac2tocXB0a0xJTkNfRXQ3Mk9uTFVmSHIyeXUxdlhnZ21WNVdSek9aUnNlRWwxVGZyYmpkcGowVkRScG1XWHIxbTNxdlFXYnNLd0hwd2s2MFlqMTJZNVFrU0kzZzVHR2pXajE0TkVKbDBncG4wMnRXS0gzWkk0bHR2a3ZWZFVSaXpxRTVCMHlVUFY?oc=5"
-    },
-    {
-      "title": "Unitree's High - Time IPO Amid Intense Humanoid Robot Market Competition - 36氪",
-      "summary": "宇树科技即将上市，在人形机器人市场竞争激烈背景下，IPO将为其提供更多资金支持，也预示着行业竞争将进一步加剧，头部企业整合趋势加速。",
-      "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE85Sy03MzZibm5VWHg3bDBaY2pKcjlhQWFlZWNWVTE3RHZ6eFplVU4wU0JIX2tRT0dKOWo3WkNFcGRzSjR6dnBLeDBaRkRHSTJ0eEZB?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-25T13:36:55.499414"
+  "updated_at": "2026-03-26T02:55:34.723705"
 }
