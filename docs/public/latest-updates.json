@@ -1,68 +1,68 @@
 {
   "papers": [
     {
+      "title": "A Mentalistic Interface for Probing Folk-Psychological Attribution to Non-Humanoid Robots",
+      "summary": "该论文构建了一个实验平台，通过保持机器人行为不变而改变大语言模型生成的解释框架（心理论/目的论/机械论），来研究语言和框架如何影响人们对非类人机器人的意图状态归因。",
+      "date": "2026-03-26",
+      "link": "http://arxiv.org/abs/2603.25646v1"
+    },
+    {
+      "title": "SafeGuard ASF: SR Agentic Humanoid Robot System for Autonomous Industrial Safety",
+      "summary": "SafeGuard ASF是一个面向无人工厂的自主安防人形机器人系统，通过整合多模态RGB-D感知、ReAct推理框架和学习式运动控制策略，实现火灾检测、管道温度异常监测和入侵检测等危险场景的自主预警与响应。",
+      "date": "2026-03-26",
+      "link": "http://arxiv.org/abs/2603.25353v1"
+    },
+    {
       "title": "PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning",
-      "summary": "本文提出PCHC框架，利用多目标强化学习（MORL）结合Beta分布对齐机制和混合专家（MoE）模块，使单一策略能够根据偏好向量动态生成多样化的类人机器人行为，解决速度与能耗等多目标冲突问题。",
+      "summary": "本文提出PCHC框架，利用多目标强化学习实现单一策略即可根据输入偏好动态调整人形机器人的目标优先级，解决了传统方法需训练多个策略的效率问题。",
       "date": "2026-03-25",
       "link": "http://arxiv.org/abs/2603.24047v1"
     },
     {
       "title": "MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics",
-      "summary": "提出一种GPU并行化的基于延拓的差分逆运动学方法，通过并行求解多个约束IK二次规划并利用Lyapunov进展准则选择最优更新，在保持实时性能的同时有效逃离关节限制、奇异点和碰撞边界导致的局部极小值。",
+      "summary": "提出GPU并行化的延续式差分逆运动学方法,结合控制屏障函数和Lyapunov准则实现人形机器人实时安全的上半身遥操作。",
       "date": "2026-03-25",
       "link": "http://arxiv.org/abs/2603.23995v1"
     },
     {
       "title": "SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating",
-      "summary": "SafeFlow通过结合物理引导的流匹配生成与三阶段安全门控，实现文本驱动的类人全身实时控制，在保证物理可执行性的同时过滤不安全动作。",
+      "summary": "SafeFlow通过物理引导的Rectified Flow生成可执行运动轨迹，并创新性地引入三阶段安全门机制，实现了文本驱动的实时人形机器人全身控制，有效解决了物理hallucination和安全性问题。",
       "date": "2026-03-25",
       "link": "http://arxiv.org/abs/2603.23983v1"
-    },
-    {
-      "title": "A Multimodal Framework for Human-Multi-Agent Interaction",
-      "summary": "论文提出一种多模态框架，使每个人形机器人作为具备多模态感知和LLM驱动规划的自主认知智能体，并通过集中协调机制实现团队级协同交互，解决多机器人系统中感知-表达-决策的整合难题。",
-      "date": "2026-03-24",
-      "link": "http://arxiv.org/abs/2603.23271v1"
-    },
-    {
-      "title": "Human vs. NAO: A Computational-Behavioral Framework for Quantifying Social Orienting in Autism and Typical Development",
-      "summary": "通过视频计算方法对比人类与NAO机器人呼唤名字时，自闭症与典型发育儿童的社会导向行为差异，为自闭症评估提供客观量化框架。",
-      "date": "2026-03-24",
-      "link": "http://arxiv.org/abs/2603.22759v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Musk has a plan to make human labor obsolete. Billionaires are joining in. - The Washington Post",
-      "summary": "Musk计划通过人形机器人技术让人类劳动过时，亿万富翁纷纷加入投资。该趋势将加速人形机器人行业发展，推动自动化技术替代传统劳动力。",
-      "date": "2026-03-27",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPOE9HbWl6SEtGRVR0emUybGdXcXpTSU9EWjdEczg1MXhnVU1fbTlqWkJ4Rmd3ckJyOUU5YmdydzB5WVFMWGxTRTNVRWJSQU4xYTJzcHhsZVRLU0V3RW1Da1hFa0Y1NGtrSHR3U3lKc2gteFNoS1RFVVJnZVZDWkZzSi1ZdmFyYkM3eTVkZw?oc=5"
+      "title": "Tesla Optimus Gains Human-Like Hands as Gen 3 Reveal Nears - Not a Tesla App",
+      "summary": "Tesla Optimus机器人获得类人双手设计，第三代发布在即。此举表明Tesla在提升机器人精细操作能力方面取得突破，可能推动行业向更高灵活性的仿人机器人手部技术发展。",
+      "date": "2026-03-26",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTTdCeFl1NndTMlNlcFVlOTlVcEZXQzZhYjJHLWFrdjhLWlpTcUZ5Mnk3Z29EeUM1VTJLY0lDc3R2TENWSzlDMDhTWXNnakI3V2xDTmJSUVpMU3ZYX0JYd1haY1drNi1TOGJKdlRfWHNfa3dzV1llNzdfS0s5eUVLZlA5LUIxelRZdm90QjR5c0NrUXMzWDVpem03Ym53Zw?oc=5"
     },
     {
       "title": "Wall Street Is Going Gaga for Robots. Aptiv and Other Stocks Will Benefit. - Barron's",
-      "summary": "tag",
+      "summary": "华尔街看好机器人行业，Aptiv等公司股票将受益，反映资本市场对人形机器人赛道的持续关注和投资热情。",
       "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQV09nNGppdE50ZVpISFZZRGVJZzY2TVIzTzZuakxNc3BlaFJJM0NCQjB6VVRIMjMtNUJXSGJZUHl4ODVLa1lVaTV2RXotNUNObVJoeGRDZ09DM2R2dzNveU5CSlJQLWVCcmJ4aDNRQXNKc2pjMTczazZ6YXBlbURyR2loR1hlWTBLUXZnNnE2TVY3Yjc3S0RuaVlCOG1jZE1hRGh0SDQ3ZE9MQ0o5QXRGY2FUUWdXckZWM091YWVVelRWanBjMHJ5a2QyZG9iUFFWUUEtVFVrNTdGMk1QemdSQTRJcTdnUDNCTGlMWlVSUzVJamt1LTdiTUl4dFZ2dmlrbHpZVUJmTVRMSmVtc1VDT3NLdWlSY3JqbzJXUVY5TjVNZE9LYWxYaHVvbUxkSWNHX3lLeWFzdGRPS095XzNZZzNZOS0xWXIwb0Z5ODZSSGJwWUs3VC1ydWlJNGhHQWtIMDZRMlVjbVBqRlJuT2VINFFnbnBwZWtiN0dNWjh5UnBSUmZSdFRESVJmUy10VzQxZjVPaQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPMmdzZHlxSDFXZFdiYzNkSGJiOExjTVlPZ0pYYkhPM3ZZT2ZLd2djZ01tSnI1VWotTF8yWDJSS2MzREdvMU9YN1RpNks0alptbDU3TkExUFNfcmlwU3RGUVY3TGNRYm1KVGY2VmdXcVdrSTB6S2dqRjV1S19YSnVWNlJKMGdPRDE0UWM1bFUwTkViMVdONmVZN3J2ZGxSWkR2UUo1MzlPaEJ5YzlNYVpBVXVMN3o4TXNzeUY5SmJNTEJ1ZUYxcE13Yy1DdUlyUDNaUWdCWlFBbzktRXJzQmNfLURkY2h5YXd2U1AtVFNqSlBROW5yVVVBdUxaUmZITnJnODJlNTBNUkJUMVBqWTZmQVNfSW1OaUsyeG82RFQ5SEI0R2hSejdJdVVFOTJ3eG9ZdXJqQ2FxTHprbXBSUHdsS0RZNWI5YmZzUzA0clp2V01RQW5xOERLa3JtUXdPTXpBZHFma1Q1SW03dUZJNzBxNDY1SE1JaEJrVlVkQV9KT0JjbDRySnBHN1pXM0hpc25lazJWYg?oc=5"
     },
     {
-      "title": "Tesla (TSLA): Musk Eyes $10 Trillion Revenue from Optimus Robot Program - CoinCentral",
-      "summary": "The user wants me to analyze a Tesla news about Elon Musk's Optimus robot program targeting $10 tril",
+      "title": "Tesla Stock Today (TSLA): Live Price, Analysis & Forecast | 2026 - techi.com",
+      "summary": "这条新闻主要提供特斯拉股票(TSLA)的实时价格、市场分析与2026年股价预测，属于股票市场资讯。对人形机器人行业而言，虽提及特斯拉但未涉及其人形",
       "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTGk2VUw1a2xFUzkyV1VFZG1iSGdEemhDRTdqeDdoU2Q0YmJ5eXRyYVdWenhVVV95aFk5YmVwS0dTNHNkR2Y2R2xIbjBQYTF2b3k5akIyWjFCb2N5YzZid0hzR3dnOEZYcHZOcm5MVlE1VlJWRkFtSm9NYUNvV1AzcF9Ma25CMV9XMUM5UDlSRmxQM1pMQjNZ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE02dHVFMzlnNi1QRTh5Q0Rxd1RzUmlUN25DaHRBR2F4SmRjbHBjV081czB0M01YZld3UjRfRnBNY0NKdmpWWlpCQTRnRHM2YzE0ZXc?oc=5"
     },
     {
-      "title": "Tesla officially begins sunset of Model S and Model X - Teslarati",
-      "summary": "The user is asking me to analyze a Tesla news article and provide a summary in 1-2 sentences (within",
-      "date": "2026-03-24",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9BX205Y1pvQUZhN1FhZjJha2RiWVVzUDExaFdUZ2l1eFV5d0h6OTVlZW13RHJnd1BwNmx1MzZRZ0EySkpxbmIxSjd3MUR3SE5RVFhTOFQ5aVNoNExacGg4VXpyako5OHFtYWdqLTRsejVZSUtiWTUyZXVHOWpSUQ?oc=5"
+      "title": "Tesla Optimus release date, price & how to buy (2026 update) - Tribune Online",
+      "summary": "Tesla Optimus发布计划更新：预计2026年上市，价格及购买信息逐步明朗。这将推动人形机器人商业化进程，加速行业竞争与技术迭代。",
+      "date": "2026-03-27",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOck5ZV0lUbWNxenh6UHRLVGpZX1RGbkhLNVFxR3lPS3N5Q3Vody15RnVYc1R5TkpzV3RZTTdfXy1vS2JXTzNjRGowalFQamRiVXQyTUhydVRLbjBhSXdYVUl6WW0xSm5aNkVXeDhFYlpvd0FxUUI2eFNnSlFUZndpb3YyWGNyOXJUSDFXc9IBkgFBVV95cUxOT3BGTlZTTkZTeWVJeW8tNGgxX01lV2lVaHgwUjFQMnVzcXNzV2dMT2ZieGU4elRfeS1hNlFudDhTbUNWMzg0akUyN0p4aW1LQXVrc0JYTURnS2NlVnZfNHZaTXU0dWZaR1YyS0owYmFmTmxmUVJwWUhFcXZVM09RcUZnSHVnb3B5NXEwQkJkQ1NkQQ?oc=5"
     },
     {
-      "title": "Boston Dynamics’ Turnaround Under Hyundai Motor Group - 동아비즈니스리뷰 | DBR",
-      "summary": "现代汽车集团收购后 Boston Dynamics 实现扭亏为盈，为人形机器人商业化落地提供示范，显示汽车制造商在机器人领域的跨界整合能力。",
-      "date": "2026-03-26",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4zQjFwc29ycTJhZjFfZHlYS1dSaEpVVE5WMVRuRFVyb0VZbVZxZjNVbVFHVXNYbktWQTlMN192Y1g5cGkxNzhLZTJvRno4YkFHNWF0RmNnZWJVQ01wNWNtcllR?oc=5"
+      "title": "Tesla's Optimus robot division has posted a job opening, stating its goal is to achieve mass production as soon as possible. - PANews",
+      "summary": "Tesla Optimus机器人部门发布新职位招聘，明确目标为尽快实现大规模量产。作为行业领军企业，此举将加速人形机器人商业化进程，可能引发行业竞争与技术迭代加速。",
+      "date": "2026-03-25",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE42NzM4cFFvUVQ2TWROb082V003YUh1Y0R0a3EyRTB3WEEwRXRrR3RDOWNERVQ5RHFVcThnRmR0SFpNMFVseU1USXhRYkRnejlKdmFrY0dLNXpSNmp0SFduX2ZiZ1doVkUzb1EwNGdUSFhVZWNSS3Q3eEVNaDFSYnM?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-27T13:21:34.223862"
+  "updated_at": "2026-03-28T02:24:04.976696"
 }
