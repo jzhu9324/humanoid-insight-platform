@@ -1,68 +1,50 @@
 {
   "papers": [
     {
-      "title": "A Mentalistic Interface for Probing Folk-Psychological Attribution to Non-Humanoid Robots",
-      "summary": "该论文构建了一个实验平台，通过保持机器人行为不变而改变大语言模型生成的解释框架（心理论/目的论/机械论），来研究语言和框架如何影响人们对非类人机器人的意图状态归因。",
-      "date": "2026-03-26",
-      "link": "http://arxiv.org/abs/2603.25646v1"
+      "title": "Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation",
+      "summary": "该论文在Unitree G1人形机器人上系统评估了14种传感器组合，发现 minimalist 的主动双目相机配置在数据受限场景下优于复杂多传感器方案，在空间泛化任务达87.5%成功率，结构化操作任务达94.4%，验证了传感器策略性选择对模仿学习效率的关键作用。",
+      "date": "2026-03-30",
+      "link": "http://arxiv.org/abs/2603.28422v1"
     },
     {
-      "title": "SafeGuard ASF: SR Agentic Humanoid Robot System for Autonomous Industrial Safety",
-      "summary": "SafeGuard ASF是一个面向无人工厂的自主安防人形机器人系统，通过整合多模态RGB-D感知、ReAct推理框架和学习式运动控制策略，实现火灾检测、管道温度异常监测和入侵检测等危险场景的自主预警与响应。",
-      "date": "2026-03-26",
-      "link": "http://arxiv.org/abs/2603.25353v1"
-    },
-    {
-      "title": "PCHC: Enabling Preference Conditioned Humanoid Control via Multi-Objective Reinforcement Learning",
-      "summary": "本文提出PCHC框架，利用多目标强化学习实现单一策略即可根据输入偏好动态调整人形机器人的目标优先级，解决了传统方法需训练多个策略的效率问题。",
-      "date": "2026-03-25",
-      "link": "http://arxiv.org/abs/2603.24047v1"
-    },
-    {
-      "title": "MIRROR: Visual Motion Imitation via Real-time Retargeting and Teleoperation with Parallel Differential Inverse Kinematics",
-      "summary": "提出GPU并行化的延续式差分逆运动学方法,结合控制屏障函数和Lyapunov准则实现人形机器人实时安全的上半身遥操作。",
-      "date": "2026-03-25",
-      "link": "http://arxiv.org/abs/2603.23995v1"
-    },
-    {
-      "title": "SafeFlow: Real-Time Text-Driven Humanoid Whole-Body Control via Physics-Guided Rectified Flow and Selective Safety Gating",
-      "summary": "SafeFlow通过物理引导的Rectified Flow生成可执行运动轨迹，并创新性地引入三阶段安全门机制，实现了文本驱动的实时人形机器人全身控制，有效解决了物理hallucination和安全性问题。",
-      "date": "2026-03-25",
-      "link": "http://arxiv.org/abs/2603.23983v1"
+      "title": "Cost-Matching Model Predictive Control for Efficient Reinforcement Learning in Humanoid Locomotion",
+      "summary": "该论文提出一种成本匹配方法，通过训练参数化MPC使其近似强化学习中的动作值函数，从而实现高效的人形机器人运动控制梯度学习，避免了训练过程中重复求解MPC的计算负担。",
+      "date": "2026-03-30",
+      "link": "http://arxiv.org/abs/2603.28243v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Wall Street Is Going Gaga for Robots. Aptiv and Other Stocks Will Benefit. - Barron's",
-      "summary": "华尔街看好机器人投资，Aptiv等汽车供应商将受益于人形机器人商业化",
-      "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxQVHhLOGFlTU0wUWcwWTh2c3gtM004dkFCaVd0N3dwYVdweUdmdGtLRnJWQmhSRWkzc095cW5TM3FUOUZodko5TmdZNUNkLUlNWDRnaXg1V1lHemRONHg1bF94WTdySHlZWm9Vd0R1b0p3Q1hKMDYtUWRhY1M2ZFdaWWdKNUtPTjFyaU9fVE5IZ2d1TFIxSzh1eWluYVhuNGw3VmxGSWZVV2xPMm1RaWV6ek5fRWF2RmZ5U1E0NGJ0S3lzX0tULVd4NkUyNmVCMER2LTM0anpQRW5MYUcxaTJ3T0NvWFBOUzQtZTMyMlU5VEdLRzlJM0xvNl9kc004c1ZaYmJUTGt6N1pXVk5pcHJrMWpub0FCUlZhdmNSbk5BeEFwb0JuUmYtRzFQRUROS2ZNNFQ5REJYT0EtZ0hwNE9rM2NlUHBDeVprQ25qbUJvTnZoZE9IMjJfdFFNc0NnSTFTOFprZ3I4UExyaEdIOHdYWWkwWmJEMEJhU1NhbmpxSF9KeTlLODd1TnNlYVFSQkJ1dmJVVg?oc=5"
-    },
-    {
-      "title": "The Humanoid Robot Race: Tesla's Optimus Faces New Rivalry as Insider Trading Diverges - AD HOC NEWS",
-      "summary": "特斯拉人形机器人Optimus面临新竞争，对行业发展具有推动作用。",
+      "title": "XiaoZhi Weekly News | Latest Tesla Optimus Video Revealed; RoboSense Robot Business Surges - Gasgoo",
+      "summary": "特斯拉发布最新Optimus机器人视频，展示显著技术进步； RoboSense机器人业务快速增长，两项进展均表明人形机器人行业正在加速发展，技术突破与商业化进程齐头并进。",
       "date": "2026-03-30",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRlUzY0RsbTRxMVl6bzVvOG9QRlJZTkxtUU1RUjdKWWJXX2hJaHNHU1Y3QVlVMFZ6WnVTTnFHdDdrZW1FNktzN0pVd2Frb1BKaHVNZWtseVVRLVJ4MjR0VG5IX3NYZEMwWHYwOVpsNW1TWFB3a3VzQUVESkJmUER4dkVHVGpPaklrOHdUbF9zaERIeFVwVWNvcXRPZ1pUaGk0Y3gwbEhjRXV5YXgxbWt2MThnTGE3VDcxUjRacHNoS2hHTERTYWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5"
     },
     {
-      "title": "Tesla: Optimus Is A Distraction (NASDAQ:TSLA) - Seeking Alpha",
-      "summary": "分析师认为Tesla的Optimus人形机器人项目是分散精力的因素，可能不是公司当前的核心发展方向。",
-      "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9aRk5vZ1V6VllfSzRzRHJjR0Rxbi1BWHl1TDZZRXdrdEVhU253eGxSa2txWG9BQTV6dVNhblNGNlowQ2FkZExyRE9OTXNWbUhDV3VUM25icF85Q1Vsd3ZPVFcwd3pMeGVaYTFxNy00MDlub3NSYlBXbENobw?oc=5"
+      "title": "Tesla Optimus Gains Human-Like Hands as Gen 3 Reveal Nears - Not a Tesla App",
+      "summary": "Tesla Optimus第三代即将发布，配备类人双手设计，提升精细操作能力。此举将推动人形机器人行业技术进步，加速商业化应用。",
+      "date": "2026-03-26",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTTdCeFl1NndTMlNlcFVlOTlVcEZXQzZhYjJHLWFrdjhLWlpTcUZ5Mnk3Z29EeUM1VTJLY0lDc3R2TENWSzlDMDhTWXNnakI3V2xDTmJSUVpMU3ZYX0JYd1haY1drNi1TOGJKdlRfWHNfa3dzV1llNzdfS0s5eUVLZlA5LUIxelRZdm90QjR5c0NrUXMzWDVpem03Ym53Zw?oc=5"
     },
     {
-      "title": "Unitree's Shanghai listing tests Boston Dynamics: boom or bubble? - The Korea Herald",
-      "summary": "Unitree上海上市对Boston Dynamics构成挑战，检验人形机器人行业是真实繁荣还是泡沫，推动市场竞争与技术进步。",
+      "title": "Tesla: Promises Of Robots And Space Data Centers Do Not Justify This Valuation (TSLA) - Seeking Alpha",
+      "summary": "市场质疑Tesla高估值，称其机器人及数据中心承诺缺乏实质成果支撑，提醒人形机器人行业需以实际产品与盈利能力而非概念验证估值。",
       "date": "2026-03-30",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBPY0tSYzdWMDVfckQ2TGlLS0txV2NLSmhuTk1QOG1DeUt3ejNNUjd3WXRJRHlvXzV5RmppQ055TlV6d09INXpSOWphR3pFN3R3S2trbTl6MA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOR2JZLTh0d0NNR29yXzB0U1JsS1N2Y0s5OXR3Y05NWkY2Yzlmei1YQURvcWxxd3JhbWU1NnNfSjdQNmdYZVNHMno1Vk5FWFNlcUhGWWt6UUNiVXlVSWR3STZjcGJJVkdReHh2S1dua2hDaHpSdDZxVTFBOVFOUGE4N0MzS1ZETTU5QklkRUxveXowa2NPZTYyblJRcjV0ZUlrekYxVGVQUVJxdGtRTk5qdi14MVp2OUN3elE?oc=5"
     },
     {
-      "title": "Amazon is Buying a Robot Company That Makes Humanoid Robots - | Cord Cutters News",
-      "summary": "**Amazon 收购 Figure AI，进军人形机器人领域，标志科技巨头加速布局具身智能商业化赛道。**",
+      "title": "Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project? - aol.com",
+      "summary": "用户要求我分析一条关于Amazon收购Fauna Robotics的新闻，并判断这对Tesla的Optimus项目是否构成威胁。",
+      "date": "2026-03-29",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVN5MVlhR1NXTktNZHduWGFCSFBuRXpoeE1QRGszYUozbGR5SjlJVGRYZ0plaVpzck5aZ2JLb1AyWHU4b0VwdGl0eGlQZk43SjhBem9OLUp3Q0duZ0pwblR3Rm1lNnFUdzJoYWh2d2U5OUFueENySmJVXy1HTWpZVTFDeEJPa2N0?oc=5"
+    },
+    {
+      "title": "Tesla Optimus Gen 3 is coming to the Tesla Diner with new ambitions - Teslarati",
+      "summary": "Tesla Optimus Gen 3将在特斯拉餐厅亮相，展示更先进的类人机器人技术。这标志特斯拉加速推进人形机器人商业化，可能引领行业技术竞争新阶段。",
       "date": "2026-03-30",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNSU1OeFFCcGN0LU1wdXBUN1dITXBKTzZnSW9QTzVYU1NwV0lUSUNvdjI2d3NjWDdiOVVieGh0NVpKNDZBeXpmZHNDRHIxVWlCbFVsMTB1WDZEdEVydlU5V3lDV2d4WEtfRGg4cmV3MkpPZ190MTdQQlF4SEN4S09SRUU0SXNwbFN1d19UWUlxaWViUdIBmgFBVV95cUxQZlVsNFd2dE1SQTVmcFdDVUx5SFdpSFZaUWhMalVLV3p6MExOUk9kbEN4c1hLRmM3WDRuMklEMVpITWozSl9YU1hzX0IwNm5ybDZUaDh2cnNmRDFuMklBRnlDVFNJYXQ3dFB2NE5IQ1o2TS03MllNLXV5YVU5cmhtNUxFYk9hZGFqQldvMmwzS3cybGpST19tS0FB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUaEFnbF9tNlFET3BKY0tib0RuSXFXSFhQMW03N01BOGtKQTMwYnktMUdRU3NPU21uSEVjbmk3MkloaU9TSGxHanBsUkY3OUMxWlVrV3BoR2haSDNOUWNJRHh1VDVRVFo4VjJSSQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-30T13:48:11.205181"
+  "updated_at": "2026-03-31T02:39:08.033273"
 }
