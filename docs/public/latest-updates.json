@@ -1,50 +1,68 @@
 {
   "papers": [
     {
+      "title": "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",
+      "summary": "DIAL通过引入可微分的潜在意图瓶颈，将VLA模型的决策层（System-2）与执行层（System-1）解耦，实现了高阶决策与低阶动作的分离，从而提升训练稳定性和策略性能。",
+      "date": "2026-03-31",
+      "link": "http://arxiv.org/abs/2603.29844v1"
+    },
+    {
+      "title": "CReF: Cross-modal and Recurrent Fusion for Depth-conditioned Humanoid Locomotion",
+      "summary": "CReF提出单阶段深度条件人形 locomotion 框架，通过 proprioception-queried 跨模态注意力和门控循环融合，直接从原始前向深度图像学习运动特征，摆脱显式几何中间表示的局限。",
+      "date": "2026-03-31",
+      "link": "http://arxiv.org/abs/2603.29452v1"
+    },
+    {
+      "title": "DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation",
+      "summary": "DRIVE-Nav是一种面向开放词汇目标导航的结构化框架，通过围绕持久方向而非原始前沿组织探索，从FMM路径提取方向候选并维护语义视图进行跨帧验证，在HM3D-OVON上实现50.2% SR和32.6% SPL，可迁移至物理人形机器人。",
+      "date": "2026-03-30",
+      "link": "http://arxiv.org/abs/2603.28691v1"
+    },
+    {
       "title": "Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation",
-      "summary": "该论文在Unitree G1人形机器人上系统评估了14种传感器组合，发现 minimalist 的主动双目相机配置在数据受限场景下优于复杂多传感器方案，在空间泛化任务达87.5%成功率，结构化操作任务达94.4%，验证了传感器策略性选择对模仿学习效率的关键作用。",
+      "summary": "该论文通过在Unitree G1人形机器人上对比14种传感器组合，验证了最小主动立体相机配置在ACT模仿学习中优于复杂多传感器方案，在数据有限条件下实现高达94.4%的任务成功率。",
       "date": "2026-03-30",
       "link": "http://arxiv.org/abs/2603.28422v1"
     },
     {
       "title": "Cost-Matching Model Predictive Control for Efficient Reinforcement Learning in Humanoid Locomotion",
-      "summary": "该论文提出一种成本匹配方法，通过训练参数化MPC使其近似强化学习中的动作值函数，从而实现高效的人形机器人运动控制梯度学习，避免了训练过程中重复求解MPC的计算负担。",
+      "summary": "本文提出一种成本匹配方法，通过训练参数化MPC来近似从高保真闭环数据中提取的动作值函数，从而实现高效的人形机器人 locomotion 强化学习，避免了训练过程中重复求解MPC的计算负担。",
       "date": "2026-03-30",
       "link": "http://arxiv.org/abs/2603.28243v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Musk Says Optimus 3 Robot Is ‘Walking Around’ but Not Ready for Unveil - eletric-vehicles.com",
-      "summary": "TeslaCEO马斯克宣布Optimus3代机器人已能自主行走，但仍未准备好公开发布。这标志着Tesla双足机器人技术取得实质进展，距离商业化应用仍需时间。",
+      "title": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily",
+      "summary": "**摘要：** Elon Musk透露Tesla Optimus人形机器人预计明年少量交付，2026年大规模量产，同时讨论SpaceX IPO计划。这将加速特斯拉在人形机器人领域的商业化进程，对行业竞",
       "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQY01tVVYwTlgyLUxjeVVHbnZ2WDJNM080dlFCNU0yTm1BeHV5RVhlNmROd3hQQk8tNDFVNzh6aVhFSm50TUp4eXVoVWxRMC1pcVdrV2tSNEpqVUxiZmJ2M1AzNXI5THQ2SVZuTXUtb19PLVItSFBJelVDZXhwTk9pNVNuMHVTc3I2cGtZM1lUTVZpTTlVajFKYUNqMWtaSXE3WWQ2TGw1SQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5"
     },
     {
-      "title": "Wall Street Is Going Gaga for Robots. Aptiv and Other Stocks Will Benefit. - Barron's",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilANBVV95cUxPMUtVU21UWGdfYW9wWnQ0b0JaeVZCS1VJZ25ONG",
-      "date": "2026-03-25",
-      "link": "https://news.google.com/rss/articles/CBMilANBVV95cUxPMUtVU21UWGdfYW9wWnQ0b0JaeVZCS1VJZ25ONG9hdjBmSmpURlJ5U1lVSm1SLXFZd0JieWVxY2hrdzMzYUFYXzVyenhSTlhTME5ZdUhZd2pyYUxYbjlrcFM0cGVqTzlWQlozX01zUkpGTUx0TTVjRW42bWRXOXVOQWY5bmJ3MUpVYnlZR25zZnZBTGdHbmdveVlzMmxxVFhqRENYbXYxRnk1SnBQQVZwREZ5TzIyVkRVckpUWkNHVHJXVnplWkV5Wmk1ekp5eUswdWlQRmZGdlgwdlRaaDJMZGJOUlNIXzk2cmZTV2dhV1ZidkU3SWJrR2lndXBubFdxWUdLd3VLNEluTThUNHJTeGpzV1FFVnJYdW0yNWtCNmxQQUREeUpSWmZuQXNZeXNCQ09jc082RGVGa0lDZkdGRW1DaXl6cDU5ZnZNc19xSHFBY1ljOGVhd2tXSkZiUFExS3FvTHVkZzI3aXVGbVNwUkxDV0R5TjFTUUJTQjZoa3l1Qk5ranNCbl85OGQwaGlPQWhTYg?oc=5"
+      "title": "Elon Musk announces disappointing Tesla Optimus update - Teslarati",
+      "summary": "特斯拉Optimus更新令人失望，表明其人形机器人项目进展不及预期，可能延缓特斯拉在机器人领域的商业化进程，给竞争对手带来追赶机会。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVVlibVZCXzFsLVpQQTZ2dlhEdEIyOHNfaG5NNlNlWkxkSjZrLXBIUDJtakt3aXRFMTY3cV9nMVVxb0R3emU5OUFpdWQtMHM5QW9WRjFWS0JsMXRBc09OaTVPYnl2cVQ1LWg0SDVkaEphZnBPbnV4MnlXQ2ZIc2xNbWE2dHVYVTYw?oc=5"
     },
     {
-      "title": "Icarus is sending robots to space with Voyager - Cryptopolitan",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPeW5KQWdoeFVMQ3RpOU1ZS0h6QnpXZGlsYUEwVV",
+      "title": "XiaoZhi Weekly News | Latest Tesla Optimus Video Revealed; RoboSense Robot Business Surges - autonews.gasgoo.com",
+      "summary": "特斯拉发布Optimus最新演示视频，展示更流畅的行走和操作能力；RoboSense机器人业务大幅增长。特斯拉的持续推进表明人形机器人商业化进程加速，行业竞争加剧。",
       "date": "2026-03-30",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeW5KQWdoeFVMQ3RpOU1ZS0h6QnpXZGlsYUEwVVNIakNrWi10eW9BakstUG1FWWw4QkYxVXpPNFd2ZGZQZmRtZTNSVWpRdC1vVy1WUGtzRWlpNUJ6SEJscFdCY3BXSXZla21CQkJJdU1uUWg1Z29JM3ZndkRRZ1RxRHhsYw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5"
     },
     {
-      "title": "10 Reasons to Buy Tesla Stock in 2026: Robotaxi Launch, Optimus Robots Fuel TSLA Bull Case - International Business Times Australia",
-      "summary": "Tesla发布2026年股票看涨的10大理由，重点提及Robotaxi即将推出及Optimus机器人项目，这彰显了人形机器人技术在商业化落地和资本市场的重要价值。",
-      "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMzZ4RUxpWE85RHNWeGVOb1Fmd2JrR09qbnhCaVpZRXhFeU4yZ0VNeGt4ODN0M3lNalpJVGV2UmkxMXNENXdMVzlMSXpUVkNad2JlNjJMWk5tQUxJdFliMXRSVkFmaG9xZk9nR3hOdVhZeGpWS1FFdDFmOWllR2phLW56amhNdU1jOU9RWXZ5N3dBMHI5cDBEbTZPb2ZlbThxRHVfZmdkRmFxRUctQW03Mk1JUVBxQ052?oc=5"
+      "title": "Tesla Optimus Gains Human-Like Hands as Gen 3 Reveal Nears - Not a Tesla App",
+      "summary": "Tesla Optimus即将推出第三代产品，新一代机器人手部设计更加拟人化精细化操作能力提升为人形机器人商业化应用奠定基础",
+      "date": "2026-03-26",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOTTdCeFl1NndTMlNlcFVlOTlVcEZXQzZhYjJHLWFrdjhLWlpTcUZ5Mnk3Z29EeUM1VTJLY0lDc3R2TENWSzlDMDhTWXNnakI3V2xDTmJSUVpMU3ZYX0JYd1haY1drNi1TOGJKdlRfWHNfa3dzV1llNzdfS0s5eUVLZlA5LUIxelRZdm90QjR5c0NrUXMzWDVpem03Ym53Zw?oc=5"
     },
     {
-      "title": "Figure AI CEO Brett Adcock’s Interview @ Shawn Ryan Show (Transcript) - The Singju Post",
-      "summary": "Figure AI CEO Brett Adcock接受采访，透露公司人形机器人战略布局与技术进展，对行业了解头部企业发展规划具有重要参考价值。",
+      "title": "Amazon Acquires Fauna Robotics. Is This a Viable Threat to Tesla's Optimus Project? - AOL.com",
+      "summary": "Amazon收购Fauna Robotics，进军人形机器人领域，可能对Tesla的Optimus项目构成竞争威胁，推动行业竞争与创新。",
       "date": "2026-03-31",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNHlrSlFSRmtNckpFcklQLURNRF9zYTNZTkdJMkN5UHJEUlJvenlIVGE0bUNEdFhqTDZ4OFBTejEwa3VQcDJPTFNiTDZ0SUxGQ1FMb1M0Z3dEbDMyb29QX0JyNnhMN2lGRXd4TUNRNTdXNzJ6eWZTcmoxOWFsRWM1YWJwLWpRMDEzcTlMLXJLRDQwZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQOVN5MVlhR1NXTktNZHduWGFCSFBuRXpoeE1QRGszYUozbGR5SjlJVGRYZ0plaVpzck5aZ2JLb1AyWHU4b0VwdGl0eGlQZk43SjhBem9OLUp3Q0duZ0pwblR3Rm1lNnFUdzJoYWh2d2U5OUFueENySmJVXy1HTWpZVTFDeEJPa2N0?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-03-31T13:47:55.873276"
+  "updated_at": "2026-04-01T02:59:50.349533"
 }
