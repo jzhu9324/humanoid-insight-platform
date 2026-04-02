@@ -1,68 +1,68 @@
 {
   "papers": [
     {
+      "title": "SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision",
+      "summary": "开发了一种基于自中心视觉的模块化人形乒乓球系统，通过生成式模型增强全身技能学习与紧密协调的全身控制，首次实现仅依靠机载感知完成连续对打。",
+      "date": "2026-04-01",
+      "link": "http://arxiv.org/abs/2604.01158v1"
+    },
+    {
+      "title": "BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control",
+      "summary": "提出BAT在线策略切换框架，通过层次化强化学习结合专家引导的滑动 horizon 策略预评估，以及选项感知的 VQ-VAE 来预测选项偏好，实现两个互补全身 RL 控制器的动态选择与置信度加权融合，平衡灵活性与稳定性。",
+      "date": "2026-04-01",
+      "link": "http://arxiv.org/abs/2604.01064v1"
+    },
+    {
+      "title": "Learning Humanoid Navigation from Human Data",
+      "summary": "EgoNav通过仅5小时人类行走数据训练扩散模型，实现人形机器人在未知室内外环境中的零样本导航，无需机器人数据或微调。",
+      "date": "2026-04-01",
+      "link": "http://arxiv.org/abs/2604.00416v1"
+    },
+    {
+      "title": "DreamControl-v2: Simpler and Scalable Autonomous Humanoid Skills via Trainable Guided Diffusion Priors",
+      "summary": "### 现状痛点",
+      "date": "2026-03-31",
+      "link": "http://arxiv.org/abs/2604.00202v1"
+    },
+    {
       "title": "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",
-      "summary": "DIAL通过引入可微分的潜在意图瓶颈，将VLA模型的决策层（System-2）与执行层（System-1）解耦，实现了高阶决策与低阶动作的分离，从而提升训练稳定性和策略性能。",
+      "summary": "DIAL通过在VLM特征空间中构建潜在意图瓶颈，分离高层决策(VLM生成的视觉预见)与低层动作执行(轻量级逆动力学策略)，实现了稳定且数据高效的端到端VLA训练，在10倍更少演示数据下达到SOTA性能。",
       "date": "2026-03-31",
       "link": "http://arxiv.org/abs/2603.29844v1"
-    },
-    {
-      "title": "CReF: Cross-modal and Recurrent Fusion for Depth-conditioned Humanoid Locomotion",
-      "summary": "CReF提出单阶段深度条件人形 locomotion 框架，通过 proprioception-queried 跨模态注意力和门控循环融合，直接从原始前向深度图像学习运动特征，摆脱显式几何中间表示的局限。",
-      "date": "2026-03-31",
-      "link": "http://arxiv.org/abs/2603.29452v1"
-    },
-    {
-      "title": "DRIVE-Nav: Directional Reasoning, Inspection, and Verification for Efficient Open-Vocabulary Navigation",
-      "summary": "DRIVE-Nav是一种面向开放词汇目标导航的结构化框架，通过围绕持久方向而非原始前沿组织探索，从FMM路径提取方向候选并维护语义视图进行跨帧验证，在HM3D-OVON上实现50.2% SR和32.6% SPL，可迁移至物理人形机器人。",
-      "date": "2026-03-30",
-      "link": "http://arxiv.org/abs/2603.28691v1"
-    },
-    {
-      "title": "Active Stereo-Camera Outperforms Multi-Sensor Setup in ACT Imitation Learning for Humanoid Manipulation",
-      "summary": "该论文通过在Unitree G1人形机器人上对比14种传感器组合，验证了最小主动立体相机配置在ACT模仿学习中优于复杂多传感器方案，在数据有限条件下实现高达94.4%的任务成功率。",
-      "date": "2026-03-30",
-      "link": "http://arxiv.org/abs/2603.28422v1"
-    },
-    {
-      "title": "Cost-Matching Model Predictive Control for Efficient Reinforcement Learning in Humanoid Locomotion",
-      "summary": "本文提出一种成本匹配方法，通过训练参数化MPC来近似从高保真闭环数据中提取的动作值函数，从而实现高效的人形机器人 locomotion 强化学习，避免了训练过程中重复求解MPC的计算负担。",
-      "date": "2026-03-30",
-      "link": "http://arxiv.org/abs/2603.28243v1"
     }
   ],
   "companyNews": [
     {
-      "title": "The end is near for the Model S and Model X as Tesla formally says goodbye to the cars - supercarblondie.com",
-      "summary": "该新闻报道特斯拉将停产Model S和Model X车型，与人形机器人行业无直接关联。特斯拉的人形机器人项目（Optimus）属独立业务线，此车型停产不影响其",
-      "date": "2026-04-01",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5lREc1djJfVjVQNGY0cFJtclZSNm5XbFFZVWszd3BleGR6QlNzc1ZEXzlScHhXVUlsWC1DX0NEZV91cl9HRzhYRGNLaGNCVi1vUXA5dU1Ea3Q3akh4aDlHWERwd1h4NWpK?oc=5"
+      "title": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily",
+      "summary": "用户要求我作为人形机器人行业分析专家，分析关于Tesla的新闻动态。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5"
     },
     {
-      "title": "China's bizarre shape-shifting robot grows and changes like a human - MSN",
-      "summary": "中国研发出可像人一样成长变形的机器人，展现了软体机器人技术的突破，可能推动服务型机器人在护理、教育等领域的应用。",
-      "date": "2026-04-01",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNazdGZHZXaDBPNEJyZzQ3bmczSlQ0eFBnQXE3SWVfNDMzcXpYaFRGZ2pLdExGOHhCV3c3UkNmamYyZTZqSFBHWEJHd1VSdndTcWo5UFVNOHFxdlhzWi12NG1OOFYyRk1LTEhyR3daZGtzdmVQUUtPX3U5eWx6M29xMnNwWEctMTZjTld3THd2NS1PTEhTV1hYbnZnc3BTRnRYRVpVZVVsdFlTUWhoNVRjdjlMQzFkMnZ2b1ZYYy1oMGhmTVNuQThtM09PNXotbWVkR0pMYktsTU5kVTRiUXhLZWFZSENWQ3l4alhuNUdCZ0hQS0VjWk1BVFBISWgtbEU?oc=5"
+      "title": "Elon Musk announces disappointing Tesla Optimus update - Teslarati",
+      "summary": "特斯拉Optimus更新令人失望，显示其人形机器人项目面临技术挑战，可能影响",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVVlibVZCXzFsLVpQQTZ2dlhEdEIyOHNfaG5NNlNlWkxkSjZrLXBIUDJtakt3aXRFMTY3cV9nMVVxb0R3emU5OUFpdWQtMHM5QW9WRjFWS0JsMXRBc09OaTVPYnl2cVQ1LWg0SDVkaEphZnBPbnV4MnlXQ2ZIc2xNbWE2dHVYVTYw?oc=5"
     },
     {
-      "title": "CEO of the $39 billion robot company whose humanoid walked with Melania Trump at the White House tells wh - The Times of India",
-      "summary": "Figure AI CEO宣布公司人形机器人在白宫与梅拉尼娅·特朗普同行",
+      "title": "Musk says robot works great, just not ready to show anyone yet - Boing Boing",
+      "summary": "马斯克称Optimus人形机器人运行良好但尚未准备公开。该消息显示特斯拉持续推进人形机器人研发，但具体进展仍保持神秘。",
       "date": "2026-04-01",
-      "link": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOaG00T0drXzh6cHp1X3BsVWVSbjJ6b3RNa0RveWFzVThyY0VlWk1vd1RUbzdqaldBbFN1UVpId2dLU0RvZndDT1NjODRmeUxMdzFlRjdKQjN3TmVYYWdJQ1FoUllWZGRZVjJhTlhtLTlZMGplUWRLUVZSSEdxWnZqdzFjSWF5UXA3b0ZFa3BGY0xaT28tZWpnZUx6NmRUUHZBU1RmRHJmYkdaS3NGQWZ6d052TTdoMThXMW54eUY5RU51UlQtUWoyeTc3SmVoUEZXZ3NXOU15QjBFTjdsdlBPdzd1blRMWmRvVmdtekNXNWFjVkdDNlFsWTgzOTFHOWs4TGFOZGxTRlE1YzMtbnFSNk12NUJRZ254RnJyMllVaDNXS1Qtd25xd2Fudk5TRWtSc3NOMGhkbXpmZDhKcHRaLVVuSXE4WDNMeGVOLW93WWlOVHfSAdgCQVVfeXFMTUpuazhRc0hPdmM3UVJNVzVfQVoyaVVjbEh1RDNKbVp5S1NKVnhxcXM0XzdWMVVQR0hMNl9TakZBZkZCOWNaczdqUXNONDZvS09CSDBVQ2lMRUppa2dzdjFYdVV4ODNGOXo2RVJwMlZ0VWFSSTBhSnpvRTVnMWt0bENNYklJLWNITWhabXBIOEpXQU90VHBkMW0tYWI2R2c0V0gxcUI1YVFPNzVqSUpENTdBcnRVMGZ5VUZWQk56ZVJNS1BFN2wxbElqRDlsaktqN1NNQXUwYnVwN01zU0VISU1NQ2lYZmJnN1hZd21EeWhqSGJxWW4tekJEOHVBMEN3S1AwVUMtOUFEaTZyVDFyNElOZ2F4Rl94cU1vZHlvcDNsOEFVOXIzYlh6MGZabEFSdUhVdXFBOEtqVUx2aDVOcUx3c1YxWkRBS3hac2hvQ2I1SGZJNEtEaVM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVlXOUJUdU5ZbVp2cWxxY201ZnU4WE51aTNyQmZQZkFQOFRCa1JBdTYzSkR3ZWpZdmVYVTVTYU9XclBCd2tmOThNSWdNZnp2S3V3OGViVHJscElwaG81RUpaSFZwWWxOaVQ0T3gzREhGdTVhRXpKX1BSa3lJbTcyMGVLMTVMaThlZk5CSGI1Z05EbjVpRWVTalota0lDX3FyT2fSAacBQVVfeXFMTmtTdjFDaXdmWGpubHRoaHNZTVBrMmhEcU9QTW4xXzYwYmhWQndTcVVoaTZ2ZWxrVThtbTdha2JWTVZzd1pOZ3ZuYWZQbWtRcTBsVFI0SnhMME5iOV9sTUZzOEZpekx6ZFRRMkxXUnpNdmRoeEJQZ1Z6ajFYU3JPbjdjdXozR2lBQXdyUFVQVnYxSlFMSXYtcmhRQ1JKOUVRUFlETjhuN3c?oc=5"
     },
     {
-      "title": "Gavin Newsom Mocks Melania Trump As She Walks With a Humanoid Robot at White House - inquisitr.com",
-      "summary": "加州州长Gavin Newsom在白宫调侃Mel",
-      "date": "2026-03-26",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY2ZyMVBrWXc5LUkwOURCTkFfWUR2Tjg2bEVENkpUdkFjTlp3WWRPSTl1eGlDRVdxOTZhVnB6dl9kaklwdkNxNGVwemRqRUVYS2RqVVdTdEpEWk4zdnpPQWUwRTBYZjFJUDduNmR0YWJUMk8tYjE4cV9hRGd3U0lXaWZaeDlVcEFQckwtZHExTG5XcnVZSHhSQnVxZEgwYjlXS3dRdDZiMHliLUNXekE?oc=5"
+      "title": "Elon Musk Confirms Optimus 3 Delay: Why the Tesla Robot Isn’t Ready - teslanorth.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNY19SODRDa1loTFRvZVN3TThwLU5xdXQ1bHRHZV",
+      "date": "2026-04-01",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNY19SODRDa1loTFRvZVN3TThwLU5xdXQ1bHRHZVI0WFo4cVFoME5haUh5bk96SnZERlp6VmFmdk90Q2tOM0NfS1Z0bGxYUXlvNy12cG5STzMxRzBPZGpadDR3bzdNaE45RkN4OHRNSVBvR0ljeEdTczYtcU9sYllpV1ItamhFOUpza25SNFZvUTBycTJGaFFuZk1rUVVoX1lBdFE?oc=5"
     },
     {
-      "title": "Humanoid Robots Go Public: China’s Unitree Files $610M IPO Amid Surging Demand - eWeek",
-      "summary": "用户要求我作为人形机器人行业分析专家，分析一条关于Unitree Robotics的IPO新闻。",
-      "date": "2026-04-01",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRGF2VVRKelVSdFdUWmlya1NLNmx6cGlidjZPOXJVSTJIWXN2UVUwcTRGZmpXcDNFSEFuaWtUVzY2SnFQS2ZSVEVJUGdUU1pYOXI0enlUUnYtVVhVWGpaLUVRZkMzNVNhYlNJS0tyUjZPZ05nd29qT2pSSFVxQnNKalA1QzFtS0NBckZrZg?oc=5"
+      "title": "XiaoZhi Weekly News | Latest Tesla Optimus Video Revealed; RoboSense Robot Business Surges - autonews.gasgoo.com",
+      "summary": "Tesla发布Optimus最新演示视频，展示更成熟的运动控制能力，RoboSense机器人业务也实现快速增长，表明人形机器人技术正在加速落地，行业竞争格局日趋多元化。",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-01T13:52:16.847889"
+  "updated_at": "2026-04-02T02:46:49.262897"
 }
