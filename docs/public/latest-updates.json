@@ -1,68 +1,68 @@
 {
   "papers": [
     {
+      "title": "Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction",
+      "summary": "该论文提出基于3D动态视位和协同发音建模的嘴唇运动生成框架，通过构建ARKit标准3D动态视位库和初声-韵母解耦能量调制机制，解决连续语音中嘴唇运动冲突难题。",
+      "date": "2026-04-02",
+      "link": "http://arxiv.org/abs/2604.01756v1"
+    },
+    {
+      "title": "MorphoGuard: A Morphology-Based Whole-Body Interactive Motion Controller",
+      "summary": "论文提出了MorphoGuard网络，一种基于形态约束的全身控制方法，能够显式管理任意接触组合，使双足机器人在多目标交互任务中实现约1cm的接触点管理精度。",
+      "date": "2026-04-02",
+      "link": "http://arxiv.org/abs/2604.01517v1"
+    },
+    {
       "title": "SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision",
-      "summary": "开发了一种基于自中心视觉的模块化人形乒乓球系统，通过生成式模型增强全身技能学习与紧密协调的全身控制，首次实现仅依靠机载感知完成连续对打。",
+      "summary": "提出SMASH系统，通过机载自我中心视觉和可扩展的全身技能学习，实现人形机器人无需外部摄像头的敏捷乒乓球对抗。",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.01158v1"
     },
     {
       "title": "BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control",
-      "summary": "提出BAT在线策略切换框架，通过层次化强化学习结合专家引导的滑动 horizon 策略预评估，以及选项感知的 VQ-VAE 来预测选项偏好，实现两个互补全身 RL 控制器的动态选择与置信度加权融合，平衡灵活性与稳定性。",
+      "summary": "论文提出BAT在线策略切换框架，通过动态选择两个互补的全身RL控制器来平衡敏捷性与稳定性，结合层次RL、滑动时域预评估和选项感知VQ-VAE实现长时域全身人形机器人控制。",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.01064v1"
     },
     {
       "title": "Learning Humanoid Navigation from Human Data",
-      "summary": "EgoNav通过仅5小时人类行走数据训练扩散模型，实现人形机器人在未知室内外环境中的零样本导航，无需机器人数据或微调。",
+      "summary": "论文提出EgoNav系统，通过5小时人类步行数据训练扩散模型预测未来轨迹，结合360°视觉记忆和DINOv3特征，实现人形机器人在未知环境的零样本导航。",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.00416v1"
-    },
-    {
-      "title": "DreamControl-v2: Simpler and Scalable Autonomous Humanoid Skills via Trainable Guided Diffusion Priors",
-      "summary": "### 现状痛点",
-      "date": "2026-03-31",
-      "link": "http://arxiv.org/abs/2604.00202v1"
-    },
-    {
-      "title": "DIAL: Decoupling Intent and Action via Latent World Modeling for End-to-End VLA",
-      "summary": "DIAL通过在VLM特征空间中构建潜在意图瓶颈，分离高层决策(VLM生成的视觉预见)与低层动作执行(轻量级逆动力学策略)，实现了稳定且数据高效的端到端VLA训练，在10倍更少演示数据下达到SOTA性能。",
-      "date": "2026-03-31",
-      "link": "http://arxiv.org/abs/2603.29844v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Elon Musk calls medical school 'pointless,' says robots will beat any surgeon in 3 years — telling students to walk away - moneywise.com",
-      "summary": "埃隆·马斯克称医学院无意义，预言3年内机器人将超越外科医生",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPVWhiZzhVMmtmRGVBMkFwcnZVZ1p6Y01uamlKdEUzRkFCN2FYUjdUMWVydGZuSUk5WFVhazZ6eXZVeHVheFVxcXI0VVA2RGxWLUF6M1ByTGtxdW13RjJPS29RNTNfYWFmRFk5YXBKRFVtLVlHOGZnS3Bqd2VwLUNVLWc4TnBYZ19lOUNTZnJveTdyX25aMjJzWWNWb2RqSDFEa2V3ZFpVZWkwcUM2S0pmY2J3UkhnOENPYlVyeFlhTkcyZm1HM3hJQmx0eDloZ1M1cW9JLWc2TGtlQkFxZVgydmVSZjA?oc=5"
+      "title": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily",
+      "summary": "用户要求我分析一条关于Tesla的新闻，需要总结关键信息和对人形机器人行业的意义。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5"
     },
     {
-      "title": "Tesla kicked off a make-or-break year with a disappointing sales report - businessinsider.com",
-      "summary": "特斯拉开年销售业绩令人失望，可能影响其Optimus人形机器人项目的资金投入和研发进度，对行业竞争格局产生不确定性。",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRmdYOHBOcWQwdTkzVUoyYV9DR3Z6dzRTckpORFZDdUxXalpNeTlrSXZLa2RPUklYTV9OeVVNbjlyRGhVaWhRS0NEb0RmWE5hMVVRMVI1X2tJNFpwWUlsRlZDZk9qSURSc3dPRjk4XzVIdGFzWW9ZcVZtc04zeVI1ajMzZGNESG9DUjVLdFRhVVk?oc=5"
+      "title": "Elon Musk announces disappointing Tesla Optimus update - Teslarati",
+      "summary": "Tesla Optimus更新令人失望，Elon Musk未带来市场期待的重大突破，显示特斯拉人形机器人项目进展遇阻，可能影响行业对商业化落地的预期。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVVlibVZCXzFsLVpQQTZ2dlhEdEIyOHNfaG5NNlNlWkxkSjZrLXBIUDJtakt3aXRFMTY3cV9nMVVxb0R3emU5OUFpdWQtMHM5QW9WRjFWS0JsMXRBc09OaTVPYnl2cVQ1LWg0SDVkaEphZnBPbnV4MnlXQ2ZIc2xNbWE2dHVYVTYw?oc=5"
     },
     {
-      "title": "RAI’s amazing Roadrunner robot leaves humanoids behind - Yahoo Tech",
-      "summary": "RAI的Roadrunner机器人",
-      "date": "2026-03-27",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVTFQVUpIcy1KQ1M1clpLLXA4VS1aUGlsVWpwdUx2Vm1iejVWMDNMcGdqLUkwOUN4OXQ3SFZhdnNrVURpaWtGV1ZyRU1IXzNiNDFKNnVhbU5FRmtBcTRnNEg3UEtzLV9ENzhVZ3FadDVneUpDalNqMmdGSlRSUVhMcHBOOGR1dkNjNlFhWWIycHRWeGN5?oc=5"
+      "title": "XiaoZhi Weekly News | Latest Tesla Optimus Video Revealed; RoboSense Robot Business Surges - Gasgoo",
+      "summary": "用户要求我分析一条关于Tesla的新闻，但要直接输出摘要，不要包含思考过程。让我仔细阅读这条新闻：",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5"
     },
     {
-      "title": "Video: Figure humanoid robot stuns Shawn Ryan in striking demo - Interesting Engineering",
-      "summary": "让我分析这条关于Figure AI人形机器人的新闻：",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxON3ozd0RfX0RuNjkzck9HNzdWeDBTV1Y5ZzhzOV9jUjVwUzNHMGhtQi1QT28zbWhmdUVFRDZrWXdNcER3bk1LbDBxMVlQNHdfUWNnekFhMkwyY21yeGtQWVQ0TVVra2tJSjBhd2JIUzF0cnZmR3ptX0dwSG9XNXoycWxMcjhOdDZXeThr?oc=5"
+      "title": "Tesla Optimus robot development and features! - MSN",
+      "summary": "特斯拉发布Optimus人形机器人开发进展及功能细节，标志着其正式进军人形机器人领域。这将加速行业技术竞争，推动人形机器人商业化进程。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQXy1fX1VxUURfMkxhM0NVSHJCaUNVTHUzWVJDODQ3NHlXNFNTcUo4TXNUdEt1MVhjS1puXzIzcXZzUWlWSzBuMGJMM1p2YmNHN1I4QWZSQlo0cGxBRVVSYS1HcTJzOXZNYloxX2Q1VllNS1NOSm04eHAzalltQ21ncVh3X2tIMWM3WlhHSVU1Wk53alZiTnhYX3p3?oc=5"
     },
     {
-      "title": "Would You Want a Robot Teacher? - nytimes.com",
-      "summary": "Figure AI探索机器人应用于教育领域，探讨人形机器人担任教师的可能 性，拓宽了人形机器人在服务业的应用想象空间。",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZGxiMlloMGFma3pTNGR2S3Y5QWJ3dkV3NmpOdFFZVFhBMkNnNkZKaTBhQnp1clMtQUpmWlBZVDcxVWh3bks2aV9jN19PMGQwVkpXTXdEQmdBN3BSSmczeDdzYjlYcmpfMnB5UEZTd1pNVnB5UHFCeHhTeDlXX21rNEY0U2lyUQ?oc=5"
+      "title": "Tesla Delays Optimus Gen 3 Unveil for 'Finishing Touches' - Not a Tesla App",
+      "summary": "Tesla推迟Optimus Gen 3发布以做最后完善，反映其对产品精度的追求，但也暴露人形机器人技术成熟度仍需提升，可能影响行业竞争格局。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0F6VFpzblJfNk1wNTY2dEpiQUZyQWVZaXp3cUVRd0pUU050aFprWUlIeGpuTDhFeGQxQlh6V2NTdUVzWTBpTE5HdEpJV0RDZWhnMUNTdURwM1BScWc0SzRmSk1WMWhfcERMbUtlWXBkVUc5WXMwZTloakRQOGhYVjFJUlkteEZVejg0VkdrSnZVN2pyV1owdnJ3?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-02T13:31:33.605499"
+  "updated_at": "2026-04-03T02:38:47.517752"
 }
