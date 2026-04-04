@@ -2,67 +2,67 @@
   "papers": [
     {
       "title": "Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction",
-      "summary": "该论文提出基于3D动态视位和协同发音建模的嘴唇运动生成框架，通过构建ARKit标准3D动态视位库和初声-韵母解耦能量调制机制，解决连续语音中嘴唇运动冲突难题。",
+      "summary": "该论文提出基于3D动态视位库和声母-韵母解耦协同发音机制的唇动生成框架，实现高维空间唇运动到14-DOF机器人执行系统的重定向，解决人机交互中自然唇同步难题。",
       "date": "2026-04-02",
       "link": "http://arxiv.org/abs/2604.01756v1"
     },
     {
       "title": "MorphoGuard: A Morphology-Based Whole-Body Interactive Motion Controller",
-      "summary": "论文提出了MorphoGuard网络，一种基于形态约束的全身控制方法，能够显式管理任意接触组合，使双足机器人在多目标交互任务中实现约1cm的接触点管理精度。",
+      "summary": "论文提出了MorphoGuard，一个基于形态约束的全身控制网络，能够显式管理任意接触组合，赋予机器人用单肢链同时执行多目标交互任务的能力。",
       "date": "2026-04-02",
       "link": "http://arxiv.org/abs/2604.01517v1"
     },
     {
       "title": "SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision",
-      "summary": "提出SMASH系统，通过机载自我中心视觉和可扩展的全身技能学习，实现人形机器人无需外部摄像头的敏捷乒乓球对抗。",
+      "summary": "SMASH是一个利用本体感知和可扩展全身技能学习实现人形机器人自主连续乒乓球击打的首个系统。",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.01158v1"
     },
     {
       "title": "BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control",
-      "summary": "论文提出BAT在线策略切换框架，通过动态选择两个互补的全身RL控制器来平衡敏捷性与稳定性，结合层次RL、滑动时域预评估和选项感知VQ-VAE实现长时域全身人形机器人控制。",
+      "summary": "论文提出BAT框架，通过在线策略切换机制动态选择两个互补的全身强化学习控制器，在不同运动情境下平衡敏捷性和稳定性，实现长期的人形机器人locomanipulation任务。",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.01064v1"
     },
     {
       "title": "Learning Humanoid Navigation from Human Data",
-      "summary": "论文提出EgoNav系统，通过5小时人类步行数据训练扩散模型预测未来轨迹，结合360°视觉记忆和DINOv3特征，实现人形机器人在未知环境的零样本导航。",
+      "summary": "### 现状痛点",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.00416v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Under the Skin of America’s Humanoid Robots: Chinese Technology - wsj.com",
-      "summary": "标签",
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
+      "summary": "Tesla Optimus机器人遭 robotics 专家质疑，技术成熟度与演示可靠性存争议，或影响行业对特斯拉机器人发展预期。",
       "date": "2026-04-03",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxQLUxDNDJyMmNlUnpKbWFZQzdkaFdyblFFbnlYVDluV25yZW9Ld1hVSlVWekNISldhbjc5b0FEUV82blhxaGNoYjU0U2VINU0xOGhHTW9fMG1NVEZ0cjlyTk94cEVLYmtBMTVlVEdqWGhTdFhkN2NtNFVVR2JnWGVqVnIzQlJEbEpEUHdtTGpZdDR0QlRoS01oRHVkX3dhNEwxN2RKWkJ1SWl1Q3ZCODBjNDhlQkpidWlJQmNrNzNJS3JNOEpLYW0wZnZPU2VMdjBteTFramtzZGE0MVhTWnp5MHh3czBLSGlsdDEzRHRDQk85TTNxQzVwV000eFFwdDQ3M253ZVJrYWEtQTRUWmRmVGZfbzRGaEMxMHdsc2dKUEFaeUFxeWw3SGFxbXoyN01QNkExLXE4ZUFBYkpvckl3VWFBZTdvNHZKMUpWVkVnVTlrV3UxMzJYUkVITFJuVk5EZjREbnNwMFJmci0tWGp2Y2wxRHpvMXViLTR2RVpZcGJFdXIwb3lWZmJBbkVUVFJ2NWdaV1lEZzN1b2tnVU9KSA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdHZENHVpRldlQnhVSy1aU3ZXRDZYVVNGREU1TjFjQkJyVV9fLUlDMFc5WkFQRDk2em9jeXF5UHpoU0hTdTBhZmFsM2xPRHJlM2ExTUs4N2FUcExJQTE4Zk3SAYABQVVfeXFMUGtmcFdoZFNDemtvejF5QmFHVHNYdHZ5QnBCVHN6UlE4Q1BHSGlzMFpUSVF1SW1TUnhhTUo4VDFrQklQQWJlLXVCQXpraWFYRUYzRGxQN3NOWHFUcS1WWFliOWh1bFMyM0RLVl83emQyZkhmM0RyS1ZqNm1nRGlxM1c?oc=5"
     },
     {
-      "title": "Bloomberg: Tesla’s AI dreams don’t change reality, cars still pay the bills - 24/7 Wall St.",
-      "summary": "**摘要：** Bloomberg批评Tesla的AI愿景未能改变其核心盈利依赖——汽车销售仍占主导，暗示人形机器人商业化之路仍很漫长。",
+      "title": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily",
+      "summary": "用户要求我分析一条关于Tesla的新闻，要求：",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5"
+    },
+    {
+      "title": "Tesla Optimus Gen 3 is coming to the Tesla Diner with new ambitions - Teslarati",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMibEFVX3lxTFBUaEFnbF9tNlFET3BKY0tib0RuSXFXSFhQMW03N0",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBUaEFnbF9tNlFET3BKY0tib0RuSXFXSFhQMW03N01BOGtKQTMwYnktMUdRU3NPU21uSEVjbmk3MkloaU9TSGxHanBsUkY3OUMxWlVrV3BoR2haSDNOUWNJRHh1VDVRVFo4VjJSSQ?oc=5"
+    },
+    {
+      "title": "Tesla kills Model S and X to bet everything on Cybercab - The Tech Buzz",
+      "summary": "Tesla将停止Model S和Model X生产线，全力押注Cybercab自动驾驶出租车业务。此举显示其战略重心转向AI驱动的自动驾驶领域，为人形机器人行业提供参考：自动驾驶技术与人形机器人技术在",
       "date": "2026-04-03",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHE0TXNRZVgtcXZpSzFocldnY3hsc2NwaW9pOTdock5CT3VONjJYWk1UZnVOOWc0a1pMclpZV205ZlVlSEVJWngyTXNURTIyRXhReHczcE9PckFGLVRKSDJnLThPNUVWZWFUd05FaGhnV2RldVhtTTlIV3U5b2ozcnpqdjBJWWF1M2FtbFB3SHlPZ05LWE1na3d2bDgxZGh2WS1TT0JUUEx4RzgyQ1RMRzY3Slh3dw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd01jeWtzcklJY2NRUDJ1STZhMlNRUFlTa243M0pISFNhQVozYzlTb0pjUlpod1h0RnRuZXlOSzdvT3g5TDJmWHFiYjRBWjNiRnB5NkRhNzhKMmgyN254amRGRGJxOVQzci0xb2lZc0RocENGWi1GRkhHS2hPbUNwamM5ZlJsQmRlR3o4ZktLVDJIZw?oc=5"
     },
     {
-      "title": "TSLA: Tesla Stock Drives 5% Lower as Deliveries Rise but the Number Is a Miss - TradingView",
-      "summary": "特斯拉Q3交付量增长但未达预期，股价因此下跌5%，显示市场对其业绩期望严格，可能影响投资者对特斯拉人形机器人等新项目的信心。",
-      "date": "2026-04-03",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdXJVaUJTQlhtLW5saHpVUE81dTFpV3dQLTNfOXFYTTFDVlp4LXBzenptTWgxNFBnWTFOVVhHSzdpSUlFRVdyWE9yNk45RDFWcm5EWXRrQjdUOFRkcTVwYzRyZ1g1Y0xyNUtPTk1LTl81LVlCbDBGelVqaHRTNTU3T2dBT1ZnUVBvcDZlM25XaGpMV3ZHekd2M1hJSjlnRUhGUkJlaDd2QnRJb3ZtbW9ZZGREOUJUaktHSUhVTnVTWHc2LTc2RDRMTVpOeWpVZHl6aExv?oc=5"
-    },
-    {
-      "title": "Tesla sales miss again as Musk bets future on unproven robots amid Iran threats - cryptopolitan.com",
-      "summary": "Tesla销售再次未",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xU01lWXdnVDFKQVl6VkdfOF9CeTdKMEVIaHROSGI0YkZzQldoNmRHeENMd25WdllPTC1XeFdUUmhxOUtKLWFRTTBUNWF3R0FnVWJoajd2bElMdkdnUHhta2VXUQ?oc=5"
-    },
-    {
-      "title": "Amazon Acquires Fauna Robotics, Raising Questions About Threat to Tesla's Optimus - National Today",
-      "summary": "亚马逊收购Fauna Robotics，引发市场对特斯拉Optimus竞争压力的关注。此举表明科技巨头正加速布局人形机器人领域，行业竞争格局可能生变。",
-      "date": "2026-03-29",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOdG1adDZiOVdzNnBKcnFsUjZyVXpQcXNfVHVhMl9rOEpVMF8xZmw0ZWhILXN2Y0t0S01OOUtDODNZVWhRS0huTy1sMUVVVjJYVkxNUl9wMzROWUt1ZUk3ell6YU10RndrTnNfZjRBTndLa0M5MTJvSWNSOFF1OEJrR3FZRG9aOVFUZ0lvck5uLXRqbVg1WmJvUUdwWGZERHZXdmQwSUZZNDBBbHpESzhvT3BNWkRXcWZnYmNaUFgwbmNMR0JJX1hFYWhYT0dwN2pW?oc=5"
+      "title": "XiaoZhi Weekly News | Latest Tesla Optimus Video Revealed; RoboSense Robot Business Surges - Gasgoo",
+      "summary": "特斯拉Optimus最新视频曝光，展示更先进的人形机器人技术，同时RoboSense机器人业务快速增长，表明特斯拉在人形机器人领域的竞争实力和行业商业化进程加速。",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-03T13:17:21.568733"
+  "updated_at": "2026-04-04T02:22:57.502220"
 }
