@@ -2,67 +2,67 @@
   "papers": [
     {
       "title": "Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction",
-      "summary": "该论文提出基于3D动态视位库和声母-韵母解耦协同发音机制的唇动生成框架，实现高维空间唇运动到14-DOF机器人执行系统的重定向，解决人机交互中自然唇同步难题。",
+      "summary": "提出基于3D动态视位与协同发音建模的唇部动作生成框架，通过声母韵母解耦和能量调制解决连续语音中的运动冲突，实现高保真机器人唇同步。",
       "date": "2026-04-02",
       "link": "http://arxiv.org/abs/2604.01756v1"
     },
     {
       "title": "MorphoGuard: A Morphology-Based Whole-Body Interactive Motion Controller",
-      "summary": "论文提出了MorphoGuard，一个基于形态约束的全身控制网络，能够显式管理任意接触组合，赋予机器人用单肢链同时执行多目标交互任务的能力。",
+      "summary": "论文提出MorphoGuard，一种基于形态约束的全身控制网络，通过显式管理任意接触组合，实现机器人在单一运动链上同时进行多目标交互的复杂动作控制。",
       "date": "2026-04-02",
       "link": "http://arxiv.org/abs/2604.01517v1"
     },
     {
       "title": "SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision",
-      "summary": "SMASH是一个利用本体感知和可扩展全身技能学习实现人形机器人自主连续乒乓球击打的首个系统。",
+      "summary": "SMASH是一个人形机器人乒乓球系统，通过本体感知实现无需外部摄像头的全身协调击球，利用生成模型扩展动作先验，首次在仅使用机载传感的情况下实现人形机器人连续对打乒乓球。",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.01158v1"
     },
     {
       "title": "BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control",
-      "summary": "论文提出BAT框架，通过在线策略切换机制动态选择两个互补的全身强化学习控制器，在不同运动情境下平衡敏捷性和稳定性，实现长期的人形机器人locomanipulation任务。",
+      "summary": "提出BAT框架，通过在线策略切换在两个互补的全身强化学习控制器间动态选择，实现长时间视野人形机器人locomotion-manipulation任务中灵活性与稳定性的平衡。",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.01064v1"
     },
     {
       "title": "Learning Humanoid Navigation from Human Data",
-      "summary": "### 现状痛点",
+      "summary": "EgoNav通过仅5小时的人类行走数据训练，使类人机器人能够零样本泛化到多样的 unseen 室内外环境，实现无需机器人数据或微调的自主导航。",
       "date": "2026-04-01",
       "link": "http://arxiv.org/abs/2604.00416v1"
     }
   ],
   "companyNews": [
     {
-      "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
-      "summary": "Tesla Optimus机器人引发业界关注，IEEE Spectrum采访多位机器人专家评估其技术进展与商业潜力，为人形机器人行业发展提供专业参考。",
-      "date": "2026-04-03",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwY0R6VDhqUUFGZ04wSWtmRkhlZXlSY0pBTG1iSnZkUWJFdmdyZ2lwcG50bG5KMDNJM2FRWUpuNnNlbmsyTGhZRXlsOTRLVDNNSE5odVhhYUhnOHA3bXJfQVQwdktFOUVxY092eU9VcExWOEhFaktmckRjeErSAYABQVVfeXFMUGtmcFdoZFNDemtvejF5QmFHVHNYdHZ5QnBCVHN6UlE4Q1BHSGlzMFpUSVF1SW1TUnhhTUo4VDFrQklQQWJlLXVCQXpraWFYRUYzRGxQN3NOWHFUcS1WWFliOWh1bFMyM0RLVl83emQyZkhmM0RyS1ZqNm1nRGlxM1c?oc=5"
-    },
-    {
-      "title": "Under the Skin of America’s Humanoid Robots: Chinese Technology - WSJ",
-      "summary": "美国人形机器人产业链深度依赖中国技术，中国在传感器、减速器等核心零部件领域占据主导地位，供应链安全成行业隐忧。",
-      "date": "2026-04-03",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxOWTlIUTUtVkdVbXl0cm9vWS1GYTQ0TTllSDV6RFNYRGRNbGVlaElkd1ZCXzY1U2xhRVM2aVRiZ2JMVm84bGZZdkFUalF0M01oR2EzaEZwWkdEZ2pFNi0wM1BoUE8xSXRBLU5DaHk1QTRSR0E0WjllcmVCNjlOYkd3ZWJjbGlXeFdtMTZXTGZkNUNscjhya01VN1ZlLVlBNUt6Y1c1S1FJa1VMeTkxWV83Q1NaaVZGR3pMX3YyOXp3MDFLamxDaHdNY0JNaW9zNmlGTVp1NkVTQ0NNbjlJeEUxSWdZVE5NQ0pvOVlFek1lRnQ5RGlyb3JmNjNQNXRXNHdtT1V5NXZ1SldsRWFhR1JlcDRhalFxWno1UXhpcGlIOVZ4V3d0dnRJQk9DTEhFSDNiQkRlY3EzU2VvT2FFbkNudThjWWd6dmJ6U0dnVzZXaW5mWWNoclVuWGctV3VHV2Y0UExXV1p4Q3pUUDMzNXhQSEd0YzVnbnJSVFAwcmJIc2JFbm5Hdk1vRkV5M0NmaE5ERE01TFh2eWl3VFQtZ1N3aA?oc=5"
-    },
-    {
-      "title": "Tesla ends Model S and Model X production as Fremont shifts towards 1 million robot target - Manufacturing Today India",
-      "summary": "Tesla关闭Model S/X生产线，Fremont工厂转向实现100万台机器人产能目标。这标志着汽车制造业加速向自动化和机器人生产转型，为人形机器人行业带来新机遇。",
+      "title": "Tesla Delays Optimus Gen 3 Unveil for 'Finishing Touches' - Not a Tesla App",
+      "summary": "Tesla推迟Optimus Gen",
       "date": "2026-04-04",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPXzF5alpQQ0tXcnB2UzZ4U3hQdm5Wa3c0Ml9vcHJKTlJ3UHA4M3h0S0JaTm9ncU5rQlpEVXhxWjBkRDNiUzdfYkwzbTJtcWRERE9tczI0djNuak9Gdy1obGdtVFJnYWkwOC0tZHIzQnpqM3FTWXk5RTM5MmllYTVDS3FTTG1qVGdP?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQY0F6VFpzblJfNk1wNTY2dEpiQUZyQWVZaXp3cUVRd0pUU050aFprWUlIeGpuTDhFeGQxQlh6V2NTdUVzWTBpTE5HdEpJV0RDZWhnMUNTdURwM1BScWc0SzRmSk1WMWhfcERMbUtlWXBkVUc5WXMwZTloakRQOGhYVjFJUlkteEZVejg0VkdrSnZVN2pyV1owdnJ3?oc=5"
     },
     {
-      "title": "Melania and the robot: Humanoids are here, but they can’t replace humanity - The Journal",
-      "summary": "用户要求我分析一条关于Figure AI的新闻，需要用1-2句话（50字以内）总结关键信息和对人形机器人行业的意义。",
+      "title": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily",
+      "summary": "Elon Musk透露特斯拉人形机器人Optimus或将在明年发布，同时回应SpaceX上市计划。该消息可能加速人形机器人商业化进程，提升行业竞争格局。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5"
+    },
+    {
+      "title": "Elon Musk announces disappointing Tesla Optimus update - Teslarati",
+      "summary": "特斯拉Optimus更新令人失望，表明其人形机器人项目进展受阻，可能影响行业对该技术商业化预期，但同时也为竞争者",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVVlibVZCXzFsLVpQQTZ2dlhEdEIyOHNfaG5NNlNlWkxkSjZrLXBIUDJtakt3aXRFMTY3cV9nMVVxb0R3emU5OUFpdWQtMHM5QW9WRjFWS0JsMXRBc09OaTVPYnl2cVQ1LWg0SDVkaEphZnBPbnV4MnlXQ2ZIc2xNbWE2dHVYVTYw?oc=5"
+    },
+    {
+      "title": "Tesla Optimus robot development and features! - MSN",
+      "summary": "Tesla发布Optimus机器人最新研发进展，展示先进运动控制与AI交互能力，加速人形机器人商业化进程。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQXy1fX1VxUURfMkxhM0NVSHJCaUNVTHUzWVJDODQ3NHlXNFNTcUo4TXNUdEt1MVhjS1puXzIzcXZzUWlWSzBuMGJMM1p2YmNHN1I4QWZSQlo0cGxBRVVSYS1HcTJzOXZNYloxX2Q1VllNS1NOSm04eHAzalltQ21ncVh3X2tIMWM3WlhHSVU1Wk53alZiTnhYX3p3?oc=5"
+    },
+    {
+      "title": "XiaoZhi Weekly News | Latest Tesla Optimus Video Revealed; RoboSense Robot Business Surges - Gasgoo",
+      "summary": "特斯拉发布Optimus最新演示视频，展示更成熟的运动控制能力；同时RoboSense机器人业务快速增长，反映市场对人形机器人商业化落地的信心增强，推动行业竞争与发展。",
       "date": "2026-03-30",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5uYzhDMXd5dHk2d1RXbnFNTDZCSHY1MnhNa3llQkFUUG1mSlVfLVpoYVFWVGNXVXpfc1M4T2hjVXY0ZlZsRU5sdVhwZ3paeXNYZUdBWW9reXBnNDAwaXR2LXN6YzlzbGFDU21razVZUVJsbngxRXFScFlpTQ?oc=5"
-    },
-    {
-      "title": "When Humanoid Robots Come to a Small Town Factory in South Carolina - WSJ",
-      "summary": "Agility Robotics的人形机器人将在南卡罗来纳州小镇工厂部署，标志着人形机器人从实验室向实际工业应用的关键一步，对行业商业化落地具有重要示范意义。",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxQSE5sYXl1cG8wUmxHZlhMajA1WWxuVVdQNnM2UGFZM2YxNDlnSXJaLTVFeDJqWV94V3ByWXdneUF5OFFsYWNwSEpVS3g2WFU1Z3ZsWldvVUtFQl9OQWxTZEdtVEhpYnhRMlJaQjBsem1HUzRHTzV4M2o5NTNVVHkwczF0aVY1Y1UtcU1nc2xGeDhCcGs5WEVfUkhZamJYU0RQUjRUTlJFYUdIN24xQTdjR21hcGF6aWZPUWIwcUJReUxRX2ZmMmFCVUE0bE1lMlVUSkxMZ0ZoMFFqY1RJYTNjeVhyb3VVdXROMkQzWDNoVG84cGIyVWZDQnVobm02ZGtYMDJFZHI4T1l6VnJMbzd2UlhpellaZzBYdmhNMW9UMG5QLW5yMThmbVFnWTM0cHQwbFdtZG5UVTlGNDF4NGtnR2tNdk9zdHhmTklma3ZwdU1EOUJ6V01xNF9QX0xNdXhqUWpZWDdJcTRIQVh4LS1JamRjTlFIMzRSXzB3M3ZxbzJZaHp6OE0w?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-04T13:11:09.445812"
+  "updated_at": "2026-04-05T02:40:23.517200"
 }
