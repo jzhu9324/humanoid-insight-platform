@@ -1,0 +1,288 @@
+---
+title: 人形机器人行业日报 - 2026-04-06
+date: 2026-04-06
+type: report
+---
+
+# 人形机器人行业日报
+## 2026-04-06
+
+---
+
+## 📊 数据概览
+
+本期共收录:
+- **学术论文**: 0 篇
+- **公司动态**: 68 条
+- **行业资讯**: 0 篇
+
+---
+
+## 🎯 核心摘要
+
+## 人形机器人行业周报摘要
+
+**本周行业整体态势：** 本周行业信息发布以企业动态为主，学术论文与媒体深度报道缺失，行业关注度集中于头部企业技术突破与产品规划。
+
+**技术研究主要方向和突破：** Tesla Optimus展示无视觉自主行走能力，标志着运动控制算法向端到端感知决策方向演进；同期RoboSense机器人业务显著增长，传感器与执行器供应链技术迭代加速。
+
+**主要公司动态和产业进展：** Tesla持续占据舆论焦点，Elon Musk透露Optimus进展细节并强调人形机器人是公司未来战略核心；同时消息显示其对SpaceX IPO态度审慎，反映航天与机器人业务的资源协同考量。
+
+**值得关注的趋势或信号：** 头部企业从产品验证转向商业化路径探索，人形机器人应用场景正从实验室向工业与服务业延伸，2025年或迎来小批量交付窗口期。
+
+---
+
+## 📈 趋势分析
+
+# 本周人形机器人行业趋势分析
+
+## 1. 3-5个主要技术趋势和热点话题
+
+1. **视觉辅助行走技术的突破** - Optimus机器人实现了无视觉自主行走能力，代表了具身智能感知决策的重大进步
+
+2. **Tesla战略重心从电动汽车向自动驾驶出租车和人形机器人转移** - 公司计划停产Model S/X，全面押注Cybercab，反映行业商业模式的深刻变革
+
+3. **人形机器人代际迭代加速（Gen 3）** - Optimus Gen 3进入最终调优阶段，显示硬件性能与软件智能的持续升级
+
+4. **机器人技术与消费场景融合** - Optimus Gen 3将在Tesla Diner亮相，预示人形机器人进入服务应用落地阶段
+
+5. **自动驾驶与人形机器人的技术协同** - Robotaxi与Optimus共享视觉算法与神经网络架构，体现技术复用趋势
+
+---
+
+> **分析说明**: 本周热点集中在Tesla Optimus的迭代进展及公司战略转型两条主线。技术层面侧重于运动控制（无视觉行走）和代际升级；商业层面则体现从乘用车向自动化出行服务及服务机器人的全面转型。
+
+---
+
+## 📚 学术前沿
+
+本期收录 0 篇高质量论文：
+
+## 🏢 产业动态
+
+本期收录 68 条公司动态：
+
+
+### 1X Technologies
+
+**Agility’s Digit Humanoid Robot Learns to Dance - TechEBlog -**
+- 发布时间: 2026-04-04
+- 链接: [https://news.google.com/rss/articles/CBMidEFVX3lxTE43WldxWTlPVk1Ydm1yb1V0cXdGRWY0YlF3MFJ3WDN3WVkyVWdNNHFBVFd3eW1mNGdRLVZOTXFmV29mNXlnRXFUSXFrYjh4cVZPNHJtX0poajdBd2w5bDNvZXhjT21JUGI2Y21zX3hjNEgxZzFN?oc=5](https://news.google.com/rss/articles/CBMidEFVX3lxTE43WldxWTlPVk1Ydm1yb1V0cXdGRWY0YlF3MFJ3WDN3WVkyVWdNNHFBVFd3eW1mNGdRLVZOTXFmV29mNXlnRXFUSXFrYjh4cVZPNHJtX0poajdBd2w5bDNvZXhjT21JUGI2Y21zX3hjNEgxZzFN?oc=5)
+- 简介: Agility Robotics的Digit人形机器人展示跳舞能力，体现双足运动
+
+
+### Agility Robotics
+
+**Agility’s Digit Humanoid Robot Learns to Dance - TechEBlog -**
+- 发布时间: 2026-04-04
+- 链接: [https://news.google.com/rss/articles/CBMidEFVX3lxTE43WldxWTlPVk1Ydm1yb1V0cXdGRWY0YlF3MFJ3WDN3WVkyVWdNNHFBVFd3eW1mNGdRLVZOTXFmV29mNXlnRXFUSXFrYjh4cVZPNHJtX0poajdBd2w5bDNvZXhjT21JUGI2Y21zX3hjNEgxZzFN?oc=5](https://news.google.com/rss/articles/CBMidEFVX3lxTE43WldxWTlPVk1Ydm1yb1V0cXdGRWY0YlF3MFJ3WDN3WVkyVWdNNHFBVFd3eW1mNGdRLVZOTXFmV29mNXlnRXFUSXFrYjh4cVZPNHJtX0poajdBd2w5bDNvZXhjT21JUGI2Y21zX3hjNEgxZzFN?oc=5)
+- 简介: 
+
+
+### Figure AI
+
+**Figure AI Demonstrates Humanoid Robot Mobility - Let's Data Science**
+- 发布时间: 2026-04-02
+- 链接: [https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzFvXzQtcEtrSFYxQnQxNktTNDZOWXhnMFpybXRMNk00eUZZLUdSeWZkRllMR0RIZGhkNDdXNGVMeG5wV0NHM1FlWVFUTGdWUUlacjctV2NIOUJDQ3Z4ZFZiamR2eWFzV0JTUjNOVVNiVmxWZk1iSXE4MURaNzZWZWZXLVppQnZGMjh1eVNaam1nZw?oc=5](https://news.google.com/rss/articles/CBMikgFBVV95cUxNZzFvXzQtcEtrSFYxQnQxNktTNDZOWXhnMFpybXRMNk00eUZZLUdSeWZkRllMR0RIZGhkNDdXNGVMeG5wV0NHM1FlWVFUTGdWUUlacjctV2NIOUJDQ3Z4ZFZiamR2eWFzV0JTUjNOVVNiVmxWZk1iSXE4MURaNzZWZWZXLVppQnZGMjh1eVNaam1nZw?oc=5)
+- 简介: Figure AI展示了其类人机器人的移动能力，表明该公司在双足机器人运动控制方面取得重要进展，推动人形机器人行业向实用化迈进一步。
+
+**The gig workers who are training humanoid robots at home - technologyreview.com**
+- 发布时间: 2026-04-01
+- 链接: [https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXpBZEJpS1hfTFl4SmtuSmszX0I2STJWOUs4Z1ktLVRENUljLUx4akZoVzJUNW5zUVpmWGpxNGdJZzY4a0sxMXRoaXdjSTE1SjJiNHMzLUhnMkpmSkVvdV91Nm5mQmwzY2JLZXNSOXlfaDZvRDQyc2ZPOHNJZUlxUUVXbDNrVFM1YnFXQXNHN3ZxTi1lUjd4cjR5aFRTbzhSTkxXX1hPTkl1Q0dkRlRQTUVsY1hfQmvSAbwBQVVfeXFMTVZfaUNoV2VUNHlSXzM3X1VBNXc3Mi1UcXhIeUUwWkgtOE44ZG5kWTJEZHhnUGJJSEZQWTBRb203WDhvTTNpTi15NmtjMm8yTm96YTc3bC0zeXJPRkNMZm1vVDZpd3BaOWNMT0xSMVRDalJOMl80b0xsb1hhNTN2ZWxBY1lnUVRJVnBUbzJoY0NfeEVBbGc4dmFDSXhIYUs5dWhFYTRSQ3c3MmI3ajdaWlhJVTZCWmpmMVUycVc?oc=5](https://news.google.com/rss/articles/CBMitwFBVV95cUxQcXpBZEJpS1hfTFl4SmtuSmszX0I2STJWOUs4Z1ktLVRENUljLUx4akZoVzJUNW5zUVpmWGpxNGdJZzY4a0sxMXRoaXdjSTE1SjJiNHMzLUhnMkpmSkVvdV91Nm5mQmwzY2JLZXNSOXlfaDZvRDQyc2ZPOHNJZUlxUUVXbDNrVFM1YnFXQXNHN3ZxTi1lUjd4cjR5aFRTbzhSTkxXX1hPTkl1Q0dkRlRQTUVsY1hfQmvSAbwBQVVfeXFMTVZfaUNoV2VUNHlSXzM3X1VBNXc3Mi1UcXhIeUUwWkgtOE44ZG5kWTJEZHhnUGJJSEZQWTBRb203WDhvTTNpTi15NmtjMm8yTm96YTc3bC0zeXJPRkNMZm1vVDZpd3BaOWNMT0xSMVRDalJOMl80b0xsb1hhNTN2ZWxBY1lnUVRJVnBUbzJoY0NfeEVBbGc4dmFDSXhIYUs5dWhFYTRSQ3c3MmI3ajdaWlhJVTZCWmpmMVUycVc?oc=5)
+- 简介: 自由职业者在家远程训练Figure AI人形机器人，通过众包标注数据加速其学习能力，此模式可降低开发成本并提升AI训练效率。
+
+**Why a humanoid teacher is still less scary than an activist teacher - Capital Research Center**
+- 发布时间: 2026-04-03
+- 链接: [https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3Y5OHVCQVllM1BWTnlDMkJNSy0zdEhHdzhjY3hjSWFtQXE1SURqTDh4RjFYSkg1WlhtMkNFSDNBTFZtVm1vd1FzbE5qRjFOUXhzbnlVdDlUNTg4dFF4MnBEM3pwNzA5dDZLMENOYmdzMnQwVlc4cnlaX0RrbklFRWpZOE43OUszcERvUUM2UU42cEtZbDBiVDJiQnNZenhudFJMRDBUUQ?oc=5](https://news.google.com/rss/articles/CBMipwFBVV95cUxOV3Y5OHVCQVllM1BWTnlDMkJNSy0zdEhHdzhjY3hjSWFtQXE1SURqTDh4RjFYSkg1WlhtMkNFSDNBTFZtVm1vd1FzbE5qRjFOUXhzbnlVdDlUNTg4dFF4MnBEM3pwNzA5dDZLMENOYmdzMnQwVlc4cnlaX0RrbklFRWpZOE43OUszcERvUUM2UU42cEtZbDBiVDJiQnNZenhudFJMRDBUUQ?oc=5)
+- 简介: 
+
+
+### Industry News
+
+**Robot dog takes on security duties in Atlanta**
+- 发布时间: 2026-04-05
+- 链接: [https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/](https://www.reddit.com/r/robotics/comments/1sd8dlv/robot_dog_takes_on_security_duties_in_atlanta/)
+- 简介: 该新闻报道机器狗在亚特兰大承担安保巡逻任务，标志着四足机器人在商业安保领域的规模化应用落地。这虽非人形机器人，但对整个机器人行业具有重要意义——它证明了机器人可在实际工作场景中替代人力，开启了机器人服务商业化的新趋势。
+
+**What is the best Free CAD Software?**
+- 发布时间: 2026-04-06
+- 链接: [https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/](https://www.reddit.com/r/robotics/comments/1sdk3zw/what_is_the_best_free_cad_software/)
+- 简介: 该新闻讨论了最佳免费CAD软件的选择，对人形机器人行业而言，免费高效的CAD工具能降低研发成本，帮助设计人员更好地进行机器人结构设计和仿真。
+
+**Sharing Enlightment: The experiment's results**
+- 发布时间: 2026-04-06
+- 链接: [https://www.reddit.com/r/robotics/comments/1sdmaj0/sharing_enlightment_the_experiments_results/](https://www.reddit.com/r/robotics/comments/1sdmaj0/sharing_enlightment_the_experiments_results/)
+- 简介: 该新闻仅提供标题和链接，未包含具体摘要内容，无法提取有效信息。
+
+**It hungers for more.**
+- 发布时间: 2026-04-04
+- 链接: [https://www.reddit.com/r/robotics/comments/1schdz7/it_hungers_for_more/](https://www.reddit.com/r/robotics/comments/1schdz7/it_hungers_for_more/)
+- 简介: 该新闻标题暗示人形机器人可能面临能量续航或数据获取方面的挑战，需持续改进以满足更高需求。对行业意义在于提示开发者关注机器人持久性、能耗效率及自主学习能力的提升。
+
+**Autonomous Robot Arm with Inverse Kinematics and YOLOV model**
+- 发布时间: 2026-04-05
+- 链接: [https://www.reddit.com/r/robotics/comments/1sdhfcd/autonomous_robot_arm_with_inverse_kinematics_and/](https://www.reddit.com/r/robotics/comments/1sdhfcd/autonomous_robot_arm_with_inverse_kinematics_and/)
+- 简介: 自主机器人手臂结合逆向运动学与YOLOV目标
+
+
+### Sanctuary AI
+
+**Sanctuary AI’s robotic hand demonstrates zero-shot in-hand manipulation - The Robot Report**
+- 发布时间: 2026-04-02
+- 链接: [https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlpFTjgxUDR2cVN1N3hVWlhlYWpwMG9iOVhINS1UQ1RoWUswWjJIdTBvTEVwQmhFWF9BZWRYdWZHNUt4R05CN3pGWDVaeHdTOXY3RENDSFpILUoxaHBDekxKTW1XckFhemdjVHJvaWlhRHUyY2pfNTV1amRfSkRrUXRwY2FiRTh0ZUw3c2xHRjBKSzdnOFM1aDdYVmt4LUU2OHJ4ZQ?oc=5](https://news.google.com/rss/articles/CBMipAFBVV95cUxQTlpFTjgxUDR2cVN1N3hVWlhlYWpwMG9iOVhINS1UQ1RoWUswWjJIdTBvTEVwQmhFWF9BZWRYdWZHNUt4R05CN3pGWDVaeHdTOXY3RENDSFpILUoxaHBDekxKTW1XckFhemdjVHJvaWlhRHUyY2pfNTV1amRfSkRrUXRwY2FiRTh0ZUw3c2xHRjBKSzdnOFM1aDdYVmt4LUU2OHJ4ZQ?oc=5)
+- 简介: Sanctuary AI展示机械手零样本手内操作能力，无需针对特定物品训练即可完成精细抓取与操作。此突破显著提升人形机器人在复杂环境中的
+
+
+### Tesla
+
+**Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily**
+- 发布时间: 2026-03-31
+- 链接: [https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5](https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5)
+- 简介: Elon Musk就特斯拉人形机器人Optimus发布时间及SpaceX IPO计划发声。Musk的表态将影响市场对特斯拉机器人业务估值预期，可能加速人形机器人行业商业化进程。
+
+**Tesla’s Optimus Robot Learns to Walk Without Vision [VIDEO] - Not a Tesla App**
+- 发布时间: 2026-04-04
+- 链接: [https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXJWNGRzTGZfZEtxanE5endSbkgyM1NsSTFWbF85czlQUzR4bFRZM3NFSkQ2NWFPRXZYSlN2Qkl4bllHUFhpMFd3QTh0TkVUWV9fRUFIYUtmd2lmSkFKZ1hEWFhGX3RILWExWWpOcjBmd1RyRHZLRFpyWFpJbnN5NUFhOWVWMm9veElUdFJyS0hETld5YzNGRHY0MA?oc=5](https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXJWNGRzTGZfZEtxanE5endSbkgyM1NsSTFWbF85czlQUzR4bFRZM3NFSkQ2NWFPRXZYSlN2Qkl4bllHUFhpMFd3QTh0TkVUWV9fRUFIYUtmd2lmSkFKZ1hEWFhGX3RILWExWWpOcjBmd1RyRHZLRFpyWFpJbnN5NUFhOWVWMm9veElUdFJyS0hETld5YzNGRHY0MA?oc=5)
+- 简介: 特斯拉Optimus机器人实现无视觉自主行走，表明其运动控制与本体感知能力取得突破，推动人形机器人摆脱视觉依赖的自主行动能力发展。
+
+**Elon Musk announces disappointing Tesla Optimus update - Teslarati**
+- 发布时间: 2026-03-31
+- 链接: [https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVVlibVZCXzFsLVpQQTZ2dlhEdEIyOHNfaG5NNlNlWkxkSjZrLXBIUDJtakt3aXRFMTY3cV9nMVVxb0R3emU5OUFpdWQtMHM5QW9WRjFWS0JsMXRBc09OaTVPYnl2cVQ1LWg0SDVkaEphZnBPbnV4MnlXQ2ZIc2xNbWE2dHVYVTYw?oc=5](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVVlibVZCXzFsLVpQQTZ2dlhEdEIyOHNfaG5NNlNlWkxkSjZrLXBIUDJtakt3aXRFMTY3cV9nMVVxb0R3emU5OUFpdWQtMHM5QW9WRjFWS0JsMXRBc09OaTVPYnl2cVQ1LWg0SDVkaEphZnBPbnV4MnlXQ2ZIc2xNbWE2dHVYVTYw?oc=5)
+- 简介: 特斯拉Optimus人形机器人更新进展不及预期，显示其在机器人领域面临技术挑战，可能影响行业竞争格局和投资者预期。
+
+**Tesla’s Future Isn’t Cars — It’s Robotaxis and Humanoids. Will the Bet Pay Off? - NAI500**
+- 发布时间: 2026-04-06
+- 链接: [https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkJfcHA0RE5aXzJWQUw0T3FXcVNOalNqcGQ1YXJuUkxWRHdsZ0xKMDZQd3FkcU5QbjZxS1hvOG1SR0hPNzU2QzZLVlQ3b0JlbTI2MXo3SVQ4ZjhEMlRJa2M3WS1BYWxveHJDMjFDWXJCSWs2RzFiMFY3MUhwRVJQN01WRXpaLUU0QUp5SlJWLXMxNXlQU0VNX3J3VC1IMU9vX0R1QnZaTVM?oc=5](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkJfcHA0RE5aXzJWQUw0T3FXcVNOalNqcGQ1YXJuUkxWRHdsZ0xKMDZQd3FkcU5QbjZxS1hvOG1SR0hPNzU2QzZLVlQ3b0JlbTI2MXo3SVQ4ZjhEMlRJa2M3WS1BYWxveHJDMjFDWXJCSWs2RzFiMFY3MUhwRVJQN01WRXpaLUU0QUp5SlJWLXMxNXlQU0VNX3J3VC1IMU9vX0R1QnZaTVM?oc=5)
+- 简介: Tesla将未来战略重心从汽车转向Robotaxi和人形机器人领域，显示其对自动驾驶及人形机器人技术的长期布局。此举将加速行业竞争，推动人形机器人商业化进程。
+
+**XiaoZhi Weekly News | Latest Tesla Optimus Video Revealed; RoboSense Robot Business Surges - Gasgoo**
+- 发布时间: 2026-03-30
+- 链接: [https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5](https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5)
+- 简介: 特斯拉公布最新Optimus机器人视频，展示技术新进展；同时RoboSense机器人业务大幅增长，反映行业竞争加剧，人形机器人商业化进程正在加速。
+
+
+### Unitree Robotics
+
+**A Complete Guide To Unitree Robotics’ 2026 IPO, Why It Matters For STAR Market ETF KSTR & Humanoid Robotics ETF KOID - kraneshares.com**
+- 发布时间: 2026-04-02
+- 链接: [https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdElMZWxzU2RQeU5iYk9iajNrRUxHd3FZX1hXVzN5MzF1akY5bjdxNFBqT2UtODh3NHJ3WkVRLTNsbE1SX1NOTnUySFc5RnRHaU1vSTFjUWdwVGJrSFk1MThWNGRwdkJ5SVp4RjNR?oc=5](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdElMZWxzU2RQeU5iYk9iajNrRUxHd3FZX1hXVzN5MzF1akY5bjdxNFBqT2UtODh3NHJ3WkVRLTNsbE1SX1NOTnUySFc5RnRHaU1vSTFjUWdwVGJrSFk1MThWNGRwdkJ5SVp4RjNR?oc=5)
+- 简介: 宇树科技计划2026年上市，将成为科创板首批人形机器人上市公司，对KSTR和KOID等ETF具有重要意义，推动行业发展。
+
+**China's new humanoid robot factory can make 10,000 units a year - Interesting Engineering**
+- 发布时间: 2026-03-31
+- 链接: [https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDFqZ1Ywc1JScDVFOTdGYlVXV2FnTVlaY0VYQ0w0VnptbHpWWFJ2YURTWmc1WU9tdGpCZy1rcWFSaEtLa2xSUU1tcGZybnNzbXNFMGJIbjdJdjA1bFlBNDBNVllFYzNHWHhFdWpzdlpGX25reHdMWEFuOVhhY2lOOGoyQ1lDQUJ2?oc=5](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQVDFqZ1Ywc1JScDVFOTdGYlVXV2FnTVlaY0VYQ0w0VnptbHpWWFJ2YURTWmc1WU9tdGpCZy1rcWFSaEtLa2xSUU1tcGZybnNzbXNFMGJIbjdJdjA1bFlBNDBNVllFYzNHWHhFdWpzdlpGX25reHdMWEFuOVhhY2lOOGoyQ1lDQUJ2?oc=5)
+- 简介: 中国Unitree Robotics新建人形机器人工厂年产能达10,000台，标志着国产人形机器人进入规模化量产阶段，将加速行业商业化进程并提升全球竞争力。
+
+**Chinese humanoid robotic company offers annual salary up to $18 million to recruit chief scientist, setting one of the highest payrolls in the industry - Global Times**
+- 发布时间: 2026-04-03
+- 链接: [https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FdUZzZ3BVanZHSWVIYWZ1Z2VudjU1T0UzSHhFNFVnak5EMW85WDVTOEMtVW9oYl9vb0dENnZJOEVzZGVhOXBKcjE2cEhhQ0NvSS01RjlTUGFfd21oQTBHWmhR?oc=5](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5FdUZzZ3BVanZHSWVIYWZ1Z2VudjU1T0UzSHhFNFVnak5EMW85WDVTOEMtVW9oYl9vb0dENnZJOEVzZGVhOXBKcjE2cEhhQ0NvSS01RjlTUGFfd21oQTBHWmhR?oc=5)
+- 简介: Unitree Robotics以高达1800万美元年薪招募首席科学家，创行业最高薪酬水平，反映出人形机器人领域人才竞争白热化，巨头们正通过高额薪酬吸引顶尖技术人才以抢占研发先机。
+
+**AI startup trains Chinese humanoid robots in Japanese hospitality - Nikkei Asia**
+- 发布时间: 2026-04-02
+- 链接: [https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHBqeElib1BmdXJRd3VvUkRWcjF3Rm9NbVhTWWVxbm80WU1XTHNQSkl0dDNOdHlHblM1WUpROXRnVWlvdlBJSkJ4Z0liR3ZxYmQzYnBrYlVHU0p6eXFCY2hnQ2MxMmhBY0lOOTR3c2ZXamZZQVRxWnNzWV9jUENjRnRLLTA4TXNCMmdUdVZFak82TzR3WTdObVRFU3diS1R6WkNVSFFFWnB5ekY1YnBwWFlwQ0hpcU9IS0pMejV5VUEzYjdSOGk3VHpVU1M5UQ?oc=5](https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHBqeElib1BmdXJRd3VvUkRWcjF3Rm9NbVhTWWVxbm80WU1XTHNQSkl0dDNOdHlHblM1WUpROXRnVWlvdlBJSkJ4Z0liR3ZxYmQzYnBrYlVHU0p6eXFCY2hnQ2MxMmhBY0lOOTR3c2ZXamZZQVRxWnNzWV9jUENjRnRLLTA4TXNCMmdUdVZFak82TzR3WTdObVRFU3diS1R6WkNVSFFFWnB5ekY1YnBwWFlwQ0hpcU9IS0pMejV5VUEzYjdSOGk3VHpVU1M5UQ?oc=5)
+- 简介: AI初创公司使用中国Unitree人形机器人训练其日本服务业应用能力，标志着国产人形机器人正式进入商业服务领域验证阶段。
+
+**Decoding the Differentiated Breakthrough Logic of Chinese Humanoid Robotics from the Financial Reports of Ubtech Robotics and Unitree Robotics - 富途牛牛**
+- 发布时间: 2026-04-03
+- 链接: [https://news.google.com/rss/articles/CBMivgFBVV95cUxPY05PNUJYNjF6bVNhNkxoLXRIcTMyWlRUWVYzUGZ0X1I4RktIQThXNnhKY2Z3YW5NejhaUmNqNGpQRGducU9HYVRnYVZyTzVRN2pmRklaakQwcTI4c1hQY2daeWRCam94MGpsODdfWldkRkp3Q3o2TzBwSzZpajRXOEw0U08xZVZQdHBhaDl1Q0ROZmdFOUNVQnJVWDJya0dNUEduUzg1dmlvWlhoRFNSM2FjRWY4eDljM0lMY0ZR?oc=5](https://news.google.com/rss/articles/CBMivgFBVV95cUxPY05PNUJYNjF6bVNhNkxoLXRIcTMyWlRUWVYzUGZ0X1I4RktIQThXNnhKY2Z3YW5NejhaUmNqNGpQRGducU9HYVRnYVZyTzVRN2pmRklaakQwcTI4c1hQY2daeWRCam94MGpsODdfWldkRkp3Q3o2TzBwSzZpajRXOEw0U08xZVZQdHBhaDl1Q0ROZmdFOUNVQnJVWDJya0dNUEduUzg1dmlvWlhoRFNSM2FjRWY4eDljM0lMY0ZR?oc=5)
+- 简介: 
+
+
+### 优必选
+
+**The humanoid robot that works tirelessly 24 hours a day and changes its own battery. - vocal.media**
+- 发布时间: 2026-03-30
+- 链接: [https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUkzbllPd0ZOemMyS2JHWnhiMTdUVDBBSjdzcUVRdXl5clFENTgwZnZFWUYtR2d4RTBvbUNLNU9qSlN2ZU5vbVZGSGM3THF2MmRHRkZlTUF4WXNuX2U0VlJWeXd0MzhNcU81X0dHMjlBRXI5ZEU1bFI0clR1UjkxSml2MEpJN3k5OWtEajRTaTlZcGRTSGJHd3lJanpDZGNRSnI1NzRPYVFPeDh6aFVsOQ?oc=5](https://news.google.com/rss/articles/CBMisAFBVV95cUxOeUkzbllPd0ZOemMyS2JHWnhiMTdUVDBBSjdzcUVRdXl5clFENTgwZnZFWUYtR2d4RTBvbUNLNU9qSlN2ZU5vbVZGSGM3THF2MmRHRkZlTUF4WXNuX2U0VlJWeXd0MzhNcU81X0dHMjlBRXI5ZEU1bFI0clR1UjkxSml2MEpJN3k5OWtEajRTaTlZcGRTSGJHd3lJanpDZGNRSnI1NzRPYVFPeDh6aFVsOQ?oc=5)
+- 简介: 优必选发布可连续工作24小时且能自主更换电池的人形机器人，展示续航与自动化维护技术突破，推动商用服务机器人向全天候智能化演进。
+
+**又亏了7.9亿！ “人形机器人第一股”优必选，被宇树打懵了？ - 新浪财经**
+- 发布时间: 2026-04-02
+- 链接: [https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVk1MnZyd2ZNa3dQb0tiV3dUdmI4MjJVRXB2dDFoVXRSMHJFQ1QxUDd2X2Zsako1VWpUM1NuTlduVG5OS1pnVG9WUEFET0E3MmtwVFRzUDBPLTBwN3R6cjRyMnZHYXZXbldaUllGUTFnZ2hwZjZpZ01FNWQ1dnQzMkZfNWQyRzEzalBlelZkalRHTmItbi1aVDFHUWU4Y0c2SWU1Vjc5ZzdUS2JtQmthTVpwOVlsVUNVNE9OZTZVRE5nZkthZUZUbFJ3?oc=5](https://news.google.com/rss/articles/CBMiygFBVV95cUxNbVk1MnZyd2ZNa3dQb0tiV3dUdmI4MjJVRXB2dDFoVXRSMHJFQ1QxUDd2X2Zsako1VWpUM1NuTlduVG5OS1pnVG9WUEFET0E3MmtwVFRzUDBPLTBwN3R6cjRyMnZHYXZXbldaUllGUTFnZ2hwZjZpZ01FNWQ1dnQzMkZfNWQyRzEzalBlelZkalRHTmItbi1aVDFHUWU4Y0c2SWU1Vjc5ZzdUS2JtQmthTVpwOVlsVUNVNE9OZTZVRE5nZkthZUZUbFJ3?oc=5)
+- 简介: 优必选2023年亏损7.9亿元，市值大幅缩水，被宇树等竞争对手超越。这反映了人形机器人行业竞争加剧，技术迭代与成本控制成为企业生存关键。
+
+**优必选1.24亿年薪招聘具身智能首席科学家，加速人形机器人落地 - 搜狐网**
+- 发布时间: 2026-04-03
+- 链接: [https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFQ5OFI1NzQ3RlpKZHhvclY4blVYNUFxak9nOG0wV0FfdXBQYjlIcHZfMVUxTEotbW4xa2V0alo5emg4U3d5dmFoMW1haVZKUkhpc2tIRUVYUm5uay1lOE9rZkJNTzB5VUJZQXlBMkVnVTVGbWtNQ0RXOGZITFRtZ3l2ZjMwMV80SVFaNg?oc=5](https://news.google.com/rss/articles/CBMijAFBVV95cUxPbFQ5OFI1NzQ3RlpKZHhvclY4blVYNUFxak9nOG0wV0FfdXBQYjlIcHZfMVUxTEotbW4xa2V0alo5emg4U3d5dmFoMW1haVZKUkhpc2tIRUVYUm5uay1lOE9rZkJNTzB5VUJZQXlBMkVnVTVGbWtNQ0RXOGZITFRtZ3l2ZjMwMV80SVFaNg?oc=5)
+- 简介: 优必选以1.24亿年薪招聘具身智能首席科学家，加速人形机器人技术落地。此举体现行业对顶尖AI人才的激烈竞争，推动具身智能技术研发。
+
+**「机器人+」年薪最高达1.24亿元！优必选面向全球招聘首席科学家，人形机器人价值兑现加速 - 新浪财经**
+- 发布时间: 2026-04-05
+- 链接: [https://news.google.com/rss/articles/CBMi2wJBVV95cUxPclJyTnpNcWVzUFBwVl85bFFHVE1xYmZIR1JLUHF5eW1mNEpab3Q2ODFPUC1kVGJySHZQRU5SNi1ham9wdkVDQk5EM2NsRHZieTU1dE96Zmt0Y0J6RFgtRmhTeHBsekhqeUxuRjNGYmRRTW5xNmhpdjNTSXN2WVk1Mm5tVTMwVTVYU0tmNnByTTZrX3VibTFnbm1vZ21GeVQ3RXJLNFFwdjIzbXdhVTBWd2REbTNSVmYxTU1NeFNCdU1WeFJMTWYzUEVQVUdwb1JnVW5RWjlsR0VobUx1TmtieVcxUlNhWGRuZzhweUY1Vl84WGdid2VycFRUQjhMMktqY2FQVEhHRER3YmpvMHdiSHBkdjZMYm9PZjZBT01tcjdDNXozZFpGOG8yNXZUQ0FsTW92cW9lV1dyN0N3Y2NWLXNjOG5adjVVZ0dJT2FPX0d0SkRCNS1WNi1ORQ?oc=5](https://news.google.com/rss/articles/CBMi2wJBVV95cUxPclJyTnpNcWVzUFBwVl85bFFHVE1xYmZIR1JLUHF5eW1mNEpab3Q2ODFPUC1kVGJySHZQRU5SNi1ham9wdkVDQk5EM2NsRHZieTU1dE96Zmt0Y0J6RFgtRmhTeHBsekhqeUxuRjNGYmRRTW5xNmhpdjNTSXN2WVk1Mm5tVTMwVTVYU0tmNnByTTZrX3VibTFnbm1vZ21GeVQ3RXJLNFFwdjIzbXdhVTBWd2REbTNSVmYxTU1NeFNCdU1WeFJMTWYzUEVQVUdwb1JnVW5RWjlsR0VobUx1TmtieVcxUlNhWGRuZzhweUY1Vl84WGdid2VycFRUQjhMMktqY2FQVEhHRER3YmpvMHdiSHBkdjZMYm9PZjZBT01tcjdDNXozZFpGOG8yNXZUQ0FsTW92cW9lV1dyN0N3Y2NWLXNjOG5adjVVZ0dJT2FPX0d0SkRCNS1WNi1ORQ?oc=5)
+- 简介: 标签
+4. 简洁明了，突出关键信息
+
+关键信息：
+- 优必选招聘首席科学家
+- 年薪最高达1.24亿元
+- 面向全球招聘
+- 体现人形机器人行业人才竞争加剧
+
+行业意义：
+- 体现人形机器人行业对高端人才的重视
+- 薪酬水平反映出行业快速发展
+- 加速人形机器人价值兑现
+
+我来撰写摘要（50字以内）
+
+**优必选2025年营收20亿：人形机器人收入占比超40% 净亏7.9亿 - 新浪财经**
+- 发布时间: 2026-04-01
+- 链接: [https://news.google.com/rss/articles/CBMi8ANBVV95cUxPWmFIY0VBaF9tZ09Kb0NFak1yZ2pmTFpXal8yNmxZU2ZnSmVadmFnSFVJamNPRURWX25KYTJ0ZkZfc01DTVpPajJCVnVrdkZ5bExucjlVV041S3FZYXBQSmZwSXNuSU9Xa2hLdnRmdEpJMjhCZHVnTUZ2VGxURjlsaWd0d0lYRWsyQmZxSVpiYXN4a0R2WVpfRnBnNkRKX0g4TFU0QXFjMzA0RnlVNTFmVW12TUNCbE5QbGxrZWtaQV9WXzU0MDRKWUpOdWtBeFdzb2ZFMEZNemdPUndrWEVxdHlQSXp4MGVDUFdZNWZKRzdMbEF3V09Oa25kWkxGY2h2TFJZdDkzZ2Z0ZldQeVp0TjRGVEFvZGhlNjQyTFNsSnIwMFVDelhvWHh0NmM4Q2F6ZUZRVjJzMDg4VG05T3ROa1dPWkZBQjlrX3VBd3dOOHlBMjN5V0V1a1JzaFNsSWlrdlJPTHhydjAwSGpPV2hlakVqNElvTGJRQk1VWnJKblBJMzdOTFEyYXpkeUFmX0ZtTk5aZ0Vjc1BsUGl6X25qWXBvSTdRWkRsR3E4MHUtVWFzRWNFVnhab1NaU2x0YXhIaV8yUjlDQm5ESlExVEhNd3hYWkNZRUdzSGo1eHVKdUx1ZXRSR29ReDh5Y2xuZVNv?oc=5](https://news.google.com/rss/articles/CBMi8ANBVV95cUxPWmFIY0VBaF9tZ09Kb0NFak1yZ2pmTFpXal8yNmxZU2ZnSmVadmFnSFVJamNPRURWX25KYTJ0ZkZfc01DTVpPajJCVnVrdkZ5bExucjlVV041S3FZYXBQSmZwSXNuSU9Xa2hLdnRmdEpJMjhCZHVnTUZ2VGxURjlsaWd0d0lYRWsyQmZxSVpiYXN4a0R2WVpfRnBnNkRKX0g4TFU0QXFjMzA0RnlVNTFmVW12TUNCbE5QbGxrZWtaQV9WXzU0MDRKWUpOdWtBeFdzb2ZFMEZNemdPUndrWEVxdHlQSXp4MGVDUFdZNWZKRzdMbEF3V09Oa25kWkxGY2h2TFJZdDkzZ2Z0ZldQeVp0TjRGVEFvZGhlNjQyTFNsSnIwMFVDelhvWHh0NmM4Q2F6ZUZRVjJzMDg4VG05T3ROa1dPWkZBQjlrX3VBd3dOOHlBMjN5V0V1a1JzaFNsSWlrdlJPTHhydjAwSGpPV2hlakVqNElvTGJRQk1VWnJKblBJMzdOTFEyYXpkeUFmX0ZtTk5aZ0Vjc1BsUGl6X25qWXBvSTdRWkRsR3E4MHUtVWFzRWNFVnhab1NaU2x0YXhIaV8yUjlDQm5ESlExVEhNd3hYWkNZRUdzSGo1eHVKdUx1ZXRSR29ReDh5Y2xuZVNv?oc=5)
+- 简介: 
+
+
+### 小米机器人
+
+**Xiaomi CyberOne Humanoid Robot Features New Bionic Arm And Thermal Sweating System - Technetbook**
+- 发布时间: 2026-04-04
+- 链接: [https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWcwRDRNbG5OSTZ1a2x3OTJwUHpSQklfUEp4c2M0MGZKcE4yQzIwQzQ0WHNueFZxV0lrLWJ1cGtmalVpLVVKdjJod3RyVHIxV1FjcjF3OWJZeEszeU1lQW85dGhjX2hqSXVPM1ZDd2lZY3hEQ3JDRlJ3dWhVdWc3QXM3M3FtUGJx?oc=5](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMWcwRDRNbG5OSTZ1a2x3OTJwUHpSQklfUEp4c2M0MGZKcE4yQzIwQzQ0WHNueFZxV0lrLWJ1cGtmalVpLVVKdjJod3RyVHIxV1FjcjF3OWJZeEszeU1lQW85dGhjX2hqSXVPM1ZDd2lZY3hEQ3JDRlJ3dWhVdWc3QXM3M3FtUGJx?oc=5)
+- 简介: 
+
+**Chinese sensor could redefine robot dexterity - MSN**
+- 发布时间: 2026-04-03
+- 链接: [https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZHFaU1FwUW42Zjd4MzRma2c5NDhBZUpqVG1MenlxYUtxRkh2QzVHamVDWEJfYk1ibHBVS3Exc1luNUt6VU5YSmFkS1V0cEZPR2tURDBGTW9CV1V0aUJ0RUN3bEZYQmV3bnNMSFR4bFdLUkc5eWdHakcwQVhJaXdwQkNMZzZ4XzJFMlMxVE5NcEJ3cUJIUnNjeC0wek5hdFNEVTFMd19xMDBnWjd0alRDaVVfaUNhb1JsNlBvUTFOWjJXdmVDVlk0aHNkOGU1T3RVSVZNUFh5RF9NOUJ3dVItckUtM2ZCaWc1bFJycWJNeUtmU1JVZVp1amt3MnVEa2RTNHY2blc1dDRXSGZra1l3TnpBUlB6VnBTUHUxSU1DYkhDMzNxMGxycnBudW5laDlPVTVWaVBXekhPRTA?oc=5](https://news.google.com/rss/articles/CBMiuwJBVV95cUxPZHFaU1FwUW42Zjd4MzRma2c5NDhBZUpqVG1MenlxYUtxRkh2QzVHamVDWEJfYk1ibHBVS3Exc1luNUt6VU5YSmFkS1V0cEZPR2tURDBGTW9CV1V0aUJ0RUN3bEZYQmV3bnNMSFR4bFdLUkc5eWdHakcwQVhJaXdwQkNMZzZ4XzJFMlMxVE5NcEJ3cUJIUnNjeC0wek5hdFNEVTFMd19xMDBnWjd0alRDaVVfaUNhb1JsNlBvUTFOWjJXdmVDVlk0aHNkOGU1T3RVSVZNUFh5RF9NOUJ3dVItckUtM2ZCaWc1bFJycWJNeUtmU1JVZVp1amt3MnVEa2RTNHY2blc1dDRXSGZra1l3TnpBUlB6VnBTUHUxSU1DYkhDMzNxMGxycnBudW5laDlPVTVWaVBXekhPRTA?oc=5)
+- 简介: 用户要求我分析一条关于小米机器人的新闻，但提供的链接和摘要内容似乎不完整。让我看看能获取什么信息：
+
+标题是"Chinese sensor could redefine robot dexterity"，摘要中提到了"Chin"部分被截断了。
+
+从标题来看，这似乎是关于中国传感器技术可能重新定义机器
+
+**小米机器人进厂“实习”! - 汽车之家**
+- 发布时间: 2026-04-03
+- 链接: [https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KeTdpc0VKYlNXWTYtVV9iRWJXNEVxZHFtYlcyRkZGQXdHbGNGSk8taEMyazBITVhGM1FfSXA4OUgzeHlNSVRpbk5CLWZUSkl2cU1hVjlSaU9PUHc?oc=5](https://news.google.com/rss/articles/CBMiW0FVX3lxTE5KeTdpc0VKYlNXWTYtVV9iRWJXNEVxZHFtYlcyRkZGQXdHbGNGSk8taEMyazBITVhGM1FfSXA4OUgzeHlNSVRpbk5CLWZUSkl2cU1hVjlSaU9PUHc?oc=5)
+- 简介: 小米机器人进入汽车工厂"实习"，开展实际工业场景应用测试。这标志着国产人形机器人加速迈向产业化应用，为行业商业化落地提供重要参考。
+
+**小米米家扫拖机器人6 Pro上架预售，首发国补到手3799元起|新品|基座|京东|异味|宠物_手机新浪网 - 新浪财经**
+- 发布时间: 2026-04-02
+- 链接: [https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkR4QXBOU01Tb0YxREg0ZWdJZWdFandWeEc1czI5bTFSWEp6N0ZTTU1Jc3NzMG5OeFdUNVBoZHMwcWp6aE1zSF9vQWVVdUhRZmp2Y3RCZ0ZERHB4OGNRS1FwcFBENDQ1MVBxN19lRUlNeDhCQUlBYmF3Tk0wMzgyVkdhQ2VybEZJcFViSlFxRUl5ZXhUWmRybzYyNnNWN1N4cjl1ZVpzTWtSR29FN19VQkZNNG5yVlI2OHNYTEkzQnN2YkU?oc=5](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYkR4QXBOU01Tb0YxREg0ZWdJZWdFandWeEc1czI5bTFSWEp6N0ZTTU1Jc3NzMG5OeFdUNVBoZHMwcWp6aE1zSF9vQWVVdUhRZmp2Y3RCZ0ZERHB4OGNRS1FwcFBENDQ1MVBxN19lRUlNeDhCQUlBYmF3Tk0wMzgyVkdhQ2VybEZJcFViSlFxRUl5ZXhUWmRybzYyNnNWN1N4cjl1ZVpzTWtSR29FN19VQkZNNG5yVlI2OHNYTEkzQnN2YkU?oc=5)
+- 简介: 用户要求我分析一条关于小米扫拖机器人的新闻，并给出1-2句话（50字以内）的总结，说明关键信息和对人形机器人行业的意义。
+
+让我分析这条新闻：
+- 产品：小米米家扫拖机器人6 Pro
+- 价格：首发国补到手3799元起
+- 平台：京东预售
+
+但是，这里有个问题：用户标题说的是"人形机器人行业分析专家
+
+**手机长出“手脚”？机器人扔掉遥控器！ - 手机新浪网**
+- 发布时间: 2026-04-04
+- 链接: [https://news.google.com/rss/articles/CBMirgRBVV95cUxQOWRVMFNfSTY2ZlUyMFlUeHZZRFhod1FWQTdwNHNxSzVhbnB6NUlTMGU4UVVmNFZLZGxEVjdMM1ZuMVlPLXdDMWVQeTF2OEo1bDg0UG1uT3VxV2JJaFppajNGV3J1MDFOREo0bEpEVS1JWlNMbEJRd2pCOGhSbVlxT0E0Wl9GR25DWXRXRjAtNWl1NzU1MkhnSURIWkM5eURCZk9ydFAzcVVOYWZtRkw0T1htV185eHpOOXJxR3BGMU9kNFN5ekJ6VFVaZXBWNUdDZmRMdVJlV1VfQS1pRmhNc0F1Nzk0cEFxYjJUZTVWd1FRTjN0LXlEWHRPUVpzc3h6eHlNMTV6cXRKbUlxQ0s1WlpwdXh4MEZwSm9lZ3BrenlDbUI0T1Z0SDRrVXRCOVdHeEVJR0xEek9CVTlNR1FJWTBteWxiSHZRM2V0MFpmeEpTRkZjcDllSlVqbEsyYXJDVVFMNnJIVlZud0NfNWlTSHNTS19jd0IyRDY3RFR3S3dXLWRWcndabzZlZVJHaDBtSTZoNUYtOGJxN1l3a0pJNWlGampPZm04dlBZOURGaHRpcm9uREs4ZUtNREZMY3I3Wnlyb2JvNEo2YlhWTm5nakdITnh3RV9IaDNuTGRRcnpqcXZ0Ym85V1gtZDRWM0dzeU9ud2NJWnRNUTcySWR6U00zOFV5eG9SNFZ1WU9NUDlmeUhwRGJ5NzNMYXBIVktIc3VtOXp6SjlGWktldkE?oc=5](https://news.google.com/rss/articles/CBMirgRBVV95cUxQOWRVMFNfSTY2ZlUyMFlUeHZZRFhod1FWQTdwNHNxSzVhbnB6NUlTMGU4UVVmNFZLZGxEVjdMM1ZuMVlPLXdDMWVQeTF2OEo1bDg0UG1uT3VxV2JJaFppajNGV3J1MDFOREo0bEpEVS1JWlNMbEJRd2pCOGhSbVlxT0E0Wl9GR25DWXRXRjAtNWl1NzU1MkhnSURIWkM5eURCZk9ydFAzcVVOYWZtRkw0T1htV185eHpOOXJxR3BGMU9kNFN5ekJ6VFVaZXBWNUdDZmRMdVJlV1VfQS1pRmhNc0F1Nzk0cEFxYjJUZTVWd1FRTjN0LXlEWHRPUVpzc3h6eHlNMTV6cXRKbUlxQ0s1WlpwdXh4MEZwSm9lZ3BrenlDbUI0T1Z0SDRrVXRCOVdHeEVJR0xEek9CVTlNR1FJWTBteWxiSHZRM2V0MFpmeEpTRkZjcDllSlVqbEsyYXJDVVFMNnJIVlZud0NfNWlTSHNTS19jd0IyRDY3RFR3S3dXLWRWcndabzZlZVJHaDBtSTZoNUYtOGJxN1l3a0pJNWlGampPZm04dlBZOURGaHRpcm9uREs4ZUtNREZMY3I3Wnlyb2JvNEo2YlhWTm5nakdITnh3RV9IaDNuTGRRcnpqcXZ0Ym85V1gtZDRWM0dzeU9ud2NJWnRNUTcySWR6U00zOFV5eG9SNFZ1WU9NUDlmeUhwRGJ5NzNMYXBIVktIc3VtOXp6SjlGWktldkE?oc=5)
+- 简介: 小米展示手机与机器人技术融合，可能实现手机直接控制人形机器人或赋予手机"肢体"功能，推动消费电子与人形机器人产业
+
+
+---
+
+## 📌 关于本报告
+
+本报告由 **Humanoid Insight Platform** 自动生成，基于 Claude AI 的深度分析能力，汇总人形机器人领域的最新学术研究、产业动态和行业资讯。
+
+**数据来源**:
+- 学术论文: arXiv
+- 公司动态: 官方网站和 RSS 订阅
+- 行业资讯: 微信公众号
+
+**生成时间**: 2026-04-06 02:41:40
+
+---
+
+*由 Claude AI 驱动 | [GitHub](https://github.com/yourusername/humanoid-insight-platform)*

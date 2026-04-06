@@ -1,68 +1,56 @@
 {
   "papers": [
     {
+      "title": "A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery",
+      "summary": "论文提出了一种用于微创手术人形机器人的沉浸式远程快速器械交换系统，通过低延迟单轴柔顺对接与环境约束释放机制，结合HMD实时第一人称视角感知，实现了高效稳定的器械更换，显著降低了操作复杂性和认知负荷。",
+      "date": "2026-04-03",
+      "link": "http://arxiv.org/abs/2604.02707v1"
+    },
+    {
       "title": "Realistic Lip Motion Generation Based on 3D Dynamic Viseme and Coarticulation Modeling for Human-Robot Interaction",
-      "summary": "提出基于3D动态视位与协同发音建模的唇部动作生成框架，通过声母韵母解耦和能量调制解决连续语音中的运动冲突，实现高保真机器人唇同步。",
+      "summary": "该论文提出了一种基于3D动态视位库和协同发音建模的唇同步框架，通过声母-韵母解耦与能量调制解决连续语音中的运动冲突，并实现向14自由度机器人唇部系统的动作重定向。",
       "date": "2026-04-02",
       "link": "http://arxiv.org/abs/2604.01756v1"
     },
     {
-      "title": "MorphoGuard: A Morphology-Based Whole-Body Interactive Motion Controller",
-      "summary": "论文提出MorphoGuard，一种基于形态约束的全身控制网络，通过显式管理任意接触组合，实现机器人在单一运动链上同时进行多目标交互的复杂动作控制。",
+      "title": "A Dynamic Toolkit for Transmission Characteristics of Precision Reducers with Explicit Contact Geometry",
+      "summary": "论文提出一个动态工具包，通过统一框架整合先进接触理论和数值方法，高精度高效率地分析精密减速器的传动特性、齿轮刚度和系统振动，支持多类型机器人减速器的快速配置与分析。",
       "date": "2026-04-02",
-      "link": "http://arxiv.org/abs/2604.01517v1"
-    },
-    {
-      "title": "SMASH: Mastering Scalable Whole-Body Skills for Humanoid Ping-Pong with Egocentric Vision",
-      "summary": "SMASH是一个人形机器人乒乓球系统，通过本体感知实现无需外部摄像头的全身协调击球，利用生成模型扩展动作先验，首次在仅使用机载传感的情况下实现人形机器人连续对打乒乓球。",
-      "date": "2026-04-01",
-      "link": "http://arxiv.org/abs/2604.01158v1"
-    },
-    {
-      "title": "BAT: Balancing Agility and Stability via Online Policy Switching for Long-Horizon Whole-Body Humanoid Control",
-      "summary": "提出BAT框架，通过在线策略切换在两个互补的全身强化学习控制器间动态选择，实现长时间视野人形机器人locomotion-manipulation任务中灵活性与稳定性的平衡。",
-      "date": "2026-04-01",
-      "link": "http://arxiv.org/abs/2604.01064v1"
-    },
-    {
-      "title": "Learning Humanoid Navigation from Human Data",
-      "summary": "EgoNav通过仅5小时的人类行走数据训练，使类人机器人能够零样本泛化到多样的 unseen 室内外环境，实现无需机器人数据或微调的自主导航。",
-      "date": "2026-04-01",
-      "link": "http://arxiv.org/abs/2604.00416v1"
+      "link": "http://arxiv.org/abs/2604.02387v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Meet Figure AI - USD39 Billion Robot Startup Backed By Bezos, Nvidia And OpenAI - Moomoo",
-      "summary": "Figure AI以39亿美元估值获贝索斯、英伟达和OpenAI投资，标志顶级科技资本一致看好人形机器人领域，将加速该行业商业化进程。",
-      "date": "2026-04-05",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxObWxiR3hzam00NUhjMmxoSDM2UENnZkROOFd3X1pUTXlETTBuMDZvajcwYlBJWWVTS3pJdW9pVUU4T2ZtZWt3Z0cxcTlUMkdFMkotQVBtTDl3eFpmcFYzZzhMRDFMSXZIZld4WEJQSkdBMmg1R05fZEJta2RMLUFNWHBWRmg4cDFiMkw1SUFkbm5Bd1RCcnREZ194Q3hEUzFMZjlEeHhFeVN2YU1SMGVfeXNn?oc=5"
+      "title": "Elon Musk Says This About Tesla's Optimus Release And SpaceX IPO - Investor's Business Daily",
+      "summary": "Elon Musk就特斯拉人形机器人Optimus发布时间及SpaceX IPO计划发声。Musk的表态将影响市场对特斯拉机器人业务估值预期，可能加速人形机器人行业商业化进程。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMlJSbnV1MHF1eXdGd3NzdW5kZGVOTlBrOWtwbUJOQmlqc3NoZnVGZUJMdGpWOUdrQ1hNbnZiQ1ZPdnVDcnBZRnpCYzFuYTFmRDVIUjZKbVBGN1pyUkltd2d3U3Q5NmViSFNHT2h1YU43OXJpQnQxVko1b0E5RmlZNTItSE5wTk5PSWJLd3M2LXFjcXVubmJ0Vg?oc=5"
     },
     {
-      "title": "When Humanoid Robots Come to a Small Town Factory in South Carolina - WSJ",
-      "summary": "Agility Robotics的人形机器人将在南卡罗来纳州小镇工厂投入使用，标志着人形机器人从研发走向实际工业应用的重要里程碑。",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxNLVBHNW5PbGhfdU9DTmNQaHZpOV9oTGd2Y0lMWWFTRC1iN0pWQjNDN1pqaWFXNlRoeEtxc01Ia1owRlM4N1A4bHI0YnFkVk16WDcwdGdPT282MGZXQVg4Unc5QzlSakNsU2syZnVWekJwVFlmbUU4UFBuaEFydjlpLWdhWkxlT1BxT1RueWtIZ3VKTm5hYmw4NDdHd01UYkNVVXJ4RG1IamdJRlhSYUhFaFZiSk9YaVlvT3ZvY0VNUm11MmVDUk1RSjRXY2tsTm5YR1VmZHY0VWZ4NVNaTWJkbTV3TWZWbXFRdl9MRzFsZFJidjdsN3V0Zkw3aWoyb3p0V1ctSzNUN24zLTZncDR4dmdlZC1oMzZZMnE5cVlpSkF2ZS1RaTZnMjRPanQ2TUktTUZaNUdiN0VESkNjTGx2bjhSSlVFczZEMkRQN0U2MzQ1S3NyZVJ0T05DN1RLQ2s5Qm9HcnNHbnJnNVlrRnBnd2l4a3RJTWVKNjZSaDZ5WGtIbTRETTBF?oc=5"
-    },
-    {
-      "title": "年薪最高达1.24亿元！优必选招聘首席科学家，人形机器人价值兑现加速 - 新浪财经",
-      "summary": "优必选以最高1.24亿元年薪招聘首席科学家，加速人形机器人技术研发和商业化进程。此举显示行业对核心人才的重视，意味着人形机器人价值兑现进入加速期。",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUXpjSk0wc1BhWDh6YTYxOGtQR25hcWVPd2JJcmVobldHUTJWM2MtMF9KdlVzMS1haVY0cDh3V3pBT0hPWjN2LVJiUmhBdERLRGM3UXhISFgtYTBVQzcwWm95RXhkb000WVlsdEFqOHpPZHFrV3dnOVRET2tEX2RGTDdFdjdCeXljbHVNSXB5bHdVVnpjX0E2Qg?oc=5"
-    },
-    {
-      "title": "又亏了7.9亿！ “人形机器人第一股”优必选，被宇树打懵了？ - 新浪财经",
-      "summary": "让我分析这条新闻：",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOQXBlZGYtWkJrc05XeUZyd0RTaUNjcm14NlU1MmFEQU8yN3NJTThONkRwWWMyVDBDZm01MEpaN1ZDajRiLXRMd1JHdC1RVExyZVI5WUR6dmdCcG5ndnhqLWNRX2pCRzBkM252bWEzSkNmRGFIcTl6b0lhZFAtR2lpb09WeGZZaXNLT0xodmtOQ0x5WlRnQ3M1RVVUeUc5NXBLMmRqQ2Rhb0REXzBYcTJ6eGZVUVUwQ3M4QVQxSjd4eDhhQUdBNkwySlZR?oc=5"
-    },
-    {
-      "title": "人形机器人赛道爆发！优必选领跑，产业链龙头拓邦股份同步受益 - 东方财富",
-      "summary": "人形机器人赛道爆发，优必选领跑带动产业链，拓邦股份同步受益。行业进入快速发展期，产业链上下游协同发展机遇显现。",
+      "title": "Tesla’s Optimus Robot Learns to Walk Without Vision [VIDEO] - Not a Tesla App",
+      "summary": "特斯拉Optimus机器人实现无视觉自主行走，表明其运动控制与本体感知能力取得突破，推动人形机器人摆脱视觉依赖的自主行动能力发展。",
       "date": "2026-04-04",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOTmJpbWNpQmZlWmtHQlgxdlFZMnFYbHE3MzBrMU1sV3ZHR21QaHpXTDFTVlRwLXRRSUpQZjdkaWxCNzYybmxYSjQ2by1WbEZUaUU4LXZ4S3VGMWYxUWZlWXJsZm1KOWk3eERzM3Q4amU0T3k4VTRjdFhEZ2VHbHhKX1VfdFJWUHZodjZLWVFBcXNsdXNGX3huYVl1QnVpSl9sYzA5WVhyQVdzUWhhS0tiREhlNA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOXJWNGRzTGZfZEtxanE5endSbkgyM1NsSTFWbF85czlQUzR4bFRZM3NFSkQ2NWFPRXZYSlN2Qkl4bllHUFhpMFd3QTh0TkVUWV9fRUFIYUtmd2lmSkFKZ1hEWFhGX3RILWExWWpOcjBmd1RyRHZLRFpyWFpJbnN5NUFhOWVWMm9veElUdFJyS0hETld5YzNGRHY0MA?oc=5"
+    },
+    {
+      "title": "Elon Musk announces disappointing Tesla Optimus update - Teslarati",
+      "summary": "特斯拉Optimus人形机器人更新进展不及预期，显示其在机器人领域面临技术挑战，可能影响行业竞争格局和投资者预期。",
+      "date": "2026-03-31",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPVVlibVZCXzFsLVpQQTZ2dlhEdEIyOHNfaG5NNlNlWkxkSjZrLXBIUDJtakt3aXRFMTY3cV9nMVVxb0R3emU5OUFpdWQtMHM5QW9WRjFWS0JsMXRBc09OaTVPYnl2cVQ1LWg0SDVkaEphZnBPbnV4MnlXQ2ZIc2xNbWE2dHVYVTYw?oc=5"
+    },
+    {
+      "title": "Tesla’s Future Isn’t Cars — It’s Robotaxis and Humanoids. Will the Bet Pay Off? - NAI500",
+      "summary": "Tesla将未来战略重心从汽车转向Robotaxi和人形机器人领域，显示其对自动驾驶及人形机器人技术的长期布局。此举将加速行业竞争，推动人形机器人商业化进程。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNTkJfcHA0RE5aXzJWQUw0T3FXcVNOalNqcGQ1YXJuUkxWRHdsZ0xKMDZQd3FkcU5QbjZxS1hvOG1SR0hPNzU2QzZLVlQ3b0JlbTI2MXo3SVQ4ZjhEMlRJa2M3WS1BYWxveHJDMjFDWXJCSWs2RzFiMFY3MUhwRVJQN01WRXpaLUU0QUp5SlJWLXMxNXlQU0VNX3J3VC1IMU9vX0R1QnZaTVM?oc=5"
+    },
+    {
+      "title": "XiaoZhi Weekly News | Latest Tesla Optimus Video Revealed; RoboSense Robot Business Surges - Gasgoo",
+      "summary": "特斯拉公布最新Optimus机器人视频，展示技术新进展；同时RoboSense机器人业务大幅增长，反映行业竞争加剧，人形机器人商业化进程正在加速。",
+      "date": "2026-03-30",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxORG1tazJrSFVyQmxtTmVGd1RVaUhJT1J2aDVVNG5nTy1sLWFwckRCZTYzR2VNWTk3bFBwbnlkd1p0WUFueGd2bnNpRnpSbFBJM0dhdjYwUFNZY1h4Mm1SVkZ4OVR6SGMybzlBNk1WZmVQckJaaXJJb19ETDNCUUY0emc0eng3RTNhNmZ5aWJocU8zRERMeEhYTDNvbjU1amdRTldGN05aaXdyNkdIdmJuWE9WemZONHlqVmhEdXQ5Yl9yZzB1OXJ6aU1pcnhZY2VFeXB1U2V0bzM3NDJtSjRvMmhscw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-05T13:11:42.678338"
+  "updated_at": "2026-04-06T02:41:23.548771"
 }
