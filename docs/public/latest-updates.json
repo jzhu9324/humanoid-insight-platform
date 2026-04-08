@@ -1,56 +1,62 @@
 {
   "papers": [
     {
+      "title": "Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance",
+      "summary": "论文提出基于Cyber-Physical-Social-Thinking（CPST）空间理论的三层分类框架，将机器人与AI智能体按计算-具身-关系-认知整合程度分类，为比例治理提供本体论基础。",
+      "date": "2026-04-07",
+      "link": "http://arxiv.org/abs/2604.05568v1"
+    },
+    {
+      "title": "Differentiable Invariant Sets for Hybrid Limit Cycles with Application to Legged Robots",
+      "summary": "论文提出了一种针对混合极限环的可微不变集计算方法，通过三步法（连续流可达集近似、Guard面交叉、Reset映射）结合JAX实现的immrax库，实现对双足机器人简化模型的向前不变集验证，并将其嵌入双层优化框架设计跟踪控制器。",
+      "date": "2026-04-06",
+      "link": "http://arxiv.org/abs/2604.05108v1"
+    },
+    {
       "title": "FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control",
-      "summary": "提出FlashSAC算法，通过增大模型规模并减少梯度更新次数，同时利用显式的范数约束抑制critic误差累积，实现高维机器人控制任务的高效稳定训练。",
+      "summary": "FlashSAC是一种基于SAC的快速稳定离策略强化学习算法，通过增大模型规模同时减少梯度更新次数，并显式约束权重、特征和梯度范数以控制评论家误差累积，在高维机器人控制任务中显著优于PPO。",
       "date": "2026-04-06",
       "link": "http://arxiv.org/abs/2604.04539v1"
     },
     {
       "title": "Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach",
-      "summary": "论文提出一个集成模型-based框架，离线阶段通过MoCap捕获、QP重定向和轨迹优化生成动态可行的舞蹈动作，在线阶段使用质心动力学MPC跟踪动作并自适应调整落脚点，最终在四足机器人Kuavo 4Pro上实现动态全身舞蹈。",
+      "summary": "该论文提出两阶段基于模型的框架：离线通过MoCap捕捉、QP重定向和轨迹优化生成动态可行的舞蹈轨迹，在线通过质心动力学MPC实现稳健跟踪与自适应脚部放置，并在四机器人四分钟现场表演中验证有效性。",
       "date": "2026-04-05",
       "link": "http://arxiv.org/abs/2604.03999v1"
-    },
-    {
-      "title": "A Rapid Instrument Exchange System for Humanoid Robots in Minimally Invasive Surgery",
-      "summary": "提出了一种沉浸式遥操作的快速器械交换系统，通过单轴柔顺对接和环境约束释放机制，结合HMD实时第一人称视角感知，实现人形机器人高效自动更换手术器械。",
-      "date": "2026-04-03",
-      "link": "http://arxiv.org/abs/2604.02707v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Optimus time: Tesla makes big move in Fremont for global robotics hub - The Business Journals",
-      "summary": "Tesla在Fremont建立全球机器人中心，加速推进Optimus人形机器人项目。此举彰显Tesla对人形机器人领域的战略决心，将加剧行业竞争，加速商业化进程。",
+      "title": "Tesla Optimus Gen 3 Silhouette Revealed by Program Lead - Not a Tesla App",
+      "summary": "Tesla项目负责人公布Optimus Gen 3轮廓照，展示第三代人形机器人进展。这表明Tesla持续推进仿人机器人技术迭代，或将加速行业竞争与技术革新。",
       "date": "2026-04-06",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQZTRJU1FjbUJxV21fWjY5ZHJnTjRfOEc4a3FNeVI1RjZhcXNsVU94bDluMmNrcXNmQ19vUHJjQlc5LVhLVW1NNEJPa3Rja3FqeEViSjQ2ZnRyZnl0RFdONFhBOHZ1UUtFZTJITXYzRnlUUkVZc2tGYnoxa0dCT0oyQnRaMGxDdlA3V1FSTi1NNUp3aXVoUXdUdkNUdTNZRklEQWc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVRWLUlOQnkwY1RmT2prN1ZIM3RUeTBna0FCenNnbV9OX01kcGR1UlBqaHBEc2JlV0k4UUhaVHM1Qy14UG51elRFUnhiZnBhNG5YU1VDaFY3cVZEclVERVNOdjktdjU4WHBHQjlmY2RuUXRMTWtXek9kTFJCRkZqWW9nZ25vaXgxRnFZZ2UtMXZkWEMxdldhS1B3?oc=5"
+    },
+    {
+      "title": "Tesla Robot Land Grab Turns Fremont Into Ground Zero for Optimus - Hoodline",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0l1Y2NEa21sckQtN2tVSC1MeTZWUG5yUmJrTH",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0l1Y2NEa21sckQtN2tVSC1MeTZWUG5yUmJrTHFENVEwMnZXWllnWjItTTJwdFlBZmxWY0x2SHBGNUpwaFBqcVZpR3dwZjh4OXU1dW1ndnFDZmFVOXR4SGFQcWhSWnB4Y1ozVWtVUUo1NEswc3laYktjdHlFbmFRZnp3aXY3QkZCQlM3ZnU4WWRSc1M3ZHh1VXdR?oc=5"
+    },
+    {
+      "title": "Tesla leases 267,000 square feet in Fremont for robotics R&D hub - The Business Journals",
+      "summary": "Tesla在Fremont租赁27万平方英尺空间建设机器人研发枢纽，显示其加速推进人形机器人（Optimus）项目落地，为行业发展注入新动力。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeThVVlVoQXV0VlE1Tmg1aEdlcDRlMjhzajRqX0VIcnpldEJLTFFuT3pVRnpXempJbWtQaHpETHRVOTJjZy0yVkthOGlnMEpYR3hjdHdyV3NTaE1ybndNU2N6NWFZME15Y0Z3WnBTNC15UVdyT1h0ZDZsekstZU04dWoxamN2aHZmU09sMlZVWWNXLVRfQzRHZW9Ycw?oc=5"
+    },
+    {
+      "title": "A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary - Business Insider",
+      "summary": "用户要求我分析关于Tesla的新闻，但提供的新闻标题是关于中国机器人初创公司，而不是直接关于Tesla的内容。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTZRS3FBSDNRRk9hV05OTlR5RFN1eEtPMWh0aThWeE04X3FPeXprbHdkZlNyaV95TkRYZmJzRWpXODR6YWlkc1ZrU1FXTEVBU0xaVTE4YkJxOGs0Q1cyTHhpU1BzN01uNVRZSVA5eUNzMzg2Q3ZvSVBxdE1CR0lqSFBib0ZEZExpMlluMTVPR3J1cGZkT3FNeHlBU2trTnF1d3RDandxcmlOakF6R1E?oc=5"
     },
     {
       "title": "Under the Skin of America’s Humanoid Robots: Chinese Technology - WSJ",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioANBVV95cUxPclk1MXVLdUNZU1ZrY08teDliWUdIcHJLLV9CZX",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM0",
       "date": "2026-04-03",
-      "link": "https://news.google.com/rss/articles/CBMioANBVV95cUxPclk1MXVLdUNZU1ZrY08teDliWUdIcHJLLV9CZXljTHhfWkJtX2N2NUIxWjltU3p6OWZXRmNscHZQYktxeGlHb0U5ZjEzSVpFdWlwcVhPY2pUUjlIUmVRcHR6TTRQSXdBaUlaUXQ0YlExTE5qUm4xVEhSNHVQMlcybzI1blUzZVBRNXhVVEF4bWdic0toWVQxdzNBSDQ3TkI1Si1SN012Unl3VGg4cWVvWFVBRGt2bXU3d2F3enhBVS1CLUxpT0Fvem1yVTF1akhGRF8wZExMb1VuT0tsVjJQS0R1djlGRXdvdHF0ckZqMzBvRHlKeDZRWVVpNGtId1BxTnBtWDE0ZDhRM3FlVjVlaXJLSmMtRHhOTk4tejRORndlMFFGLXYwcEhMQll2LWJ6X19GTlRHajhUTEl0T3ZhbWpYWjVJeFl1aUtReUowU252dlI2WGJZenExeC1oYmdLVTRLNjhLNmtyc0xhZEJhSTdKeGFDN1lMM2kxUWFvM2Y4MlpKMExuOW13MlZRT21ZMEpJRXU2QU51V3o4R2swdg?oc=5"
-    },
-    {
-      "title": "Musk says robot works great, just not ready to show anyone yet - Boing Boing",
-      "summary": "马斯克称特斯拉人形机器人运行良好，但尚未准备好公开展示。这表明特斯拉持续推进该领域研发，预计未来将公布更多进展。",
-      "date": "2026-04-01",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeVlXOUJUdU5ZbVp2cWxxY201ZnU4WE51aTNyQmZQZkFQOFRCa1JBdTYzSkR3ZWpZdmVYVTVTYU9XclBCd2tmOThNSWdNZnp2S3V3OGViVHJscElwaG81RUpaSFZwWWxOaVQ0T3gzREhGdTVhRXpKX1BSa3lJbTcyMGVLMTVMaThlZk5CSGI1Z05EbjVpRWVTalota0lDX3FyT2fSAacBQVVfeXFMTmtTdjFDaXdmWGpubHRoaHNZTVBrMmhEcU9QTW4xXzYwYmhWQndTcVVoaTZ2ZWxrVThtbTdha2JWTVZzd1pOZ3ZuYWZQbWtRcTBsVFI0SnhMME5iOV9sTUZzOEZpekx6ZFRRMkxXUnpNdmRoeEJQZ1Z6ajFYU3JPbjdjdXozR2lBQXdyUFVQVnYxSlFMSXYtcmhRQ1JKOUVRUFlETjhuN3c?oc=5"
-    },
-    {
-      "title": "WSJ exposes Chinese parts inside America’s humanoid robots, and Congress is already running the DJI playbook - DroneXL.co",
-      "summary": "WSJ揭露美国人形机器人使用中国零部件，国会可能限制供应链。这将加速行业去中国化，影响全球人形机器人产业链布局。",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBISVNVUXlOd1FtUFpwODBWTnZNanNmNmVNY1g5TFBlRVVUMV9CeVRTTFJ3NzA4VTZuNHpybkpYQ1RBZTViTnpaVkFKNzdXcmFJZk9fUl94bDJIQjFQb0VlSXNQNjNFbTgwQUk1OG1JZThqZS1pOG9j?oc=5"
-    },
-    {
-      "title": "AI startup trains Chinese humanoid robots in Japanese hospitality - asia.nikkei.com",
-      "summary": "AI初创公司训练中国Unitree人形机器人应用于日本服务业，标志着国产人形机器人技术进入发达国家市场，拓展了商业化应用场景。",
-      "date": "2026-04-02",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSHBqeElib1BmdXJRd3VvUkRWcjF3Rm9NbVhTWWVxbm80WU1XTHNQSkl0dDNOdHlHblM1WUpROXRnVWlvdlBJSkJ4Z0liR3ZxYmQzYnBrYlVHU0p6eXFCY2hnQ2MxMmhBY0lOOTR3c2ZXamZZQVRxWnNzWV9jUENjRnRLLTA4TXNCMmdUdVZFak82TzR3WTdObVRFU3diS1R6WkNVSFFFWnB5ekY1YnBwWFlwQ0hpcU9IS0pMejV5VUEzYjdSOGk3VHpVU1M5UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM00zNkdURDZ2NnB0WlA3VGJrS08wRXBrSUpyLTRTSlVQX05aWmY4S044a3RxS1cybjRES21KMmo1dVE1RU13cFpPQlJ4TUcyYWhRVHZvRHJoYVhGZnN4TmVEODR2THRTM0VERFBNVWpMdUNmV3puUTk2ZjJSX1o2RQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-07T13:32:54.009357"
+  "updated_at": "2026-04-08T02:48:00.395255"
 }
