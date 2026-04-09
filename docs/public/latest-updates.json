@@ -2,61 +2,61 @@
   "papers": [
     {
       "title": "Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance",
-      "summary": "论文提出基于Cyber-Physical-Social-Thinking（CPST）空间理论的三层分类框架，将机器人与AI智能体按计算-具身-关系-认知整合程度分类，为比例治理提供本体论基础。",
+      "summary": "### 现状痛点",
       "date": "2026-04-07",
       "link": "http://arxiv.org/abs/2604.05568v1"
     },
     {
       "title": "Differentiable Invariant Sets for Hybrid Limit Cycles with Application to Legged Robots",
-      "summary": "论文提出了一种针对混合极限环的可微不变集计算方法，通过三步法（连续流可达集近似、Guard面交叉、Reset映射）结合JAX实现的immrax库，实现对双足机器人简化模型的向前不变集验证，并将其嵌入双层优化框架设计跟踪控制器。",
+      "summary": "论文提出一种利用参数化可达集计算混合周期轨道前向不变集的三步方法，并将其应用于双足机器人跟踪控制器的优化设计。",
       "date": "2026-04-06",
       "link": "http://arxiv.org/abs/2604.05108v1"
     },
     {
       "title": "FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control",
-      "summary": "FlashSAC是一种基于SAC的快速稳定离策略强化学习算法，通过增大模型规模同时减少梯度更新次数，并显式约束权重、特征和梯度范数以控制评论家误差累积，在高维机器人控制任务中显著优于PPO。",
+      "summary": "FlashSAC是一种基于Soft Actor-Critic的快速稳定off-policy强化学习算法，通过借鉴监督学习中的scaling laws，大幅减少梯度更新并配合更大模型和更高数据吞吐量，同时显式约束权重、特征和梯度范数以抑制critic错误累积，实现高维机器人控制的高效稳定训练。",
       "date": "2026-04-06",
       "link": "http://arxiv.org/abs/2604.04539v1"
     },
     {
       "title": "Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach",
-      "summary": "该论文提出两阶段基于模型的框架：离线通过MoCap捕捉、QP重定向和轨迹优化生成动态可行的舞蹈轨迹，在线通过质心动力学MPC实现稳健跟踪与自适应脚部放置，并在四机器人四分钟现场表演中验证有效性。",
+      "summary": "该论文提出了一种两阶段基于模型的框架，通过结合QP动作重定向、轨迹优化和质心动力学MPC，实现了人形机器人的动态全身舞蹈动作生成与稳定实时执行。",
       "date": "2026-04-05",
       "link": "http://arxiv.org/abs/2604.03999v1"
     }
   ],
   "companyNews": [
     {
-      "title": "The Top 10 Best Humanoid Robot Manufacturers in 2026: Tesla Optimus, Figure AI and Chinese Leaders Dominate - International Business Times Australia",
-      "summary": "特斯拉Optimus、Figure AI及中国企业入选2026年人形机器人制造商前十强，表明全球竞争加剧，中国企业崛起成行业重要力量。",
+      "title": "Tesla Optimus Gen 3 Silhouette Revealed by Program Lead - Not a Tesla App",
+      "summary": "Tesla Optimus Gen 3轮廓照由项目负责人公布，显示特斯拉持续推进人形机器人迭代升级。这标志着Tesla在商用机器人领域进一步发力，将加速行业竞争与技术进步。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVRWLUlOQnkwY1RmT2prN1ZIM3RUeTBna0FCenNnbV9OX01kcGR1UlBqaHBEc2JlV0k4UUhaVHM1Qy14UG51elRFUnhiZnBhNG5YU1VDaFY3cVZEclVERVNOdjktdjU4WHBHQjlmY2RuUXRMTWtXek9kTFJCRkZqWW9nZ25vaXgxRnFZZ2UtMXZkWEMxdldhS1B3?oc=5"
+    },
+    {
+      "title": "Tesla Robot Land Grab Turns Fremont Into Ground Zero for Optimus - Hoodline",
+      "summary": "特斯拉在弗雷蒙特大规模扩张机器人研发基地，使其成为Optimus人形机器人开发中心。此举表明特斯拉正加速推进人形机器人商业化进程，可能引发行业竞争加剧。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0l1Y2NEa21sckQtN2tVSC1MeTZWUG5yUmJrTHFENVEwMnZXWllnWjItTTJwdFlBZmxWY0x2SHBGNUpwaFBqcVZpR3dwZjh4OXU1dW1ndnFDZmFVOXR4SGFQcWhSWnB4Y1ozVWtVUUo1NEswc3laYktjdHlFbmFRZnp3aXY3QkZCQlM3ZnU4WWRSc1M3ZHh1VXdR?oc=5"
+    },
+    {
+      "title": "Tesla Signs New Fremont R&D Lease Ahead Of Optimus Robot Pivot - Bisnow",
+      "summary": "好的，我需要分析这条关于Tesla的新闻，并按照要求用1-2句话（50字以内）总结关键信息和对人形机器人行业的意义。",
+      "date": "2026-04-09",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXNBeWJXVjhBdDBwYmN2cXdHblFxbFcyRGRvLVJQZFllSVZDb3QwOE10NnFyRWRKZ3g4VnVfbTFKanRhVTZYOHYzMDZ2SUg3NUkwbWptYVIteWluSXRSOFRYNEZ2Tnh3WUJ6eUVjWm1tRmpscDBkaHF6QmZvNHA4NTlic2dvTWJBcFJfdHhCRXlMSE1DcHN3X3QtcnNIWW82X1hXRUxIT3ZveXVQcUE?oc=5"
+    },
+    {
+      "title": "With Elon Musk and Tesla, Synergy Creates an Edge - TheStreet Pro",
+      "summary": "Tesla通过内部业务协同整合，在Elon Musk的领导下强化竞争优势，这一战略布局有望为其人形机器人Optimus项目提供更多资源整合与技术联动优势。",
       "date": "2026-04-08",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPR2xud083RnRTVGxZWWwzNmxzdjU0OUFkQmVUM216bTNIcE9kajZ5N1JoNlNCODFieldsbDFSOFY1cDhQV0xIUlN1VmFwMllQOGp0SjF0VlpPeUU2c2d6a3kwMWdDejJQTUE2OEhRWXQ2RlI5ZWZUazR1RWJEV2QyZnhiUUVjR1B2WHItYjk2T05yWFBTWlNlM2l0TlpsaWo4ZEF0TENud3ZLbm0yQ2kwTk5FUkRWZl9nSEZJdUtXcUsyaEJpZ0xNVQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejU5TGlrYXJTT2lFVnQ2VkE3aVJoeGk1ZDlvQ1hPNVlSS0JqTkFvMW00bFNvcU9ydHlzSzJmU3J3MThYWGZJS1pwVDNRS2pERmROc3AwcC1kcmZBY0U3dENjMlItc3JDRUhBMFFfRUljVmEyYWViX3JEQ2drY2NLUTAzbU1PYmhCWENRbTFMdHNKaWZ3aTNB?oc=5"
     },
     {
-      "title": "Under the Skin of America’s Humanoid Robots: Chinese Technology - WSJ",
-      "summary": "人形机器人产业链可能依赖中国供应商，凸显中国在机器人核心零部件领域的重要性。",
-      "date": "2026-04-03",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNamlyUW8tTUVjcTlQWUtaNDVTSUxQcjlyRjlBM00zNkdURDZ2NnB0WlA3VGJrS08wRXBrSUpyLTRTSlVQX05aWmY4S044a3RxS1cybjRES21KMmo1dVE1RU13cFpPQlJ4TUcyYWhRVHZvRHJoYVhGZnN4TmVEODR2THRTM0VERFBNVWpMdUNmV3puUTk2ZjJSX1o2RQ?oc=5"
-    },
-    {
-      "title": "Tesla kills Model S and X to bet everything on Cybercab - The Tech Buzz",
-      "summary": "Tesla将停止生产Model S和Model X，全面押注无人驾驶出租车Cybercab。此举表明自动驾驶技术将成为其核心战略重心，可能加速无人驾驶交通领域的竞争与发展。",
-      "date": "2026-04-03",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOd01jeWtzcklJY2NRUDJ1STZhMlNRUFlTa243M0pISFNhQVozYzlTb0pjUlpod1h0RnRuZXlOSzdvT3g5TDJmWHFiYjRBWjNiRnB5NkRhNzhKMmgyN254amRGRGJxOVQzci0xb2lZc0RocENGWi1GRkhHS2hPbUNwamM5ZlJsQmRlR3o4ZktLVDJIZw?oc=5"
-    },
-    {
-      "title": "Tesla Stock Is Priced For Perfection But Delivers Disappointment; Consider This Bear Put Spread In Options Trading - Investor's Business Daily",
-      "summary": "特斯拉股价定价过高但业绩令人失望，Investor's Business Daily建议采用熊市看跌价差期权策略。对",
+      "title": "A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary - Business Insider",
+      "summary": "中国 robotics 创业公司开出 1800 万美元年薪招聘首席科学家，对标 Tesla Optimus。此举显示人形机器人领域人才竞争激烈，头部企业愿高薪揽才以抢占技术制高点。",
       "date": "2026-04-06",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQZU8zWFBKd0pVdFd4SHRQZ3BLei1GSzBHMC1YVUNKMVFYSEZhNHlIVGJkQjdwbXNIdGtyY3FBNnJwTndGbGRaTG55M01iOUNGS1BBajhMYWw0MWg2ZU9KTG9JcDFpZWRGUjVPSTlHSVZLeGY0Vk9jclZiaWxJVE9RNkliMC1KVkQ2WUhzNw?oc=5"
-    },
-    {
-      "title": "Hyundai Motor Unveils \"Next Starts Now\" Campaign, Set to Showcase Robotics at FIFA World Cup 2026 - roastbrief.us",
-      "summary": "现代汽车宣布“Next Starts Now”Campaign，将在2026年FIFA世界杯展示机器人技术。此举凸显汽车制造商加速布局人形机器人领域，重大体育赛事将成为技术展示与商业推广的重要平台。",
-      "date": "2026-04-06",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObVFTVzVZWGpGMUdIRUI4b3FGalRDQ1pfcHdKRjAyR2syQjF6VTJfMFRTZ181WTBGQnIwV29aak9JOVJWZ1lVWWNSMGREc29RZWhsMWMwTEhiNzlhUmdCMUpLeHZVNVVJbVJWeVFoSkF4MExJUDdZcWhWMmdrZVJqSk1sZ0NSTndUNlgxRkQ1YnhEV19JT2d5dXRUc3JoZ3l3YjFlU3VGUV94amlNRVJibEJfQkxUbkN1?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTZRS3FBSDNRRk9hV05OTlR5RFN1eEtPMWh0aThWeE04X3FPeXprbHdkZlNyaV95TkRYZmJzRWpXODR6YWlkc1ZrU1FXTEVBU0xaVTE4YkJxOGs0Q1cyTHhpU1BzN01uNVRZSVA5eUNzMzg2Q3ZvSVBxdE1CR0lqSFBib0ZEZExpMlluMTVPR3J1cGZkT3FNeHlBU2trTnF1d3RDandxcmlOakF6R1E?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-08T13:51:31.332694"
+  "updated_at": "2026-04-09T02:41:25.552893"
 }
