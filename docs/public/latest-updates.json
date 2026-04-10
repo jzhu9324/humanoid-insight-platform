@@ -1,62 +1,68 @@
 {
   "papers": [
     {
-      "title": "Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance",
+      "title": "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation",
+      "summary": "本文提出Sumo方法，通过在测试时用基于采样的规划器引导预训练的全身控制策略，使腿部机器人无需额外训练即可动态操作大型重物，并可泛化至人形机器人的不同 loco-manipulation 任务。",
+      "date": "2026-04-09",
+      "link": "http://arxiv.org/abs/2604.08508v1"
+    },
+    {
+      "title": "HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation",
       "summary": "### 现状痛点",
+      "date": "2026-04-09",
+      "link": "http://arxiv.org/abs/2604.07993v1"
+    },
+    {
+      "title": "CMP: Robust Whole-Body Tracking for Loco-Manipulation via Competence Manifold Projection",
+      "summary": "提出Competence Manifold Projection (CMP)方法，通过构建能力流形将分布外(OOD)输入安全地映射到可行区域，实现腿式移动机械臂全身控制的鲁棒跟踪，在保持任务性能的同时显著提升对传感器噪声和不可行命令的抗干扰能力。",
+      "date": "2026-04-08",
+      "link": "http://arxiv.org/abs/2604.07457v1"
+    },
+    {
+      "title": "Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance",
+      "summary": "论文提出基于网络-物理-社会-思维(CPST)空间理论的三层分类框架，将自主系统分为受限行为者、社交感知交互者和CPST集成代理，为不同类型实体提供比例治理方案",
       "date": "2026-04-07",
       "link": "http://arxiv.org/abs/2604.05568v1"
     },
     {
       "title": "Differentiable Invariant Sets for Hybrid Limit Cycles with Application to Legged Robots",
-      "summary": "论文提出一种利用参数化可达集计算混合周期轨道前向不变集的三步方法，并将其应用于双足机器人跟踪控制器的优化设计。",
+      "summary": "论文提出一种针对混合极限环的可微不变集计算方法，通过三步可达集overapproximation和JAX库实现对双足机器人周期轨迹的鲁棒性验证，并用于优化跟踪控制器的不变集大小。",
       "date": "2026-04-06",
       "link": "http://arxiv.org/abs/2604.05108v1"
-    },
-    {
-      "title": "FlashSAC: Fast and Stable Off-Policy Reinforcement Learning for High-Dimensional Robot Control",
-      "summary": "FlashSAC是一种基于Soft Actor-Critic的快速稳定off-policy强化学习算法，通过借鉴监督学习中的scaling laws，大幅减少梯度更新并配合更大模型和更高数据吞吐量，同时显式约束权重、特征和梯度范数以抑制critic错误累积，实现高维机器人控制的高效稳定训练。",
-      "date": "2026-04-06",
-      "link": "http://arxiv.org/abs/2604.04539v1"
-    },
-    {
-      "title": "Dynamic Whole-Body Dancing with Humanoid Robots -- A Model-Based Control Approach",
-      "summary": "该论文提出了一种两阶段基于模型的框架，通过结合QP动作重定向、轨迹优化和质心动力学MPC，实现了人形机器人的动态全身舞蹈动作生成与稳定实时执行。",
-      "date": "2026-04-05",
-      "link": "http://arxiv.org/abs/2604.03999v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Kia To Deploy Tesla Optimus Rival Atlas Robot At US Manufacturing Plant - Benzinga",
-      "summary": "Kia将在美国工厂部署Atlas机器人，与Tesla Optimus竞争，加速人形机器人在制造业的落地应用。",
-      "date": "2026-04-09",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5"
+      "title": "Tesla Optimus Gen 3 Silhouette Revealed by Program Lead - Not a Tesla App",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVRWLUlOQnkwY1RmT2prN1ZIM3RUeTBna0FCen",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVRWLUlOQnkwY1RmT2prN1ZIM3RUeTBna0FCenNnbV9OX01kcGR1UlBqaHBEc2JlV0k4UUhaVHM1Qy14UG51elRFUnhiZnBhNG5YU1VDaFY3cVZEclVERVNOdjktdjU4WHBHQjlmY2RuUXRMTWtXek9kTFJCRkZqWW9nZ25vaXgxRnFZZ2UtMXZkWEMxdldhS1B3?oc=5"
     },
     {
-      "title": "Intel stock jumps after it joins Elon Musk's Terafab chip-building moonshot - Business Insider",
-      "summary": "Intel加入特斯拉Terafab芯片项目，股价应声上涨。表明芯片巨头加速布局机器人领域，将推动人形机器人核心算力硬件的规模化发展。",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeFZQT0NUdnFVWHdBRWxlUTFGVFp5YnAxZzVwM1V4UHROeWRRdnhyZ3hFTUdxNlJtNEpadThwZUJJclV3Qy1Rb0E4SDIxQWVvT0hrR1A1U0Z1MDF5UHhCQmgtZG9JTERDNHFpVXE5TGZlZlNtd2Jrbi0xYlpRdGx6a2lYa3AtbktDLTZ3bWxaSGUyRlU?oc=5"
+      "title": "Tesla Robot Land Grab Turns Fremont Into Ground Zero for Optimus - Hoodline",
+      "summary": "特斯拉在 Fremont 大幅扩充机器人用地，将其打造为 Optimus 人形机器人研发制造中心。此举显示特斯拉加码布局人形机器人领域，将加速行业竞争与商业化进程。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQQ0l1Y2NEa21sckQtN2tVSC1MeTZWUG5yUmJrTHFENVEwMnZXWllnWjItTTJwdFlBZmxWY0x2SHBGNUpwaFBqcVZpR3dwZjh4OXU1dW1ndnFDZmFVOXR4SGFQcWhSWnB4Y1ozVWtVUUo1NEswc3laYktjdHlFbmFRZnp3aXY3QkZCQlM3ZnU4WWRSc1M3ZHh1VXdR?oc=5"
     },
     {
-      "title": "Kia to Use Atlas Robots in US Plant, Develop First Software Car - Bloomberg.com",
-      "summary": "Kia将在美国工厂部署Boston Dynamics Atlas机器人，用于生产首款“软件汽车”。这标志着人形机器人在汽车制造业进入规模化应用阶段，为行业商业化落地提供重要参考。",
-      "date": "2026-04-09",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN2FIelFYZ3EzSE1lMDdkQmFRRFJBU0VYb0xwaFRRWFV5V3UxNjd0NmNpN2g5dU8zTVctZGxxdGN4bWtyQ0dnUXdBUkFqZlpJSmFCdVlfVTNzTFlmcFp0MXdITHVkb0ozVWxLSTRicEFhOVVxZ2lBNHdSUzNVa3JHYlNyZjdINjRIVjJtM1plaWcxQVZOSkpKektjei1EbFgtZXk3bE9jTkF0eHJRU2Y5VDRlaw?oc=5"
+      "title": "Tesla Signs New Fremont R&D Lease Ahead Of Optimus Robot Pivot - Bisnow",
+      "summary": "特斯拉签署弗里蒙特新研发租约，为Optimus人形机器人项目扩张做好准备。此举显示特斯拉加大人形机器人研发投入，有望加速行业商业化进程。",
+      "date": "2026-04-08",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXNBeWJXVjhBdDBwYmN2cXdHblFxbFcyRGRvLVJQZFllSVZDb3QwOE10NnFyRWRKZ3g4VnVfbTFKanRhVTZYOHYzMDZ2SUg3NUkwbWptYVIteWluSXRSOFRYNEZ2Tnh3WUJ6eUVjWm1tRmpscDBkaHF6QmZvNHA4NTlic2dvTWJBcFJfdHhCRXlMSE1DcHN3X3QtcnNIWW82X1hXRUxIT3ZveXVQcUE?oc=5"
     },
     {
-      "title": "Kia To Deploy Tesla Optimus Rival Atlas Robot At US Manufacturing Plant - Benzinga",
-      "summary": "Kia计划在其美国工厂部署Boston Dynamics的Atlas机器人，对抗特斯拉Optimus，标志着人形机器人工业应用竞争加速。",
-      "date": "2026-04-09",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPV1Z6aE5hcHFXcWZVTExQbk9KWW1mUXBiYnNLVzJwUmREejE1RzZCYWRUd0lEMVpPVUNNMVdxS1ZFSHRGSy00dUxpajNKNmpCUzU3Y1JBelU4TnUwdkNENEYxRGwyS2JOZUkzNzFyamxUbW5kYWJBSDVFQ0p2S3c4RUdodFg1YXBfTnlTaTZkeVN5NWRwcl8wbGxwb1hlZHNxREd0T0hoTUp0V3ZCSHpnTXRteWFfV3NzZUQ0dmlqY2F1Zw?oc=5"
+      "title": "A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary - Business Insider",
+      "summary": "中国机器人初创公司对标Tesla Optimus，开出1800万美元年薪招聘首席科学家。此举显示人形机器人领域人才竞争激烈，中国企业正高薪争夺技术领军",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTZRS3FBSDNRRk9hV05OTlR5RFN1eEtPMWh0aThWeE04X3FPeXprbHdkZlNyaV95TkRYZmJzRWpXODR6YWlkc1ZrU1FXTEVBU0xaVTE4YkJxOGs0Q1cyTHhpU1BzN01uNVRZSVA5eUNzMzg2Q3ZvSVBxdE1CR0lqSFBib0ZEZExpMlluMTVPR3J1cGZkT3FNeHlBU2trTnF1d3RDandxcmlOakF6R1E?oc=5"
     },
     {
-      "title": "Kia to Deploy Atlas Humanoid Robots in U.S. Plants - Businesskorea",
-      "summary": "现代汽车将在美国工厂部署Boston Dynamics的Atlas人形机器人，标志着人形机器人从研发走向工业实际应用，为制造业智能化转型提供重要示范。",
-      "date": "2026-04-09",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1XdzJWV2VMeFkzbjJsdjVlelhHMmJ5ZTNkY1RsX3B5b0FMd2hpWjJCejVHTGFTcEtJY1ZkVWoxRW85Mm1NT0N1V1B6RExiMGk4WVFWZFhzOFlPSEgzdkM1ckkzSFJUQ2hxUkFNdDJTbDgtZTdJ?oc=5"
+      "title": "With Elon Musk and Tesla, Synergy Creates an Edge - TheStreet Pro",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQejU5TGlrYXJTT2lFVnQ2VkE3aVJoeGk1ZDlvQ1",
+      "date": "2026-04-08",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejU5TGlrYXJTT2lFVnQ2VkE3aVJoeGk1ZDlvQ1hPNVlSS0JqTkFvMW00bFNvcU9ydHlzSzJmU3J3MThYWGZJS1pwVDNRS2pERmROc3AwcC1kcmZBY0U3dENjMlItc3JDRUhBMFFfRUljVmEyYWViX3JEQ2drY2NLUTAzbU1PYmhCWENRbTFMdHNKaWZ3aTNB?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-09T13:59:42.876930"
+  "updated_at": "2026-04-10T02:55:54.885637"
 }
