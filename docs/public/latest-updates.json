@@ -2,67 +2,61 @@
   "papers": [
     {
       "title": "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation",
-      "summary": "本文提出Sumo方法，通过在测试时用基于采样的规划器引导预训练的全身控制策略，使腿部机器人无需额外训练即可动态操作大型重物，并可泛化至人形机器人的不同 loco-manipulation 任务。",
+      "summary": "### 现状痛点",
       "date": "2026-04-09",
       "link": "http://arxiv.org/abs/2604.08508v1"
     },
     {
       "title": "HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation",
-      "summary": "### 现状痛点",
+      "summary": "HEX提出人形对齐的通用状态表示和混合专家本体预测器，实现跨异构机器人的全身协调控制，在真实人形机器人上达到最先进性能。",
       "date": "2026-04-09",
       "link": "http://arxiv.org/abs/2604.07993v1"
     },
     {
       "title": "CMP: Robust Whole-Body Tracking for Loco-Manipulation via Competence Manifold Projection",
-      "summary": "提出Competence Manifold Projection (CMP)方法，通过构建能力流形将分布外(OOD)输入安全地映射到可行区域，实现腿式移动机械臂全身控制的鲁棒跟踪，在保持任务性能的同时显著提升对传感器噪声和不可行命令的抗干扰能力。",
+      "summary": "### 现状痛点",
       "date": "2026-04-08",
       "link": "http://arxiv.org/abs/2604.07457v1"
     },
     {
       "title": "Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance",
-      "summary": "论文提出基于网络-物理-社会-思维(CPST)空间理论的三层分类框架，将自主系统分为受限行为者、社交感知交互者和CPST集成代理，为不同类型实体提供比例治理方案",
+      "summary": "提出基于网络-物理-社会-思维四维度的机器人与AI智能体三层次分类框架，为差异化治理提供本体论基础。",
       "date": "2026-04-07",
       "link": "http://arxiv.org/abs/2604.05568v1"
-    },
-    {
-      "title": "Differentiable Invariant Sets for Hybrid Limit Cycles with Application to Legged Robots",
-      "summary": "论文提出一种针对混合极限环的可微不变集计算方法，通过三步可达集overapproximation和JAX库实现对双足机器人周期轨迹的鲁棒性验证，并用于优化跟踪控制器的不变集大小。",
-      "date": "2026-04-06",
-      "link": "http://arxiv.org/abs/2604.05108v1"
     }
   ],
   "companyNews": [
     {
-      "title": "China’s Unitree Sells Cheapest Humanoid Robots Online with R1 Global Launch - Gizmochina",
-      "summary": "Unitree推出全球最便宜消费级人形机器人R1并在线发售，将推动人形机器人进入大众消费市场。",
-      "date": "2026-04-10",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQ1NpV25nQXBFclNHMXVYRmk5NUVRd0VQNTBJMTV1ckxvLXhUdmpDLTEzdFdhaFc3aEkyd2xySXN1RDhYYjdPdEstdUVCSXpmbDI0Y1NjTTl3Mm0wQ3dhaFpzUkg0bERtZmFUeDdVcVg0QzBFMkJFclJUNjh6RFhjTnJWOVFPUnFrcVVaM1dB?oc=5"
+      "title": "Tesla Optimus Gen 3 Silhouette Revealed by Program Lead - Not a Tesla App",
+      "summary": "Tesla Optimus Gen 3轮廓由项目负责人公布，展示新一代人形机器人进展。彰显Tesla加速推进类人机器人商业化，行业竞争将更加激烈。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVRWLUlOQnkwY1RmT2prN1ZIM3RUeTBna0FCenNnbV9OX01kcGR1UlBqaHBEc2JlV0k4UUhaVHM1Qy14UG51elRFUnhiZnBhNG5YU1VDaFY3cVZEclVERVNOdjktdjU4WHBHQjlmY2RuUXRMTWtXek9kTFJCRkZqWW9nZ25vaXgxRnFZZ2UtMXZkWEMxdldhS1B3?oc=5"
     },
     {
-      "title": "EXCLUSIVE INVESTIGATION: China's New Secret Weapon Exposed as Kung-Fu Robots — And New AI Army Could be Unstoppable - AOL.com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVRad3FzbXdpeXZiX2ctQVBTX2tSTThCLVdtdm",
-      "date": "2026-04-10",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdVRad3FzbXdpeXZiX2ctQVBTX2tSTThCLVdtdm9CU0NRSFdrUDJwbjhKQkRjY2NJdWlMZFBtN0g2bEdkQ0ZieWtzRE9VRFlxbEE1eTVmUXdhMHRhYnBJbl9VNV9Tb21Mb25vcUFCWFRmUmRFbl82LWJPLTBaWDFpaTZhenlxRDlncEZTOUIzRTEzdw?oc=5"
+      "title": "Tesla Signs New Fremont R&D Lease Ahead Of Optimus Robot Pivot - Bisnow",
+      "summary": "Tesla签署弗里蒙特新研发租约，为Optimus机器人项目扩张研发空间。此举表明Tesla正加大人形机器人布局力度，有望加速行业技术突破与商业化进程。",
+      "date": "2026-04-08",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXNBeWJXVjhBdDBwYmN2cXdHblFxbFcyRGRvLVJQZFllSVZDb3QwOE10NnFyRWRKZ3g4VnVfbTFKanRhVTZYOHYzMDZ2SUg3NUkwbWptYVIteWluSXRSOFRYNEZ2Tnh3WUJ6eUVjWm1tRmpscDBkaHF6QmZvNHA4NTlic2dvTWJBcFJfdHhCRXlMSE1DcHN3X3QtcnNIWW82X1hXRUxIT3ZveXVQcUE?oc=5"
     },
     {
-      "title": "China humanoid robots enter mass production phase, factory output ramps up - Aaj English TV",
-      "summary": "中国人形机器人开始大规模量产，产能提升，标志行业进入产业化快速发展期。",
+      "title": "Tesla Discontinues Model S and X to Focus on Optimus Robots - National Today",
+      "summary": "特斯拉将停产Model S和Model X车型，全面转向Optimus人形机器人研发，显示科技巨头加速布局人机融合产业。",
       "date": "2026-04-10",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQYklOa1FlVDJkZ19uSG1zc1JMbnpBRDRJdGU0bWtFbWZaV1l2MDBfSVdrTlM4S2dsbHNVcS00X0NpVGlCTXFyTkV5bW1ObDFpVlc1WmYzMEgza1Z5S0VmUDVhaXI0YzRLNWV2WDN5TlFOQTZDQkNDamNlaW9NMzl2d0cycjVxcWNSQmJOTWpHQ3RTbHIzVGlmWmFZSHdkdENPY3lnZ1VCTkh5ZEZSRThVbw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGpyS3RuNjd6T0tyRzhLTEhvRlRoSWtrSlh0RXo4VW1CVjN2Q2RGa1JLWlhndU9HQTJmaHNKZlJTUkJub0VmNnV3ZXkxYzdEZEJDakZYaWlhSTliUEEwRGpOOFZsZXVyeFY2dE01a3pPWjNBdVVWTGJScmpZOE45X3dPcUpQTDhvb1VwSU5sTGF2QV9ybGRDQ3pqanJ0YjJzVG1ldjQxMGV3MjNZZmd3VWg4elNiZ3c?oc=5"
     },
     {
-      "title": "优必选2025年净亏损7.9亿元，“人形机器人第一股”的“纸面富贵”？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUnU0Rk9oTVYxSXZLcTlPWW9McFljUG81R1o5Tl",
+      "title": "Tesla adds China’s Sunwoda as fifth global EV battery supplier amid margin pressure - Electrek",
+      "summary": "特斯拉新增欣旺达为第五家电池供应商以缓解成本压力，此举有助于优化供应链成本，为未来机器人业务",
       "date": "2026-04-10",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1aUnU0Rk9oTVYxSXZLcTlPWW9McFljUG81R1o5Tl85eGNJa3AteW9pZk5FMXZZZVBTT19HRlhvVTBpMG9lNXgwMnhMSnU4SEZCdjA5ZEhHRmNUOV9wQTMyVTRhTVlmRVEyR1BKZ01iYTlZN0MwazB3ZQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDlpX2JndjdKYi1iZU1DbVMybFpLQlRLVmVWRjlrMHNKTWtOa3pSTjMxVUtCMzZVY0VOMlF2SElEVU1KN3lZSVMtdW44YVlkc3BwLWJNTTY2b3hkbFFVU1F3SmpNRGhRQUVZT1pCa1J4Zlo0dHRzaml6Q3VpWXc1Yi1FS0k0OUhVMWxYMnNVWjF2NEs3aEREazZB?oc=5"
     },
     {
-      "title": "智元万台机器人下线+优必选业绩暴增，机器人产业进入量产验证关键窗口 - 东方财富",
-      "summary": "智元万台机器人下线、优必选业绩暴增，标志着人形机器人产业从研发进入量产验证关键窗口，行业商业化进程加速。",
-      "date": "2026-04-09",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBfN1NFb2pjZE9yR3YtaVpmVmUtcWdYQ0xYLUhTMENFNDZFQWczbDRwQnR4bDZqM0pUMEZJbU9XcWtWOHc2Vkk0c1B5S08zRHZjUUdKeXVoWm5URkNscktBWVBuYkExZw?oc=5"
+      "title": "A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary - Business Insider",
+      "summary": "中国机器人初创公司开出1800万美元年薪招聘首席科学家，对标特斯拉Optimus。此举反映人形机器人领域人才竞争白热化，中国企业正加速追赶特斯拉。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTZRS3FBSDNRRk9hV05OTlR5RFN1eEtPMWh0aThWeE04X3FPeXprbHdkZlNyaV95TkRYZmJzRWpXODR6YWlkc1ZrU1FXTEVBU0xaVTE4YkJxOGs0Q1cyTHhpU1BzN01uNVRZSVA5eUNzMzg2Q3ZvSVBxdE1CR0lqSFBib0ZEZExpMlluMTVPR3J1cGZkT3FNeHlBU2trTnF1d3RDandxcmlOakF6R1E?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-10T13:23:26.284783"
+  "updated_at": "2026-04-11T02:28:22.305379"
 }
