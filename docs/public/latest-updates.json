@@ -2,61 +2,55 @@
   "papers": [
     {
       "title": "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation",
-      "summary": "### 现状痛点",
+      "summary": "提出一种模拟到真实的四足机器人全身动态操控方法，通过测试时引导预训练策略与采样规划器，实现对超重超大事物的灵活操控与任务泛化。",
       "date": "2026-04-09",
       "link": "http://arxiv.org/abs/2604.08508v1"
     },
     {
       "title": "HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation",
-      "summary": "HEX提出人形对齐的通用状态表示和混合专家本体预测器，实现跨异构机器人的全身协调控制，在真实人形机器人上达到最先进性能。",
+      "summary": "HEX提出一种基于状态中心化的人形机器人全身协调控制框架，通过统一状态表示、专家混合预测器和残差门控融合实现跨实体高效学习，在真实双足机器人上实现高成功率操作。",
       "date": "2026-04-09",
       "link": "http://arxiv.org/abs/2604.07993v1"
     },
     {
       "title": "CMP: Robust Whole-Body Tracking for Loco-Manipulation via Competence Manifold Projection",
-      "summary": "### 现状痛点",
+      "summary": "提出Competence Manifold Projection(CMP)方法，通过构建 competence manifold 将 OOD 输入防御转化为流形包含问题，实现鲁棒的全身跟踪控制。",
       "date": "2026-04-08",
       "link": "http://arxiv.org/abs/2604.07457v1"
-    },
-    {
-      "title": "Beyond Tools and Persons: Who Are They? Classifying Robots and AI Agents for Proportional Governance",
-      "summary": "提出基于网络-物理-社会-思维四维度的机器人与AI智能体三层次分类框架，为差异化治理提供本体论基础。",
-      "date": "2026-04-07",
-      "link": "http://arxiv.org/abs/2604.05568v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Now You Can Buy Unitree R1 Humanoid Robots on AliExpress: Democratized Access to Embodied AI Research for Under $5000 - Intelligent Living",
-      "summary": "Unitree R1人形机器人现已在阿里速卖通上架，价格低于5000美元，使消费级科研机器人成为可能，加速人形机器人技术的普及化。",
+      "title": "Tesla Unveils Plans for Optimus Humanoid Robots and FSD Controversy - National Today",
+      "summary": "Tesla公布Optimus人形机器人计划，同时引发FSD技术争议。作为行业标杆，Tesla",
       "date": "2026-04-11",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1rUkQ5UGNnOUpaMWZCcG1ncm9pTGdId1hOdFlVZVl6cEZMMGZ4aGtmaTgyWlU5US1vSjc5ZEhRclAzYjFlZEtScWMtNzMteVg2NFJ4eDUybXFLZHdsTlE1ZUNKOExXYzladTR5M2VVbC1POGMyWDF4bG1xX0xWekU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEhWRkxOSFBIcDY5WE5FMzRtVGVRZDVYWXlxMFpkTkVNQ2tacjlyWnRkLXFBYXFteEhac1NXenlXamo3VW5KVXoxOTNnTVZWSzNRdkVpRTY0VkpoNE5qZ1VueUNMWUNIeENFR0w5WVhPa003c0toUkgxOEV1VU9MNUNWQnFzWVVxNWZjc1BBS3VFTTBoVFJ3NVhadDU3cndfOV82eHg3cFNxZnZLZ2I3ZTZFLVJObE83VXJuTVdFanY4QUJrdWhB?oc=5"
     },
     {
-      "title": "UBTECH-backed UQI, Honda Trading team up to boost humanoid robot applications in auto supply chain - Gasgoo",
-      "summary": "UBTECH支持的UQI与Honda Trading合作，推动人形机器人在汽车供应链中的应用。此合作将加速人形机器人进入工业制造领域，为汽车行业的自动化和智能化升级提供",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxNbXRSangwZHJZMmJmVmlHZkQ3UV9qXzNuUVVpdk01VmFQR0l0WFJ0WWZnZXJsX25rMEQteGlkOW1jdGIybFlWQzFWTmxXX3hDMmhPN05udTRnVkdJQzFKcUdLRThqa0NFdnhNZjIzY3RvVjZUa21hWmp1R3RYd0lKUkJlM1JsNWxDRkd1WjNBOGVaYVFZckpXRzh5ZVp1ZldBZW00dUxYUmxUbk41Q0d4TVdGR3UweHNSUE4yTDZiZ2dMbExQWHZvZEgzWG9OZ3Jqblo4ekVNNzFQNDhlaEJWbWwxVXlLYTRoQjhYUU5mSjd4TllMOTBDelEtYjZTVXc?oc=5"
+      "title": "Tesla Optimus Gen 3 Silhouette Revealed by Program Lead - Not a Tesla App",
+      "summary": "Tesla公布Optimus Gen 3机器人剪影，由项目负责人亲自披露。作为Tesla第三代人形机器人，该进展表明其正在加速技术迭代，对行业竞争格局和技术发展方向具有重要参考价值。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVRWLUlOQnkwY1RmT2prN1ZIM3RUeTBna0FCenNnbV9OX01kcGR1UlBqaHBEc2JlV0k4UUhaVHM1Qy14UG51elRFUnhiZnBhNG5YU1VDaFY3cVZEclVERVNOdjktdjU4WHBHQjlmY2RuUXRMTWtXek9kTFJCRkZqWW9nZ25vaXgxRnFZZ2UtMXZkWEMxdldhS1B3?oc=5"
     },
     {
-      "title": "巨亏之下，优必选1.24亿年薪挖“完人” - 新浪财经",
-      "summary": "优必选巨亏仍以1.24亿年薪高薪招聘顶尖人才，凸显人形机器人行业对高端人才的激烈争夺和人才培养的重要性。",
-      "date": "2026-04-11",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOSjBmY1VFWHcwMHlxaW9Ob1ZHVnBfWE9vclJoSzNYWENJQWRKYjhvVmdPSDNXVDhHaEpNTDJvTjRfaDd6OERFMDl0N2VacGVYYVllWjFEZFFCcDlGcUhRUnlYZG9FRkgyQkR1VzNUV0tiTlF6SHlteXRGT2MybUEzeFJPNGdPbVp1a19YaEtfQUc3dXBXZUFQc3BXc05vUHJLOEliaFg2Z3dka3JXRS1fV3pR?oc=5"
+      "title": "Tesla and SpaceX deepen vertical integration push for supply chain control - digitimes",
+      "summary": "Tesla与SpaceX深化垂直整合以强化供应链控制，此举有助于人形机器人关键部件的自主供应与成本优化，增强行业竞争力。",
+      "date": "2026-04-12",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV1dUVDA3ZGdza2ptQWFSemRPbk5jYUl1cjZpWVRBZ3ItZENUNktrTnhVWkJyOWtQUEpoVXdZRGV1MHdVR1JVX0Y2dDJmZ3VjYnlUa3gwRXJKNUdyOGlWYVA5Q2JwTDdvSUp2U01DRFNIcU9oRGpzclowWnBWWjdvS2VlbUZxRjY5VWxvVlhYRGhxbnEtRHFmTQ?oc=5"
     },
     {
-      "title": "人形机器人卖出8亿，优必选还没走到赚钱那一步 - 21财经",
-      "summary": "优必选人形机器人销售额达8亿元，但公司尚未盈利，反映行业商业化困境与发展潜力并存。",
-      "date": "2026-04-07",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPN0RjdUF2T2JISEJTc1BBNlpTSlhjakF4aGFqaFNsQjdST0xqcXgxNzZxSFRTdVd2NzlvRG1oRnR3QmprNDFBM19RQVhHQ21RQkN6SmkxMXVvekFxWEpOYmNXamdEemx0TUdMYnI5Z3JsQ1R3V3k1UUZQcXVUSnk2UEh0QWNiVEMwS3pjc1oxWQ?oc=5"
+      "title": "With Elon Musk and Tesla, Synergy Creates an Edge - TheStreet Pro",
+      "summary": "特斯拉通过生态系统协同效应强化竞争优势，整合其AI、能源、汽车等技术资源，为",
+      "date": "2026-04-08",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejU5TGlrYXJTT2lFVnQ2VkE3aVJoeGk1ZDlvQ1hPNVlSS0JqTkFvMW00bFNvcU9ydHlzSzJmU3J3MThYWGZJS1pwVDNRS2pERmROc3AwcC1kcmZBY0U3dENjMlItc3JDRUhBMFFfRUljVmEyYWViX3JEQ2drY2NLUTAzbU1PYmhCWENRbTFMdHNKaWZ3aTNB?oc=5"
     },
     {
-      "title": "营收增速、毛利率均在30%以上，苦熬10年的B2B机器人为什么还难说赚钱？ - 新浪财经",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFpWOWtSb3pnc283WnFwRTdPdTJQVEo5czJMRk",
-      "date": "2026-04-11",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOcFpWOWtSb3pnc283WnFwRTdPdTJQVEo5czJMRk9qTThtV0JvdHl6T3V4S01vZGlsaXRHTlhiUVhvSFV4NGVvbG1GZ0RqbklEbmZqMVVDVjhNa2FMTHh2N2p1dE0wb3lINkhHU1VXcFlsNTdKT2dnVklpYzRjdU56UWZEdmRJTDhaVVJhUkFjOVRFT1BGYW5taDg1aFdnMjFncmpZeUlzRjYtQTgwZTlwNC1R?oc=5"
+      "title": "A Chinese robotics startup with a Tesla Optimus rival is seeking a new chief scientist with an $18 million salary - Business Insider",
+      "summary": "中国机器人初创公司开1800万年薪招聘首席科学家，挑战特斯拉Optimus，显示人形机器人领域人才竞争加剧，中美科技竞争日趋白热化。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQTZRS3FBSDNRRk9hV05OTlR5RFN1eEtPMWh0aThWeE04X3FPeXprbHdkZlNyaV95TkRYZmJzRWpXODR6YWlkc1ZrU1FXTEVBU0xaVTE4YkJxOGs0Q1cyTHhpU1BzN01uNVRZSVA5eUNzMzg2Q3ZvSVBxdE1CR0lqSFBib0ZEZExpMlluMTVPR3J1cGZkT3FNeHlBU2trTnF1d3RDandxcmlOakF6R1E?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-11T13:10:12.760293"
+  "updated_at": "2026-04-12T02:46:22.550440"
 }
