@@ -1,56 +1,56 @@
 {
   "papers": [
     {
+      "title": "Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch",
+      "summary": "提出利用本体感知提供的手部几何信息和多触点触觉信号来约束被遮挡物体的表面位置，结合流匹配扩散模型和物理优化目标，实现严重遮挡下的度量尺度物体三维重建。",
+      "date": "2026-04-10",
+      "link": "http://arxiv.org/abs/2604.09100v1"
+    },
+    {
       "title": "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation",
-      "summary": "提出一种模拟到真实的四足机器人全身动态操控方法，通过测试时引导预训练策略与采样规划器，实现对超重超大事物的灵活操控与任务泛化。",
+      "summary": "提出一种基于预训练策略与采样规划器相结合的仿人机器人动态全身 loco-manipulation 方法，通过测试时成本函数调整实现对不同重物和大尺寸物体的泛化抓取与搬运。",
       "date": "2026-04-09",
       "link": "http://arxiv.org/abs/2604.08508v1"
     },
     {
       "title": "HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation",
-      "summary": "HEX提出一种基于状态中心化的人形机器人全身协调控制框架，通过统一状态表示、专家混合预测器和残差门控融合实现跨实体高效学习，在真实双足机器人上实现高成功率操作。",
+      "summary": "### 现状痛点",
       "date": "2026-04-09",
       "link": "http://arxiv.org/abs/2604.07993v1"
-    },
-    {
-      "title": "CMP: Robust Whole-Body Tracking for Loco-Manipulation via Competence Manifold Projection",
-      "summary": "提出Competence Manifold Projection(CMP)方法，通过构建 competence manifold 将 OOD 输入防御转化为流形包含问题，实现鲁棒的全身跟踪控制。",
-      "date": "2026-04-08",
-      "link": "http://arxiv.org/abs/2604.07457v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Taking the jobs humans don’t want: the ironic promise of the humanoid robot - WardsAuto",
-      "summary": "人形机器人将承担人类不愿从事的脏活累活，解决劳动力短缺问题，这为行业开辟了现实的应用前景。",
-      "date": "2026-04-08",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNWWxIS1ZZeF84UFlRNmxnUkY4TjBUMnRrbVl6ajNWam9keGYyMmV5VHBWbl9jSkl0MzZpSEVWeFp5TkdsRDNDTkFJSUxtSUFEdWVhVlpBVXVfaXBSQmNYT1NfMDR1VjhTcXFXdG94QUZLeW12UVByaWRlNVluOThkQmV0ZG5nb0RTcFpJa1lVdmpLTFAtcVZxZ1ZwTWNSeTlFbWJBTVQ1RmY3X0RQUjNaeDd3?oc=5"
+      "title": "Tesla's Optimus robots at 'We, Robot' event were not very autonomous - Mashable",
+      "summary": "Tesla Optimus机器人在\" We, Robot\"活动上展示时自主性表现不足，说明人形机器人技术距完全自主仍有差距，行业需在运动控制和环境感知能力上取得突破。",
+      "date": "2026-04-11",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9LVmJ3SkxCZVByTFVUTURha2J0a2R0aU9ZeUFoc0RuRzI5QTdlalVhbFA3aVpEbngyYTFCdU1yV0UxdnZCaUpmaUplX19ROUxta0RNMnZScXY5czc3cGdSbXBEM2dhU0pJbTFraXRMTnQ?oc=5"
     },
     {
-      "title": "The future is now for humanoid robotics - PwC",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQdFRrRW1CVXQ2VEVxenRFM0JoSGRGMlo2M0s1c3",
-      "date": "2026-04-08",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdFRrRW1CVXQ2VEVxenRFM0JoSGRGMlo2M0s1c3k5Q1pQTHk1OXJlMHd0ekdiTy1pS1R1NjlvRFZqbWk1OXNDNk50Zmd1R09zZkNRbE10NE0zNlNnUUFtVjBZTGUwVE1ZTmliT2VvTVg2c1VjNE1LQjlHZ25BVEdqdzZMNm01MWJ2a0E?oc=5"
-    },
-    {
-      "title": "Unitree’s H1 robot hits 10 m/s sprint speed, getting close to Usain Bolt’s 100m world record - Global Times",
-      "summary": "Unitree H1双足机器人实现10m/s奔跑速度，接近人类短跑极限。这标志着双足机器人动态运动能力重大突破，推动行业向实际应用迈出关键一步。",
+      "title": "Musk Has Been Running Tesla Blind - planetearthandbeyond.co",
+      "summary": "马斯克被指盲目运营特斯拉，可能暗示其管理决策存在偏差。若特斯拉在人形机器人项目（如Optimus）上决策失误，可能影响行业",
       "date": "2026-04-12",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9SR1dtYWJ6b05PWHUtUWpCMUE1cVliNzhtS1ZjRDVhTU5sRE8tOS1zX2R4c3VSTVZJTU0xV3VFdGkxNGNpblhjTzJkeV9oWlpITENsWVc5TU1taUE0NHVWNkhB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ncWU0U2s0c1FVaGNDOWUzRUZPWXg3dnB4d0pTTkI4TWRjLVlIdEhSRmVrZW04Q0hfUjZvTFBNUUNiNU5Tc0Z6Y05GVld4d1dUNGdhc2xBUHRJV0Q2ZVk1ZUFiWlk4bExhWXpRVHhDSTdzRE1uYzVEUzBSaw?oc=5"
     },
     {
-      "title": "中国人形机器人，这次真的爆了！ - 新浪财经",
-      "summary": "中国人形机器人产业迎来爆发式增长，技术突破与市场需求双重驱动，行业竞争格局加速形成，优必选等头部企业有望受益。",
-      "date": "2026-04-10",
-      "link": "https://news.google.com/rss/articles/CBMi3gRBVV95cUxPaFRaelRxOE1fR3dZRUliN2dHdUYtb1hLVkJjTDVvRUpjMFJ4VW5ZZ0xxYWs2WUxjNHRyREFIbXVwUG5ZTkwwaHZpNWRsRFdlS2F2LXMtbEtlcVBteHU5dDJzeHd6N1BMX0xoY2VJYlpIR29NeEtVc3djcU50Q0NKOFJXdVJLdU9hQ3RiVDU0VUwxQlB1TmRFNlFldzZ4WXB4eXctWm1EcXJLLWZwdU5DQmhqaDRleTdRdUNOcENqZ3ROZWtlNW1KNExmR0ljQ0N2YlY3RG5IVWl3UGM5OEtlM2k4Z1c1aWN0Wld4WFhuNWNFaTRjZ3JhQ3lWMjR2QVJiQldOOHJ1Y0hObkQ2MWZrbmxrcTNKZlRSaTV0VzcwQzNyY2tVMDdTcnVGSTRWbFhwMmhBTExkVEdkMkEzVmM5MTZiTVpLVWdBaXJzZTVmMlBJc0UwdWVjLWxod3hqZ2dmOHFJWlhLc0NqNXhiWW00T3ZNMWtVMXdXaklnRXRjNDJTXzNfQjk4emVDT1NGWHQwdWVNaFhZVXpEV3NITEc3TEZxcmpmUmxpckViaFBYMzJxQ0ZRYkZDWFQ4NDEtdmVQelhsSlV0eEpmWXd1MlpqV2RSMUkxTkdELTlSbnJiYUJ5NF82YnFkNl9wU1FVS1NnMHhHVEcteDdFQlFGbEp1bUhKYUlfdDVJX01jSl8wVkpmTzBnQ2QzMUtFSm9vQVJ4bElqUDc0QnNtX0xUUVZxQ1p5Z1VrX0kzSFlEQ2lVeG03ZlBUaGRGN0IzWklLSHMyTjFtUmhyYnAyQzBGNWc?oc=5"
+      "title": "Tesla Optimus Gen 3 Silhouette Revealed by Program Lead - Not a Tesla App",
+      "summary": "Tesla公布Optimus Gen 3轮廓，由项目负责人揭示新一代设计进展。这显示特斯拉加速推进人形机器人商业化，可能引领行业竞争格局与技术迭代方向。",
+      "date": "2026-04-06",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbVRWLUlOQnkwY1RmT2prN1ZIM3RUeTBna0FCenNnbV9OX01kcGR1UlBqaHBEc2JlV0k4UUhaVHM1Qy14UG51elRFUnhiZnBhNG5YU1VDaFY3cVZEclVERVNOdjktdjU4WHBHQjlmY2RuUXRMTWtXek9kTFJCRkZqWW9nZ25vaXgxRnFZZ2UtMXZkWEMxdldhS1B3?oc=5"
     },
     {
-      "title": "【国内动态】优必选 2025 年营收突破 20 亿元，人形机器人业务增长超 22 倍 - Sohu",
-      "summary": "优必选2025年营收突破20亿元，人形机器人业务增长超22倍，显示国内人形机器人市场进入高速发展期，行业商业化前景可期。",
-      "date": "2026-04-12",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWm43Z1FnbWxjMkR6YkFGZFpBdklhd3EwajJLRENWYjZQNm82UFBIdkVOTXBGY0ZnSGhwMng2MzRMTlNvbklCTXFmVWNVYmtVTVdoYWo1MzhCMHpIRWRHS3NNd3AzdFozNmU2U2liSlBpQ1psMGhFWFZUbTJQZEZzSFdpSXlTeG84WU0ydg?oc=5"
+      "title": "Tesla Unveils Plans for Optimus Humanoid Robots and FSD Controversy - National Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEhWRkxOSFBIcDY5WE5FMzRtVGVRZDVYWXlxMF",
+      "date": "2026-04-11",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEhWRkxOSFBIcDY5WE5FMzRtVGVRZDVYWXlxMFpkTkVNQ2tacjlyWnRkLXFBYXFteEhac1NXenlXamo3VW5KVXoxOTNnTVZWSzNRdkVpRTY0VkpoNE5qZ1VueUNMWUNIeENFR0w5WVhPa003c0toUkgxOEV1VU9MNUNWQnFzWVVxNWZjc1BBS3VFTTBoVFJ3NVhadDU3cndfOV82eHg3cFNxZnZLZ2I3ZTZFLVJObE83VXJuTVdFanY4QUJrdWhB?oc=5"
+    },
+    {
+      "title": "With Elon Musk and Tesla, Synergy Creates an Edge - TheStreet Pro",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQejU5TGlrYXJTT2lFVnQ2VkE3aVJoeGk1ZDlvQ1",
+      "date": "2026-04-08",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejU5TGlrYXJTT2lFVnQ2VkE3aVJoeGk1ZDlvQ1hPNVlSS0JqTkFvMW00bFNvcU9ydHlzSzJmU3J3MThYWGZJS1pwVDNRS2pERmROc3AwcC1kcmZBY0U3dENjMlItc3JDRUhBMFFfRUljVmEyYWViX3JEQ2drY2NLUTAzbU1PYmhCWENRbTFMdHNKaWZ3aTNB?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-12T13:13:56.107033"
+  "updated_at": "2026-04-13T02:55:08.513322"
 }
