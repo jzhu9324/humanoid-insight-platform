@@ -6,482 +6,309 @@ type: company-news
 
 # 人形机器人公司动态 - 2026-04-14
 
-本期收录 8 家公司的 41 条动态。
+本期收录 7 家公司的 32 条动态。
 
 ## Tesla
 
-### Elon Musk's Tesla robot needs help walking. He says Tesla needs help improving it. - Mashable
+### Tesla leader believes Shanghai factory operations will play a role in robot mass production - abcnews.com
 
-**发布日期**: 2026-04-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMia0FVX3lxTE95TVBwanVZWWI5UEFBNDE3aVktY1hUWHBrODBZTi1jNzF4SnYwRS1OblVTdFZDeEVtUUNRZDRWWXZGNWFpTFMyY2FIRVNiWTVoeU14ekFTOTViQURBczBYS0NfaWJGYXpYdHgw?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxPa193dnZzR3JGdXVZMDJ4VVFqalJQZnZnU180N0lvTlNzQ3Y5Q19vS1FuVlI2NHV6QmJzYU4xekp4SVYtZGR1LXRhS0k0UDZOZXdxdllZckVmOG9ST3lEWWFLeHZ5SzFyWEZteXMtX2pyTjBkNi1EZ3JLWVF3TVA4U2t0VXJ3dWhtZWU0dXhhYmtKT3dqWUJuRVE1TzdsV3NWbmFBY2wxc190VW41V0lKMEJFRdIBuAFBVV95cUxNZ2xiUF94ZFEwRWpRQjRUanhFVU55NnBvZ1Y1S2hXZjU3TW9CVzB1bkVqeHdnUF9XTkRZWGVYMVdaMFF6VGhvX24yTmdhWS1pNUdFS093eC1Yd0tGTkg3S1V2UjJxM0RJMHpTWDB3S3lyU1lKZkpsX2pGM1RoX3psb1UzaUl0MDRBbnItNVoxZ09IcUdxMVFId0RqQndEQmI3WUVTdlhKLVZrc09GYU5oblcxUXlYNlFW?oc=5)
 
-特斯拉Optimus机器人行走能力仍需改进，凸显人形机器人运动控制技术挑战，对行业而言意味着平衡与行走技术仍是核心难点。
-
----
-
-### Tesla Unveils Plans for Optimus Humanoid Robots and FSD Controversy - National Today
-
-**发布日期**: 2026-04-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEhWRkxOSFBIcDY5WE5FMzRtVGVRZDVYWXlxMFpkTkVNQ2tacjlyWnRkLXFBYXFteEhac1NXenlXamo3VW5KVXoxOTNnTVZWSzNRdkVpRTY0VkpoNE5qZ1VueUNMWUNIeENFR0w5WVhPa003c0toUkgxOEV1VU9MNUNWQnFzWVVxNWZjc1BBS3VFTTBoVFJ3NVhadDU3cndfOV82eHg3cFNxZnZLZ2I3ZTZFLVJObE83VXJuTVdFanY4QUJrdWhB?oc=5)
-
-Tesla宣布推出Optimus人形机器人计划，正式进军仿人机器人领域，结合FSD技术布局家庭服务应用，将加速人形机器人行业发展与商业化进程。
+Tesla领导人称上海工厂将参与人形机器人Optimus的批量生产，显示特斯拉正在利用中国供应链优势加速机器人量产进程。
 
 ---
 
-### Musk Has Been Running Tesla Blind - planetearthandbeyond.co
+### Elon Musk’s Tesla Exec: Shanghai Factory Is the Key to Unlocking Robot Mass Production - 24/7 Wall St.
 
-**发布日期**: 2026-04-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMie0FVX3lxTE9ncWU0U2s0c1FVaGNDOWUzRUZPWXg3dnB4d0pTTkI4TWRjLVlIdEhSRmVrZW04Q0hfUjZvTFBNUUNiNU5Tc0Z6Y05GVld4d1dUNGdhc2xBUHRJV0Q2ZVk1ZUFiWlk4bExhWXpRVHhDSTdzRE1uYzVEUzBSaw?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmt1TGNsLTZLMUk4RllkaVpxNG1FSlotRk1GdzA2WWxtRXltY29SQklzR2pZcG9kbjVWNDE4TVBNRUdfNXMyNWVZSjJYUXFpcUdmcHFwMmlUc1Vrbmh3T1ZCTkR4bXRjWnpLQkQtYjlVMUZaUUlLRmtvTktzZTdWVlhUOXZ3dl9GQ21RZGticVYzVWVIRTlSM3JKSnczS2hJNXU0c21aU1dlV3RpbzRXaVlPNGVCY1FVamx2ZjFOMnFOcjJ1YVFj?oc=5)
 
-这条新闻暗示马斯克对特斯拉的运营可能存在盲目或缺乏清晰方向的问题。对人形机器人行业而言，这意味着特斯拉在机器人领域的战略执行可能缺乏透明度，行业竞争格局仍存不确定性。
-
----
-
-### Tesla Shifts Focus from Model S and X to Optimus Robots - National Today
-
-**发布日期**: 2026-04-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWpIbzBhbktlY0RHSFRzWmxTU25CNHZfbVJORGFUZmxWQTR2eVZJMTB0T1lrQ0o3aXk5TnJidi15TkZnbVcybDVaNV9wZ0FFdWcyaHprQWNtR0VqMVdYaHVLLTU5LS1wTzA2QjZqeGlOekhHdHNzYVowSHREdHpMcldmZThQamNDakY1elE2cWFTaEdVUTFEX2NjRW9DcGhfa05FMV9qLTRHRHotelRZdE93?oc=5)
-
-Tesla将战略重心从Model S/X电动车转向Optimus人形机器人，显示其加速布局机器人业务的决心。这将推动人形机器人行业竞争加速，也预示着自动驾驶技术向通用机器人领域的延伸应用。
+Tesla高管称上海工厂是实现人形机器人Optimus大规模生产的关键，凸显中国供应链和制造能力在全球机器人量产中的重要地位。
 
 ---
 
-### With Elon Musk and Tesla, Synergy Creates an Edge - TheStreet Pro
+### Musk Has Been Running Tesla Blind - Medium
 
-**发布日期**: 2026-04-08
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMilwFBVV95cUxQejU5TGlrYXJTT2lFVnQ2VkE3aVJoeGk1ZDlvQ1hPNVlSS0JqTkFvMW00bFNvcU9ydHlzSzJmU3J3MThYWGZJS1pwVDNRS2pERmROc3AwcC1kcmZBY0U3dENjMlItc3JDRUhBMFFfRUljVmEyYWViX3JEQ2drY2NLUTAzbU1PYmhCWENRbTFMdHNKaWZ3aTNB?oc=5)
+**发布日期**: 2026-04-13
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTFAtTjNuOWhJZGxuMG43Z3dEYllmOXpjMkEtUVVLWDU2MVpFblh6VnNRckV1WjJrSUlUbEd0VFB3T1N0SkpCenpuQnlaaG5MbkRJTnF5T3BKbHhZN2NzMHR0enFqeWliNWZxeGFnRF9LZ1B2QTctYk5WV200QUl3d3c?oc=5)
 
-该新闻分析了特斯拉与埃隆·马斯克如何通过
-
----
-
-### Tesla Discontinues Model S and X to Focus on Optimus Robots - National Today
-
-**发布日期**: 2026-04-10
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxOcGpyS3RuNjd6T0tyRzhLTEhvRlRoSWtrSlh0RXo4VW1CVjN2Q2RGa1JLWlhndU9HQTJmaHNKZlJTUkJub0VmNnV3ZXkxYzdEZEJDakZYaWlhSTliUEEwRGpOOFZsZXVyeFY2dE01a3pPWjNBdVVWTGJScmpZOE45X3dPcUpQTDhvb1VwSU5sTGF2QV9ybGRDQ3pqanJ0YjJzVG1ldjQxMGV3MjNZZmd3VWg4elNiZ3c?oc=5)
-
-特斯拉停产Model S和X车型，全力投入Optimus机器人研发，此举将加速人形机器人商业化进程，为行业注入新动力。
+特斯拉公司治理存在问题，马斯克的经营决策可能影响其人形机器人项目Optimus的推进，对行业竞争格局产生不确定性。
 
 ---
 
-### Tesla Shifts Focus to Robotics as Delivery Figures Hint at Evolving Vision - National Today
+### Tesla executive thinks the Shanghai plant will contribute to large-scale robot manufacturing - Bitget
 
-**发布日期**: 2026-04-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxNclVzNmg0Q1VqWWFhbjU0NWVKbWZ1dTMxbVFhX3o2MWtjXzRadGR2dVVmQUVKbTNZSUlEOF9BaDZYSXBCVEZNaTRTb3lldnJ3OHJYQVFSeHE0cW51ZkExVTdteVJFM0hzbFpJNHVpc2lkemQyVHlqcjYxVURINndXSkY1eTdabVp5c1dER1VPU25sSHNLWEtIRlpxdFNUaGUyNnliU2k4Y3Q4SC1PWF94ZllLQ29DU2pIay02ZE5Xd1NtMG04azRBTENjTQ?oc=5)
+**发布日期**: 2026-04-13
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ja2Y5NkhhNlBOUkJwSzdOM3dlS0dMTHBIMDBiTnVST2lza0tzajJIMXB4MW9YeVJMaVozMXhKYTltTXpaMzRzRE4teGEzV0xqdHhCckZHbmJkbGVYSWfSAWNBVV95cUxPSU9qOExDRUlWbkpCSnBadmd3bl9ad1lvWlNFLWU2UWN5RUNNMldjVHVCVFpvc0FvTUFfbGZIMUN3TEJrZncwWFdPNWRXS281bUN6NmVCcVpfbXRwY21WdUg4eGc?oc=5)
 
-Tesla将战略重心转向机器人领域，交付数据显示其正从汽车制造商向综合科技公司转型。作为自动驾驶技术领导者，Tesla入局将加速人形机器人
-
----
-
-### Tesla adds China’s Sunwoda as fifth global EV battery supplier amid margin pressure - Electrek
-
-**发布日期**: 2026-04-10
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMimgFBVV95cUxNUDlpX2JndjdKYi1iZU1DbVMybFpLQlRLVmVWRjlrMHNKTWtOa3pSTjMxVUtCMzZVY0VOMlF2SElEVU1KN3lZSVMtdW44YVlkc3BwLWJNTTY2b3hkbFFVU1F3SmpNRGhRQUVZT1pCa1J4Zlo0dHRzaml6Q3VpWXc1Yi1FS0k0OUhVMWxYMnNVWjF2NEs3aEREazZB?oc=5)
-
-Tesla新增宁德时代、LG等电池供应商，并邀请其能源业务高管David Jonkers加入，或为Optimus人形机器人项目提供更稳定、低成本的电池供应链支持，缓解人形机器人商业化过程中的成本压力。
+特斯拉高管表示上海工厂将用于大规模机器人制造，此举将加速人形机器人行业的商业化进程。
 
 ---
 
 ## Boston Dynamics
 
-### Unitree's $4,370 Humanoid Robot Hits AliExpress Shelves - The Tech Buzz
+### Hyundai Expands US Investment, Scales Robotics and AI - Let's Data Science
 
 **发布日期**: 2026-04-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVU3SUc4S1ZPMnBnMkF3RHN3TDNGdXZTd2FqdmVDQ21FbGVGODJUVVpSTUNjWWhXOVdwU1B0NFVNUlBsNmtmendTNl9PSHhxQTNWM0FJa1dENEpORGNKT0pteF9pOVNTdnpibDl4cUZDaVloSkJpNC1UdU1YTFUwQlB6U2lncXRnQTctd2xSa2M?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVZkUDQxRjFVYzhGMFZFMFdmNFVVdUNXMFFxRS1DZlVsN3M0T0tmMmk2bFQySWF0WGlIX1NWSUY3aHpqMThpRDNlNkFEbGExZ0dOSHg4bTdHbDNPR21lYWIyaHhfTWM3N3lQeEo0MTAwNlgxMEREY3lycUdWSkFWcGtETUxhUU9lTTdBWjdvdHNpYWpIX0pHbk13?oc=5)
 
-用户要求我分析一条关于Unitree公司的人形机器人的新闻，并要求用1-2句话（50字以内）总结关键信息和对行业的意义。
-
-让我分析这条新闻：
-- 标题：Unitree的4370美元人形机器人在淘宝上架
-- 这是一款价格相对较低的人形机器人
-- 通过AliExpress（淘宝国际版）销售
-
-关键信息：
-1. Unitree推出一款价格较低的人形机器人（4370美元）
-2. 通过电商平台销售
-
-对行业的意义：
-1. 降低人形机器人的价格门槛
-2. 推动消费级人形机器人的普及
-3. 可能加剧市场竞争
-
-现在我需要用1-2句话（50字以内）总结：
-
-"Unitree推出4370美元人形机器人，在AliExpress开售。该产品以较低价格进入消费级市场，可能加速人形机器人商业化进程。"
-
-让我数一下字数：约42字，符合要求。
-
-再优化一下，更简洁：
-"Unitree
+现代扩大在美投资，重点布局机器人和AI领域，此举将加速Boston Dynamics人形机器人技术的研发与商业化进程，推动行业快速发展。
 
 ---
 
-### Hyundai Expands US Investment, Scales AI and Robotics - Let's Data Science
+### Hyundai maps robotics, AI push beyond cars - Tech in Asia
 
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMimgFBVV95cUxNbTFxcDMyZkJkV2lCYVFRQVdTUlVNS2V1RjNReWpNSFFhYnRTYllRMHlpRUxST3l6cG5CbWdqZll1QUN5UDUxX0llLTdDM1liQWhYeFVBX3NyNVlVSFlKSkF4QWpfN2JYeU1qVEtFYnp2YzBTTzVEckxadFEtTVlvcFhaRVp1RjVoTFNEb3hUeXNFUGFuSnlNZHhB?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9zbDVoY0huRV9GYVhGZGJQRTJRa0E1RjN2Q3dZWTBWRC0yckpUYlVaajR6ZkpxRWU3ZjdWcTVERm9ZNnJfVWhpbk15bnlQdURDUlRHR0JneERwTmFYR1RUUHZkMUlpNDdRQlNPSlBkRHlaTFZXSE14a0ZWQmZXUQ?oc=5)
 
-现代汽车扩大在美投资并加大人工智能和机器人技术研发，作为Boston Dynamics母公司，此举将加速人形机器人的商业化进程，促进行业发展。
-
----
-
-### Hyundai Motor Group Prioritizes Robotics, Physical AI in Strategy - 조선일보
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdERSUllLeHRKZjZjc01obHRRTmFEeVRUZlBPMEM3eFMyN2pBdVpra0dQdVM2RTI3N1dJcjFUWEh6cFVZSnVTd2VhMVNucE1yVk5ka1U4Z0pobnlCNkN3dnlBUm5tU0dIQ1J2WjA4V0lYaU4zQVlMblpmRmVsNEJUczBJUG5odmZ5?oc=5)
-
-现代汽车集团将机器人和物理AI列为战略优先方向，此举将加速人形机器人技术在工业和生活场景中的应用落地。
-
----
-
-### Hyundai’s factory humanoid will differ from the Atlas that you know - Korea JoongAng Daily
-
-**发布日期**: 2026-04-09
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOeG9HWGR3dVBneE00Z3B5LTViWWp5eWVVdi13anRfZTlfeXpHNGpzRXBPSjROYmhQaHJsNHZCbTlSR2h4OWxOUlpMcGFobmxKSXJrcDVza216STNUc25EWloxQnFES3hOZDBFcHA1OGJqdE5IZHlOck9tVFQtZlUzQXBicTlSTmk1akwycjZob0FwZ21Vc3VndDlHU0hXY3ZrdVFxMzc2QVRIVGVkUGhGOUVURkREWURFOGotV0xSek9uVDBNam13V3VTcWE5ZnFyeHNBSDhmVTROcEl0S0E?oc=5)
-
-现代汽车将在工厂部署自研类人机器人，与Boston Dynamics现有Atlas机器人不同。此举表明传统汽车制造商正加速布局人形机器人领域，推动工业自动化竞争加剧。
-
----
-
-### Hyundai Chairman Chung Reaffirms 2028 U.S. Atlas Deployment - 조선일보
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdHk5WUhteDFmZ3RicmJKVXA3cFVoYnI3Tl9WMjFYM19DLXV0TXY5MDhDSFc3aE9kNUp4b0liUWhicVNIOWhtR1NlMnNkNkdPd2FGZ0RMLWoxdXpxdGlYX1JLOERxc2Jjal9HU2NldERfdThSX0s1V1VzZC1rd2ZhZ2d4V0VTRHVf?oc=5)
-
-现代汽车董事长重申2028年在美国部署Atlas人形机器人计划，彰显其推动人形机器人商业化落地的决心，为行业应用树立
-
----
-
-### Kia Deploys Atlas Robots, Transforms into Robotics Company - 조선일보
-
-**发布日期**: 2026-04-09
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOWEVBby1mX0NHbWMyMl9HRGtISloxRGE1akZvTWV5dktTc3FXbDEzNllFNGVmTFhYSUctY01wMkp4WWNTQVd1TFI3MVlVd29uWHVnNUhQcjdlOEZxSkZOLXVhRDFaVmZoR0x0YWxNdzEzbVpzRkZvVmQzaTNENFJYME93QllrWFV3?oc=5)
-
-Kia部署Boston Dynamics的Atlas人形机器人，正式转型为机器人公司，标志着汽车制造业加速智能化转型。此
+现代汽车将机器人与AI业务作为汽车之外的新
 
 ---
 
 ## Figure AI
 
-### Axios C-Suite: A glimpse at the humanoid future - Axios
+### Humanoid Robots’ 88% Fail Rate: Completing Home Tasks - Forbes
 
-**发布日期**: 2026-04-10
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTFBMcFRjdm56T2lGcl8zVWN6VC1fMEZadFdtWEwxWWxkMzM3R1VoRHk4T3RqUUVySzBWUnAwdjgzU3NNN1ZzbzJxUDIzMzNZWDBGODZ3Mkh4WlZPaHZfY0pENUFiaEVoR0s5dUY1RWw5R3EzbEdLOU13OGwzNmg2MUk?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxPX2t6QmxYVmxvMTRpQkVwZENJaDhHREFhLWJzYXVDX0IwdXVfNkRBWmNteS12ajF1ejE0LVJDV0JxM19Hby1YSWtndm5NQWFEcjlQdFAzdXhXLWwzVjRpQXNtcVpYbnQteVkyQWxva2pVakM2REtDSnBLUy1CS3hFd3llaVFqYzI5cnNsSXJBNTlLcjZSMUdoNlNzVXQyY0VCYWc1bTVBWQ?oc=5)
 
-我需要分析这条来自Figure AI的新闻。让我先看看这个链接的内容。
-
-从RSS feed的标题"Axios C-Suite: A glimpse at the humanoid future"可以看出，这应该是关于Figure AI公司或人形机器人行业的新闻。
-
-但我只能看到标题和摘要，没有实际的新闻内容。我需要根据这些信息来总结。
-
-关键信息：
-- 来源：Axios
-- 标题：Axios C-Suite: A glimpse at the humanoid future
-- 涉及：Figure AI或人形机器人行业
-- 角度：C-Suite（高管层）的视角
-
-由于链接无法直接访问，我无法获取具体内容。但从标题来看，这似乎是在讨论人形机器人的未来前景，可能涉及商业应用或技术发展。
-
-我需要用1-2句话（50字以内）总结，关键信息应该是：Axios从企业高管视角展望人形机器人的未来发展，凸显该领域在商业应用和技术突破方面的前景。
-
-让我再思考一下。由于无法访问实际内容，我需要基于
-
----
-
-### Steel, silicon and artificial intelligence: Who will win the race of humanoid robots? - Xpert.Digital - Konrad Wolfenstein
-
-**发布日期**: 2026-04-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5mRC02SlZtZV9oeERlYjBpYml6MzRBM0Fpb09Wa2lHR2NPY3hFWmotVjZwU0t5WEZQYlBZWEtMaXpaalNsVUdyUWF1NHo1NktmWlQ4X2RCZUN6LXRzNFhaZk1JcjlzVnc?oc=5)
-
-该新闻讨论了人形机器人领域的技术竞争格局，分析钢铁（硬件
+人形机器人在家庭任务中失败率高达88%，表明现有技术距商业化应用仍有较大差距，但同时也指明了技术改进方向和市场潜力。
 
 ---
 
 ## Unitree Robotics
 
-### You Can Soon Buy a $4,370 Humanoid Robot on AliExpress - WIRED
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxPaDdwS2p6VG5DR094bGliZFRaaGtwV01zeFBqNGJHazFxaTdBeE5CMUpHY1I4OTRtYkdGbGdLVTF3STdwYUFNcjMwUm4tVEdEbUpGaWQxNjZXaFUxWWRXM2VQQldmOGI3V05kN2dxazhxQzFFV0hXQU4zdlhWOFZyX1o5MA?oc=5)
-
-Unitree Robotics推出售价仅$4,370的消费级人形机器人，将通过AliExpress平台发售，标志着人形机器人正式进入大众消费市场。
-
----
-
-### Unitree's $4,370 Humanoid Robot Hits AliExpress Shelves - The Tech Buzz
+### China’s Unitree Sets 10 m/s Humanoid Robot Record; Industry Debates Practicality - Yicai Global
 
 **发布日期**: 2026-04-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxQZVU3SUc4S1ZPMnBnMkF3RHN3TDNGdXZTd2FqdmVDQ21FbGVGODJUVVpSTUNjWWhXOVdwU1B0NFVNUlBsNmtmendTNl9PSHhxQTNWM0FJa1dENEpORGNKT0pteF9pOVNTdnpibDl4cUZDaVloSkJpNC1UdU1YTFUwQlB6U2lncXRnQTctd2xSa2M?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxQUHo4VUJIaWdNcWFOMVhEdWE5eEZhNmlKQTlOTHhtRWhXWmczYnJFYldMbi1MZFRCOVhHWXNXTWpaM0N3YWZqQXVkckctX253WmpQeDU5bnJUa0pEbUZWX0kxUDBSNkVUdG1JMEpnUzREY08zRG00RWozajNZc0NmdVZ6TlhPbU1Jb20wd3NQSUdDSzhwbU9tZ1JCRGVPM3lYLTlTRVhESTktNkJLN1hj?oc=5)
 
-Unitree推出约4370美元的人形机器人，在AliExpress开售。该价格显著低于行业同类产品，降低了消费级人形机器人入门门槛，推动行业价格竞争与市场普及。
-
----
-
-### Video Shows Humanoid Robot Chasing a Pack of Wild Boars - Futurism
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE5BYVJBVHBIVE0tYjUwZ1hkX3A3T1N3ZkRWaDBnLWtUd0pjX3dxMEJCa0pFNXh5WG11Tkl1c05fSE9DRVdPQ2x0ckNaNElLUF93Z1E1QjJhWk5JQS0wMlF3UXh6ckpSdnFxQmZPNEVvWEl1VzhsV2pNYjM5V1lTajA?oc=5)
-
-Unitree人形机器人户外追赶野猪测试视频曝光，展示机器人在农业/安保场景的应用潜力，推动行业应用场景多元化发展。
+中国Unitree创造10m/s人形机器人速度纪录，展示运动控制技术突破，但行业对其实际应用价值存在争议，凸显技术突破与商业落地之间的差距。
 
 ---
 
-### Unitree's H1 robot runs 10 meters per second - China Daily
+### Unitree H1 Humanoid Robot Sets Fresh Mark By Sprinting At 10 Meters Per Second - TechEBlog -
 
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9fNFhLNm02c0d5OVN1d3lJZzY4RDNETUZxWHlpXzVjd1N5TGx3WnNOTHBwSXNTZmhKU0QxWGVndm9rdlhiV3F2RFZlQkJQTWpzZThRVlBwWnBPU2JjRllRMFNRTkNWWU1HT0Q1UVdsRE1oOTdJYmFpZEJpVllYdw?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE8tN0x5ekgyTlBBQTVjMmt1dHVoTlRhME1PYWk4M3BLdHFoMXVuVUotMzM2b3o2WnR2V21OWGRQUzZ3Tml6MHFJWVExckljcHBXZEx4WXV4QjVpVzNNR2RxTkVGY05GRVB6TnJ2dkJOT05tNklkRDJCcHRfX3pHVmc?oc=5)
 
-Unitree H1机器人实现10米/秒奔跑速度，相当于36km/h，展示国产人形机器人运动控制技术重大突破，推动行业高速动态性能竞赛。
-
----
-
-### Humanoid Robot with Tyson's Body Awaits Hawking's Brain - 36 Kr
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1yN2VaWkJvOGZxYzF1WUktTFNnYWVHWXRPVERHaHR3NEFodVlXcm00N0UtSWJEWGR0RTBVYXoyOWZOYU1EQW0wZjQ0eDlsRGVfQzE4?oc=5)
-
-让我分析这条新闻：
-
-标题：Humanoid Robot with Tyson's Body Awaits Hawking's Brain - 36 Kr
-
-这个标题很有趣，提到"Tyson's Body"和"Hawking's Brain"。"Tyson"可能指的是迈克·泰森（Mike Tyson），"Hawking"可能指的是史蒂芬·霍金（Stephen Hawking）。
-
-但是，我需要仔细考虑。这似乎是关于Unitree Robotics的新闻。让我搜索一下相关信息。
-
-由于我没有实时搜索能力，我需要基于标题和摘要来分析。标题暗示某个具有泰森身体的类人机器人正在等待霍金的大脑。这个表述很奇怪，可能是：
-1. 某种比喻或象征性表达
-2. 可能是关于速度（泰森）和智慧（霍金）的隐喻
-3. 可能是一个创意营销标题
-
-关键信息应该是：Unitree Robotics推出了新的类人机器人，可能具有强大的物理能力（"Tyson's Body"）和等待更智能的AI系统（"Hawkin's Brain"
+Unitree H1人形机器人以10m/s速度跑步创下新纪录，展示了中国在双足机器人运动控制领域的突破，将推动行业加速发展。
 
 ---
 
-### Humanoid robot reaches 10 m/s in test, company says - news.cgtn.com
+### Humanoid Robot Chases Boars in Poland Demonstration - Let's Data Science
 
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqwFBVV95cUxOOUxWaUVaOUlrak9aUmtWQWxJaHJuMW83V0w4Q0RRUkRwdHJwUU8tZF9fQXhuWDBWdEp1c0RmWVppUzFxWlRla2pORjRzV0xQZk9HcWdSOWxSRWUyWUhLUGV6aEczcGY0dHhGS2N1bmpmcUgwNndaclpvbnhGcFJJdldMdmUzaWVDM1lobXlUclM1eFZ6RDF2NDJ0eGl0a25iXzhhX2V2LS1DMTA?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxOSTZVUGt4THBWZTBVd21FbTBma185U0xrTFA4d3FGcmNVRlV1Z1hhNFRyQnY3aXluTl9TeFNtTzZzN0NUdDNKNVZmRmxUQTd1TmxIWHVHcUpZRUVMYUJUbGR0S25VeGpwY2RpLVk5dTlORGFkOGNaNWlVMjFJMUlEeFVkS1lvcHE0c2xIdGFiQUNxZDlEUFgwSA?oc=5)
 
-人形机器人达到10 m/s的测试速度（约36 km/h），彰显运动控制技术突破，对行业性能和应用场景拓展具有重要意义。
+**关键信息：** Unitree人形机器人在波兰演示中用于驱赶野猪，展示机器人在农业场景的应用潜力。
 
----
-
-### China’s Humanoid Robot Output to Up 94% in 2026; Unitree and AgiBot to Hold Nearly 80% Share - I-Connect007
-
-**发布日期**: 2026-04-09
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi1AFBVV95cUxNdXdsSEF0ZkRpTVhYODN4T04xREpZeldpZzBobDR1cFFsaHRQS3VuQU5TODl1TTBuVzZNUVZrT19wTERvSXg2VjdTUDJBYVMxOUFvNG1jRE9XQWI5UXpYVVNOMXpBZi1XOEFRdi1DQ3Znb2o0ZGlLSUZBQ2szakZ5SDNmdWRzS05qVXRIeUl5OEV4TmN5TFl6alBHWUQ2RkJCcHN6dmlNRWc5MDl5RGFaY2RGck81UllxekdGN3BSVFdQcnlWWExQOFBMUDhWNjZ5OF9qVA?oc=5)
-
-预计2026年中国人形机器人产量将增长94%，Unitree与AgiBot合计将占据近80%市场份额，中国企业将在全球人形机器人市场占据主导地位。
+**行业意义：** 此次演示拓展了人形机器人在农业、安防等非工业场景的应用边界，为服务型人形机器人市场开拓提供新思路。
 
 ---
 
-### China’s Unitree sells cheapest humanoid robots online with R1 global launch - MSN
+### Unitree H1 robot runs fast, it may soon beat Usain Bolt - India Today
 
-**发布日期**: 2026-04-10
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiygFBVV95cUxOUENXWVc2aVFlMll0czdEek9DRmVyVnFyeDF4aWNfY3k0WWVDcXBQZjdkQUFVWnV1cEw0cDZkSllhZmQtaExfbXNBRFcxcF9nRlhMWThkSWlkWldVVkR4N1VnX09TSUd4a3ZsX0RFY3RjZENYLU9iZjlxTXpneERNa2tMVDNDWm9QRVJvbjZ4TUNBM0RZVWpYWnpCb3BSMmtvUzRsQ2tWSmlsbFp3SnhYN2JLN00yXzJYMnBIbWJaOUljMnpyTEI5dGZB?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMivgFBVV95cUxNVmotU3RWTUJoNTNpcjI3ZV9VdlV3RmR1TTY5RHVTTk9xdlJLYkowNWNRN21IMzR6OHRBdmdwdWY3QmYwcUNlRDJoREpLcjNHMHlQb2lUNEN5aU1VNTFFZGstLWV0QmJLLTRzdy01S1V0WWdLVWRwVUNWMWZubGRQUGFPNkNvZXY4LUw4S3EyS2dTRklSMWlxQVZtdzBtcENUeXFZRmdFMW9mTFdXVHpyN0tONzZfVGtvUzVIY0Rn0gHDAUFVX3lxTE1xOHVKV2ZFRG85VjNwOHIwSGgwcXY5X0otdjlGaUhBS1VDUHo1Y0hERzRYZjVPalNnNHFJcy1yV3VWek80WkZqdERXNE83YkFQOVdWR0xZVUc3eVZieFY2MjZjRmYtLWIzNUxRNV9CNklDd1RuSzB1NW94ZWhUT1lyRkVLSVhZRkdXZXRwZG1HcE5feDk5aVI0QlE4QjBRZk1pYU5Cc3VlSUdMbE5RQ25zWW5rS3dUbnllYkxvbGFMOGxJdw?oc=5)
 
-宇树科技发布全球最便宜的人形机器人R1，标志人形机器人进入消费级市场，可能引发行业价格竞争。
+Unitree H1机器人实现高速奔跑，速度接近或有望超越人类最快短跑运动员博尔特，展示双足机器人运动能力重大突破，推动人形机器人向实际
 
 ---
 
-### Chinese humanoid Unitree almost reaches Olympic record speed - Mezha
+### Poland street sees humanoid robot chasing boars in unusual AI showcase - Interesting Engineering
 
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5LdHR6TWI5NlVLVmtlR2NBVGtmUThQSnNQdkdzWlBXallwSG8yMTN5bmJGOFdIU05PYU9DNFAwWnJYSUNFR3l3cGpId3JqYUh1VGt2Tmw5THk2Z0swNWfSAWNBVV95cUxNMmd6UmVaVkNpaFhZNkZDVzNBWlloaVRYd25zdWY1UklqY0puNW9VV01QcWZURC15WFozS19OdU1hMUF6YzZSMGY0RVdkaTNWdFlqMnZDTk1kdVY1c3I0UUREQlk?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzl4YWxiMFRycjBLcTNtVE1mVGl2TU9tQlNza2VmbVlKRlFNdzdTaEd5NVZNYWtDbUZOU29jNVk3SkVFOS1aQ1VEWUtUc09PSnpVR0tDZEUtek9QYV83bWJIcWxwUkpscTV5TGgyOFQ4Y21oUHVUaFk5MDU0VHVfWFA0SzVMcUt0YllCeQ?oc=5)
 
-Unitree人形机器人速度接近奥运纪录，展示中国在该领域技术突破，推动行业性能竞争加速。
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOMzl4YWxiMFRycjBLcTNtVE1mVGl2TU9tQlNza2VmbVlKRlFNdzdTaEd5NVZNYWtDbUZOU29jNVk3SkVFOS1aQ1VEWUtUc09PSnpVR0tDZEUtek9QYV83bWJIcWxwUkpscTV5TGgyOF
+
+---
+
+### Humanoid robots show off their language and boxing skills in Hong Kong - VnExpress International
+
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxPR0lGV1NJbFNBNjVxeHpOOEloUlcyT1E2dTR3MXhoRUlqZ1ZrZmFVNjM5LTlDbHc5aEg0NzJ6YjhvaXFPQUphWk1GMVpFNU5Db05CYzdqZnNoSmpXbWc0bGdmU1MzWXVzUUczWWM3VTdTZGM4Y2d2amlHM010UVpubFk3emZLbzZ5WEJ4TDJGaXE0XzFIT3NvMjBXMnNKR21NamZtcDQ2UlRfSGt5VHJ0aUJjdV9jcldGUDRzT2lwY2tjRUxKWnc?oc=5)
+
+Unitree Robotics人形机器人在香港展示语言交互与拳击技能，体现国产机器人多模态AI能力提升，推动商业化应用场景拓展。
+
+---
+
+### Chinese Humanoid Robot Chases Wild Boars Out of Poland's Capital - Inbox.lv
+
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQbUI5emV0UF9CYl9ZUkhDMC1uRHpJWnI5SGNxb3B4dk11b1ViVWNZYnM5UFBaN1ZqUE5zbG9zMzF3NllpZmNjSU1RSDlVRFNWSngxelRRVGlfbTY1ZWFWVmxXaDY2RVF0djh2UWxpSjFOUHdEcUFIZWNkU1h6NWN3OFZmd0JvUXlrZ1Rmdkl4SDhJcmctVlhwbnctekFDX3lHLWQ5YTd6eFdOQQ?oc=5)
+
+中国Unitree Robotics的人形机器人在波兰华沙用于驱赶野猪，显示人形机器人在野生动物管理和城市服务领域的商业化应用潜力。
+
+---
+
+### Unitree Robotics' Humanoid Robot Runs 10 Meters per Second, Approaching Peak Human Level - AASTOCKS.com
+
+**发布日期**: 2026-04-12
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxQa25ReF83RVgtUVM3RjdnZmw2c1JTZ0RVUHJVaW8zQ19nTkpndEtKTTE0NjZ4Ql9TUW03VXRXRllKRHl1eGZaaGZweVhzZjBHVms5OWlNV181RUVNbERHVnZNbjh3SVFhbHhlRF85NUJwV0ItX2Rydm10SmNxUW9UZ1JDNA?oc=5)
+
+Unitree人形机器人实现10米/秒奔跑速度，接近人类短跑巅峰水平，标志中国双足机器人运动控制技术重大突破，为搜救、物流等高速应用场景
+
+---
+
+### A Robot Just Hit 10 m/s on a Track. Bolt’s Record May Not Last Much Longer - Indian Defence Review
+
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE5HQWotZzdqSjJlbWpaSWRGS05Mbk5HREQyT2F4ZFhfNGluSHpucjc5YkFPWWt4ei11SlZDckEwREdlb0hkRTZjNTVyQjRLSFZqRHh3Wmh2YjQ2a19rRmZOYnl1dTdUcU9xdmlCdTVBdUpacS1WTkE?oc=5)
+
+Unitree Robotics机器人实现10m/s高速奔跑，运动控制技术突破，人形机器人速度接近人类短跑冠军，为应急救援、物流等领域应用奠定基础。
 
 ---
 
 ## 优必选
 
-### 优必选(09880)股票股价_股价行情_讨论_资讯_财报_数据报告 - 雪球
+### 优必选人形机器人江苏总装基地项目落地盐南高新区 - js.chinanews.com.cn
 
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiP0FVX3lxTE12QXo2MzYxd3pCbXFJYS1TMFlzZmNHTVUxNElHLWpHNS1VMWhuSlMxSF9NbzhIQ094S2RPUzRFQQ?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiakFVX3lxTFBRNFZnUDVkZU9YT2d5YnUtN196LW1ZTVFoNlV5M2xqRXV6dE5LNXVRSFJNU0dDcDYyVDVYMlJGRWhVemFIeC1MM3pXQWNLN3RlSVFLRlZLMXByaGtJX3FDN0c2NWVLSUhWaEE?oc=5)
 
-该新闻仅指向雪球网站上优必选(09880)股票行情数据页面，未包含实质性行业资讯，对人形机器人行业分析无直接价值。
+优必选人形机器人江苏总装基地正式落地盐南高新区，标志着其全国产能布局进一步完善。此举将推动长三角地区人形机器人产业链发展，提升行业规模化制造能力。
 
 ---
 
-### 多款人形机器人亮相，粤企借香港创科展抢滩全球 - SOHU
+### “人形机器人第一股”加码盐城，优必选江苏总装智造基地落户盐南高新区 - 中国江苏网
+
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPaVBhdnktV0NmTXoyRWZfVlJ5WU9PNTJ2MzZPZ3ptYjlBMFM1NFdIeVMzUkRtc0ZkSXVXWGFQQ1FRdjdyVUMwV0xRQk85OXNOLUlLWjhqcXZiM0JVR281T0dTSHdoVlBjdzNQVG5GbGxwblhES1ZLU0Iwc2M2Z2ZhTC1jODVGT1cwZnJn?oc=5)
+
+优必选江苏总装智造基地落户盐城盐南高新区，加码长三角布局。此举强化人形机器人全产业链配套，推动行业规模化生产进程。
+
+---
+
+### 优必选首席品牌官谭旻： 2025是人形机器人“商业应用元年”而非“量产元年” - 新浪财经
 
 **发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPWEZfVFlaYUFYeVdCOHdrTDFXTERFZWdmRWtIblhiTDQ3cVpRc0xpZjBqckpJUzRaVjNadTVIUmptR1lsS1QyZWdkRDd3SF91R0xQSkhvdVBKQVg5VXIwZmtvWGo3LU9jazBjMTJRNVZvamxDYTNVVFRBY3Y2WVVRQW5waUNlaFpqZEhleg?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAVBVV95cUxONHpYZmdwWHVpZHd0ZC1aV2dGeHpjcm5qTUN3ajEzQWxubEc3ZFBETDNIWVMtMVJ3aWVHWjhyVU9MWkRFQWQtcVUwdGNjaTdXcDZYMmU3SWZ1Zko5VWZERjBnODA0ZjY1NlFqU1owSGE3VVFBRmI1T21DcGRuUXg4ZXNDeGVRLW1HQmd6R3Z5QUl5MXVRR1Y1Z3hJUUFxRklPd0hlWDQyTUZpdjZkdmVfdmVCUzFZWlJOLXIwRkRLbEk0b0k1U0N0V0UyUUN6UnpCNUhSRlF4TFV3dlNxcl9DOHJEalFUSEJyM2JrWnQwc2Eza2dEbEpUQ3ZxODRodFBRU3lNbXcyamlUcGxCajZZOTZmTF92U09mLW9McE82V2phSEFLOEIyN0ZvbDM1dm52NTBnMm9LOWwyNVE1YUFJUzdMTWpnMGZrWU5Wa21YUVo1WnBGWFFLbWltc0l2Yl9hNUdWOXZqUHZzMXNvZGZPbXBDNkFZeDJMTjJtanQ0ME9Xd2JmcERrbnhodHlqUGJWQmVOaWZiUEFsOFp0THQyWWNobk9pbWNERE52NFZ4QVFNR1RQWDVkemFDV3prcnBYOWpMSjRsOUd6c3d3RXFKUjRjZFJlUFNmaUhDRTlfd3NaRXBubl9obFRXeUNkOUEwa2NqN3dHUHZud0tpamdZVTB0aFlvNHNEZHBpdEhyeUJBV2wwWjFKcWxzY1FNbk5kYWRXUHFvQjNOVlhMTkpGcFF4YjVLeDdEZ3kxdDZ5N1k4VWdLYXdodXhBRThhak94R0lGZklHX2RoVlg3T1A2TGFhaDE1eGFPbHFJcl9Wa1ZOMU05blZwR1Zqd3VWWkVwUFcxSlZSNi1fRk5MZVdnV21XcUViOFZ3Vlc4VUR1S1dvX2U5U1Aydzk1NDA?oc=5)
 
-"标签
-4. 突出关键信息和对行业的意义
+2025年人形机器人将进入商业应用元年而非量产元年，标志着行业从技术研发转向实际场景落地应用，为产业发展提供新方向。
 
-让我来写这个摘要：
-</think>
+---
 
-优必选携多款人形机器人亮相香港创科展，借助国际平台加速全球化布局，彰显粤企在人形机器人领域的技术实力与市场野心。
+### 中国人形机器人，这次真的爆了！ - 新浪财经
+
+**发布日期**: 2026-04-13
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMjlSSUJTX2d4amtOc3plc2I5dGhvLU5XZk93NVp5Ukcxd2pwY190SVJyYXRoRk92TlhmRnhENE91VUlMSjNIUXRRaDRmdkpieDZMaF9lSkxjRG5PMDBpUjhUYklwRm5FMDM4WmI5a0k3OWZFdVR0bmVUcUk3cHdIb2hLWXZaQ1BGWkVVcGYxa0JZVHRlSFZURWRGOFgtWHM2V292Qi11bXlvcUUxTlFycVUxVEFrU3JPLUZuYlNXQmFScVRKQm9MRHNCR0dhTEFxZUY2dWpRUnVidnM1WUd0ME5WdzdLX0xQV3NjeGc3SnMxZ2tIc3JWTVlhWjRRSGFxUXBONGlSVEFrOGM?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiiwJBVV95cUxNMjlSSUJTX2d4amtOc3plc2I5dGhvLU5XZk93NVp5Ukcxd2pwY190SVJyYXRoRk92TlhmRnhENE91VUlMSjNIUXRRaDRmdkpieDZMaF9lSkxjRG5PMDBpUjhUYklwRm5FMDM4WmI5a0
+
+---
+
+### 「机器人+」年薪最高达1.24亿元！优必选面向全球招聘首席科学家，人形机器人价值兑现加速 - 新浪财经
+
+**发布日期**: 2026-04-12
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMinwJBVV95cUxPdlI3dU5rRkp5ZDNOU0hfT0psZFhtd2taeXBlN2dPVGlMbnYtU2tUc0w5SDhYVVkwMnZ3OGdCOUhjQno1T2VaV0d0bjFtbkZYMW5RRGtIcmNlRGIwWVI0aUFqZUNpSzgwYm9jS1NmaXVoanZRRnhldFpoMzk5RlczLTZqU1EwVTYyZHpDT3hPbmxqLWJPdENLZnBiMC1PNktlNjlVYUpvZDNsaVlkOGlNa2pPUExqbUZtSFQ0Y1o1Z2NiTndibF91NmRCSVFPTVdFYzZmcy1EOEowcWlybEllQktzdDh6V2p2cEZHdHVsQmVadDVhcjdqS0lrNDRpeF9kd3E0MThWYXVoNkpaNjZBWEpIbHlCRFdGSVJjN3YtNA?oc=5)
+
+优必选以最高1.24亿元年薪面向全球招聘首席科学家，加速“机器人+”战略布局，推动人形机器人技术价值加速
+
+---
+
+### 盐城盐南西伏河吸引知名人形机器人总装项目落户 - SOHU
+
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNQy1ONFpHbzFmcmlJMHJvZzZuM2dzTFFwbERtZGVIeEhYU2cwS1N2SEJQZThTbFdOakJWLWQyOW5UeTZFNEpHSDBWbHFwVTNpMXJ5UnNXUTc5MkZkenZ2ME9WMTNydThDazNSSV9rUU16NVVXQmd2d1B3ZXBWMjZKc05TUV81THB3QldMZA?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNQy1ONFpHbzFmcmlJMHJvZzZuM2dzTFFwbERtZGVIeEhYU2cwS1N2SEJQZThTbFdOakJWLWQyOW5UeTZFNEpHSDBWbHFwVTNpMXJ5UnNXUTc5MkZkenZ2ME9WMTNydThDazNSSV9rUU
+
+---
+
+### 优必选科技来锡考察 - 新浪财经
+
+**发布日期**: 2026-04-11
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxQRU1Td2VuRF9iSVBReVpiRWxSSWNreGJKM1pnZmJPSkotSDJidjFQM3owMll2a0Q0TE1vWEpCNWVzS01Wcm8wVzc3bTNUMVY1azNBeVAzbWNSeEdaVnQ0RkRSR3RMUnpodWZUNmo4VmZWekZ1LUhTVHJaMmhhVzVhc3NVTHQ?oc=5)
+
+优必选科技赴无锡考察，显示人形机器人龙头企业正积极拓展地方合作，可能推动区域机器人产业链发展及应用场景落地。
+
+---
+
+### 优必选2025年净亏损7.9亿元，“人形机器人第一股”的“纸面富贵”？ - SOHU
+
+**发布日期**: 2026-04-10
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjNKMEJnMzlFMDJ0TmF5cVhEOWc0RHZtYWJ4WGh6LTZzNXhHMXJId3M2b2FrZ3MtMl9aVzRNLWo1NG5NMUktalR4VE1LSXc5V0gxT1Z0TVVDaXFVd3N6NUVVVXYwOVNFTGZLSXBIVVN5TnFvU0NNLWhLZUxzcjQ3UmgxVjVnTm5NUkJMMw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjNKMEJnMzlFMDJ0TmF5cVhEOWc0RHZtYWJ4WGh6LTZzNXhHMXJId3M2b2FrZ3MtMl9aVzRNLWo1NG5NMUktalR4VE1LSXc5V0gxT1Z0TVVDaXFVd3N6NUVVVXYwOVNFTGZLSXBIVV
+
+---
+
+### 人形机器人卖出8亿，优必选还没走到赚钱那一步 - 蓝鲸财经
+
+**发布日期**: 2026-04-07
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTFBlOGdZRUJFbmhtaUIxTlpwTlI0Z2g1bzhPb1gteV9YU0Njam5EbC12a2hVaUVSMlByZFQxNVNLQUg1akI0ZGNaYmdxOHhwZjZwVXVLd1VGcUNZdjQ?oc=5)
+
+优必选人形机器人销售额达8亿元，但尚未实现盈利，反映出该行业虽具市场潜力，但商业化与盈利模式仍待突破。
 
 ---
 
 ## 小米机器人
 
-### 小米机器人专利获授权 可提升控制精度与灵活性 - 观点网
+### 荣耀机器人跑马拉松，小米机器人进工厂，手机厂商集体「造人」？|vivo|北京市|华为|消费级_手机新浪网 - 新浪财经
 
 **发布日期**: 2026-04-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBxUG1tT3QwTmJKbnozLWlKM1dWTWFjR3UzNHZ1ZDh2V3JfbHl6TDhHOFVEQ2NDTzRpMWxYWWEtRW1DTWJ6MERua0JZT3I3aHBiZ0pLenRJYUZfdFozNGF2NHZB?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi6AFBVV95cUxPeENXdHpzM1ZkRmtKMkdUWmFvNEppc3RCdmdvOEY2Uy1YOGtUOEp3ZldISVdob1BBSWZYUzRhMFBlVDJiZWhEUEoxYktSMHpWYkJRVlIyaFVDNHBONW1vNjZWYkU3b3hwbl96TE5ZTThoXzJIaUdFMDhNQ3dEdURHUXBnYmJ1djFDLTVDVXZiU2ppWUczV1NuekhSOTFhcGRWckFJWjJ6ZDBIQzFGWWdvNDFNOHRiZ1l4U2lSY3RJbGF5R2Z1SmdlMF95MFdDTWRzRXhSbDJCS3VJYlptcUpsM3BDd2pQN0ho?oc=5)
 
-小米机器人新专利获授权，该技术可提升控制精度与灵活性。这体现了小米在人形机器人核心技术上的突破，进一步加剧行业竞争，推动技术迭代加速。
+手机厂商小米、荣耀等加速布局人形机器人，应用场景从工厂向公共活动延伸，标志着消费电子企业全面进军人形机器人赛道。
 
 ---
 
-### 荣耀机器人出征半马，小米“铁大”进工厂，「造人」成手机厂商头等大事？ - 雷科技
+### 小米机器人专利获授权 可提升控制精度与灵活性 - Moomoo
 
-**发布日期**: 2026-04-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1aU1hoMGhVTDlGNmE3NFRxZEN1SE5xYlhmRkVMOVJIZ0k3YzFVTVNXMHVhX1VpcTA4a05nNzdaYzNwYW9DTTJHb2ZxRkpydw?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWkFVX3lxTE05RVZBZEhjaWtDVmlSejFmMTc1c1k2dmdhdkFzRS1ZRmV4OWtFTXhybHJXUEpxM3RpVFdtaGhZNVQ4YnY3UXhiXzJMeUI1LXVLeXdzTlpZRWswdw?oc=5)
 
-手机厂商加码人形机器人：荣耀机器人挑战半马，小米“铁大”进工厂实训，显示手机厂商正加速布局人形机器人商业化落地，行业竞争加剧。
+小米获得机器人控制精度与灵活性提升专利，对人形机器人行业而言，意味着国产机器人核心技术取得突破，有望加速产品商业化落地。
+
+---
+
+### #雷军公布小米机器人新进展目前已能丝滑地完成拧螺丝、捏羽毛、抛接球工作 - 东方财富
+
+**发布日期**: 2026-04-13
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTkyOWVjMS1ORE1ZTHNuOUhFWmpTQXlUZE9iV1FLdWVQY1AzWXVTQzlNQWJ0MnlIQWprOHpQWXJaNXdrMk91Nnk4bFZOb09fTEd0T0xIN1lMeTIydmpTN1ViZEJuMnBVbmtVNzhhLVBwNVZiMmJFeW5mM3FXZDNrY1FFZ0ZhaFBKNUUtVWQ5NzVEUXh2MFRIQUlSOTFsd0UwT0ZBc0hmSS1CemVjN3I2bUVUUQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiswFBVV95cUxOMTkyOWVjMS1ORE1ZTHNuOUhFWmpTQXlUZE9iV1FLdWVQY1AzWXVTQzlNQWJ0MnlIQWprOHpQWXJaNXdrMk91Nnk4bFZOb09fTEd0T0xIN1lMeTIydmpTN1ViZEJuMnBVbmtVNzhhLV
+
+---
+
+### 小米米家扫拖机器人6发售，2699元起 - SOHU
+
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQYi1LSEtnZDUtNmctOG0xQTh2MUFmOWtjVnZSWlpkMWZfalZkLWhDN09iSXgwWFp4VUJPdEdITDgtQ25KYnl5enRhS3VPbTRIeXJicUdqS3ZNVUI1dlR3UHphdDBwd0s5QzUwLTQ0NWt2dUs4NUU3TjJXenFjSUp4TEFab0RIeUVF?oc=5)
+
+小米发布米家扫拖机器人6，售价2699元起，进一步丰富智能家居产品线，虽非人形机器人，但展现了服务机器人市场的激烈竞争与技术迭代。
+
+---
+
+### 小米机器人团队招聘启动_新浪新闻 - 手机新浪网
+
+**发布日期**: 2026-04-09
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1TZk9GVldqVUJvenQyeU5hTHBzdF91TXh1a2c1eUJNUVN0QWIycEstT3N4QXNzX285Qk9MZEhFQjVRSjFJbTczVkplalpOMFZqQ3d1d0Z3WjZOa1JvMThuTngyTQ?oc=5)
+
+小米启动机器人团队招聘，正式进军人形机器人领域。此举将加剧行业竞争，加速国内机器人产业链技术迭代与商业化进程。
+
+---
+
+### 宇树机器人跑出10m/s刷新世界纪录；小米手机正式调价 - SOHU
+
+**发布日期**: 2026-04-11
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORXJ0c3BZMGhrd0lZak5MR2RJOFNZSFUzSXE5RzZhd2tmMDZpWEd2d0JFN1JpNTRzYllxNWE1TThVWDJCQXIyUVk4TVcwTmF6WW5MVW1WcVBVTGlYUGhEX1h0Y3BwS1h0RG1jWS1yb1NmVjlONkxhZ1VQTFRPLVZ3Z0tBeEZnNXA3?oc=5)
+
+宇树机器人跑步速度达10m/s刷新世界纪录，展现国产双足机器人运动控制技术突破，推动行业性能标杆提升。
 
 ---
 
 ## Sunday Robotics
 
-### Shenzhen launches first humanoid robot production line - chinadailyasia.com
+### Robot race set for Boston's Seaport on Sunday ahead of marathon - MassLive
 
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBTSldMRlU4ZXk1cjJkdXlDdk5CdWVrMnZNRVNTVUFrM2haS1hWTXRsTGVzVnIzMUg5dHdOV0NsdkRpNGxNekllVU1mWlZ4T2tEbG9hTXpaemk?oc=5)
+**发布日期**: 2026-04-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQWVVadDFXUzU2Tmszc2RJTnVIS1EwZzBTQmE3Rmpvb0ZFaXdOaC1NanB2ZEdFUnNoczU4dUQ2SzVXTHJWNGZiT0FCcFBkdGJadDFuX3FoNExSUEZsb1NaS0hLdFdraXFhNG1VelNDNzBCMWZ1Xy14VlNBZmNkMXFOdVRKb2NtYWtFNVA1amlEdzNTNnlIZjVpYTJRR1k?oc=5)
 
-深圳启动首条人形机器人生产线，标志中国实现规模化自主制造，打破日韩技术垄断，推动全球人形机器人产业加速发展。
-
----
-
-### Unitree's H1 robot runs 10 meters per second - China Daily
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE9fNFhLNm02c0d5OVN1d3lJZzY4RDNETUZxWHlpXzVjd1N5TGx3WnNOTHBwSXNTZmhKU0QxWGVndm9rdlhiV3F2RFZlQkJQTWpzZThRVlBwWnBPU2JjRllRMFNRTkNWWU1HT0Q1UVdsRE1oOTdJYmFpZEJpVllYdw?oc=5)
-
-Unitree H1机器人实现10米/秒奔跑速度，创人形机器人新纪录，标志着国产机器人运动控制技术重大突破，对物流、巡检等商业应用具有重要意义。
-
----
-
-## Industry News
-
-### Video Friday: This Floor Lamp Will Do Your Chores
-
-**发布日期**: 2026-04-10
-**链接**: [查看原文](https://spectrum.ieee.org/video-friday-robot-lamp)
-
-
-
----
-
-### You Can Soon Buy a $4,370 Humanoid Robot on AliExpress
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.wired.com/story/unitree-r1-humanoid-robot-for-sale-on-aliexpress/)
-
-Unitree R1人形机器人即将以约4370美元在AliExpress公开发售，价格创行业新低。此举标志着人形机器人加速进入大众消费市场，行业商业化进程
-
----
-
-### AGIBOT launches Genie Studio Agent zero-code application platform for robots
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.therobotreport.com/agibot-launches-genie-studio-agent-zero-code-application-platform-for-robots/)
-
-AGIBot推出Genie Studio Agent零代码应用平台，降低机器人开发门槛，推动人形机器人应用快速落地。
-
----
-
-### Pickle Robot to share lessons learned from taking robots out of the lab and into the field
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.therobotreport.com/pickle-robot-to-share-lessons-learned-from-taking-robots-out-of-the-lab-and-into-the-field/)
-
-标签
-4. 突出关键信息和对行业的意义
-
-让我分析这条新闻：
-- 标题是关于Pickle Robot分享将机器人从实验室带到实际应用的经验教训
-- 这是一个机器人公司分享实际部署经验的新闻
-- 对于人形机器人行业的意义在于：从实验室到实际应用的转化经验很重要
-
-我需要写出简洁的摘要。
-
-
-Pickle Robot分享机器人从实验室实际部署的经验教训，揭示了机器人技术在真实场景中面临的挑战与解决方案，对人形机器人行业从实验室走向规模化应用具有重要借鉴意义。
-
----
-
-### Transitive Robotics announces Transitive 2.0 open-source robotics framework
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.therobotreport.com/transitive-robotics-announces-transitive-2-0-open-source-robotics-framework/)
-
-Transitive Robotics发布Transitive 2.0开源机器人框架，为开发者提供标准化工具，有望加速人形机器人软件生态的开放与创新。
-
----
-
-### Locus Robotics launches Locus Array for fully autonomous fulfillment
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)
-
-用户要求我分析一条关于Locus Robotics的新闻，需要用1-2句话、50字以内总结关键信息和对人形机器人行业的意义。
-
-让我分析这条新闻：
-- Locus Robotics推出了Locus Array
-- 这是一个完全自主的履行系统
-- 这是物流/仓储机器人领域的创新
-
-关键信息：Locus Robotics推出Locus Array，实现完全自主履行，对仓储物流自动化意义重大。
-
-让我思考对人形机器人行业的意义：
-- 虽然Locus Robotics主要是做仓储机器人（AMR），不是人形机器人
-- 但这体现了自动化技术在物流领域的进步
-- 可以间接推动整个机器人行业的发展
-
-现在写总结，控制在50字以内：
-
-"Locus Robotics推出Locus Array，实现完全自主履行，提升仓储自动化水平，推动物流机器人技术创新。"
-
-数一下：约36字，符合要求。
-
-或者更简洁一点：
-"Locus Robotics发布Locus Array，实现全自动化履行系统，提升仓储物流效率，推动机器人行业在物流领域的技术进步。"
-
-约43字，也符合
-
----
-
-### AGIBOT launches Genie Studio Agent zero-code application platform for robots
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.therobotreport.com/agibot-launches-genie-studio-agent-zero-code-application-platform-for-robots/)
-
-AGIBOT推出Genie Studio零代码平台，降低人形机器人应用开发门槛，加速行业普及。
-
----
-
-### Pickle Robot to share lessons learned from taking robots out of the lab and into the field
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.therobotreport.com/pickle-robot-to-share-lessons-learned-from-taking-robots-out-of-the-lab-and-into-the-field/)
-
-Pickle Robot将分享机器人从实验室到实际应用的经验教训
-
----
-
-### Transitive Robotics announces Transitive 2.0 open-source robotics framework
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.therobotreport.com/transitive-robotics-announces-transitive-2-0-open-source-robotics-framework/)
-
-Transitive Robotics发布Transitive 2.0开源机器人框架，为人形机器人
-
----
-
-### Locus Robotics launches Locus Array for fully autonomous fulfillment
-
-**发布日期**: 2026-04-13
-**链接**: [查看原文](https://www.therobotreport.com/locus-robotics-launches-locus-array-for-fully-autonomous-fulfillment/)
-
-Locus Robotics发布Locus Array系统，实现仓库完全自主履约。此举扩展了自主移动机器人在物流领域的应用，虽然非人形机器人，但反映了机器人技术在自动化仓储领域的持续创新。
+波士顿Seaport将于马拉松赛事前的周日举办机器人竞赛，推动人形机器人技术向公众展示，促进行业认知与发展。
 
 ---
 
