@@ -1,56 +1,56 @@
 {
   "papers": [
     {
+      "title": "Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions",
+      "summary": "该论文提出了一种基于视觉的类人机器人运动模仿框架，通过在模仿命令层引入控制屏障函数(CBF)作为二次规划(QP)约束，实时过滤动作指令以避免自我碰撞和人机碰撞。",
+      "date": "2026-04-13",
+      "link": "http://arxiv.org/abs/2604.11447v1"
+    },
+    {
+      "title": "CLAW: Composable Language-Annotated Whole-body Motion Generation",
+      "summary": "CLAW是一个交互式网页pipeline，通过可组合的运动模式构建块和双接口设计，为Unitree G1人形机器人生成语言标注的全身运动数据，并利用MuJoCo物理模拟确保运动可行性。",
+      "date": "2026-04-13",
+      "link": "http://arxiv.org/abs/2604.11251v1"
+    },
+    {
       "title": "Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch",
-      "summary": "提出利用本体感知提供的手部几何信息和多触点触觉信号来约束被遮挡物体的表面位置，结合流匹配扩散模型和物理优化目标，实现严重遮挡下的度量尺度物体三维重建。",
+      "summary": "论文提出利用本体感知（proprioception）和多接触触觉信息辅助3D重建，在严重手部遮挡下实现度量尺度的模态物体重建和姿态估计，显著优于纯视觉方法。",
       "date": "2026-04-10",
       "link": "http://arxiv.org/abs/2604.09100v1"
-    },
-    {
-      "title": "Sumo: Dynamic and Generalizable Whole-Body Loco-Manipulation",
-      "summary": "提出一种基于预训练策略与采样规划器相结合的仿人机器人动态全身 loco-manipulation 方法，通过测试时成本函数调整实现对不同重物和大尺寸物体的泛化抓取与搬运。",
-      "date": "2026-04-09",
-      "link": "http://arxiv.org/abs/2604.08508v1"
-    },
-    {
-      "title": "HEX: Humanoid-Aligned Experts for Cross-Embodiment Whole-Body Manipulation",
-      "summary": "### 现状痛点",
-      "date": "2026-04-09",
-      "link": "http://arxiv.org/abs/2604.07993v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla Signs New Fremont R&D Lease Ahead Of Optimus Robot Pivot - Bisnow",
-      "summary": "特斯拉签署弗里蒙特新研发租约，为Optimus机器人项目扩张做准备。此举表明特斯拉持续加大人形机器人投入，有望加速行业商业化进程。",
+      "title": "Elon Musk's Tesla robot needs help walking. He says Tesla needs help improving it. - Mashable",
+      "summary": "特斯拉Optimus机器人行走能力仍需改进，凸显人形机器人运动控制技术挑战，对行业而言意味着平衡与行走技术仍是核心难点。",
+      "date": "2026-04-11",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE95TVBwanVZWWI5UEFBNDE3aVktY1hUWHBrODBZTi1jNzF4SnYwRS1OblVTdFZDeEVtUUNRZDRWWXZGNWFpTFMyY2FIRVNiWTVoeU14ekFTOTViQURBczBYS0NfaWJGYXpYdHgw?oc=5"
+    },
+    {
+      "title": "Tesla Unveils Plans for Optimus Humanoid Robots and FSD Controversy - National Today",
+      "summary": "Tesla宣布推出Optimus人形机器人计划，正式进军仿人机器人领域，结合FSD技术布局家庭服务应用，将加速人形机器人行业发展与商业化进程。",
+      "date": "2026-04-11",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMEhWRkxOSFBIcDY5WE5FMzRtVGVRZDVYWXlxMFpkTkVNQ2tacjlyWnRkLXFBYXFteEhac1NXenlXamo3VW5KVXoxOTNnTVZWSzNRdkVpRTY0VkpoNE5qZ1VueUNMWUNIeENFR0w5WVhPa003c0toUkgxOEV1VU9MNUNWQnFzWVVxNWZjc1BBS3VFTTBoVFJ3NVhadDU3cndfOV82eHg3cFNxZnZLZ2I3ZTZFLVJObE83VXJuTVdFanY4QUJrdWhB?oc=5"
+    },
+    {
+      "title": "Musk Has Been Running Tesla Blind - planetearthandbeyond.co",
+      "summary": "这条新闻暗示马斯克对特斯拉的运营可能存在盲目或缺乏清晰方向的问题。对人形机器人行业而言，这意味着特斯拉在机器人领域的战略执行可能缺乏透明度，行业竞争格局仍存不确定性。",
+      "date": "2026-04-12",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9ncWU0U2s0c1FVaGNDOWUzRUZPWXg3dnB4d0pTTkI4TWRjLVlIdEhSRmVrZW04Q0hfUjZvTFBNUUNiNU5Tc0Z6Y05GVld4d1dUNGdhc2xBUHRJV0Q2ZVk1ZUFiWlk4bExhWXpRVHhDSTdzRE1uYzVEUzBSaw?oc=5"
+    },
+    {
+      "title": "Tesla Shifts Focus from Model S and X to Optimus Robots - National Today",
+      "summary": "Tesla将战略重心从Model S/X电动车转向Optimus人形机器人，显示其加速布局机器人业务的决心。这将推动人形机器人行业竞争加速，也预示着自动驾驶技术向通用机器人领域的延伸应用。",
+      "date": "2026-04-11",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNaWpIbzBhbktlY0RHSFRzWmxTU25CNHZfbVJORGFUZmxWQTR2eVZJMTB0T1lrQ0o3aXk5TnJidi15TkZnbVcybDVaNV9wZ0FFdWcyaHprQWNtR0VqMVdYaHVLLTU5LS1wTzA2QjZqeGlOekhHdHNzYVowSHREdHpMcldmZThQamNDakY1elE2cWFTaEdVUTFEX2NjRW9DcGhfa05FMV9qLTRHRHotelRZdE93?oc=5"
+    },
+    {
+      "title": "With Elon Musk and Tesla, Synergy Creates an Edge - TheStreet Pro",
+      "summary": "该新闻分析了特斯拉与埃隆·马斯克如何通过",
       "date": "2026-04-08",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZXNBeWJXVjhBdDBwYmN2cXdHblFxbFcyRGRvLVJQZFllSVZDb3QwOE10NnFyRWRKZ3g4VnVfbTFKanRhVTZYOHYzMDZ2SUg3NUkwbWptYVIteWluSXRSOFRYNEZ2Tnh3WUJ6eUVjWm1tRmpscDBkaHF6QmZvNHA4NTlic2dvTWJBcFJfdHhCRXlMSE1DcHN3X3QtcnNIWW82X1hXRUxIT3ZveXVQcUE?oc=5"
-    },
-    {
-      "title": "Kia to Introduce Atlas Robots in US Factories as Part of $36B Investment Plan - Thomasnet",
-      "summary": "Kia将在美国工厂部署Boston Dynamics Atlas机器人，作为360亿美元投资计划的一部分。这标志着人形机器人在汽车制造领域进入实际应用阶段，可能加速行业规模化部署。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWlBpdFowRHIxbEJtaVl5MVBYemJiQmlvNkY2WXQ0ek9BVUFTamFOT01IeDNKcFg3N01IQnJPdFFtVnRwZkRFczVrMzk4RFAwRXhaRU1aUlNoLVZfbmxqTGpNaFBEVjUtVUpXNm9SZjhCeTZrUkZZX2JzQ0dVSjkwcUxxSQ?oc=5"
-    },
-    {
-      "title": "Kia is automating factories with humanoids: Atlas robots will begin operating in the US. - hi-Tech.ua",
-      "summary": "起亚宣布采用Boston Dynamics的Atlas机器人用于美国工厂自动化，标志着人形机器人在工业制造领域的商业化应用加速，对行业具有里程碑意义。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPalZxRUtZR0g4akxrZjNXY0ZJRVRKb3VzamdNeDViOGFwcWgteTVLM01XQ29IM2RsX2R6c1Zod1pCZGxrSUN2TTk4bE1Wc1ZmV19KaHNWR0JrNTRXYkhXOUtCanlBM1Y0RS1PSnBvS2JkaDNqWXZQc2FwbVdJUFFrNGJFVWN6bW9rUWpEcFFuQnRwMUxuckF6RUE3VEdPQlNBNW9va3JYTjROOHp3MHc?oc=5"
-    },
-    {
-      "title": "Hyundai Motor Group reaffirms plan to deploy humanoid robots to U.S. plants by 2028 - starnewskorea.com",
-      "summary": "现代汽车集团重申2028年前在美工厂部署人形机器人计划，显示汽车制造业加速引入人形机器人，预示行业商业化应用进一步扩展。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZHBnM0VKbElUM1QyeDBJQnk3aUgtcjRURzZSRXRFNVdlWEtGREIxMnQ2OUFKVGxmMVk1ejNyQ1JWYWVYWnVSdmVDX3FWb1g1dzhEaVBxRnZySlZsdUtUaDZvemlzT3cyT2JqWldoYWlMR0ZXeUE0cVEzN0ZuQUJld3Zpaw?oc=5"
-    },
-    {
-      "title": "Chung Eui-sun backs robotics, AI and $26B US push to drive Hyundai growth - CHOSUNBIZ - Chosunbiz",
-      "summary": "现代集团郑义宣宣布260亿美元投资美国市场，重点发展机器人和AI，反映汽车巨头加速布局人形机器人领域，为Boston Dynamics等企业带来更多资源和商业化机遇。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOQ055Y21nak84bjF3TzdDVlFzd2Z1Q3JJUElSQzU3bnhtWmkwZl9seGJ3MC1wNUhYbHFiNkdOMHFObGRJSWVRa01Qb2VwYzNrTE1scTEwRXRLYm9DbFlZY2p4R2hRZy1TN3JxNWs0VkkyY3N6WlFWSkZoaV9MemVNVmVn0gGWAUFVX3lxTE9PZnB0TkdVTGVGdUxZdFFCVDd4cU5LWEd3dGZ6Tm9ZQzJTeERxa3ZuR2dMU0ljcXUyX2xSZk54TEdKWW1tNjVOVlFkM1VlMndhQnJ5dGxtZTNBU3VsYnc0WU1OamFPeDJ0R003Zy03Q0pQcG4zRmxHaHdKSVczMUxjVnlXQkRudmEyQjNHV05ERXhuQ3lpUQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQejU5TGlrYXJTT2lFVnQ2VkE3aVJoeGk1ZDlvQ1hPNVlSS0JqTkFvMW00bFNvcU9ydHlzSzJmU3J3MThYWGZJS1pwVDNRS2pERmROc3AwcC1kcmZBY0U3dENjMlItc3JDRUhBMFFfRUljVmEyYWViX3JEQ2drY2NLUTAzbU1PYmhCWENRbTFMdHNKaWZ3aTNB?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-13T13:57:24.360733"
+  "updated_at": "2026-04-14T02:44:56.228445"
 }
