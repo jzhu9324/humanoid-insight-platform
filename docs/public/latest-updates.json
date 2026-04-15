@@ -1,56 +1,68 @@
 {
   "papers": [
     {
-      "title": "Safe Human-to-Humanoid Motion Imitation Using Control Barrier Functions",
-      "summary": "该论文提出了一种基于视觉的类人机器人运动模仿框架，通过在模仿命令层引入控制屏障函数(CBF)作为二次规划(QP)约束，实时过滤动作指令以避免自我碰撞和人机碰撞。",
-      "date": "2026-04-13",
-      "link": "http://arxiv.org/abs/2604.11447v1"
+      "title": "Learning Versatile Humanoid Manipulation with Touch Dreaming",
+      "summary": "本文提出HTD模型，通过在行为克隆中引入触觉梦预测未来手部力和触觉潜在表示，实现接触感知的多模态Transformer，在五个接触丰富任务上比最强基线提升90.9%成功率。",
+      "date": "2026-04-14",
+      "link": "http://arxiv.org/abs/2604.13015v1"
     },
     {
-      "title": "CLAW: Composable Language-Annotated Whole-body Motion Generation",
-      "summary": "CLAW是一个交互式网页pipeline，通过可组合的运动模式构建块和双接口设计，为Unitree G1人形机器人生成语言标注的全身运动数据，并利用MuJoCo物理模拟确保运动可行性。",
-      "date": "2026-04-13",
-      "link": "http://arxiv.org/abs/2604.11251v1"
+      "title": "Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots",
+      "summary": "### 现状痛点",
+      "date": "2026-04-14",
+      "link": "http://arxiv.org/abs/2604.12909v1"
     },
     {
-      "title": "Physically Grounded 3D Generative Reconstruction under Hand Occlusion using Proprioception and Multi-Contact Touch",
-      "summary": "论文提出利用本体感知（proprioception）和多接触触觉信息辅助3D重建，在严重手部遮挡下实现度量尺度的模态物体重建和姿态估计，显著优于纯视觉方法。",
-      "date": "2026-04-10",
-      "link": "http://arxiv.org/abs/2604.09100v1"
+      "title": "FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping with Mobile Manipulators",
+      "summary": "FastGrasp提出一种基于学习的两阶段强化学习框架，通过条件变分自编码器生成抓取候选，结合移动基座、手臂和手的协调控制，并利用触觉反馈实现高速运动下的稳定抓取和实时调整。",
+      "date": "2026-04-14",
+      "link": "http://arxiv.org/abs/2604.12879v1"
+    },
+    {
+      "title": "Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers",
+      "summary": "### 现状痛点",
+      "date": "2026-04-14",
+      "link": "http://arxiv.org/abs/2604.12509v1"
+    },
+    {
+      "title": "Asymptotically Stable Gait Generation and Instantaneous Walkability Determination for Planar Almost Linear Biped with Knees",
+      "summary": "论文针对带膝盖的平面双足机器人，通过对重力项进行泰勒展开线性近似，实现无需数值积分的瞬时步态生成和步行性判定。",
+      "date": "2026-04-14",
+      "link": "http://arxiv.org/abs/2604.12274v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla leader believes Shanghai factory operations will play a role in robot mass production - abcnews.com",
-      "summary": "Tesla领导人称上海工厂将参与人形机器人Optimus的批量生产，显示特斯拉正在利用中国供应链优势加速机器人量产进程。",
+      "title": "Tesla Exec Hints at Optimus Humanoid Production in China - eletric-vehicles.com",
+      "summary": "特斯拉高管暗示Optimus人形机器人将在中国生产，此举将加速全球人形机器人产业链向中国集聚，提升中国在全球人形机器人制造领域的核心地位。",
       "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa193dnZzR3JGdXVZMDJ4VVFqalJQZnZnU180N0lvTlNzQ3Y5Q19vS1FuVlI2NHV6QmJzYU4xekp4SVYtZGR1LXRhS0k0UDZOZXdxdllZckVmOG9ST3lEWWFLeHZ5SzFyWEZteXMtX2pyTjBkNi1EZ3JLWVF3TVA4U2t0VXJ3dWhtZWU0dXhhYmtKT3dqWUJuRVE1TzdsV3NWbmFBY2wxc190VW41V0lKMEJFRdIBuAFBVV95cUxNZ2xiUF94ZFEwRWpRQjRUanhFVU55NnBvZ1Y1S2hXZjU3TW9CVzB1bkVqeHdnUF9XTkRZWGVYMVdaMFF6VGhvX24yTmdhWS1pNUdFS093eC1Yd0tGTkg3S1V2UjJxM0RJMHpTWDB3S3lyU1lKZkpsX2pGM1RoX3psb1UzaUl0MDRBbnItNVoxZ09IcUdxMVFId0RqQndEQmI3WUVTdlhKLVZrc09GYU5oblcxUXlYNlFW?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWJiV283NmJEZlZOMHpwV1RaNk9tYzFRRDVHNlJuTzJSSjlIWDRHZ2JxSndGT3ZieFRYNGtiVTB3QlRyZ05xRGU4T0tUSGVuYklXYjRzaTJnRUx1SlplUjI3Rk5iVnIwSFZMbS1SQW1QdTFJdVYyS3pkV3hnalBiOFRRQjJpdmtFWTNId0NHbXRrbjJvdWNr?oc=5"
     },
     {
-      "title": "Elon Musk’s Tesla Exec: Shanghai Factory Is the Key to Unlocking Robot Mass Production - 24/7 Wall St.",
-      "summary": "Tesla高管称上海工厂是实现人形机器人Optimus大规模生产的关键，凸显中国供应链和制造能力在全球机器人量产中的重要地位。",
+      "title": "Has Tesla Found a Solution for Producing Its Optimus Robot at Scale? - TipRanks",
+      "summary": "Tesla可能已找到Optimus机器人规模化生产解决方案，若实现将加速人形机器人商业化进程。",
       "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPUmt1TGNsLTZLMUk4RllkaVpxNG1FSlotRk1GdzA2WWxtRXltY29SQklzR2pZcG9kbjVWNDE4TVBNRUdfNXMyNWVZSjJYUXFpcUdmcHFwMmlUc1Vrbmh3T1ZCTkR4bXRjWnpLQkQtYjlVMUZaUUlLRmtvTktzZTdWVlhUOXZ3dl9GQ21RZGticVYzVWVIRTlSM3JKSnczS2hJNXU0c21aU1dlV3RpbzRXaVlPNGVCY1FVamx2ZjFOMnFOcjJ1YVFj?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQW1xd1FvXzhvOFcxUXBscGpReExsbHBSajlsQ1d6bWVHa0Jhc1c5SHhSQzhfSXM5dGJjcnZiLWlZQXQ3aUd2NjdnUFQ4aGFfNXFvT29WZHV3QkUwU3JnUzRjQ0ItLUNoRlpobHFfUW1lVWg2Z1pBU0JSRFNaLUNldVN5bTFhWWNEcFRLNUhRVFRsVGQwTVRYTWZhTzNiZw?oc=5"
     },
     {
-      "title": "Musk Has Been Running Tesla Blind - Medium",
-      "summary": "特斯拉公司治理存在问题，马斯克的经营决策可能影响其人形机器人项目Optimus的推进，对行业竞争格局产生不确定性。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtTjNuOWhJZGxuMG43Z3dEYllmOXpjMkEtUVVLWDU2MVpFblh6VnNRckV1WjJrSUlUbEd0VFB3T1N0SkpCenpuQnlaaG5MbkRJTnF5T3BKbHhZN2NzMHR0enFqeWliNWZxeGFnRF9LZ1B2QTctYk5WV200QUl3d3c?oc=5"
-    },
-    {
-      "title": "Tesla executive thinks the Shanghai plant will contribute to large-scale robot manufacturing - Bitget",
-      "summary": "特斯拉高管表示上海工厂将用于大规模机器人制造，此举将加速人形机器人行业的商业化进程。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9Ja2Y5NkhhNlBOUkJwSzdOM3dlS0dMTHBIMDBiTnVST2lza0tzajJIMXB4MW9YeVJMaVozMXhKYTltTXpaMzRzRE4teGEzV0xqdHhCckZHbmJkbGVYSWfSAWNBVV95cUxPSU9qOExDRUlWbkpCSnBadmd3bl9ad1lvWlNFLWU2UWN5RUNNMldjVHVCVFpvc0FvTUFfbGZIMUN3TEJrZncwWFdPNWRXS281bUN6NmVCcVpfbXRwY21WdUg4eGc?oc=5"
-    },
-    {
-      "title": "Hyundai Expands US Investment, Scales Robotics and AI - Let's Data Science",
-      "summary": "现代扩大在美投资，重点布局机器人和AI领域，此举将加速Boston Dynamics人形机器人技术的研发与商业化进程，推动行业快速发展。",
+      "title": "Tesla eyes Gigafactory Shanghai for humanoid robot production (TSLA:NASDAQ) - Seeking Alpha",
+      "summary": "Tesla计划在上海Gigafactory生产人形机器人Optimus，此举将加速其人形机器人商业化进程，并可能推动全球人形机器人产业链向中国转移。",
       "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNLVZkUDQxRjFVYzhGMFZFMFdmNFVVdUNXMFFxRS1DZlVsN3M0T0tmMmk2bFQySWF0WGlIX1NWSUY3aHpqMThpRDNlNkFEbGExZ0dOSHg4bTdHbDNPR21lYWIyaHhfTWM3N3lQeEo0MTAwNlgxMEREY3lycUdWSkFWcGtETUxhUU9lTTdBWjdvdHNpYWpIX0pHbk13?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOXQwZHJPQ0toMk4yTkZvb1dScThFSXl1LXA4ckxac3lkZVRMV3Myc1Z3NldpTm5rNDJ6MnNCV0Jta0ZQa1BhQnRHSVVDOV9SUE9fTjhRUDdxRzZMLWw5NmRhWFZPV2FWS0k5UEhlVktfX2JsdjFacGdSdXBwdGxNd3MxNDlCYTd5YXZNVGpYV2dVb3E4bG1DbG0ySGVoYXdx?oc=5"
+    },
+    {
+      "title": "UBS Upgrades Tesla Stock, But Sees No 'Meaningful Scaling' Of Robotaxis - Investor's Business Daily",
+      "summary": "UBS升级特斯拉股票，但认为Robotaxi短期难以规模化，这表明自动驾驶人形机器人技术商业化仍面临挑战，行业需更长时间实现盈利预期。",
+      "date": "2026-04-14",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPakJtVjdRM1VYeDFMeERCVnFSTVBMczlBUUdEWUVONUVWWG1saDBZTjZGUnc0N000dUw1ZzB1a0ZyeEZXQW8xZ3JFNzZ4aUw2YWhhT013aFM3LWhYNEVOWEpIZkVRTHZvQVhIYlpDSGo3cWREMjRDWnhnMkZIYzFaTS1Ddi1MaUxkTkhDcHlOWVBzT0poeTRYYXR4bGQ4UQ?oc=5"
+    },
+    {
+      "title": "Tesla's Optimus Robot Production Plans Unveiled - Intellectia AI",
+      "summary": "Tesla公布Optimus人形机器人生产计划，可能加速行业商业化进程，为全球机器人市场竞争格局带来新变量。",
+      "date": "2026-04-14",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNbWJjYWxRRFFZVUdQVnMtVERxRG9xQng3U245NTRtTkVGZWhUdjZiWjlRSEd1YWM5Nk4wRVJ2MVBWaHBiaVBJcG5kY3kxNnMySDdzQjFxa1hJa0JBT0tDYlVfVktXQVZhVEtERWZfUi0wUFlvRml4SWRnZDhoYURPbTZJNUFYSW8?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-14T14:00:06.839224"
+  "updated_at": "2026-04-15T02:44:59.462995"
 }
