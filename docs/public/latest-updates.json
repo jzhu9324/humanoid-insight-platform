@@ -1,20 +1,26 @@
 {
   "papers": [
     {
+      "title": "Vectorizing Projection in Manifold-Constrained Motion Planning for Real-Time Whole-Body Control",
+      "summary": "本文提出一种CPU SIMD加速的流形约束运动规划器，通过向量化投影技术实现并行化约束满足，将规划速度提升100-1000倍，首次实现人形机器人实时全身运动规划。",
+      "date": "2026-04-14",
+      "link": "http://arxiv.org/abs/2604.13323v1"
+    },
+    {
       "title": "Learning Versatile Humanoid Manipulation with Touch Dreaming",
-      "summary": "本文提出HTD模型，通过在行为克隆中引入触觉梦预测未来手部力和触觉潜在表示，实现接触感知的多模态Transformer，在五个接触丰富任务上比最强基线提升90.9%成功率。",
+      "summary": "提出人形机器人触觉梦HTD模型，通过RL全身控制器、VR遥操作数据收集和触觉预测学习，实现稳态全身控制下的高灵巧操作",
       "date": "2026-04-14",
       "link": "http://arxiv.org/abs/2604.13015v1"
     },
     {
       "title": "Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots",
-      "summary": "### 现状痛点",
+      "summary": "提出树状学习框架，通过根-枝层级参数继承机制实现人形机器人多技能连续学习，有效防止灾难性遗忘并支持轻量化部署。",
       "date": "2026-04-14",
       "link": "http://arxiv.org/abs/2604.12909v1"
     },
     {
       "title": "FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping with Mobile Manipulators",
-      "summary": "FastGrasp提出一种基于学习的两阶段强化学习框架，通过条件变分自编码器生成抓取候选，结合移动基座、手臂和手的协调控制，并利用触觉反馈实现高速运动下的稳定抓取和实时调整。",
+      "summary": "提出FastGrasp框架，通过两阶段强化学习策略结合条件变分自编码器生成抓取候选，并利用触觉反馈实现移动机械臂的全身协调快速抓取。",
       "date": "2026-04-14",
       "link": "http://arxiv.org/abs/2604.12879v1"
     },
@@ -23,46 +29,40 @@
       "summary": "### 现状痛点",
       "date": "2026-04-14",
       "link": "http://arxiv.org/abs/2604.12509v1"
-    },
-    {
-      "title": "Asymptotically Stable Gait Generation and Instantaneous Walkability Determination for Planar Almost Linear Biped with Knees",
-      "summary": "论文针对带膝盖的平面双足机器人，通过对重力项进行泰勒展开线性近似，实现无需数值积分的瞬时步态生成和步行性判定。",
-      "date": "2026-04-14",
-      "link": "http://arxiv.org/abs/2604.12274v1"
     }
   ],
   "companyNews": [
     {
       "title": "Tesla Has Some Robot Competition. The Stock Is Up. - Barron's",
-      "summary": "Tesla在人形机器人领域面临新竞争者，但市场仍看好其发展前景，股价上涨。这表明人形",
+      "summary": "Tesla人形机器人面临竞争，股价仍上涨。表明市场对机器人领域兴趣浓厚，巨头布局将加速行业竞争与发展。",
       "date": "2026-04-15",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5KYnhWMGxRQV9hbGF0Yjl4aVJzVzRSM0ZBQzZUTEdiYVZsNjZLaXhnZTdnZmtQRnd5X1hVODNENl9WOGo4RHNjN01lYnF3ZWRBMGFQSU1nSlEwQkpkOWgwYUxkRGJQZVFQZklIaXdoOXdnTkJiT0h3WHhIUFZXbUU?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CSXR0ZVR3Uk4zTEFnV1AxMTNLTVh5a3RTTDI4cDhfMVNxbmpRZ0s1LU8zRTJ6b2FzT0FGQVliSXZPV0UzRGZzMHZ0akVDU1hGWVYxQUVQMXl6MnI0ZnRsUm9UV2VJYy1Zd0lnTVVKdw?oc=5"
     },
     {
-      "title": "Tesla Shanghai factory could crack humanoid robot production at scale - Interesting Engineering",
-      "summary": "特斯拉上海工厂可能实现人形机器人规模化生产，助力特斯拉抢占先机，推动行业加速发展。",
-      "date": "2026-04-15",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3BzWGU1X2tramstSDI1Y3IwcE5qS3JLVTdIOWZZVDYyX1RFTC1xUWxrcXBQMVNCV3pYRUNzaS1tLWJJempIZm9QUDJYdFFrdHcwMDRQMEkwaXhmSTdGSnRVQlVZSHZ2X1dXbWVsRjNzcmJnaXYyNms2R3pVcW5vTFJWX0FTX1YwOG4wekZBdUp5QQ?oc=5"
+      "title": "Tesla Exec Hints at Optimus Humanoid Production in China - eletric-vehicles.com",
+      "summary": "特斯拉高管暗示计划在中国生产Optimus人形机器人，此举将推动中国本土供应链完善和技术迭代，加速全球人形机器人产业竞争与规模化进程。",
+      "date": "2026-04-14",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQRWJiV283NmJEZlZOMHpwV1RaNk9tYzFRRDVHNlJuTzJSSjlIWDRHZ2JxSndGT3ZieFRYNGtiVTB3QlRyZ05xRGU4T0tUSGVuYklXYjRzaTJnRUx1SlplUjI3Rk5iVnIwSFZMbS1SQW1QdTFJdVYyS3pkV3hnalBiOFRRQjJpdmtFWTNId0NHbXRrbjJvdWNr?oc=5"
     },
     {
-      "title": "Tesla Suggests Giga Shanghai May Play Major Role in Optimus Production Plans - Drive Tesla",
-      "summary": "Tesla暗示上海超级工厂可能在Optimus人形机器人生产中扮演关键角色，强化中国供应链在全球人形机器人制造布局中的重要性。",
-      "date": "2026-04-15",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNZU9WR0RkX2dfUm1GTXNvb01HcVpTeUwxcUEtSDJNY3hIa3ZVUi05V2dQOFYyc2k2eGprdW5aMHhWNW8yZ0Q2M3lkem16S3FjMnlZa0trZ2JrdngzTmhYT3g1R3FHblUycVlJTFlvYlRpNUtYTG9jTjdLNC1VcU1CZGF2Rnk2R21PMkt5ZmJDdGlSMXpZZXZBZWZDVEt2SUtyNzhqSmdwS1ZzM2VuY3kw?oc=5"
+      "title": "Has Tesla Found a Solution for Producing Its Optimus Robot at Scale? - TipRanks",
+      "summary": "用户要求我分析一条关于Tesla Optimus机器人的新闻，并提供1-2句话（50字以内）的总结。",
+      "date": "2026-04-14",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQW1xd1FvXzhvOFcxUXBscGpReExsbHBSajlsQ1d6bWVHa0Jhc1c5SHhSQzhfSXM5dGJjcnZiLWlZQXQ3aUd2NjdnUFQ4aGFfNXFvT29WZHV3QkUwU3JnUzRjQ0ItLUNoRlpobHFfUW1lVWg2Z1pBU0JSRFNaLUNldVN5bTFhWWNEcFRLNUhRVFRsVGQwTVRYTWZhTzNiZw?oc=5"
     },
     {
-      "title": "Tesla (TSLA) Stock: GigaShanghai Tagged as Future Optimus Robot Manufacturing Hub - mexc.co",
-      "summary": "Tesla计划将GigaShanghai打造为Optimus人形机器人制造中心，标志其在中国布局机器人产能，对全球人形机器人产业发展具有重要战略意义。",
+      "title": "Tesla Says Shanghai Holds the Key to Mass-Producing Optimus Robots - Gadget Review",
+      "summary": "Tesla上海工厂将承担Optimus机器人量产，凸显中国供应链在人形机器人制造中的关键地位，加速行业商业化进程。",
       "date": "2026-04-15",
-      "link": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE1XdlNSNWJka1VmMXIwUk9UdEtwWlM1cnBOT0JhTllRXzB0WktTWFZSS21rTmx5aUZpYjBzZjNWQzZ5RlVZaFFtQk14U0hMWE0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUmJxSDdGRVZmdHZIOHdZV1hkREU4RlVkU3FXTkJnNWZObFJHTm1wOGl6SkpsVmRucWw4Q0puWlRZeUtDaWxjWmg3WHRvcl82WkI5Vl9PdUJfOWRsVWpnV0ZJbmJqQkFjQlFsN1cwdUdCeHlZdmJ3djV6cnktV1R3MXRCY0lNSTlYUXczZHEtbDg0OTlqdlZwX3BtWQ?oc=5"
     },
     {
-      "title": "Tesla leader believes Shanghai factory operations will play a role in robot mass production - Decatur Daily",
-      "summary": "特斯拉CEO认为上海工厂将参与Optimus人形机器人量产，这表明中国供应链在全球机器人制造中的重要性日益提升。",
-      "date": "2026-04-15",
-      "link": "https://news.google.com/rss/articles/CBMioAJBVV95cUxOY0Zyc1ZBaWlwVzhTQWRiM19kSnk1azJ4OUdod2VaaHI5NDNEUVJQU0ZqbFBkWTNPeVlXMFhiWjF6ZzF1VlFUdGQ0cmJiWVhVYklTc29MMmw0RFFlYk9BZzJJZVZZUkd2RW9pVjFmM094aDZTc1l2YS1oMnNxSy1NNGFsc2xOSU01Y0dUdmtQaGx2SmZleHdHa2ptRWtMUmdrdGp4OUp4aEFURDBGMDNBN3IwRzRoOFl5Vk0wZ2Eyd21RWU1BanZRdU5yLXdMYXpydlV4Z241Y1ZMelRvRDBvdFZGZEpSSUVGN1JXcGlKdGdfRnlYdEN3VkhqY3l3ZnNvdUQ2bFNDVmtBbjlhYThMcktuakVXTXVMbHJaSFZKVTg?oc=5"
+      "title": "Tesla eyes Gigafactory Shanghai for humanoid robot production (TSLA:NASDAQ) - Seeking Alpha",
+      "summary": "Tesla计划在上海超级工厂生产人形机器人（可能为Optimus项目），显示其将中国制造基地纳入机器人战略布局。此举将加速全球人形机器人产业竞争，并推动供应链本地化发展。",
+      "date": "2026-04-14",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOOXQwZHJPQ0toMk4yTkZvb1dScThFSXl1LXA4ckxac3lkZVRMV3Myc1Z3NldpTm5rNDJ6MnNCV0Jta0ZQa1BhQnRHSVVDOV9SUE9fTjhRUDdxRzZMLWw5NmRhWFZPV2FWS0k5UEhlVktfX2JsdjFacGdSdXBwdGxNd3MxNDlCYTd5YXZNVGpYV2dVb3E4bG1DbG0ySGVoYXdx?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-15T13:54:13.643394"
+  "updated_at": "2026-04-16T02:55:33.079988"
 }
