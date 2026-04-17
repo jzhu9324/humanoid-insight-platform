@@ -1,68 +1,68 @@
 {
   "papers": [
     {
+      "title": "Switch: Learning Agile Skills Switching for Humanoid Robots",
+      "summary": "论文提出Switch层次化多技能系统，通过技能图建立技能间转换关系，结合深度强化学习训练全身跟踪策略，实现人形机器人任意时刻的敏捷技能无缝切换。",
+      "date": "2026-04-16",
+      "link": "http://arxiv.org/abs/2604.14834v1"
+    },
+    {
       "title": "Vectorizing Projection in Manifold-Constrained Motion Planning for Real-Time Whole-Body Control",
-      "summary": "本文提出一种CPU SIMD加速的流形约束运动规划器，通过向量化投影技术实现并行化约束满足，将规划速度提升100-1000倍，首次实现人形机器人实时全身运动规划。",
+      "summary": "### 现状痛点",
       "date": "2026-04-14",
       "link": "http://arxiv.org/abs/2604.13323v1"
     },
     {
       "title": "Learning Versatile Humanoid Manipulation with Touch Dreaming",
-      "summary": "提出人形机器人触觉梦HTD模型，通过RL全身控制器、VR遥操作数据收集和触觉预测学习，实现稳态全身控制下的高灵巧操作",
+      "summary": "提出HTD多模态Transformer，通过触觉想象预测未来力与触觉潜码，实现类人机器人全身稳定控制与高灵巧度操作的突破",
       "date": "2026-04-14",
       "link": "http://arxiv.org/abs/2604.13015v1"
     },
     {
       "title": "Tree Learning: A Multi-Skill Continual Learning Framework for Humanoid Robots",
-      "summary": "提出树状学习框架，通过根-枝层级参数继承机制实现人形机器人多技能连续学习，有效防止灾难性遗忘并支持轻量化部署。",
+      "summary": "Tree Learning框架通过根-分支层级参数继承机制实现多技能持续学习，在避免灾难性遗忘的同时支持轻量级部署，达成100%技能保留率并提升多任务性能。",
       "date": "2026-04-14",
       "link": "http://arxiv.org/abs/2604.12909v1"
     },
     {
       "title": "FastGrasp: Learning-based Whole-body Control method for Fast Dexterous Grasping with Mobile Manipulators",
-      "summary": "提出FastGrasp框架，通过两阶段强化学习策略结合条件变分自编码器生成抓取候选，并利用触觉反馈实现移动机械臂的全身协调快速抓取。",
+      "summary": "本文提出FastGrasp框架，通过两阶段强化学习结合条件变分自编码器生成抓取候选，并利用触觉反馈实现移动机械臂的实时全身协调控制与抓取调整，解决高速运动下的冲击稳定化与多物体泛化问题。",
       "date": "2026-04-14",
       "link": "http://arxiv.org/abs/2604.12879v1"
-    },
-    {
-      "title": "Whole-Body Mobile Manipulation using Offline Reinforcement Learning on Sub-optimal Controllers",
-      "summary": "### 现状痛点",
-      "date": "2026-04-14",
-      "link": "http://arxiv.org/abs/2604.12509v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Optimus, Tesla’s First Humanoid Robot, is Far From Prime - Man of Many",
-      "summary": "Tesla首个人形机器人Optimus尚不成熟，距离理想状态仍有差距，凸显人形机器人技术研发挑战，行业竞争格局未定。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBhQ3lyRVUyV2ZvMDJldldlUlFYb1I5ZnRrclNYRHhINDZSbi1TQzdLbG9jTEpxOTJVUzNTN1NKYUx3dEpJS0Q3WDlvUHhYdTdrWWxQXzhhM0YwZw?oc=5"
-    },
-    {
-      "title": "Chinese investors cheer Tesla’s AI chip progress, boosting shares of suppliers - South China Morning Post",
-      "summary": "特斯拉AI芯片研发获中国投资者看好，供应商股价上涨。芯片是机器人核心部件，技术突破将加速人形机器人感知与决策能力发展。",
+      "title": "Tesla Optimus V3 hand and arm details revealed in new patents - Teslarati",
+      "summary": "Tesla披露Optimus V3手部和手臂新专利细节，展示精细化机械结构设计；将推动人形机器人精细操作能力发展，为行业机械手技术创新提供参考。",
       "date": "2026-04-16",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTTByUTd5NlktY3daczFLdTZSMGIzNTloeEFoRVA3MFdrcWs2R0lSaE1lQUhBX0JtMm5qMkUzMlRmdkJIQU1TWFJiTGo0RWQ1OXRyRGlla1NrRjZNZkxsVkJOT25iSDFHM1Y3T0J5aXc5VF9JeFBfYTNNZnNfWnNQOHViS29aX28zdWtyY1F1cXR0TW1nbjZUdko5ZlV6ei1tRmtDMW9qSXJwb01UY2R6cUc2Y20wOXJJbnFPbNIBvAFBVV95cUxNQjRFNURmV2JidGtXYUc2ekZ0ekdVYVRSdks5WkE1NjNTX3RBRzhiYk9pSXFLdmxrRHY2RDN4WGQyaEJrcVBvYjA3M19tTUQxNDM3ajBsSHZBYWJHUVo5STBNMm9aZnVsUElZanQxSWNfYWdqTzRadDJJd1B5MVU3UDA4dGxOOHpQVG5WbDZVOW4tcVBKVEZJdm9TdzhMVmRJRnR0RE5kT0dYZnZUeFQxQ25sMkNVbGE4MU5HRw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSE96MDc4NC1JY21yTm40YVZ4aE53UU01NDQwc2pKY2g0QVR2d25PWHo0Sl9zX1VHcWxOQlM1MlR2UUN2SG5kbWh3NWtEYXVLMElQeHJtVHpDWk0zSWV4RjZtcGdKVVdxNUpvanJnR2ZCRjdLUmhPSmlkUG5hN3BzVXViQ3FoQkpV?oc=5"
     },
     {
-      "title": "Tesla’s Robot Pivot And FSD Progress Test A High-Valuation Story - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXIzTVRUbFE3Nm9GdzUwaVdTMXc5RXdleGFpVG",
-      "date": "2026-04-15",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeXIzTVRUbFE3Nm9GdzUwaVdTMXc5RXdleGFpVGJLNTBWTnh1UXZZVGUya3VwZUZGR2FETzBRaE5oYmkxMUloREpHXy01NnB2WVZQYzVzMVpTVDlEcUVHdmQ5bEpyaVNpVE43bHdCRU5sODVfSjRSQThTZXBxV1BYNl9TckszOC15YXEtd0lZaUpLRkhtOXJ2UE82NA?oc=5"
-    },
-    {
-      "title": "Industry Insights: Boston Dynamics Atlas' Product Manager on Humanoid Market Fit - A3 Association for Advancing Automation",
-      "summary": "抱歉，您提供的链接内容无法直接访问。不过从标题可以看出，这是Boston Dynamics Atlas产品经理探讨人形机器人市场适应性的行业分析，属于A3自动化推进协会的行业洞察专栏。这类来自领先企业",
+      "title": "Tesla eyes Shanghai Gigafactory for Optimus humanoid robot mass production - The Next Web",
+      "summary": "Tesla计划在上海超级工厂量产Optimus人形机器人，此举将推动人形机器人商业化进程，加速全球行业竞争与发展。",
       "date": "2026-04-16",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWFgteDQxak92M0VadzFrTjV0enZpdXBUQ2xPNnh0bkdSQzU2VXpzR0ZNeHBrNTJlaXFueHE2UG5FZVFuOU5sTzk0cXk1ZmNBUGZDVDRoMG1DUS16a1hWM1ZyX1hHcWQ5NVBJZ3NMbzI4ZkRDWGV3ZlV4UHFRcXFqYUlMZlBvcncwY3JxcXMyemtJd0twMFJvTmxSQ19vYTZEdl9HbA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1dKT2M2V3ZMVDYwV21qZGIzdkJ3aGZlUUwxdjBUZGNJMks1UmxlR3Z6X25Xb1drMXl0a0MtOFMtM3YxY3hTLTJxVVZkU0hpMTM2cG8xR2RUWDBTdXFtUy1UWFRMR0Ztd0VxdFA5WlQwakZvVXNpYnc0bDJMcXdrQW1ETzM5Smk4ckdWTW11d1A4UQ?oc=5"
     },
     {
-      "title": "Boston Dynamics and Google DeepMind Integrate Gemini to Enhance Spot Robot's AI Capabilities - National Today",
-      "summary": "Boston Dynamics与Google DeepMind合作，将Gemini AI集成至Spot四足机器人，增强其环境理解和交互能力。此举标志着AI大模型在机器人领域的应用深化，推动具身智能技术",
+      "title": "Tesla Files Patents Revealing Optimus Gen 3 Mechanical Blueprint - eletric-vehicles.com",
+      "summary": "Tesla为Optimus Gen 3机器人申请专利，揭示机械设计蓝图。此举将加速Tesla人形机器人技术迭代，为行业树立新一代产品的技术标杆。",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNekxOT2h4NkJObTZicHN2bkd3TFNHa1dXYUdJMkprM0ZEWVVEM2dLLUZOOFBqQjREYjZDMWROaEs5RlMtRHR2WndkdU5LX19CcDg5aG1qemtUYzdwUlRVWERNdVljeWNLcHMxeEJLd1pLRFM1SWphcXV6QU5XcFBsQW5fdTR2N01LTW5vNkkxZmd4Rm5FdGRHM0dxVHNRWVpVWUE?oc=5"
+    },
+    {
+      "title": "Tesla Could Start Making the Optimus Robot at Its Gigafactory Shanghai. What Does That Mean for TSLA Stock? - Barchart.com",
+      "summary": "特斯拉或将在上海超级工厂生产Optimus机器人，此举将加速人形机器人商业化进程，强化特斯拉在全球机器人市场的竞争优势。",
+      "date": "2026-04-16",
+      "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOalRmNVRNVWcxZ2NhVDBxVU41UGxHcGlyX1ZBc0QxR2psR2Y2WGFGa0ZtRG1nQnBXQS1fUUJpdU1TMlFJM284ajVjeWxwbF9EX2NPMXFEa2VpejJ0ZExGZmFLZzdxQldpY3Nmb1RnaVY0aVJkenhYUzlaMjFMOUJZY0RHNUVQQV9KUURDem9jTlZmbDVfMG5PaTBsTDc4ZHMyVnNpZU42djNjcnRoeFh3c2lKczgybzZPUDZSbi1ZOXoxSkl6R1pLNTJsVFdLaFc4TllRdzhKTHZKTzZwWEh2VXhobw?oc=5"
+    },
+    {
+      "title": "Tesla Has Some Robot Competition. The Stock Is Up. - Barron's",
+      "summary": "特斯拉人形机器人面临竞争但股价上涨，显示市场对机器人领域兴趣浓厚，利好行业发展。",
       "date": "2026-04-15",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUzl3X1VQNjhKRUFuNUx2RnlqQVNQcldVNEdjVFR3amh4QjhqdHVYVzJjdFM5Q2dnRXFlX243NDJUQVhyMGpWaFphU3ViRmNIaG1NeXZZZUxJbmlPTGU4djRieVlxQzZHTnFQSHB0ZnlLRGVzazhlNTV4SVBYdXhqRmI1d1A3ZXhBX3J4WmU2MkE4ZTh0aTd1b0plenBFYk9YYXE5b3NQeXRPa0x6Q29oUTB1a253eURLdW5MVWlLbzNsbVFPT3lYeF9qcEVmU1NJdUJHdmZpMkJnM0ZwSE1CWg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CSXR0ZVR3Uk4zTEFnV1AxMTNLTVh5a3RTTDI4cDhfMVNxbmpRZ0s1LU8zRTJ6b2FzT0FGQVliSXZPV0UzRGZzMHZ0akVDU1hGWVYxQUVQMXl6MnI0ZnRsUm9UV2VJYy1Zd0lnTVVKdw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-16T14:00:50.865390"
+  "updated_at": "2026-04-17T02:50:13.599892"
 }
