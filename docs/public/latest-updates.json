@@ -2,43 +2,43 @@
   "papers": [
     {
       "title": "Switch: Learning Agile Skills Switching for Humanoid Robots",
-      "summary": "### 现状痛点",
+      "summary": "提出Switch层次化多技能系统，通过技能图建立技能间运动学相似性关联，结合深度强化学习训练全身跟踪策略与在线调度器，实现人形机器人任意时刻的灵活技能切换。",
       "date": "2026-04-16",
       "link": "http://arxiv.org/abs/2604.14834v1"
     }
   ],
   "companyNews": [
     {
-      "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBwY0R6VDhqUUFGZ04wSWtmRkhlZXlSY0pBTG1iSn",
-      "date": "2026-04-18",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBwY0R6VDhqUUFGZ04wSWtmRkhlZXlSY0pBTG1iSnZkUWJFdmdyZ2lwcG50bG5KMDNJM2FRWUpuNnNlbmsyTGhZRXlsOTRLVDNNSE5odVhhYUhnOHA3bXJfQVQwdktFOUVxY092eU9VcExWOEhFaktmckRjeErSAYABQVVfeXFMUGtmcFdoZFNDemtvejF5QmFHVHNYdHZ5QnBCVHN6UlE4Q1BHSGlzMFpUSVF1SW1TUnhhTUo4VDFrQklQQWJlLXVCQXpraWFYRUYzRGxQN3NOWHFUcS1WWFliOWh1bFMyM0RLVl83emQyZkhmM0RyS1ZqNm1nRGlxM1c?oc=5"
+      "title": "Tesla Optimus V3 hand and arm details revealed in new patents - Teslarati",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSE96MDc4NC1JY21yTm40YVZ4aE53UU01NDQwc2",
+      "date": "2026-04-17",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSE96MDc4NC1JY21yTm40YVZ4aE53UU01NDQwc2pKY2g0QVR2d25PWHo0Sl9zX1VHcWxOQlM1MlR2UUN2SG5kbWh3NWtEYXVLMElQeHJtVHpDWk0zSWV4RjZtcGdKVVdxNUpvanJnR2ZCRjdLUmhPSmlkUG5hN3BzVXViQ3FoQkpV?oc=5"
     },
     {
-      "title": "Tesla Could Start Making the Optimus Robot at Its Gigafactory Shanghai. What Does That Mean for TSLA Stock? - Yahoo Finance",
-      "summary": "特斯拉可能在上海超级工厂生产Optimus机器人，标志着其人形机器人项目进入规模化生产阶段，将加速行业发展。",
+      "title": "Tesla Has Some Robot Competition. The Stock Is Up. - Barron's",
+      "summary": "特斯拉人形机器人面临竞争，股价反而上涨，表明市场对机器人业务前景仍具信心，行业赛道潜力和商业价值获投资者认可。",
+      "date": "2026-04-15",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CSXR0ZVR3Uk4zTEFnV1AxMTNLTVh5a3RTTDI4cDhfMVNxbmpRZ0s1LU8zRTJ6b2FzT0FGQVliSXZPV0UzRGZzMHZ0akVDU1hGWVYxQUVQMXl6MnI0ZnRsUm9UV2VJYy1Zd0lnTVVKdw?oc=5"
+    },
+    {
+      "title": "Tesla eyes Shanghai Gigafactory for Optimus humanoid robot mass production - The Next Web",
+      "summary": "特斯拉拟在上海超级工厂量产Optimus人形机器人，标志着其将生产本土化并加码中国市场布局，有望加速人形机器人商业化落地。",
       "date": "2026-04-16",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQX2RXeDlVbllfbGs3T3RvdUZ2UEV5S3YtZUZZX05sLWZaa2JjanA1Q0Z0bW01MHREM2RYXzhiNUpDa1dqQnNmOXhuc205SVUwNnJRV1hfMzBDYjhFaUJOTy1fYkNmb0pHMnAzSUdGanF3eUlhaXdoSW4zWFVsTHJxd0w1U2RucUhyZFhsLTdIX0JYd3RpR2VZREVqR0xpQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1dKT2M2V3ZMVDYwV21qZGIzdkJ3aGZlUUwxdjBUZGNJMks1UmxlR3Z6X25Xb1drMXl0a0MtOFMtM3YxY3hTLTJxVVZkU0hpMTM2cG8xR2RUWDBTdXFtUy1UWFRMR0Ztd0VxdFA5WlQwakZvVXNpYnc0bDJMcXdrQW1ETzM5Smk4ckdWTW11d1A4UQ?oc=5"
     },
     {
-      "title": "Hyundai Motor Group Prioritizes Robotics, Physical AI in Strategy - 조선일보",
-      "summary": "现代汽车集团将机器人和物理AI列为战略优先领域，加大对人形机器人技术的投入，预示着汽车行业与机器人产业的深度融合加速。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdERSUllLeHRKZjZjc01obHRRTmFEeVRUZlBPMEM3eFMyN2pBdVpra0dQdVM2RTI3N1dJcjFUWEh6cFVZSnVTd2VhMVNucE1yVk5ka1U4Z0pobnlCNkN3dnlBUm5tU0dIQ1J2WjA4V0lYaU4zQVlMblpmRmVsNEJUczBJUG5odmZ5?oc=5"
+      "title": "Has Tesla Found a Solution for Producing Its Optimus Robot at Scale? - TipRanks",
+      "summary": "标签",
+      "date": "2026-04-14",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQW1xd1FvXzhvOFcxUXBscGpReExsbHBSajlsQ1d6bWVHa0Jhc1c5SHhSQzhfSXM5dGJjcnZiLWlZQXQ3aUd2NjdnUFQ4aGFfNXFvT29WZHV3QkUwU3JnUzRjQ0ItLUNoRlpobHFfUW1lVWg2Z1pBU0JSRFNaLUNldVN5bTFhWWNEcFRLNUhRVFRsVGQwTVRYTWZhTzNiZw?oc=5"
     },
     {
-      "title": "Humanoids Hit the Factory Floor - EE Times",
-      "summary": "人形机器人开始在工厂环境实际部署应用，标志行业从研发向商业化落地迈进，对制造业自动化升级具有里程碑意义。",
-      "date": "2026-04-13",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE44SUtXdWxxa2lNMGRodFo2RFF4cC1qbHhUTlQ0LWJ3Z1htODFwU2g5d3JGbnZHd0JqV3U5OTFZTlRYdEEteTNyeWJ3ZFJmOURCa2xwTnNNcDF1M0pKRGNSV1hDUkt2bzA?oc=5"
-    },
-    {
-      "title": "Unitree's humanoid robot breaks human 1,500-meter world record in Beijing robot half marathon qualifying - Xinhua",
-      "summary": "Unitree仿人机器人打破1500米人类世界纪录，展示其运动控制与耐力达到新水平，标志仿人机器人",
-      "date": "2026-04-19",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBTa2RBSU9rdE9pMTd1cjdJd0FLbUlSY0M5V001RDU2QXVZT0tMSEJUZ2VNVExWcFVVT3pwN0VFZXNJQloyaGVfekY2N01iYmhBYTh3M1hxZEt6Mkh6VDZGSHVLdEwwSjNKN1BwMGlSVTFrOXhaWmRHYTR6Ylo?oc=5"
+      "title": "Tesla leader believes Shanghai factory operations will play a role in robot mass production - The Washington Post",
+      "summary": "Tesla领导人表示上海工厂将参与人形机器人Optimus的量产，有助于推动特斯拉机器人计划的落地，此举将加速全球人形机器人产业化进程。",
+      "date": "2026-04-14",
+      "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPSUd1dmFHWWdpclFOVmFsMFM0eEZHVUhNdEtRWlFLcVdocnFwM1lKc3NHWEM2WG0zMGhJNlhnaml3Y3FjemFUcEhwV3VJM3VDaDd2MVkwXy13bkJuZ0N4b3hTWkROeEVXSDViRUd5NnhsbWZMWnRxTjV5TXdXY0VVRmVrNDA2MGFFQjJhNGFpcFYxbWJUN1p4MTJZY2haa1pIOFlfZVpBaVpaVTBEdzN4QkFfX2ROZFFtLVhSeG5oclpHLUswbzczOTNZQURwd1VXWFlUTUc1VWtMODBQb2c?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-19T13:16:03.853941"
+  "updated_at": "2026-04-20T03:05:00.302510"
 }
