@@ -1,44 +1,62 @@
 {
   "papers": [
     {
-      "title": "Switch: Learning Agile Skills Switching for Humanoid Robots",
-      "summary": "提出Switch层次化多技能系统，通过技能图建立技能间运动学相似性关联，结合深度强化学习训练全身跟踪策略与在线调度器，实现人形机器人任意时刻的灵活技能切换。",
-      "date": "2026-04-16",
-      "link": "http://arxiv.org/abs/2604.14834v1"
+      "title": "Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking",
+      "summary": "提出结合扩散模型运动生成与强化学习运动跟踪的全身人形机器人 locomotion 框架，实现地形感知的实时运动自适应和鲁棒控制。",
+      "date": "2026-04-19",
+      "link": "http://arxiv.org/abs/2604.17335v1"
+    },
+    {
+      "title": "A Rapid Deployment Pipeline for Autonomous Humanoid Grasping Based on Foundation Models",
+      "summary": "该论文提出了一种基于基础模型的端到端人形机器人快速部署pipeline，将新物体的部署周期从1-2天缩短至约30分钟，实现从数据采集到抓取执行的全流程自动化。",
+      "date": "2026-04-19",
+      "link": "http://arxiv.org/abs/2604.17258v1"
+    },
+    {
+      "title": "Towards Universal Skeleton-Based Action Recognition",
+      "summary": "本文提出一种基于Transformer的通用异构骨架动作识别方法，通过构建大规模HOV数据集和多粒度运动-文本对齐机制，实现开放词汇下的跨源骨架动作识别。",
+      "date": "2026-04-18",
+      "link": "http://arxiv.org/abs/2604.17013v1"
+    },
+    {
+      "title": "Leveraging VR Robot Games to Facilitate Data Collection for Embodied Intelligence Tasks",
+      "summary": "提出基于Unity的VR游戏化数据采集框架，通过程序化场景生成和VR人型机器人控制，实现具身智能任务的大规模高效数据收集。",
+      "date": "2026-04-18",
+      "link": "http://arxiv.org/abs/2604.16903v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla is sending its humanoid Optimus robot to the Boston Marathon - Teslarati",
-      "summary": "Tesla将 Optimus 人形机器人投入波士顿马拉松，展示真实现场环境下的机器人应用能力。此举将加速人形机器人技术在公共场景中的验证与推广。",
+      "title": "Tesla's Optimus Robot Scored the Boston Marathon's Hottest Marketing Campaign—for Free - inc.com",
+      "summary": "Tesla Optimus机器人在波士顿马拉松上获得大量免费关注，成为热门营销事件，展示了人形机器人品牌的营销潜力与公众吸引力。",
       "date": "2026-04-20",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5aVlFfQVo4ZGpELWxKbXpqdGt2Rm1iTVpUdGtjWjJya3lJNG1MYW94LXZ1bk8yRlI4ZlhJWnNSRWNJdXd3UXE5c2RaYTZXak56ME5oWi1La1dvcVAxYXB3Ni1qQWxsVzg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckFUQkluZ01nb2pmLTA0bk14dFNSWmw4aEdIb1g5eFQ0U0RidHZqZW9LVlZNNnRSNHNTZ0x4YXF3dXN6UHFXLXRwcFlMZ0tpNHFYbXczMnprUXNsRlQxVDktTEJCa3lPNmQ3bjhPcnluaW5sd0NLcklRcVhPajVhWlN6aGpzZw?oc=5"
     },
     {
-      "title": "Why Tesla Stock Could Double as Optimus Reaches Human-Level Proficiency This Year - Yahoo Finance",
-      "summary": "Tesla Optimus机器人预计今年达人类水平，或推动其股价翻倍，标志人形机器人技术进入关键突破阶段，将加速行业发展并提升市场预期。",
+      "title": "Tesla Q1 Preview: Losing The Robotics Race (NASDAQ:TSLA) - Seeking Alpha",
+      "summary": "Tesla Q1财报预览显示其在人形机器人领域竞争力存疑，行业地位面临挑战，对行业发展格局具有警示意义。",
       "date": "2026-04-20",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQM0QtUmgySjhyc3ZCb1pvQ1FjM01qTnY4X01PczR3bjQzWk9yTVlJdmNicEw2NngyOTZIRFpTdXJha2JFemw1MzlsQ1Bya0JjUl91Um4xZnh1bGk4RG9lYmtiTUhSOVBVeEFBZ204YUl3WkRYdS1TRkR4c3BUcVlRQkVpRHBtM2gxcEk1X3lOenpMYkl3ckh4aA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmJFV0RPZlRQcDVaQjhDLTJURlVWVkhjdkVTekszeGpBSXlrcDN5ZHZnMkEwenlUMVNncXk4MFlPWnYzVGZYSThUbXljeUQzRTFzX0FMWGR5cHp5cUduQVBMWDU2TWNXQ3BQZ1dFZmhJMzZ1THhGNnVnOHQxd0NXQ1MzUl9keG1lS2c?oc=5"
     },
     {
-      "title": "Tesla's Robotics Strategy Sparks Market Interest - Intellectia AI",
-      "summary": "Tesla推进人形机器人战略吸引市场关注，有望加速行业商业化进程，引发资本市场对仿人机器人赛道的投资热情。",
+      "title": "Tesla Brings Optimus To Boston Marathon — But China's Robots Are The Ones Winning Races - Benzinga",
+      "summary": "特斯拉携Optimus亮相波士顿马拉松，但中国机器人在实际竞赛中领先，凸显人形机器人领域竞争激烈，中国在该领域已具备强劲实力。",
       "date": "2026-04-20",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbjFLR2JvN3NaX1BCckZvTnZSWE9xQ2haRVVwSHdBS0tPX2VDQXMtWGN0dWRsX3ZlbWZOcTlYbUtqTGdNVEJlbmI2SEdZSDRXLVlRREtyTGx2YlBjZk5lSVhVc29EXzlnWml1STNZQVNZWHFkZGlHeUNuU3gtUlhsSktfdzJ2LVBF?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDVWVHVtSUh0cjhBOHJBLU9UbG5ETHFxS3pKSm94cGdPWEtPc2ZHb3RLbWxrNTBDblJqWi1wRHdxTUc4WVFzeUZ6cmFZczRwR3BfQWREMnVnRXI4bDZGWHRLY2tOT0tCYmdSeklnQmFGVFV3QzlTZmVTZTBfdTRlQWJ1bW9SdzJDbWhwdTFDS0p1ZmtoQ2dBQ25tR1FIblUyeGdpcG9ZYmJwdDNIUERjS1N0Mkl5c3lNQkZja21KazdFdzI0RFc0TEJ3U0RvREVNb2FR?oc=5"
     },
     {
-      "title": "Shanghai Gigafactory has potential to build humanoid robots: Tesla China head - South China Morning Post",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc2VYRG53dGU3RlBKM2FLM0NKMHIza2owZ2dVTl",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc2VYRG53dGU3RlBKM2FLM0NKMHIza2owZ2dVTll2NnVnTlhxemJaa3hkTlJTaWs0WVVFT3Zzd2twQnllTWVib3JGZERHLXQxTmF0TG1malpCZDcyQ1REYjFzemhOVS0zODk1eXpwc1lhTXNtUEZVYldtVmRhQlltUmQ5Qmdja2ZwRlJCZmJVcW94RmVYVmltZ1VWYUFYLUN6dnlEc21Lbk1GMTl6OUFzZTE4ZDRJNjk2WjNtczFTQ1I4bHpZRXREZm9pNVhxYmZ1SFZLRjBCZ05HVXM?oc=5"
+      "title": "Why Tesla Stock Could Double as Optimus Reaches Human-Level Proficiency This Year - The Motley Fool",
+      "summary": "Tesla Optimus机器人今年有望达人类水平，或推动特斯拉股价翻倍，标志人形机器人技术商业化重大突破。",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQUGNsMXB2UDlxSTMzdUh5T0tqczBuN0piRWhQd1pldkhoWGtNd3o5N1FZRWhRRV9kTGJFX3BiTFd4UUpxX0REb2cwOEJrd25ld1RuTDJzWTJrbmJLcV9RMmVzRTlZYmR1S2ktUEJQbnlnYVdzc0lULWpZaW9oUnE2MnY1Yzg2V0RXN09ZY0tCZzBvTXdSQTB0Qw?oc=5"
     },
     {
-      "title": "Tesla leader believes Shanghai factory operations will play a role in robot mass production - WHEC.com",
-      "summary": "Tesla领导人表示上海工厂将参与人形机器人量产，利用中国制造优势推进Optimus机器人规模化生产，提升行业信心。",
-      "date": "2026-04-14",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPakJzU3JDWGxGNFJzR0JkNUFkTmk0d3AxUC05djItakdLd2N3c1pYbndEVzdCX1Ryand3OV92RjVkN1RuX1Y4UFZsbnpibi1CS1g2ZWVyeWI1QkEtYjFUTGp4WkNlem1wNG41VEd5Ykt6cHE4ckFhZzRPWFZyRF85ZlV3cElDTDhGWWpaN1pPQUNHTU5Xd0N1OVRheTk0VmtISzQxOE94ZW9FcXhDOEZzdTY5MmdUbHY4WGx1NC1Fc3l5Ykk?oc=5"
+      "title": "Tesla Has Some Robot Competition. The Stock Is Up. - Barron's",
+      "summary": "Tesla人形机器人项目面临竞争，但股价逆势上涨，反映市场对特斯拉机器人商业化前景仍保持信心，行业竞争格局正在形成。",
+      "date": "2026-04-15",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5CSXR0ZVR3Uk4zTEFnV1AxMTNLTVh5a3RTTDI4cDhfMVNxbmpRZ0s1LU8zRTJ6b2FzT0FGQVliSXZPV0UzRGZzMHZ0akVDU1hGWVYxQUVQMXl6MnI0ZnRsUm9UV2VJYy1Zd0lnTVVKdw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-20T13:57:32.772490"
+  "updated_at": "2026-04-21T03:08:41.276525"
 }
