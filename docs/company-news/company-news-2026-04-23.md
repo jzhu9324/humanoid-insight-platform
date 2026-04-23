@@ -6,887 +6,482 @@ type: company-news
 
 # 人形机器人公司动态 - 2026-04-23
 
-本期收录 9 家公司的 96 条动态。
+本期收录 7 家公司的 49 条动态。
 
 ## Tesla
-
-### Tesla confirms Optimus production starting late July at Fremont on former Model S/X line - Electrek
-
-**发布日期**: 2026-04-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTYxMW9XclFDMmtza0VONERTQlAyQXdqMU9sVWl6Nkk3WmJQVjAtempBZnpMakJnV01ubnZMT2I5ZTlUZjRaVVRjbFJ0cVM4OUlmRU0zSjVhYmRSSjdxamhHdWhtSXYwdlExbTBFQW84ekdxcV9nTlBiRmJQRFZUa1poVUQ?oc=5)
-
-Tesla宣布其人形机器人Optimus将于7月底在加州Fremont工厂（原Model S/X生产线）开始量产，标志着Tesla正式进入人形机器人商业化阶段。此举将加速全球人形机器人竞争格局的形成。
-
----
-
-### Elon Musk says copycats are to blame for pushing Tesla's Optimus humanoid robot unveiling - Business Insider
-
-**发布日期**: 2026-04-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnFtMVBTNm5pOTRZM1p2WHpJQ2p3bDRfdGxacU9xN0N3WlFLbklGRzQxYXFtNlVST3BFWkJFa0NDcC1zS1JaLWlxU2NBNlA3VEU5M3I2Z1R0VUlhMnlTdmI5M1lDTHR6emFRcUI0MzhReVhqS1NzS3M5bmdSX3hUVmJMRGIxbzZoYkJfS05pLUZuQ3pnMzhV?oc=5)
-
-特斯拉CEO马斯克称竞争对手的模仿行为促使公司加快推出Optimus人形机器人，反映出该领域竞争加剧，传统车企与科技公司正加速布局人形机器人市场。
-
----
-
-### Elon Musk says Tesla’s Optimus robot could be its 'biggest product ever' - USA Today
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElKcHktYzJibUZsTnBKczBSSkR6V1Jyb3oycGV3UlplbmF6TGJKUEotU1FPYnQtMnNTeGF1cWNERVhLU3EyLXR4cThRVi1CajZZblk5SUFBNlROejFqRkI1Z1ZNa2NVa29tWDlucjBSZU9WX3dXOVJpTXdTVVRaN1RRQ0lrNWF4RV8wcnJQOF9ia0k2XzFtNlVPMFFITVp1MVREb2REVkxhSENj?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElKcHktYzJibUZsTnBKczBSSkR6V1Jyb3oycGV3UlplbmF6TGJKUEotU1FPYnQtMnNTeGF1cWNERVhLU3EyLXR4cThRVi1CajZZblk5SUFBNlROejFqRkI1Z1ZNa2NVa29tWDlucj
-
----
-
-### Elon Musk reveals shocking Tesla Optimus patent detail - Teslarati
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl92Ym80ZGtRa1UtMFo0am5uZWx2SGg5RUJieDR0TnBsVHZXc0VaeEpLMld4Szh1WlpEUEJVOVRLMVhtREtNUERhQV9hRUlveHBEQ2xaVUVHSDg4ODJKZ1NlUXZhOC1vV0VlYTJjM1Qza1dUU1plZ0pqMmZySFJZbno3X0tmRmNK?oc=5)
-
-Elon
-
----
-
-### Elon Musk targets one million Optimus robots annually from Fremont factory - The Business Journals
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0djaVp2RVRZVURJNzEtTm9ZZmJoRXhwbHFVWTBweGFqdlg2VHpHVGMwdTRveFNvbnZCTEJZenJDSkY2MW9QRnFtRmNUdU1tWm52Yk41bk9vVmlKNzVjaFdYLXVXR2JxbE1LUl9pdktRVnJ3ckdMWV9WaVRtU3VQTEN3U3YzT1E1Y2lfMjdKbGI4M084WWtoWFZNUlM2VlVNeWtQQmN4OWtwUQ?oc=5)
-
-特斯拉计划在弗里蒙特工厂实现年产100万台Optimus机器人，此举将推动人形机器人行业规模化发展，加速替代重复性劳动。
-
----
 
 ### Tesla (TSLA) is preparing 10 million Optimus robots per year production line at Gigafactory Texas - Shacknews
 
 **发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxQc1NMLWxoc1p0ZV9Ya091LTFpc201TEpFNEpORWhrakRma1Z6UEpxR3VYdE0yUnNGN1l0WWUtQVhEZllrOWdoNUdoNzFSNW9nMXJkb1VtZDd2UkJ2a0szdUFJc2k1UEIwVkhPdEdSMjA3NU44SDBndmhDS2NYclZEalpLVEo2RlNSZWZ2NGUza2c0QdIBngFBVV95cUxNSlU0OEF2SVA2OW5fNDFqT2UxVXotTFYxampSN1pTTW5WNzZONkFLNGhmSGJOeFhBZm9VNWEzR0lwMnVXdEhYeHJfaC1JQXp2V1VNRGdGaGdJV01Ib3lXd2Z1akg2bUNHVFppTkJkQWZoSVdybTFPamNIeHI4Y0tMZ0lkeGotbDdhTmtDTF9EZ0psVnlSZlBTZk1fb01idw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXctelQ5X2RlUThoV1kzSGFVdmJTcGZlOVI1VGxERWZlTXRrZXVUTzJKb056MEdrbjJXQ2Via2xLREdpSk41TkM3LVhiRHF2cnJDUTJMNW1DZVQ4eUo1Yko1bGpLcXJXS2kxZ21BUnR0WFlWeXNTX0ZFZThHMEVpYkJ2Qk81S25UX3NOZzNUcEzSAZ4BQVVfeXFMTUpVNDhBdklQNjluXzQxak9lMVV6LUxWMWpqUjdaU01uVjc2TjZBSzRoZkhiTnhYQWZvVTVhM0dJcDJ1V3RIWHhyX2gtSUF6dldVTURnRmhnSVdNSG95V3dmdWpINm1DR1RaaU5CZEFmaElXcm0xT2pjSHhyOGNLTGdJZHhqLWw3YU5rQ0xfRGdKbFZ5UmZQU2ZNX29NYnc?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxQc1NMLWxoc1p0ZV9Ya091LTFpc201TEpFNEpORWhrakRma1Z6UEpxR3VYdE0yUnNGN1l0WWUtQVhEZllrOWdoNUdoNzFSNW9nMXJkb1VtZDd2UkJ2a0szdUFJc2k1UEIwVkhPdEdSMj
-
----
-
-### Tesla Optimus V3 hand and arm details revealed in new patents - Teslarati
-
-**发布日期**: 2026-04-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSE96MDc4NC1JY21yTm40YVZ4aE53UU01NDQwc2pKY2g0QVR2d25PWHo0Sl9zX1VHcWxOQlM1MlR2UUN2SG5kbWh3NWtEYXVLMElQeHJtVHpDWk0zSWV4RjZtcGdKVVdxNUpvanJnR2ZCRjdLUmhPSmlkUG5hN3BzVXViQ3FoQkpV?oc=5)
-
-特斯拉Optimus V3手部和手臂细节通过新专利披露，显示其精细操作能力提升，对人形机器人行业技术进步具有重要意义。
+<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXctelQ5X2RlUThoV1kzSGFVdmJTcGZlOVI1VGxERWZlTXRrZXVUTzJKb056MEdrbjJXQ2Via2xLREdpSk41TkM3LVhiRHF2cnJDUTJMNW1DZVQ4eUo1Yko1bGpLcXJXS2kxZ21BUn
 
 ---
 
-### From EVs to robotics: Tesla targets 10M Optimus units with new Texas plant - The Robot Report
+### Elon Musk Hides Tesla Optimus V3 Details as Humanoid Robot Production Nears Launch, But Why? - Tech Times
 
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEJLZXdwemxZVEpOQnZOM2dRQkJRSENVTkxndW80RFFaaVdnVGxraFV3UktEbGV2TnFlSVBXNWVvSEhJd0VEYnBaWkNoZmpuZm9SZzktOXp3TURsYW01dzdVTU1oOGQ5aXJ6UWtTOHJ1aklhOVNNZjkwcjBDLVY1bllQc1NrQ0FHeDQ4SmNKMC1nMV8yQ01wTGZfNjlMZ0pUcDVNbHBJdVk?oc=5)
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZFJQOXdVelFzMWk1ZV9hZEoyOUZ2T0FTYW5YdXV3ajhtZnhoWjRndmRtR1AtenJ0c2xTLVQtM2xYZGxXX2o0dmo3Q3pLS2tPVVhBemNUeGJ3SkYtMjBMazdWMjRoTnM3YVp6MTUzMW9xSnR4Y1lMOHRleXMwVXZpUi1DazMzRGJQZ0U0TDl2NndfYndVYl8zbkN4cGRUM2s2aG1wb0JDX25OcWdER2x6RzZWcTFKSmlnajdxczIxUTRsTlZ6ZDRNbTV2VU02aVNMemwtdw?oc=5)
 
-特斯拉宣布将建设新德
-
----
-
-### Tesla to begin Fremont factory revamp for Optimus robot production - The Business Journals
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxPMF9rYUdCWVppQ2pLcjFxOHRoa29kVE56M1BHek9RUGZPdzhpbjAzQUF3Q0JXbnBIcE9COWREZmlnbV8wUnF4RmpMeFlrYXlwQWhYUFI4WnIwV1NKb2dhV21zU2QybGNKdnNvdTEwdktaYW9lVmZ5NktfM0N3NFJSbzJyTDlDTWVZMjJhZW9FblAzaWU4LWtUd2Uzc0JXVnV1anhHUnFwbXJFbU9FUnRvaA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPMF9rYUdCWVppQ2pLcjFxOHRoa29kVE56M1BHek9RUGZPdzhpbjAzQUF3Q0JXbnBIcE9COWREZmlnbV8wUnF4RmpMeFlrYXlwQWhYUFI4WnIwV1NKb2dhV21zU2QybGNKdnNvdTEwdk
+Tesla Optimus V3即将投产，Elon Musk隐藏技术细节，可能反映保密策略或技术成熟度考虑，对行业竞争格局和供应链发展具有风向标意义。
 
 ---
 
-### Elon Musk's Optimus dream inches closer to reality - Yahoo Finance
+### Elon Musk Says Optimus V3 Unveil To Be Closer To Robot's Production As Rivals 'Copy' Everything Tesla Doe - Benzinga
 
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU04ZzZRRjFEdTVBSkJyU2d6MlVfSmVIek5oSjJQaVU4RnpsVkMwWXRWbWhKUmFlQ2o4VURaVFBUdWxEUFlCYXF0eXp4R3EzcGZaV1d3RFg3MG8xVW5RYnREeHhlQlVUdXUyaWxBemlvTE5jcHFLdmp6QlFwaHdzSjZBR29LNm45eTZLVVlNSi1DX0dNQ1B4cGdxUlRheEkyS1JGVXNCc1RJajdwTGpEcmxZUQ?oc=5)
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQjY0NE9WS1pzQXBtY1JrX3dqd1lhLUlPQU5LRDVlNlN3ejZ3TFVQRU9IS1JnVVBENFVHNV9rdUp2aUxZTFZTT2o5d2FrSU9ITmRSd1ZWVGJ1djcteTdJV3ZwZHZOSmZkQzNvUTlQU2JmbDFmUEhwV1VnTFh3bmw2cHo1SzJ1U3lhRDkxdTNzNHFreUZ6RTAzRnk1Vnk1OUVER0VFdTg0SnpHV1RKUlBRdTNtSDFuR2trcmdlOEdIMzZVVE9mcFJuSUhJZXBkMmUzeUpodWZna3RKeTBucUFDTHowUDJzRmh0a19HZQ?oc=5)
 
-Tesla Optimus人形机器人取得新进展，技术逐步接近商业化目标，推动行业加速发展。
+马斯克称Optimus V3发布更接近量产版本，竞争对手纷纷模仿特斯拉技术。
 
 ---
 
 ### Elon Musk says copycats are why Tesla can't unveil Optimus sooner - AOL.com
 
 **发布日期**: 2026-04-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMie0FVX3lxTE5XZnVSQjc5dlkwU0xFMVgyY3VacjRuTk9ZeTRid0hUbjBmZXJhX0ItWmtSU2d1ZW9IY0FOQUNPVGs3bllGSmltTEVPOC1Jai14SVV2WG9yT1BjQ2V1RVhEdk1xWDlVZ2xQbFVoSUN1T2FYSXVJM3h2RnZFUQ?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE0yalJUOWhqQzV6LU40YWlwRzBWSXVFRG5MbjY1TS1rendTVGNpcnNtLXRyR3ZTbFZvVm1nUFBpX21QcXNld2xuQVZwVjJIT0xxaFhOOUhvS19rRi0yM21feENXSkFQdENOOFcwcWRFSEdLWTBJZlE?oc=5)
 
-**摘要：** Elon Musk称因担忧被竞争对手模仿，特斯拉决定推迟Optimus人形机器人的发布计划。此举反映出特斯拉对技术领先优势的重视，可能加剧行业竞争。
-
----
-
-### Tesla's Optimus Robot Scored the Boston Marathon's Hottest Marketing Campaign—for Free - inc.com
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxQckFUQkluZ01nb2pmLTA0bk14dFNSWmw4aEdIb1g5eFQ0U0RidHZqZW9LVlZNNnRSNHNTZ0x4YXF3dXN6UHFXLXRwcFlMZ0tpNHFYbXczMnprUXNsRlQxVDktTEJCa3lPNmQ3bjhPcnluaW5sd0NLcklRcVhPajVhWlN6aGpzZw?oc=5)
-
-Tesla Optimus机器人在波士顿马拉松展会首次公开亮相，因高关注度成为免费热门营销案例。此举显示人形机器人正从技术研发走向公众认知建立，为行业商业化应用提供新示范。
+Musk称因担忧技术被抄袭而推迟Optimus发布，此举反映人形机器人领域竞争激烈，知识产权保护成为行业创新的关键考量。
 
 ---
 
-### Tesla to Delay Optimus 3 Reveal to Stop Competitors From Copying Design - TeslaNorth.com
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMVF6ZUsxMl9EMVRyUXEtRG5hdDRYZEhueXcxRV9MMk8xSFlmdzRoNHRUM25HZ096THY0WmZ2SW1qcVBrR2N6UzVFS0VtNy1WcERlYWhMQ3gtRXNpazVnU29Qc2ZDbnZuNWJaVEdjbkJyR0Y4VUNBNURqQkVyM0dhUnhmV0lyR084U1dtaUR4ejUzb185NnlsMEhYclhjUG1ZYzlrN3VucDBTdw?oc=5)
-
-Tesla推迟发布Optimus 3以保护设计专利，此举显示人形机器人领域竞争加剧，头部企业更加重视技术保密与知识产权保护。
-
----
-
-### Musk Blames Copycats for Optimus Unveiling Delays - Let's Data Science
+### Tesla Boosts Spending Plan to $25 Billion in AI, Robotics Push - Bloomberg.com
 
 **发布日期**: 2026-04-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxOYkFRbmxZc2hQNnpMM3JLTkhEWHZHdmo1X0FON2VNUkxiYzVrcVVLcXI1MGpDSnUyTmMtdWhobDlnUzhOZEdIZFZFWF9UNWtEaTZoaUhzY2FZUGJJV3BZMm41V2NlM210V195Um1DZzV6S2lGX0dqY2FxT2NsLWJNN0t0THBQYlo4UVpnVHlyVy0yZlMyZHc?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXFER2ZlUy1LUEVSbHlEWjAzZEJCNFJreEFpb3NPbEg3QUtlZl90b1U2VDlrUnM0R1JGTjVaT29JeE81c09XeDdub19LZWJKaHhpR1ZuWThBelRzYkZIV2NLZngwOU1jQ0xuRGF0amRSU2xvSzA2c1NzRkNJTnI1MFpuZmhiOWlwdUN4R01LWU8zVFh3czFfLTFxdjFHZHpkMC1KOERNTkp5R2ZkNlVGaw?oc=5)
 
-马斯克表示其他公司模仿是Optimus延迟发布原因，反映人形机器人行业竞争激烈，技术竞争可能加速行业创新与迭代节奏。
+特斯拉将AI和机器人投资预算提升至250亿美元，彰显其押注人形机器人赛道决心，有望加速行业技术迭代与商业化进程。
 
 ---
 
-### Tesla’s revenue rises again as it prepares for more AI and robotics - The Verge
+### Tesla Beats First-Quarter Expectations Amid Pivot To Robotics, AI - Forbes
 
 **发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNZndnbVdkRGE2TWZHUUlxc1ZzQWNrOHRwb1pVUlNFZW9pRDl0VXNxZUY5cWhEQUFrWk15TFd4SXpnc0VzMG1VWDNpbTFuN3Uza2c0VGItbGxRNVNXM2k3WVFja1RrdExNM1M1RTFSUUJjS0RnYXRqSlp0QjR2Z3ZIVEhhS21mZGVwVWpRbQ?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQUNybW41THRlMnI3czhzbktaOE1BZkZNMGVBVVJTR2cyMDJ2MFBXbkhoTHRDZGVkUS1ubm0wZWdqQ0lyaXhNM0pBWVFVQm1XanhGdnhGR0N0Qmo1ajNZQUtST0Vpc3dsMUJacEl2WVdxYzQ2RkNvSEp5UVVkdmNPcHlXVHZxcjNnZHV1THFnWDRBZVhuNkdtUU9uRnMyNzBrb004dmZYVXhRd3JmaWFzOGJJOU5rNzBEaVhuSG0zdlJzTHc?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNZndnbVdkRGE2TWZHUUlxc1ZzQWNrOHRwb1pVUlNFZW9pRDl0VXNxZUY5cWhEQUFrWk15TFd4SXpnc0VzMG1VWDNpbTFuN3Uza2c0VGItbGxRNVNXM2k3WVFja1RrdExNM1M1RTFSUU
-
----
-
-### Elon Musk says Tesla expenses will rise ‘substantially in the future’ as he funds AI and robotic dreams - New York Post
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqwFBVV95cUxNR2NGRnhsR1Jkb2FSbEw4MEV1bTM4QUlEbjNMd2lnbGZONHl4V2tPcGZrYXRXekV1M0N1UWw2VVFsR2huMHVrakp6OGpWRlRzYk1PN2VjalA5SmpuNzhGeFVPOV9vTVZwWFBtLXdDN3diZlNMQWdZcEFWTkl4RjRPYWszRlpKZ3JNc1ZvM1NlSUlHU3Q1aXIyN1FTcTB4R0NfM0V1dkJhSHM1RUU?oc=5)
-
-Elon Musk称特斯拉未来费用将大幅上升，全力资助AI与机器人项目。这表明特斯拉对人形机器人Optimus的投入持续加大，将加速行业竞争与发展。
+Tesla Q1业绩超预期，全面转向机器人和AI领域，作为行业龙头此布局将加速人形机器人技术创新与商业化进程。
 
 ---
 
-### Tesla Earth Day Campaign Targets Humans, Humanoids Too 04/22/2026 - MediaPost
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMilwFBVV95cUxPN0w4cVgxUllKclBGTE5mXy1FeDFORHBNNXJCZlhHUnozY2t2WEliRmpWUTdIVmU3WjBpXzhNejRFeUFGMldtR0FDSWF6QU5hcHoxR3JWT3ZCdmg1aUJYdC1CZFhlNlBIOGowblNZNWhHSXIwZmVfazM3X050ZVktSE1RakllMGZxUlFkaWozbDFaTkxuM3M0?oc=5)
-
-Tesla地球日活动将营销目标扩展至人形机器人领域，显示特斯拉正加速推进类人机器人商业化进程，为行业发展注入动力。
-
----
-
-### Tesla isn’t joking about building Optimus at an industrial scale: Here we go - Teslarati
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMia0FVX3lxTE41MnZIU3Rla0RsLUxnazJmZURSYUdHX1ViVU4xREszM0dsRW5laGxfdWVpS1ozZy1BUjhwa1FKMzNQeERIemFOd0JLTFFYUHFUU2U4Z0x0a2lhOFhmSmk0Z0lER3FiTmdRQVhn?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE41MnZIU3Rla0RsLUxnazJmZURSYUdHX1ViVU4xREszM0dsRW5laGxfdWVpS1ozZy1BUjhwa1FKMzNQeERIemFOd0JLTFFYUHFUU2U4Z0x0a2lhOFhmSmk0Z0lER3FiTmdRQVhn?oc=5"
-
----
-
-### SpaceX is following in Tesla’s footsteps in a way nobody expected - Teslarati
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxPWW1hZzdqQnJ4T1BuYnhsTl8wbi11YXFBY1lzNGIxc09zSlBpWU95NkJxRFRlckhjdFlISFJGbXNDTHlYUy1TWlNZX3RreWxZcVlUVFJza3lIaG1SMGtTNlJmMUFGalliUEFlU3FicHdZZjhIY01JOHVuTk5HYWljQS1kM1kxQQ?oc=5)
-
-SpaceX正在效仿特斯拉的战略，可能进入人形机器人或自动化领域，这将加剧行业竞争，推动技术发展。
-
----
-
-### Tesla Q1 Earnings Beat Expectations with Optimus Robot Production Plans - Intellectia AI
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTAzQkJvSVYxWllQUmJ4M1pBTEdqUTdrS2ZyVG1zT2FqYUY5Q3pKV0QxNGxvLWJsbTlfN3M4Z0lTMHZuNG9ydmZ6R1A1RWNScE1IOUxaZTUtMS1XYzlpd0d3SGtiN0JDS1owT3F5OHZUbWxyOVJMYngtUkRYcmxLSVNEbUNkMG9ZWDdkOTRzQVlxMVNlQnVpZWNGWTdYUF8yMW0xT2g0NFA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdTAzQkJvSVYxWllQUmJ4M1pBTEdqUTdrS2ZyVG1zT2FqYUY5Q3pKV0QxNGxvLWJsbTlfN3M4Z0lTMHZuNG9ydmZ6R1A1RWNScE1IOUxaZTUtMS1XYzlpd0d3SGtiN0JDS1owT3F5OH
-
----
-
-### Tesla Q1 Preview: Losing The Robotics Race - Seeking Alpha
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmJFV0RPZlRQcDVaQjhDLTJURlVWVkhjdkVTekszeGpBSXlrcDN5ZHZnMkEwenlUMVNncXk4MFlPWnYzVGZYSThUbXljeUQzRTFzX0FMWGR5cHp5cUduQVBMWDU2TWNXQ3BQZ1dFZmhJMzZ1THhGNnVnOHQxd0NXQ1MzUl9keG1lS2c?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiigFBVV95cUxOQmJFV0RPZlRQcDVaQjhDLTJURlVWVkhjdkVTekszeGpBSXlrcDN5ZHZnMkEwenlUMVNncXk4MFlPWnYzVGZYSThUbXljeUQzRTFzX0FMWGR5cHp5cUduQVBMWDU2TWNXQ3BQZ1dFZm
-
----
-
-### Tesla Boosts Spending Plan To $25 Billion In AI, Robotics Push - NDTV Profit
+### 5 takeaways from Tesla earnings as Musk ramps up spending and robots - USA Today
 
 **发布日期**: 2026-04-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjEwaTZoRElKOWhaVldxcXhOVG9hWTRfYXFWOGhUSlcxLW9xTmpBdUhXZzBVZ0NJM3k1bG9IekNEdjRGZUg3eC16R2pIaDdxdk5PZnVzR2JsUktXUnBKdzZSby1ONmdNRXIyN1lUQVBTTmVES09kdXpVb3VFWWVCQUhSZ0EzekRZNTRIMmQ0VEVBMDdkSnEzVi05dldPRjRBT1FvNG01blJzOWJpZXfSAbYBQVVfeXFMTmFfSjJncldCeGZWUUtTSldVM2VsdDNFZUpvOXJwN2FzUDhPWjBrWVpqZTFTc203SU9lUnJuT0RVYkcyWHZQOXBuSS1YOXp4R3ZqVVdQSXNWNjFhclhNbzVVZGdIV3BLTVhxSkQzVDdYdHJtaUVpTFZSQ19jMzB3bnRlX0xQN2JFNXVCcFpyUEVvUTk5cDlGeElIemJmV0kyZXIxeXdzRTNKVTNWOUtEeEZIaUlhM1E?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDZJTDZPOUl6V0hkZm5sbVhBOGZKbFFBNnBOejNmSTQyS0o5NUQ2Skt1YlB2ZXVRUVRXbldmM2lrNGNUZjAtVXM3dGV5OHNjTDl5ZU83Qk41OHpFdEZaeDRuRTFoZEI5MDJvdTZleVlLTHNPWFRJcVJ4eE9hSGNDTjJpc3pBNDdSS2lqd1ZEdHQ4M1pUN0t6c2wwUXhZVG5YbGVidWViUEcyRXIwSTBkemt0VzNqazZE?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMirgFBVV95cUxQSjEwaTZoRElKOWhaVldxcXhOVG9hWTRfYXFWOGhUSlcxLW9xTmpBdUhXZzBVZ0NJM3k1bG9IekNEdjRGZUg3eC16R2pIaDdxdk5PZnVzR2JsUktXUnBKdzZSby1ONmdNRXIyN1lUQV
-
----
-
-### Tesla Brings Optimus To Boston Marathon — But China's Robots Are The Ones Winning Races - Benzinga
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi0wFBVV95cUxQTDVWVHVtSUh0cjhBOHJBLU9UbG5ETHFxS3pKSm94cGdPWEtPc2ZHb3RLbWxrNTBDblJqWi1wRHdxTUc4WVFzeUZ6cmFZczRwR3BfQWREMnVnRXI4bDZGWHRLY2tOT0tCYmdSeklnQmFGVFV3QzlTZmVTZTBfdTRlQWJ1bW9SdzJDbWhwdTFDS0p1ZmtoQ2dBQ25tR1FIblUyeGdpcG9ZYmJwdDNIUERjS1N0Mkl5c3lNQkZja21KazdFdzI0RFc0TEJ3U0RvREVNb2FR?oc=5)
-
-Tesla Optimus参加波士顿马拉松，但中国机器人赢得比赛，显示中国在人形机器人领域竞争力增强，可能影响全球行业发展格局。
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZDZJTDZPOUl6V0hkZm5sbVhBOGZKbFFBNnBOejNmSTQyS0o5NUQ2Skt1YlB2ZXVRUVRXbldmM2lrNGNUZjAtVXM3dGV5OHNjTDl5ZU83Qk41OHpFdEZaeDRuRTFoZEI5MDJvdTZleV
 
 ---
 
-### Tesla to introduce Optimus Humanoid Robot in India at appropriate time: APAC Chief - ET Auto
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxOQW9aTWNwaXRBbzYwU3ZNSDUwLXFzcThXVGtZNWVrRmtlQXlEbTNzX05taW0tU3hPdTVyTWEwSU5jYlRuMUtrbkp4Q2thMWpMakw5U3NiUUVhZ1M0Q2pSeEpMM2JTUll6TTBZT2prQ3RkUUw3YXNPOUFtLTJXYnlDZ0F0N1dxeVdLb2w3a0FFWFhtb3VCMUg2Zmtkd2FoM2R5cU04UXRKSWJEalYzYS1pd3E5QzdjMjJWVHJBekVQdVpOZkpnR2Y0blBRY9IB0AFBVV95cUxNSUV3T1NFZjlwTXpTNUV4UHgyWm5JQ1BoMGNoSGpPd0N1VWwweW85S19wUDBXdFR4cHZqNnl0UFNDZDlFOEVTUlIzZUhfai03SGY3bmU3QXBHM0k4NlhMVEdCd2JqaWFTbE9HYkwwcDZ2OW96bjM5WHppaTFNNldQZEp0aTNtQWdISjFBZnpmYlVsUXppdTlfY2Y3bWlhT0RUMm5wR0ZHNXRxeGlEb2h0VjcwZnZYc3FPQS1EeF8yVkNRSWg1Q0pQSjZWdUFTd3Zp?oc=5)
-
-特斯拉宣布将在适当时候在印度推出Optimus人形机器人，显示其加速拓展全球市场，对推动人形机器人在新兴市场的发展具有重要意义。
-
----
-
-### Here’s what will really matter to Tesla investors when the company reports earnings - MarketWatch
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxNNk9OcUNTZFZ4TGJ0WFR2NjY5ZmVSTkNnWHhoTWhXVGFMNW9wWmN3Vy1PNDh5blhDbHljbzFlZmpaVzJJODFxZTd0UmluUlUyZ1MwUHBMcW1kc3J5ZE1ZU21UOWVUa20ta3ZORS1oTEZ2MVQzWWtmUmlDbTk0RWZGSDZCeS13WG9CX1lIMHRORWtBU1hKRzhZT0pock5pekF4TmQ4cjJNcXlzMWxhSC01V3lYd2MtQTA?oc=5)
-
-特斯拉财报将公布，投资者关注
-
----
-
-### Why Tesla Stock Could Double as Optimus Reaches Human-Level Proficiency This Year - The Motley Fool
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxQUGNsMXB2UDlxSTMzdUh5T0tqczBuN0piRWhQd1pldkhoWGtNd3o5N1FZRWhRRV9kTGJFX3BiTFd4UUpxX0REb2cwOEJrd25ld1RuTDJzWTJrbmJLcV9RMmVzRTlZYmR1S2ktUEJQbnlnYVdzc0lULWpZaW9oUnE2MnY1Yzg2V0RXN09ZY0tCZzBvTXdSQTB0Qw?oc=5)
-
-Tesla Optimus人形机器人今年有望达到人类水平，分析师预测将推动特斯拉股价翻倍，标志人形机器人商业化进程加速。
-
----
-
-### Tesla Pre-Q1 Earnings Analysis: What Matters More Than a Beat or Miss - TradingView
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmhUWnJXVUFOazdUVU9KRGlVajdXWE9aeTREU2FsSGxTdTdIcE1Vc0phcWNVZlJkWXRvVDktaW9IcjFNYmxQc2V3VVBvWm1vX1hRU292c0FPRzJEVkwwY0VXRW5ocEpzeTZ0OHdRX1RPMHZEQlR4aWY3X21yT2J1aFhhVmlLZzZnbnN5ZDJVZzVfbU1TcGNuSFVFRXRUei14cUVoQ3VkZlZkUThZeTExSHFaNEJnSkVOMjhUUHl0VnY5dw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmhUWnJXVUFOazdUVU9KRGlVajdXWE9aeTREU2FsSGxTdTdIcE1Vc0phcWNVZlJkWXRvVDktaW9IcjFNYmxQc2V3VVBvWm1vX1hRU292c0FPRzJEVkwwY0VXRW5ocEpzeTZ0OHdRX1
-
----
-
-### Tesla (TSLA) Q1 2026 earnings results and conference call transcript - Shacknews
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemFhWUYtYTI2ei1BcUNrVjlvWWZLRTc4TUZrX2ZQOWlJOUJoZ1hfX1JTQUVuejF0cDY0cDE5OUI5bUVxS3dCMks3eXFhX0Y4Qy1tMTFKenhIUHFpc2J1UHBvUFN2VEV0QUV6Q3NncXRMNlNpelU5dWg2V2kwNTZvem16WjVzZ2RaaWlN0gGYAUFVX3lxTFBDOFcwOGVPMnY1MzVvTWNFeVRJWjYwZ2hydS1SMGE2Qjg1RUZJd01wak5ITEtOb3htOUgtdngtUUR4VkRCYjlPSnFTU1hRRFJtR0VOU2lPLWZhdWlWV0otZnJMODdKTERYWTZIcUtxMklsMkVyaFJIQlA4a0xDa2s0c3RKMDlvR0N6aVdGbUlHbTNwOGZwRDVW?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxOemFhWUYtYTI2ei1BcUNrVjlvWWZLRTc4TUZrX2ZQOWlJOUJoZ1hfX1JTQUVuejF0cDY0cDE5OUI5bUVxS3dCMks3eXFhX0Y4Qy1tMTFKenhIUHFpc2J1UHBvUFN2VEV0QUV6Q3NncX
-
----
-
-### Tesla beats Q1 estimates; stock falls after Musk tempers robotics, FSD hopes - Investing.com Canada
+### The Bill for Tesla's AI Expansion Just Keeps Getting Bigger - Business Insider
 
 **发布日期**: 2026-04-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxNY0ttVlA1aFY3aENvZ1NZVFZaNWt6dXo3VzYtc0JxOTd3blVEdDYxenhkbk42SUE3OFpGY3hscjBvanBjNTZCWmJIWmlELVcyTElsdkM2emVyNlZsbDNXQUp6WnNvNy1XQV9wOTJqUTJnZ3cxZ0pDUS1FVGIwZmJ4OU80YUFmLU4wZkFlS1d0ZllxazNIb01US1RPVFpCY056aTFVVXhtb19LUjRBWFNXVzFCeWd6QkROSG5nbHZaWEdpNEM1b2c?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMingFBVV95cUxNWTFXRkpsQWhKb2NWVDdENF9qOW5TdlNpTTBuNmNXSHl0Q1owWmFSTDhJMTRfWUlFVUhRUEFTVDJuU0o5V2RIaVAyMnVnd1pGeFJZb3JubndqaTFJakt3azlVNzlPU2xSV1FxWGpWLXVWTE5iYlg3WmtXVTdTdU1mRVlUVW1ZanJSaTFMbHh0SGJ1M0ZSNll0WjYwM29adw?oc=5)
 
-特斯拉Q1业绩超预期但股价下跌，马斯克对机器人和FSD预期泼冷水，释放谨慎信号，可能影响市场对人形机器人行业短期发展预期。
-
----
-
-### Tesla Q1 Preview: Robotaxis Could Steal The Show — But Investors Want More On Optimus - Benzinga
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMUNTYmxDNFJISUZqY2tMNWt3UC12ZHU1VGkwVjh5UXdTX09UQnNFN2NkcWw2UC0xNjJwdW52b3NFeFpQOVExRktONUhwaGVMUVZhLUNCVHQ4QURGMU5EUHhQRmRZdldQenBMZXNlZzVyb2s1TjhGWTE4cERyRGgwRjNNWTFlWnlERktJMm42bHN4c0h4azA5YlZDNEJZWTFDNkFKN2psdm1sRHR5dGJ2cEtiMmJBMWpCSUxlb3RvOGtzcGxnWnptRTVqTmlqaHNRbU5xX3FLQVJuaC1LbXc?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxOMUNTYmxDNFJISUZqY2tMNWt3UC12ZHU1VGkwVjh5UXdTX09UQnNFN2NkcWw2UC0xNjJwdW52b3NFeFpQOVExRktONUhwaGVMUVZhLUNCVHQ4QURGMU5EUHhQRmRZdldQenBMZXNlZz
+特斯拉AI投入成本持续攀升，反映其在人形机器人Optimus等AI项目上的大规模扩张，加速行业竞争与技术竞赛。
 
 ---
 
-### Tesla first-quarter revenue rises 16 percent as AI, robot investment burden grows - 디지털투데이
+### Tesla (TSLA) quietly discloses $2 billion AI hardware company acquisition buried in filing - Electrek
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMinwFBVV95cUxNNDUtbGVCWXhpOG9KQy1walE3dE9vNjhLb2JQMmlmOUJyS2h1d3RWU1ZaZ2FkY05rMFJCN216bzZWbXU1VW8xNmlOdmNyVTVsWHQyN0ZrWnBRY0l5RlVoTDRMVmc5SkF3a2ZKNHdWUGFoMTdGNjdDblQzQ0RmS2xpMFBGXzB6RXVDT2kxU0JIQW9KU2VGbjBGbVZqbTBCNU0?oc=5)
+
+特斯拉低调披露以约20亿美元收购AI硬件公司，此举将强化其人形机器人Optimus等项目的AI算力布局。
+
+---
+
+### Elon Musk delays Tesla Optimus reveal, cites copycat fears amid global robot race - Firstpost
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNaWtxMlpOMDdFYkQwUndqdFFjdTN4QlZDMThEb3ktaWZiRWtMZXAtLUhTMk9lMnFLUzFWRnlwcTdnVlhCREs5VHhUUW9FNmthZEtfRHE5YWI1d09EcF90OE1EWkpHSzZmTGVlS3lWQ0tvU1lCZDVMbGtHeFpIS2o0NHBEN01ZenYxWlpVbUY3dGJ6ZEo2NXhZclJjbGNfYV9KV0JrUThmSTdheGtHYkZyZGpCZkI4SGJOR1lmdHhvZldXUVXSAcgBQVVfeXFMTVdlVmtQQlZQUHVVZUwtNlNqaGNmN0JWdmVla3Mwa01WTXBrOXQ1UTFGcTJaUWs2Z0tYVjJtdnlLT3E2TmNldUlSM3cxX1l1QkdDb0ZYaGR2NXhSYzBlT2NST09VQlByQVhtNmQxeHlEZDdGd1luNlZta0pfMkRVY19sN2I1akpnZFpDMTVUWWd1RHBRbzFuc1JkcG9lUWQ1eVo3QUhFTF81Si1yN29LMlVJUUNxWkViMkl1cmhCUFZtSHNvV0x2MTU?oc=5)
+
+Elon Musk因担忧被抄袭而推迟Tesla Optimus人形机器人发布，反映全球人形机器人竞争加剧，行业技术保密与抢先布局成为新焦点。
+
+---
+
+### Tesla again postponed the presentation of the Optimus V3 robot - Українські Національні Новини (УНН)
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijgFBVV95cUxOUHI0UlFLaG9SN3lLM21XeEEtUjFlNnF0Q2s3ZkI4OTRVMGRMNm5vZmNVd0swWTFFWTVaalVCMUY4MjhLOVQ0M3hHRXV2MDFIc0ZjVHVvaXVRNmEzSllOT3BwQXQwcW92blk1Tm1wYmtHU2I0blBzVVgySkVmVXozTEV3eG5wajlZX0d6Rldn0gGMAUFVX3lxTE5QZkhwdGR2eWJRTmVwNUYtRWs0NzhFbE1kdzNfUzB5UmhGZ2lGbVNjaTlzcy1CNmt0XzRvYjZINnVMMFRiTl9uRW5QV3ZRVV9LN2JNN2pfZlJ0Q1pxdXNpcjdETWptc3YzV21DQUlPOFdwUUs2TncySXUwSk85c3dmdERxd2FNNm96aGRR?oc=5)
+
+Tesla再次推迟Optimus V3人形机器人演示，反映出开发先进人形机器人技术难度大、研发周期长。这对行业而言，说明成熟商业化人形机器人仍面临关键技术挑战。
+
+---
+
+### Tesla Officially Announces. Third-Generation Humanoid Robot to Debut Mid-Year, Mass Production to Start in Third Quarter - TradingKey
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0RmRWFOWENjTHFSdlhLb28zSllJTkZfbl9LR0R3amRwM3dSSmRNYkZrbHJvaGJvTXFNWlZjek8zREtpbm5FQUVya1ltLVFWN3I3c0dPOV9HeDZZZ1Q2dGR4TXVFVE9vQ1J5MndURUoyemV0dGt0eEZoak9qcXFfVk80clhyd3RYUWs0cFF6UWFqX3NDZzBua1BzTlp3TUpvQnBma1dDLW8zNFdqTUZqczI0UzFqbHVTRjJhd1Fzd21PUHNs?oc=5)
+
+Tesla第三代人形机器人将于年中亮相、三季度量产，加速行业商业化进程，提升技术成熟度标杆。
+
+---
+
+### Sky News Australia. . Sky News Business Editor Ross Greenwood spoke on the recent announcement made by Tesla Co-founder and CEO Elon Musk regarding the production of the Optimus Robot. - facebook.com
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNekh1ODRzd1g3TFM3WFlWOU1tTFNOd2xSUkVmOThxSGMzUnhjYW4weDdHQXdCTmJqbzhjdE9Ldmh0NGVaTkNPbTV4SW9aV3dIQXlvbUVWWlZuTkJHYTFIYjJKdnVlS09keGl5eXRaSnpvdUFNclk5eHBLQmFDdlpHelZ5bFhmMkQzMTJzNjhhTjNGZ201V2I1UWpWckZ1MGtKZU1vdGdfS0JieG4wMHhPSzhrRGdSaHhlWVBJS0FFLUNBajZkNktLMzZrLXFrWkxpak40bjFZNGNLNEIwal9N?oc=5)
+
+Tesla CEO Elon Musk宣布Optimus机器人生产计划，Sky News Australia商业编辑Ross Greenwood对此进行报道。这标志着Tesla人形机器人项目进入新阶段，将加速行业竞争与发展。
+
+---
+
+### Elon Musk turning tons of dirt near Austin for Optimus factory - The Business Journals
 
 **发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxORlpHOWFOZGRPOEFCNWt4cmFUSU1mb1hncjlJdDV4dWlKQjdlNEtuN2VVWlMtWDNTNlNyYTZwdU1oVllhUEdrV0d3R3FVVm5QbEJoZV9MRHlqXzlWR0pmcDhuZmQzLVVOLWlVeG9INDBuMGpzdzdsdmFSQVl4cW1XRW1WbDFtOVZHajR2Z0pwT2JpU1RvdWxMRXBaMDJOWngtZzQ5M2sxRzFXdE1h?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxOaGNaSUU3Zlh1X2pQOVE1TU9jMUhqcGN5NEJoRXF1M19iQmc4cnk4bFpIZ0U4YlYzNmx5RE5ldEIybElYY1ZJS2VxczVwVHVRWnM5OW9fNjRCOXZ3TU9WZEVSRF85Z2hDWEl5QUI4aXY5NHk1UVJkZ2hoUER4UnJGalZiVmdNSzBWYjFqTDlYUHZTWGhTVTltemp5UVlsRGJFV1E?oc=5)
 
-特斯拉Q1营收增长16%，但AI与机器人投资负担加重，显示其对人形机器人领域持续投入但面临成本压力，为行业发展带来不确定性。
+特斯拉在奥斯汀大规模土方施工，建设Optimus人形机器人工厂，标志着该项目进入量产准备阶段，推动人形机器人商业化进程。
 
 ---
 
-### Tesla posted a Q1 beat while its core business wobbled - Rolling Out
+### When Will Tesla Bring Optimus Robot To India? Here’s What We Know - outlookbusiness.com
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxQckV3Mno0aldkbmNRM3BaeVpUX1pmY281Y2Z6Q05YRVVZZkw1bXpNLUJ4VkFIS1gxN3JTSFhYakRWU2oyQmwwQmt4NmxvM21nd2tTYVJhMlE3eWNkZC1wMGdZWjMwcnRwcHpGWTRmdmUzcU4zRnZRY29oeG13VGtEMGtCSXdFNWZDczNoYTNIck01Tm1hZnF4eVpuSmk0ZmdFcm00ZEYyWldXVjY5RDA2NjdMdVh5ZEHSAbcBQVVfeXFMUHJFdzJ6NGpXZG5jUTNwWnlaVF9aZmNvNWNmekNOWEVVWWZMNW16TS1CeFZBSEtYMTdyU0hYWGpEVlNqMkJsMEJreDZsbzNtZ3drU2FSYTJRN3ljZGQtcDBnWVozMHJ0cHB6Rlk0ZnZlM3FOM0Z2UWNvaHhtd1RrRDBrQkl3RTVmQ3MzaGEzSHJNNU5tYWZxeHlabkppNGZnRXJtNGRGMlpXV1Y2OUQwNjY3THVYeWRB?oc=5)
+
+Tesla计划将Optimus人形机器人引入印度市场，反映其全球商业化布局加速，对人形机器人行业具有拓展新兴市场、推进规模化量产的重要意义。
+
+---
+
+### Not a PPT, but a production line! Tesla (TSLA.US) Optimus robot makes its debut in July, with a million-unit production line starting in Q2. - 富途牛牛
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxOcUpvUjZuMFo1cW13NnhlZXhWUEhCMF80NHlwWDZTdWpJeUpsOTM3eDFJenM1WHJxaVc0TEZHNXRIdVhwdVZVUXhvTWtIQjlUcXhSREtBZ29pZ011YjdKcUt3VnhYYWxjSDJqOE5XaEZXNHhxdnVvNzl3RHk2Q3FMenBGWDZRMGVqUTI5M0xadnZsV3UtalBPVg?oc=5)
+
+Tesla Optimus机器人将于7月正式亮相，第二季度启动百万产能生产线，标志着人形机器人从概念验证迈入规模化量产阶段，将加速行业竞争与产业链成熟。
+
+---
+
+### Tesla Rival Xpeng Targets 2027 Flying Car Deliveries, Year-End Volume Production Timeline For Optimus Rival - Benzinga
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi8AFBVV95cUxPNGxaTFM2VHJqY3Q5ZmtqbmFWY0VORTc5X0dIeTl0dm01T2wtam9sZXN4blNXdklIVldwMkEwYW1BVFBfaFUxWjF3ZTlGS2hYRmVoNjA3QVVYVVZSOUlUSU41OVZOYk9hQ1dJMExwRWltbjZJQjFvNUpoeU91NmJvY2ZhbkJoWHdORXRsVFMwdUF1SHVUUnhlSi1FMkVmZm9IM0JEVmlhTXUzQ3Mzdk1OdDg3aEM4VjMxbk93X0prNHVDN3lPWUhuMHpMN2JSZy1IY3g3c0tUdlVjVHVBUHBucy1NazlUUDFhTDN4QjRwSnA?oc=5)
+
+小鹏宣布2027年推出飞行汽车，年底实现对标特斯拉Optimus的人形机器人量产，显示中国新能源车企加速布局立体出行与人形机器人赛道。
+
+---
+
+### The bill for Tesla's AI expansion just keeps getting bigger - Business Insider Africa
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3hUN1J6WTB1eXNWR2h0Z2U4SkJXQllQbHRWZkhXSVpnRGNicWpmS08xT2tTVVNhOVQ4ek02bDREQWxlVlRJb1Fsal84ZGUzNE10Uklrbk9TLW1YZE1lTU9ucEUxbmFhU28ybXJTNDZIMnJQU2tycWtYNHVMbnZ2bUpQX1lkWmlpT2xEeFBMeWU4dkpyUVNFd2toeVo3aFJTOEpObGRKZjZGdw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPV3hUN1J6WTB1eXNWR2h0Z2U4SkJXQllQbHRWZkhXSVpnRGNicWpmS08xT2tTVVNhOVQ4ek02bDREQWxlVlRJb1Fsal84ZGUzNE10Uklrbk9TLW1YZE1lTU9ucEUxbmFhU28ybXJTND
+
+---
+
+### From labs to living rooms: Will Tesla’s humanoid robot Optimus come to India soon - Fortune India
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMixAFBVV95cUxNTnk1RmlBU29qQXA2NFRVc1ktOXp1RUxvUFJsd1NaVzAtTUtQejZub0FvY3NDNUhxeGdWX3VBSEhTNk9lN2w2cHpaaUVPajBNNmJUeEc3MC15aHZJU2ZQYUl2NEJNY1ZxbjBaalhXTkV0ZV9PZlk0ZlA2bWV3Qk9vbUplTE5WckxsVFBwY0RlUG5rLXpKY0VaU1F5TTJRcUhrUW0tb21VamxRcW1SX1VvLVNONWJyMmNyWFZsbHVZM3E4VU5F0gHSAUFVX3lxTE1LQmliN1JaSDJjYklIZVgzZGlfSXRNSXJMLUFkVGxocGxfTWNEZmpnTzhWaFJ0R2M3X2I5NnNuN1dIOHZJZnhUZXNGNi1lTDlQMHN4TUJuMmhnajN5Z0pIRnFWdGFXSDVLQl9XOFBlSmg1QTZMXzQxaEI2Nzl0VnVZdDRaNmJQd1lHMGFKRUgybHg4bkJtcUNaRU9YcXRlOERyaHNfLTJSYXcwLXVfM0I1RmV6R2dNUTBydE9uT1o2ZHBrQV9lUkJWbWlZdi1tQUFhUQ?oc=5)
+
+特斯拉探讨将人形机器人Optimus引入印度市场，显示其加速全球商业化布局，对人形机器人行业进入消费市场具有风向标意义。
+
+---
+
+### Tesla's US$25 billion investment push signals shift to AI and automation - digitimes
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxQSjBoQXdWRS1JQ3JVN3Q1WXM2OFdWQXphQW1xOC1qWVhRcGFYQW5mcmVlWURxQkp0c3p5ODJPUTMySUxmV2pUY2w4dnhRU0xZN2wzYk5uN1JEZGZkdExTRWxFOXRtWEhHTWdlMXg4S0YzdnljdnNmajlLMlNlYXR0STJPbVpXY1E0Y25kQl93a0RTLW1abU5lYm1WYw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxQSjBoQXdWRS1JQ3JVN3Q1WXM2OFdWQXphQW1xOC1qWVhRcGFYQW5mcmVlWURxQkp0c3p5ODJPUTMySUxmV2pUY2w4dnhRU0xZN2wzYk5uN1JEZGZkdExTRWxFOXRtWEhHTWdlMXg4S0
+
+---
+
+### Elon Musk responds to reports on Tesla partnership with TikTok influencer Anna Malygon, ‘No idea who ... - MSN
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMilANBVV95cUxNMHlFb0RjU2FyVTR1VUhWMmw3TDR4dWpuU0Zrc2V2eG5kNEdlS2ZTc2tkN0pLc0kzcjdodTRMeXlPUjVaajREdkFYU3hWcFk5bXFxWFJCODdDeFk2NXlrQjN3LXJ3cUV5bW5aTmR1dVNCalRxVGtmQzBzVzlXZmYzSWlLTlNmZHF5RHlpQUtsV0RvelN2MU9wUjBnZFBjQ3RXMld4Q0pNX3lnWi1QTWlJWWZfa2twVXE5ejhBU1FIYVNkRG42VE9GdU1IWXJjUEpwa2xwZkJ6R3NmZlhBVnRWamhLSHhQc01CTzJIWFN5T1E2VTl4M1Z4S1pmcXJtQUNiZFFfOVBJZGtlampuRU9UdkE2YS1TZ3ZXaXlSWDJRckZYUkQ4UVBoa1NaNENqODFMVjc2VWdWVVhyVUEyV0pnaFhabDZoRmZZUWtYQWFfZUNaTEdTeTZ2WW10Mm12ZENkOEplMnBLMkFpc3NHekk1RUdHX0ZqbWVJWXVfcU45UkhhOGNJR05TRHpEc21UeHN5S2dyUA?oc=5)
+
+Tesla CEO Elon Musk否认与TikTok网红Anna Malygon有任何合作或了解。此新闻与人形机器人行业无直接关联，不影响Tesla人形机器人Optimus的发展计划。
+
+---
+
+### Tesla to spend $25 billion in 2026 on AI, robotics and expansion - Storyboard18
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZjRMclNPdDVEOHN3V09DRGZNWENMVVdkR0Y0RURUWnF5MlFyaHI5ZmVNQXljMUN4NkFCbzZ4V2xzUnlNaDMzdVQ3Vjhpbk82QWJoZXFfNU4wa3VHTE01NUpHRE8tS2ZBbEtUbF9rZ3JKeWQ1VXNVcVFYb2l2SVZQUlFNT0lkN2xpX0REakhaSjJNaHU5SUw0Z2tZdnlVaTM3cGVkcGJsLVlESi0tdGF4R2ttZUstNmVR0gG-AUFVX3lxTE9sRjhDblV3MHBkVUJqeUg5akpic1doMm5iVkM0SFUtXzBmSXVVbm44djBVVTFQU1kwalFJWERRSWtaY3lhUHJZMFBQSDZGVlZETVhaS2Jjbm5RcG9pMGo2T1RyQTVnc3pyQldBNkROMGZWaEJKVGdUb3ZWaDl3UzZNYzhfQlhMb2NCWDdMX3Y5cUwzVFAwc0k2dlRjR0laMUdveFUweXlnSFF5ZWUtcTZhOE9KMXJjTWdpTWp2Q2c?oc=5)
+
+Tesla计划2026年投资250亿美元用于AI、机器人及扩张，显示其对人形机器人业务的重大承诺。此举将加速行业竞争，推动具身智能技术快速发展。
+
+---
+
+### Hyundai Motor's Q1 profit sinks while Tesla's rises amid tariffs, currency swings and global tensions - Korea JoongAng Daily
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc3Rhejc2ckVsOU5TNjd6UFNUbjAxZHBNQ0lZQ0JQUjhNYW1nM2N6cDgyUmxJZXVudl9tMnEyZW9MTEd4MWhscGxFUTRJNDI4ZjNVRmszVWFuRG85am9nZi1zQ1ZsUjNRdGctc2xha1hTSXZMWEY4X3dDUnN2bEkxVzVFYnRsdlFhRnpsQzRDQlJnSGFvWm1Eb3huNERiYktiaE5CSXpYRUpFQkttVWlKNE14V19jS25NcmxEaDhJRnhybDBDOWd0Ni16UElKYUZwa2xrdnJCb1VtOXVHbDh0NXF0Zm9YUV9tZTVxNGNPdWFwbXhkVDgzeHlyRXhfU1RrOGNkRTd3UlQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiiAJBVV95cUxNc3Rhejc2ckVsOU5TNjd6UFNUbjAxZHBNQ0lZQ0JQUjhNYW1nM2N6cDgyUmxJZXVudl9tMnEyZW9MTEd4MWhscGxFUTRJNDI4ZjNVRmszVWFuRG85am9nZi1zQ1ZsUjNRdGctc2xha1
+
+---
+
+### Tesla will bring humanoid robot Optimus to India at appropriate time: Coofficial - Mid-day
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDhKcHFtTlFaRnMxc2tHTndsZWZsMUpMTVlteUo1TkxxLUM4S01PRkxKNnptdlJiMVpwYlRJMEl6NGNqUDVzSXUzUEhOaWtqZzEwZnR4dkF5dElJWGtsQlZvY2hKOERBVUFmSm9kd0ktZTJ5cklZWHRYWVdmTU81OG43NWp3eUFIWDZsTVNOZXF2WDR3NU1FMy15U1dQdjJFWE1BVWZROVZYYlMwaXBtTTFSTGtSWEFKd1dHeE44ZFJhMnE3VTg2cnlNVWhsSldCMVltNm5DQ2RCY0Uy0gHiAUFVX3lxTFBCcG96TS1FZi1pVHpwSGpVZEFab1Jyc0Vrd3ZtRm1Ja20yUFI1dXl3Sk5FcFl1QUx0NkpINUlpZC01ZkloR2xCS0F4OEZWNUxTQUVXbUsxXzh3bHRNUUVGNTJ4elZzQS1pWWN4bm9meHF5ZGlERWZNbjZwamk1c0gxY2d5enp2ZWxTaEVSZk1KYmhaWUxpNDZkTUZHazZuWlhrZ1RERXRDR3ZCTjBYVFgzdHJmYTBJT3JCOFYtV0tJMTNzZUZqUkZsUkVHcm1Lb214Rjd3SE8xMFVIeDJfOWd6SEE?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMi3AFBVV95cUxOeDhKcHFtTlFaRnMxc2tHTndsZWZsMUpMTVlteUo1TkxxLUM4S01PRkxKNnptdlJiMVpwYlRJMEl6NGNqUDVzSXUzUEhOaWtqZzEwZnR4dkF5dElJWGtsQlZvY2hKOERBVUFmSm9kd0
+
+---
+
+### Tesla stock reverses course as capex hike offsets Q1 beat - StreetInsider
 
 **发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE5RT0JRbElzaXlQZFJ5U2JwRklLR3BXN3hJYmNncVFuU2hzSFJodEpJWC1KTndsMW5BbUlKd014TDhGSXctMlNOVWVyR1FhdjBvdm1paEFfOUV0dXlFeW1weUIwYVpmTjN1OGVQQmpucnU?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3FDLW5BT285V1hiRkFzR2hZNU54TFBQa1E2ZzlvT1FpUFI2NWQ5T3JQZE1hM1U3bWZiRElVT25ZLVk4NWd1aUVfVzhmWE9NTG9udDNZRklGNlpMOWFpbjFqdjBBcmZ5b0hIMTFudDhJVlZMVnhid2dtUHlTZ0FfXzhmTGcyNFJUbWxFbVZfMl9NaWpRcnZ3RTN3TnlDYnpiR0wyX1ZXOEJHTmstdXkw?oc=5)
 
-Tesla Q1财报超预期，但核心汽车业务动摇。短期或影响Optimus人形机器人研发投入，长期看需核心业务稳定才能保障人形机器人项目持续推进。
-
----
-
-## Boston Dynamics
-
-### Google’s New Model Makes Robotic Brains Slightly Smarter - The Information
-
-**发布日期**: 2026-04-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxNXzc4aERvTDFyY3VoS1ozT0xuT3htOHRGN2o5dG9hZ0JxRGJkaHdDcG5qV3NnUlpHX195MzEzZlROZFlLRF9VdTVLY1JZdUNMelV4OHpSeTlTZmoyb0Ntdmh2bFpnQ3VHQlpZNjQxTkpVakozSEJtcVV4ZFlCZ0Z0bHlZMHlEWFVkV2s1czhENGV3eXA0dUtuOVI1WHZXdnZNLVpOMUFoY1p0c3BJ?oc=5)
-
-Google发布新AI模型，提升机器人智能决策能力。这一进展将加速人形机器人从执行预设动作向自主智能决策进化，推动行业向更高智能化发展。
+<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPM3FDLW5BT285V1hiRkFzR2hZNU54TFBQa1E2ZzlvT1FpUFI2NWQ5T3JQZE1hM1U3bWZiRElVT25ZLVk4NWd1aUVfVzhmWE9NTG9udDNZRklGNlpMOWFpbjFqdjBBcmZ5b0hIMTFudD
 
 ---
 
-### Automotive Robotics Integration - Trend Hunter
-
-**发布日期**: 2026-04-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMidEFVX3lxTFBDTkZPa2lqbUNqSkQ5X0liLUlQT093TDZqMVV6ekNrUkNBUnpZcHNvUUNQSW5FaEFFNzhFZkxEV1FKMlc5cmQ3MHJCb3IweGhJTHFnXzd0cTZsYVNURzU3ZXZyTjZURFFvRDl6N2ZvTVJGUUd10gF6QVVfeXFMT0FRSTBrTHRwWXFWZ1daR1VkcjFDblBxLUp5cERsckE2MWdiUW5sZ3R6RmtkZ0dCVHRNTGY0ZC1abmJCbUdsLTlCSnlIRnFDZTlsUnlCNnJqS1lRMXBIbmJlU3BEczJPdnVSTkV1UF83aGhSZGhCU0pWNFE?oc=5)
-
-**摘要**：Trend Hunter报道汽车行业机器人集成趋势，反映人形机器人在汽车制造领域的应用正在加速，为行业带来新的市场机遇和技术发展方向。
-
----
-
-## Figure AI
-
-### The Steel-Door Warning: Why Humanoid Robots Are a Nightmare Nobody’s Talking About - Yahoo Tech
+### Tesla profits rose in the first quarter as Musk teases debut of new Roadster - Gulf News
 
 **发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEJzdXdGc19ndXBYRkhDbVpxRlZIMG1rWHBFUGRYbjJxRmxjX2thWUJibTVyVnN5aXpJWnVRT0w2eUM1ZEYwTkZOOGV6T0dRaXY3QTJQTjh1b3JieWNuc1dsMUtEbUxZYzlqd3FBU2ljTFRrTU45cnl1bDhZcUU3cm83RnRscnBr?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1dRMWZKUFNncGs5ckxXYkpxb29PMU1DYjFMTERTZFFEenMwUHREMWlHazNEYnNvUUZzbXV3Tnd5alRHdnZadVpNYzRpekZCSk9pMGVSSVI0STBJOGtpLTJyV0JCdVZ3OG9JY3k0TTc4WjJ5VWxPVHJCUU9ZeTZkMUFtNm5MbjJEeXM5cUlLU0Viem8xdF9Yb1FTbTJPR3ZfNjA1OFhMYXJvY1BxYmM5SHJibXBUNHZhOGdNRjg0aEpQd9IB1AFBVV95cUxPSHRrcWlqQlgyOHctdGpZckxaaDZfaDdzeURmM0I1cS1zVGxZb2huTFB1SzM2M3VFQUlqTmZURjZMUVpSLXYwRFJPRUN5aERIa3h2Z1B0ZXJhemFTU05ReEdwWkFicmF2dUo2Rk9SRnMxVEZWaUxNVXR1dDBBb3ZSbHV3bGw2bmFZYUlMV1dYcFp3UDdiNjFzTXRMem1KSGFIN1FlSTNwNDJ3cExkQ0JrNjFUSm1YNFBTcTkyY0txeHhXRzU3UDZVS25HOXNoWmtlSkhUMg?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeEJzdXdGc19ndXBYRkhDbVpxRlZIMG1rWHBFUGRYbjJxRmxjX2thWUJibTVyVnN5aXpJWnVRT0w2eUM1ZEYwTkZOOGV6T0dRaXY3QTJQTjh1b3JieWNuc1dsMUtEbUxZYzlqd3FBU2
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1dRMWZKUFNncGs5ckxXYkpxb29PMU1DYjFMTERTZFFEenMwUHREMWlHazNEYnNvUUZzbXV3Tnd5alRHdnZadVpNYzRpekZCSk9pMGVSSVI0STBJOGtpLTJyV0JCdVZ3OG9JY3k0TT
+
+---
+
+### ‘Biggest product release ever’: Tesla drops car production to push Optimus robot release - The Australian
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi-gFBVV95cUxPUTJ2bURTM1VCWF91R3FBRl9aZVJxbzdvMGdoVEVQUmJRWk1ZZjdVbWpNRi1MVHZwUjNjcjhCUE8yRXVsSzRjN040d1B5OHdsMWxhUGxIVzJwbG94WnNBdEVTZEhqNnJpUGJZN1N4Q1hqNDRkbUtDU2p4QkNXSHRsQnctR2JTX1JPZHJzRndqZU5JanQyMHc2M1U3aExvc0xLdXl6WkVsOUNvM3ZGeXFOOFlHWFFHX0lST0FvcHRQSTBEOTdyWFJSZFlfUW1mNHFlZUxyZm5hUVpKeGdSSmJ0YjJnY2ZtMEoxN3U5dFZJTVBTZnhQQ0NPcFV30gH_AUFVX3lxTE5RMkdaMk5GZVpadEtmSzBYZzlYWl95cDBPalBOZ1ZSamF1bzVpeVZOUFIwSzQyNENhQnhxMzBpUzV2bXd4N2E2MVFvWllVaW9VbDVVS2ZqVUJtckI2NnB3alVzZFFtM256TV9PRl9TQUtMelNCbmp6SlFQMUhYN3AxYkdMR3VENEVVclE3ZnFLMEdpZlBJbnFpc2FuUlpYLTN2MXRLOGtQQ2NYOTNCQloxYWRkaVYxcW1mc1k4azNQWElQdERjaEcxR1ExNFhBNzlqbDFLQ2U4cTBiMlp0RkR2Q2FOZzljZHBvWmlGTklKQlpsbmZsLVZ3WUlxZ054OA?oc=5)
+
+特斯拉宣布削减汽车产能，全力推进Optimus机器人发布，称其为"史上最大产品发布"，标志着传统车企加速向人形机器人领域转型。
+
+---
+
+### Tesla Pre-Q1 Earnings Analysis: What Matters More Than a Beat or Miss - The Globe and Mail
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNLXZfT25xMS16emM0Xy1aRGlhNFFqaE1mTEZyVDdVZlVYZ3hZZU5tRnBFVlF3U09xc2NPRElKUWFzYmVpeGVqRDR0YjNMdmliNkdXYkdwREJtcHBUZS01MXlvQ0R2VHR6M25hUTBmdzdpSVZOeGo2VUdLY1laSzlYUGNxbFRMU0R3eWdPTDRxQWpkZGhzRl9jY2VXRmtDMUc4ZVZFN0g4d09BU0tqUjdGa3k3cWQ3MFVZRkVjWW0wdlZLWTJJd1JwQkRNRFQ5U01TdkRRVzdkSEYtTEk1S3hxX2NSa0xEdlZV?oc=5)
+
+Tesla Q1财报前瞻显示市场更关注长期增长而非
+
+---
+
+### Tesla beats Q1 estimates; stock falls after Musk tempers robotics, FSD hopes - Investing.com Australia
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxQbkFlOUxMRE1UaWhXVndLUkNhZUg0VlFkLWRKOHNZWmpsQU5hWVJpMEtDbGdRYXlvZnhlZS1HWG91R0M5V0hHd3YwaDZYVlV4ZmRsY0dyNXhTUXp3Rnh3LXFpYTJQX1NUU3NPZkotTW0xWkFtZVpoRW05U3Uyd2RLRzhuZ19uTE1rR2dTQ19fbWpWeDJSUUZDWDhrMDA1NG1waXRzbTM2cnMwSGRpTjB0dF9SaGY5VEJiMDB1SVdEUUFIMWExaVE?oc=5)
+
+Tesla Q1财报超预期但股价下跌，因马斯克对人形机器人和FSD发展预期降温，可能导致行业投资热度暂缓。
+
+---
+
+### Musk’s massive call on our robot future - News.com.au
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNDJXZmZzMi1BQUVGLVBGX2pfYmJkc1BtejlLQ0JMdTYzNUlkTlgxLU9ERTFVUDNVVW0xT1F2SDR4SjBzczZkaDgtUHY1ZVpCa0RPV1VyaTU4YmtVVVE1WU1TM0c0a05MVVlleF9OVDVTQ1JNRG1idjBhTmFWMkNmVDJGalR6T0dHWlFhZFAzM04wckt0Z1ZKZWE5R0RwczFfTW9YME1QaDN0Ri01cFVsZG9fUllkQUM5Z1J1THR6dUUzSU9UN01XNmpjZ3BRRElaV05pTFlrYkTSAd4BQVVfeXFMTzg2REFib0M1WGxxWk9uVVkzRmUxMVJGUEVFTXNCa2hWemtiS3hvVS1NUjkzUFc2MHVVbVhNbmJQTEltdHNocjl6N2Z4NUpETGJGN04yZjlydWxJQ1FJV2diUjI1YzBfbXhGblZIV1JxZi1Mb1A2c2VHRHBjRVlTMUFCUGtKUHhSS2dkR3I0NEx4YXA0YjgwY3Y3QjBXcHlXMlNGbl94RnREUXhyQUNYWm9ZVENwM2drOElaZGltVWQ2VjFtck5fZThReWRTc1hSS2tUck4xN3JyU3dUSmNR?oc=5)
+
+标签
+4. 简洁明了，突出关键信息
+
+让我根据标题推断新闻内容并给出总结：
+
+这条新闻应该是关于马斯克宣布特斯拉在人形机器人领域的重大进展或计划。这对人形机器人
 
 ---
 
 ## Agility Robotics
 
-### Digit Humanoid Nails a 65-Pound Deadlift and Reveals How Agility Trains Its Robots - TechEBlog -
+### Digit humanoid robots to join Mercado Libre Texas hub to boost task efficiency - MSN
 
-**发布日期**: 2026-04-19
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPYm9qNHAxWW11SHVYdU1odml4RzJtVGRjUzhxYk94VXhmZ1JGMllodDBxUnJ1bmY2emluQjRadkstSXVnSjBYYzdhcHF3M3ZEYzVxM2VDY0tPd0haMDRJTFM0eXh3aHVyUjd4cmowcm9rcnBGamhYVVp0dndDbUtBcm0telU1YjY1?oc=5)
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi-gJBVV95cUxQWnZWbW9VTlJiOVZidElWdjVjSm9sQm80UGJQLXA0MlR0d2JPZXhKNktPekRRQkpKMHF1aEJCX0JwWktURm84M2NjcjlHeUR3bTY5MXFhSjJpdHg5ZFVIN2k3eWVYQ3oyMkdLdmRtRWhMYnZkdWtDeEpBbldZNUZ1YlZ1d0hxZzFkSG1NU2VFS3Yxb2x5V2NzZkNJS2U1cnUtSHZEdWJEZFA1NUYzdnFFTDFlLVpudlZha2VjUW5YdXI4Nzd3czJkNTRoemFTN01qMEFTQlBhTUJlZjVBRVNDVm4tazY3Q1ZHRWt6OGlSaldzYWxjZWdBbjMwRGEyR0VwZjAzMFZvOGdkX1RxWTVvSzZkVXBUU3UyZ3RVREsxWDV2cFUtVFEwNS1vX3hWVzU3VXl0aHRGRFlmT2VyMGp5WTdsdDZ3Q3paVFY1Ql84MHdfY3o1bEsxckZ3TklVME10NzQxb2t5RThGdE9RV2hvaUIwaGxhOVNMNmc?oc=5)
 
-Agility Robotics的Digit人形机器人成功完成65磅硬拉，展示了其在力量和运动控制方面的突破，标志着人形机器人在物流仓储等实际应用领域的能力提升。
+Digit机器人将部署于Mercado Libre德州物流中心，提升仓储任务效率。此举标志人形机器人在电商物流领域实现商业化落地，验证了其在复杂环境中替代人力的可行性。
+
+---
+
+### Tags Agility Digit humanoid robot - VnExpress International
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMieEFVX3lxTFBzSzNaTkg5RkZVRmM5V25wcTJQSE9DX0VRMTUteUE2NkJVT1V3eVVtbVpjbExYdVJRc2lPYUNjSUIwS2xhcHRaaS1JcDF6bEhkc2lPZ3JJajBNMUt6WEp0TXJiTG9sMlQ4cFFKcVo4eVlxMTRJTFF0cA?oc=5)
+
+Agility Robotics的Digit人形机器人相关新闻在VnExpress发布
 
 ---
 
 ## Unitree Robotics
 
-### Robotics is becoming increasingly accessible, but at what cost? - nssmag.com
+### Humanoid Robot Chases Boar In Warsaw - Silicon UK
 
 **发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMidEFVX3lxTE1CaTdGU3FWVTBWQkFSSGtVZjJJSDlpRzRGOV9hcUlKN1FWU1pfbzJwNVB3YlNwdFZCbzR5Q2Z5R0FZbmFjclhUYXg1YXQ1S0JyN2l6elFsQS05V1ZEenIwc3RqR2V0aE4yTUMtOWtBLWNxU1U1?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHdpU1F6bHlWVGYtYlNHandXQTNIcXUyaE9WWDN4X2I4aGtDck4wTnBJcWpWQXV0OUJpWkNwLVNtMWV2ZnM5dTVNRjBzRDQ3OENEMEZlUDJfMVF1OEd1UWQ1S0d6TjFreW55T1FxZVJGZFVNTW1wQnFoOHdkYXVvOTA1d1E0OXhlenRGbVdXRS1MN0FqNmR6WXhBUdIBmwFBVV95cUxPdHdpU1F6bHlWVGYtYlNHandXQTNIcXUyaE9WWDN4X2I4aGtDck4wTnBJcWpWQXV0OUJpWkNwLVNtMWV2ZnM5dTVNRjBzRDQ3OENEMEZlUDJfMVF1OEd1UWQ1S0d6TjFreW55T1FxZVJGZFVNTW1wQnFoOHdkYXVvOTA1d1E0OXhlenRGbVdXRS1MN0FqNmR6WXhBUQ?oc=5)
 
-人形机器人正变得更易获取，但成本和质量挑战引发关注，反映行业在技术普及与可持续发展间的平衡难题。
-
----
-
-### Humanoid robots shatter human record, showcase autonomy at Beijing half marathon - People's Daily Online
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTFBIY3dPM0w2TFlCQWJKUW9iVmg5dEpwbVBYTWxhOWtHSHNNTEhiX0l4NndKTi1PZDJpT0NiWmozSmtaSWVUaDlrVWJnZWNvRTd0bjltU0l0LXdWLXVaTzRVMnhvUEk?oc=5)
-
-人形机器人在北京半马赛事中打破人类纪录，展现高度自主运动能力，标志国产人形机器人技术成熟度显著提升，加速进入实际应用场景。
-
----
-
-### This humanoid robot can almost run as fast as a human sprinter - TechSpot
-
-**发布日期**: 2026-04-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc2lxSHc1d0hVVFFsaGZaaUZpRnRqWm4yTElBRUt1Q2NDUWZheElvWmxwMTdNS09Ed0ZkWF9aSW9YM2VTMks3Zlk3dl9tMXZmV1NLYWw5Rl9tUWF2bVNMWmpha2QweElLOS01OXMzVUY5Z044U0tnVVpYeWNERFNCMTVSUHh3a1dRUXFESzdGbEhIZEY4RWc?oc=5)
-
-Unitree Robotics推出奔跑速度接近人类短跑运动员的人形机器人，标志着双足机器人运动能力取得突破，推动行业向高速运动控制和高机动性应用发展。
-
----
-
-### Unitree’s future tech, a humanoid robot, lands on AliExpress. Is your home prepared? - 3DVF
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiowFBVV95cUxQSGVINkxKdTBEeExKcDB6aVFvOU9nU0RkVTkxdEh0d3cydVYtX3YxU1pCc0E5WVJfeFU0cEFucndscy1rd2FmWVJwV25fQTF4ejdJeVFKeDFSRnNUMlVBTUZxRkVjaDBmMm14cXBIZnhFS3VhNnhnV2JQZ0hZT0hKU3oxOW53bm92dUw0VDZQa3hhaE03SGRWT1h5NU1MVF93R21R?oc=5)
-
-Unitree推出首款面向家庭市场的消费级人形机器人，通过阿里AliExpress平台销售，标志着人形机器人正式进入家庭应用市场，为行业商业化开辟新路径。
-
----
-
-### Unitree R1: An affordable robot poised to reshape home technology - Moomoo
-
-**发布日期**: 2026-04-19
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3Z5TWZTR21ZMnd4cXBDLWs4N1l1M3NsMldCejlyZXQtU010MFpkZE13WHVJbXBrNEZUeWY2RmRIdzE1SWVySE5ncTI1ZzJJSmk1VXBrREYzeVBVSEZVZ1JKMnNpYjZsY2Q3aXVURG94OXQtSk9EZ1VOSk5GRjd4Z3dHb29Td2lNZVFfWC05OEgtX3RlYVRqMFBFd1A1eURsSktkUkl4X1hZaDV2NGEwdW1vUm5FWlF2?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxPb3Z5TWZTR21ZMnd4cXBDLWs4N1l1M3NsMldCejlyZXQtU010MFpkZE13WHVJbXBrNEZUeWY2RmRIdzE1SWVySE5ncTI1ZzJJSmk1VXBrREYzeVBVSEZVZ1JKMnNpYjZsY2Q3aXVURG
+<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxPdHdpU1F6bHlWVGYtYlNHandXQTNIcXUyaE9WWDN4X2I4aGtDck4wTnBJcWpWQXV0OUJpWkNwLVNtMWV2ZnM5dTVNRjBzRDQ3OENEMEZlUDJfMVF1OEd1UWQ1S0d6TjFreW55T1FxZV
 
 ---
 
 ## 优必选
 
-### Disturbing video shows humanoid robots preparing for border patrol duties - Earth.com
-
-**发布日期**: 2026-04-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxPSEREZGVsRnJLRl9uLUNWbEhzSmZHckl2TUkwQnhESEFEVE8zeXdUcVI0aGcxTm9mSUFtclE3NFRHdnNaN3F2N3hHcWxCWTh5R2dFcXhBU0VYVkJnQkdvNnpzTTdjS3hQeWJsekQ3cVZCVU1lVkIyRlRvZklHbFJWOWo2WFRnMklVbFZhNjZDVFowblFPekZlaUVmQXVSaFdKX1E?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxPSEREZGVsRnJLRl9uLUNWbEhzSmZHckl2TUkwQnhESEFEVE8zeXdUcVI0aGcxTm9mSUFtclE3NFRHdnNaN3F2N3hHcWxCWTh5R2dFcXhBU0VYVkJnQkdvNnpzTTdjS3hQeWJsekQ3cV
-
----
-
-### 宇树领衔IPO，人形机器人敲钟潮将至？_公司新闻 - 证券之星
+### 宇树之后！又一机器人公司冲刺A股有新进展 - 21财经
 
 **发布日期**: 2026-04-23
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTFB2UXJzUUk0SENZLWpKLW81OFpRcjJvSi1jblIzUWRpQWFHaWRFakFRdkJ5WU9rVUo0d0JHN29YdnR0Rlh1MkYwREZGY0FHcEE1TTdjNWpLek40cDFValJ3eDJB?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxNUElyelBnblpuTjlVLWp3MGVNR1k2SmxrWkpoblFBUWtmSzVhVXNoeGhfMkM5c0ZaTDV2LUZJUEl4OHBoVkZrOGh4blF4Rmp4YTBtYjBzS2ktLW14UF9pd3cyai1oWkpaUDExOUNueUpXRDNrU1oxUjBOa1NITGNHYnRqdUxXbnJHN05Kd194WQ?oc=5)
 
-宇树科技领衔IPO，或将开启人形机器人企业上市潮，标志着该领域进入资本化加速阶段，行业发展前景受资本市场关注。
-
----
-
-### 落地欧洲零售物流场景，优必选联手合作伙伴加速人形机器人出海 - NE时代
-
-**发布日期**: 2026-04-19
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiTEFVX3lxTE5XeEpWdHlGeUU4VXpLZkxzUXhJVnpqVGEwRmJYcm9FYXF5T1hWYWp6THZ2c0lvN2ZkMnpNT21Zd09xNFJuWmp4RmpsVTA?oc=5)
-
-优必选人形机器人进入欧洲零售物流场景，携手合作伙伴加速出海，标志着中国人形机器人企业正式开拓国际市场。
+又一人形机器人企业冲刺A股取得进展，继宇树后行业资本化加速，反映人形机器人赛道获资本市场认可与看好。
 
 ---
 
-### 人形机器人营收暴增 优必选何时盈利？ - 东方财富
+### 荣耀夺冠，优必选、宇树们爆冷，具身智能没有护城河？ - 36kr.com
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2OU54WHFYT2ZVTFo4VW02R0t6SDBnX0t5aGJYRzZDak9aMXBaT0J3M1BJLW1iOHc0YjhDamZ6Z1FLcHduVFY1dkFCX3puQQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTFA2OU54WHFYT2ZVTFo4VW02R0t6SDBnX0t5aGJYRzZDak9aMXBaT0J3M1BJLW1iOHc0YjhDamZ6Z1FLcHduVFY1dkFCX3puQQ?oc=5" target="_blank">荣耀夺冠，优必选、宇树们爆冷，具身智能没有
+
+---
+
+### 国产化机器人电子架构联合体成立 - gd.chinanews.com.cn
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMia0FVX3lxTE9QSHVra3JDclZGQ1ViTWNPWTNQay1jdDN4OFVCR1d1aXVTanNaNV8zTHlPcFFnS0l5TktyS0RLU3ctdjNYaXRnY285NGhpMWl2TDJWdTh5aEExUl9EQmRQelBuUUI5a2dIcHVR?oc=5)
+
+**新闻摘要：** 国产机器人电子架构联合体成立，整合国内资源推动核心零部件国产化，对人形机器人行业意义在于提升产业链自主可控能力，降低供应链风险，加速技术迭代。
+
+---
+
+### 机器人半马跑赢了人类，产业马拉松谁领跑 - 搜狐网
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQNy1ZdlJ4dVRJTlJmQ1Z0WWR3TUx3cXdPWlhSbTdDeUZPcURRWjhRUjVSSmx0Z2xiUFBoSFJaZ3plTk95Q1h1UmZaRkxqUE1mNDRLVW5mNDBwYk8wZml4STloVS1TaFZnRHpjTDVLa2lJMUl6YmMyUmtkR0ZhQzB0ZWxTaS1KX0VO?oc=5)
+
+机器人半程马拉松超越人类，展现人形机器人技术突破，引发产业竞争格局思考，优必选等企业面临新挑战。
+
+---
+
+### 优必选与Terra Robotics签署合作，人形机器人落地欧洲零售物流场景 - 第一电动网
 
 **发布日期**: 2026-04-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE05bEV1clVCVUxQY29SbDVucE15TTB5eHppOXNoOXduUkxGbHBSaVc4Mk1JWGx1NEk2SUNRR1loUE5rbFI1czhCY04yd2hYQmw0TVY3Uk9jYWlndWpQWTY0TFE1QkxDdw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiTkFVX3lxTE85SWtHUUJjalUtSGx4RllnRkZrdTNoOTZzc05BV0ZCRHpyd1BlS0w2OXpoYTZHRjQ0T0lYaHN3RUNFNzNLRGJIekU5eGdpUQ?oc=5)
 
-优必选人形机器人业务收入大幅增长，但公司仍面临盈利挑战，反映出行业商业化进程仍需突破。
-
----
-
-### 人形机器人在中国实现量产 - Moomoo
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMipgFBVV95cUxPNjlEc3Rvd1hmWGZWOEJUczRya2VLUUEtUjhGZjMwZUxob25WYjFZSVBvYTJTcXhBS3hyRGpxamRwREQ3UGJCT0ZWV083Y2x2Ri02aTNibkJUVjIwa09wWTlMejBqdHpNSzllLXVYRDczaDMwMnJGM3MwQ09oLTF1T0dyQ0RzOFlKR21lRzlTZGs1VDlPSzRhUldEYmtXTDVQdWV1MEdn?oc=5)
-
-优必选实现人形机器人量产，标志着中国机器人产业进入商业化阶段，推动行业快速发展。
-
----
-
-### 小智一周要闻 | 智元机器人计划2027年实现100亿元营收；速腾聚创获人形机器人企业订单 - 盖世汽车社区
-
-**发布日期**: 2026-04-19
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE5TaVZMMmZfaW1DbzJoOWkzT0c5X2dYSG1jdHVfZktjSEs2WGRhR3pqN0ZiWGVBYnJuZjd0NlFMWkJLY3FPOXpRTGdWc2lkOFBU?oc=5)
-
-智元机器人计划2027年实现100亿元营收目标，速腾
-
----
-
-### 卖掉三套房、失败300次：他用17年完成了一场对日本机器人的逆袭 - 新浪财经
-
-**发布日期**: 2026-04-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi8AhBVV95cUxNZmhJMjRMZFV3SUZ4RGhUajFJbU9zb3dFZFJSOXl3Q1p2Z1lFanpQeDAwc1Q0N3o0VDlXQXB0dEEyYTRLR3djSTZHMldKdXFNblhneXk1YWliTk40N01fSFBTcGxtb09HMDJSYm56amFxejBVVFNUcDczaEgyVDlDZVBIYnJIUzVmc2VBSThIdXk3Z0xlZVZSLUk0RHJ0UFlTNmI0M005Wk1qWDVwTFRzcXVyUTBRakJOR25LcDlNdExWMkpfNWtkaTF0UzFiRzhsWnluS08waHVWZFZrSDhfQzNJNnJ5REJZaW1JMDR1VFlBZDFrN2tFTmZ3aUtQdHBabFNlN0kzVmNEQkdjYldmRWI1RDl0bUJhQk9vRTFhQlM0RjAya0lPRzIzNlFNcW5sS0QxVmZOSzZMTzZkc3M4dW5vV3JKbF91S0Vma3MtdUhEaVh3NW5Zcnk5VzFJenlxOTI2UDJOcnlyR0tmTTN5SFRiaU5RSFp0WlVuRTgyVkQ5bWFDSDdzUk1pWjd2alRnWWQ2dnpsRENGSENaa1E5VkdtQ2FyZ3ExaXVPRlRrNHVBa2ppYVMxaTJiTjY4UEEzRnB5TDlyNDVKd3pHMHdPUlJFOXRZaFNQNHZGR0V6T1NyeVVXSldCSm1EQmUxd1VlcW5ZQTJYcEljWm1MdlIxZUxwM0hNV1FCYTQxenlMTG9oajhsVC1Idkt4QWxTUDVQa3FmTmtWNTE5YUN3aXNnaHdaakFyU3hvNGlhY0I1SXFWTy1NSGFuak9zT0FMcy1LMkZseUFTdkNhWWtLd3p6MWlvMXpGeC1YZlVaWnFpeWt2LXMwcGE1MVVRTWtQY1FzaGZydHlhbC12YW1ESHJmRGFBUE5mOVNFcGlFQnRTUE9MVTN1ZWZ2ZjdpNG9rS1dlYUl6RFdNSFg1djZKcHZvX3FnUUc1RlBvQjdBNzJIaVFfaExIdHo0ZFgzNUh1c0VUR2NGeXFWeWVfQV9iRzB3V3ZpUUVSS0VCWE5rN1FaTklsd1FWS3c1bGpLdENYaFJCSndFM29OV09oNTh3OG1GWHhIRlVpb3NZRnBFak5xeXlERV94ZkJpdGYtZi1QMnBTeTByQnREUUtPLXR6R1YwQXpxWGszVEVLdjdZcndkLVZzb3NNS0d0T1NzNUNRNUhyaEVSZGhLTjQyMF9MV3BhTTFjYUtlV2ZVUXBQdjEzYXF6NWswZmhhT0M4ZE93X0VuVmRrR3NsUlp1TmM2Ml9DVF9OY0JYdDdGdWlBYUMxRHVZRHppOEJFZDdCQ1ZvbzV0VHVNV093VjB2UTZWb2RGTVUtMmJTY2ZPZmNlYVBoM0doQm1QR2E1eGJkLWxkWno2VTd5a1MtWUxLczBycmxvbzhuRWltQkZGWlpFSDN1blN6QUFxbWVOUU5leThOaEtKeFJnZGdqTzRmR1dyMEUxYXZSa2NrZU9DUUxsYnhnd1MwYUpzaG9qQnQyaTNtbW1JMC1GTnZfamhvbTBJZDhzRg?oc=5)
-
-优必选创始人周剑卖房创业、历经17年300
-
----
-
-### 具身头部玩家营收迈入“十亿俱乐部”，只卖硬件不够了 - 新浪财经
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHVkTl9NSUJiUlJaQ2o3M216N3VPeVJUWmdWby1MYTlqeXhhZzRYVDFDSl9YQXpLd0pzMHV6eXA0MFpxSmRlcjhtR1RKVGt0OVBPNl9hclZLbkJpM0dIRFpLZWR6Vlk3Z05rbXQ0M0VKcGc5Ym1vVkRZWDN3NWpKTlZEaGFQUDlmRlgwQzAzX1RWLWxGRGxua1BBZTNuMTQwZzZlTlVGVQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxOTHVkTl9NSUJiUlJaQ2o3M216N3VPeVJUWmdWby1MYTlqeXhhZzRYVDFDSl9YQXpLd0pzMHV6eXA0MFpxSmRlcjhtR1RKVGt0OVBPNl9hclZLbkJpM0dIRFpLZWR6Vlk3Z05rbXQ0M0
-
----
-
-### 年薪1.24亿！优必选天价招人，却被指路子走偏了 - 新浪财经
-
-**发布日期**: 2026-04-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiygRBVV95cUxPRzFWbU1seFFYMmNSMjJOdll3bGF4WVp4dXVZZXhMQnVZcG1yTWdOSmZMTk1RRG1jSTRMU012SEJMcml1VVR6bUk3SUxDcjh1bDlfOUVVTHo2UXV6RFRhWVhDMXFsQmw4VFlXY3dXb1pCM2NjR2hDWmJXeXpxQjBzWmZBZThtYVlRRmNhMHcwajVfWktDbkd6dmluN212Q3lKcS1ETFc4TnAzVlNpeGpEbWdzNUg0ekt4a2R5c3k2VjA4QXpoektXcUwtTWdaTFdQbklFcjlkdzlYRXo2R2QzajhzME1uUXFtd2dscHN0V2E3VVVrcTNwdi1FQVpVSDNXaUE5d2RESkQtak54V3NPYlZXWGhkMUkxZmc2NWk5b0tYUkw3REcwWWc0YVJXN2QyQ0ZYMWZvRXdYRlRSYVFHMHNaVHBwbFJjaEJtbURHZjQ4b2JleXVlUDVoLVJROGVpMzluRGNPN01SaFlURG5BMXl4c25URzM4Uklhc0w4dDM2c0M3SE5CY3dIeWkyak1TQ1Z2ZC1zOExsUmdPOUNaZTNuU1FTcjBXVkhXNTlIcEk2bVc3RG1sbDUtQUlTeHgtVW5DbHVteVo4TnRCUEpoTzhZY0FPQ3JwX08za3dZay0tckRPa21CUXNlemxneWwyYTJHWXNUdHA3czQyZ0p4UlZINUloUlZNTjN6WXBGSlFweV9EMGZ6cWxPSnpWNzYtbEYtZlBIenpiZWJDMjE5cDN3TXpQd2Via2J1VFp3WEJMMm5vQjZ4akdB?oc=5)
-
-优必选开出
-
----
-
-### 2026，人形机器人只赢了面子 - 万维读者网
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5FdXlRQllPVFhhdmp5NzFKekhjUDFqME94UERwaWZScXNoY3RONExublBmdloyVTNrQlFUR2hlclV6OTI1VzZndkNabjE3ell1OTRaNnRTdUZGSzBmSXc?oc=5)
-
-该新闻指出优必选等企业的人形机器人在2026年更多是表面展示，缺乏实质性功能突破，暗示行业目前仍处于"面子工程"阶段
-
----
-
-### 不是宇树也不是天工，人形机器人半马冠军，竟然是手机大厂只花6个月造出来的 - shobserver.com
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BNEF0XzVJWHZtR1BQMHJ4aFVhZ1pLT19pWWhQZVdDSDVMVTNaNHNJd2dZM2dqUGJhWmtKQ05tN0xMTTRVTHhQMkhNbk4wTkw3SENXc3E0X3piVUtxT2c?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiXkFVX3lxTE1BNEF0XzVJWHZtR1BQMHJ4aFVhZ1pLT19pWWhQZVdDSDVMVTNaNHNJd2dZM2dqUGJhWmtKQ05tN0xMTTRVTHhQMkhNbk4wTkw3SENXc3E0X3piVUtxT2c?oc=5" target="_blank">
+优必选与Terra Robotics达成合作，将人形机器人应用于欧洲零售物流场景。这是中国 humanoid robot 企业在欧洲零售物流领域的首次落地，标志着国产人形机器人正式进入欧洲市场拓展商业化应用。
 
 ---
 
 ## 小米机器人
 
-### 小米MiMoV2.5开启公测_新浪新闻 - 手机新浪网
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2WnVJcTdVWWdNbDNXSnpwSDNHdXlsRDhmd1Q4MUk3OU9pRnoxbG9zbnFtNnVUSzFOdmNDWXVQaWZxQm1IdDBwTU5ZQ1YxMmdkbHJXY1VqcGpnMlpLNnVwQVhoYw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFA2WnVJcTdVWWdNbDNXSnpwSDNHdXlsRDhmd1Q4MUk3OU9pRnoxbG9zbnFtNnVUSzFOdmNDWXVQaWZxQm1IdDBwTU5ZQ1YxMmdkbHJXY1VqcGpnMlpLNnVwQVhoYw?oc=5" target="_
-
----
-
-### 机器人公司自变量获小米投资 称5月底可进家庭干家务 - 财新
+### Xiaomi, HongShan back X Square Robot in Series B round - KrASIA
 
 **发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE13VGNGdWtKYVBDejNQVXRvbnhUZDdvYUI5dVJXLU9tRU13R1RPYjNmZDNLOEN5UF9aclUxVXdMWXRGejNYb1prd1RNXzYybDNVSnpnMzdqYjNIS01ZbGlhRzBlT2M?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBuaVZRXzZtSk5LeXF5b1NLdDBiZC15cXBOQnV6MmMzdlE2Z2JkOWY4VWFseEVlOGhhZThOS0J1dXBvRmZFcC01bjRPOFNJR09vSjdVemsxNGZNd3kxd2RjWW1hc3NfY3ZycXhsVlZ0TzRRMVNZaEtvdVIxNjVPZw?oc=5)
 
-小米投资家庭服务机器人公司自变量，瞄准5月底推出家务机器人，表明家用服务人形机器人赛道加速商业化落地。
+用户提供了一条关于小米机器人相关新闻的链接，要求我作为人形机器人行业分析专家，分析这条新闻的关键信息，并用1-2句话（50字以内）总结。
 
----
+让我先分析这条新闻的内容：
+- 标题：Xiaomi, HongShan back X Square Robot in Series B round（小米、红杉支持X Square Robot的B轮融资）
+- 这是一条关于投资融资的新闻
 
-### 深圳机器人独角兽融资20亿，小米、美团投了 - 智东西
+从标题可以看出关键信息：
+1. 小米（Xiaomi）参与了对X Square Robot的投资
+2. 红杉资本（HongShan）也参与了这轮融资
+3. 这是一个B轮融资（Series B round）
+4. X Square Robot是一家机器人公司
 
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB5WnhIN3Atc0hfaTlXMEtxRUxOcDFyYUZuTjJveTJicTc4OWhxaWRNOUx4NEFPbTNZSkZGR2FZSWljT2RraERKMA?oc=5)
+对人形机器人行业的意义：
+- 表明小米在人形机器人领域的投资布局
+- 红杉资本也是知名的风险投资机构，他们对机器人行业的关注表明行业前景被看好
+- 这类投资将推动人形机器人技术的发展
 
-深圳机器人独角兽获20亿融资，小米、美团参投，显示科技巨头加速布局人形机器人赛道，资本持续看好该领域发展。
-
----
-
-### 自变量机器人完成近 20 亿元 B 轮融资，小米战投、红杉中国领投 - DoNews
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiXkFVX3lxTE1nREE3NkQ1eUMzVkdnU3pzUmlnZi1fV0ltZTJEX1RORmxtRmlPMi1ZRjk0VWtBRFRUdFZCN1FhcFppWkhwbGNOVERHV1pCZFAzcTdfTVZWNjgzMmZZaUE?oc=5)
-
-自变量机器人获近20亿元B轮融资，小米战投和红杉中国领投。此轮融资将加速其人形机器人技术研发与商业化进程，进一步推动行业发展。
-
----
-
-### 马拉松赛场摔倒背后：宇树人形机器人科研教育收入超七成，复杂场景可靠性有待证明 - 21财经
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmxtSl9CdVZxNFVSVFVxUHlvTi1UNXlMU0s3TDV2M0U4S21xYm1CUkYzbmZMOUt4dUx1dmlZOWhRd29Oaks3SzJQdUVJeTdrMmdxVUdwbURvbTdLT3p1MmJEb1VHNUtiUDdRdWN0dFR0Vlg1ZGdFNHFyaDVaTWtjbDhrWk0wbjRWMXhqQU1wbw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOZmxtSl9CdVZxNFVSVFVxUHlvTi1UNXlMU0s3TDV2M0U4S21xYm1CUkYzbmZMOUt4dUx1dmlZOWhRd29Oaks3SzJQdUVJeTdrMmdxVUdwbURvbTdLT3p1MmJEb1VHNUtiUDdRdWN0dF
+现在我需要用1-2句话（50字以内）总结这条新闻的关键
 
 ---
 
-### $精研科技(SZ300709)$ 精研科技 ，低位的人形机器人和小米AI眼镜 - 东方财富
+### 阿里、美团、字节、小米罕见「会师」，四大厂为何共同押注自变量机器人 - 新浪财经
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2NXZUJ5NHhwUnp6WUswdnhIS3F3MDE1b05tUnp3YlhmQi1pNUk4eG5JTlpDMWwtcjBZNFpycm9oLWJ0bTEwaDVvVUxPNGlDU3dRZTF3WG5NamtIOGNHRHJvME5RRFdYRDdYZVVSYjBhRnV3Y0J4QVBUTmtFd0EtaFJ3VXI3YS1aanNRRmZkazR2VXEweTYwZEEzbFY0cW8wc0kyWXZRRQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxPR2NXZUJ5NHhwUnp6WUswdnhIS3F3MDE1b05tUnp3YlhmQi1pNUk4eG5JTlpDMWwtcjBZNFpycm9oLWJ0bTEwaDVvVUxPNGlDU3dRZTF3WG5NamtIOGNHRHJvME5RRFdYRDdYZVVSYj
+
+---
+
+### 深圳又诞生一家百亿估值机器人企业：获得阿里、小米青睐，5月“入户”实习 - 搜狐网
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQbjRfZ2ZDUDFiRU9ZdHRIZUdRQktYeFZZYVpCNHBhVHpCR1c0TGNfRjFmWlJjeDVZZC1FUDVZaUhfeEJRV3QzZExMbUlWcm1XTExLRGNOMHlhWVZ0clZCT3haSDdOY1lKWmFSVFcwVy05eEkyUWxxQXJWYUtvVU16aGRpZmhaQWtlSFU0Uw?oc=5)
+
+深圳新增百亿估值机器人企业，获阿里、小米投资，5月启动“入户”实习，加码布局家庭服务场景。
+
+---
+
+### 手机厂商“造人”，要先把“组装厂”的帽子彻底摘掉 - 潮起网
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE9PZ0JvUVNDeWgtWV9UQ3hKUThhbE85dGE4bUY5M3JOSkxNeXBjY2Y4aEctd2p6X0Q3ZTR5Qy1hM0MxaGFKbTV5eHBTWF9QYXpGY2xNOTdhSVRXOXZjdDZVWUZn?oc=5)
+
+手机厂商（如小米）加速布局人形机器人产业，意图摆脱传统“组装厂”标签，向自主研发制造转型。这将加剧行业竞争，推动人形机器人技术加速商业化落地。
+
+---
+
+### 机器人背后，站满了“大厂”|人形机器人半程马拉松|小米科技|高德地图|达摩院M6|百度_手机新浪网 - 新浪财经
+
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxQZXQ2LXZ6dm1HYnNJcEJ1bUdKSkFmeUItbWtBQjFFRnBFR1Z4dGwxcDVDYmdlcXBGaTZhRTAxSnNFSFhFSllmZHNGNGtXNDk2TFhXUXRUbnNIc3M2Z2NyVjlXVlZZSUQyY0JwRXVkcnF3Vmg1QU1CNW5fZEFlU1hmb29xRWFMZEVhdkt4ZQ?oc=5)
+
+小米等科技大厂纷纷布局人形机器人赛道，反映该领域已成为巨头竞争焦点，将加速技术成熟与应用落地。
+
+---
+
+### 特斯拉机器人， 小米机器人，即将也是自动换电池$山东威达(SZ002026)$ $特斯拉(TSLA)$ $小米集团... - 雪球
 
 **发布日期**: 2026-04-18
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiswFBVV95cUxNN2VQWXJqVWNhVEVWR2k4dnJiQ2l2X3JHejdqdjRaWVI4SkRFSTIwUWJUb3NodzhvS0NydjBydG01OWY3UzA3LWk4LWM2cXlpUEdHQTRNSU5kSEFYSGNxN2xxLVJMQU4xeVFnTVJhaDZ0NFlmRVMtTF9JMEVFTzFLTVFXOXU1REtiaFJtNHc0cHZLUXMyMnpvMC1sX2ZRemNCd3dkU2hXdlFYZVNMX0VESkNGdw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1XZ0J3NmFlR2ZvWE1BQmdJcjZIb3R4WUVGSEpDYTRQV0t1VU1BdGM0LUlFTE5mSzN6ZWs3b1JHaEZCMWxIbjJ6bm81SGVaVmZV?oc=5)
 
-精研科技（300709）积极布局人形机器人及小米AI眼镜产业链，受益下游需求增长，有望在智能制造赛道实现业绩突破。
-
----
-
-### 自变量机器人完成近20亿元B轮融资小米战投领投_股市直击 - 证券之星
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPUkUzUkxaYjdMTDg0dzhkRWtoQk5tQTZ5bjlDaDc2ZkhnTkNjLU9OTW9MSEZIdDJzZGtieGlXd2xJeTFhWUZtRHd5R1NrMDFGTm5nc3pmdUFUY3d0N3Y5YmF3?oc=5)
-
-自变量机器人完成近20亿元B轮融资，由小米战投领投。这表明小米等科技巨头正在加速布局人形机器人赛道，资本对人形机器人领域的信心持续增强。
+特斯拉和小米人形机器人都将采用自动换电池技术，山东威达作为相关供应商有望受益。该技术突破将提升机器人续航能力，推动人形机器人商业化进程。
 
 ---
 
-### 小米战投领投自变量机器人B轮融资财经新闻Financial News - AASTOCKS.com
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxQUTluN2xUWW14aGFpQ0VBNzItcDNPSXgxOGIyWWF5OE1xMGZvTXZsQzhBOWg4TTY3aGxqeGZXVklIdFJ6VzU2aFNUZjg1UVZ5SVlYMWJIMGk0eWYwMDg0NzBRaGdxNGwxX29Qa1FFMXZRdjhmRVFObG5OY0o0cG5rMW1VcjZIR1piZmFNUnZ3dXh3QQ?oc=5)
-
-小米战投领投自变量机器人B轮融资，显示科技巨头加速布局人形机器人赛道，推动行业资本热度与技术发展。
-
----
-
-### 自变量机器人完成近20亿元B轮融资 小米战投与红杉中国联合领投 - Moomoo
+### 自变量机器人完成近20亿元B轮融资 小米战投、红杉中国领投 - 新浪财经
 
 **发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWkFVX3lxTE0zaGNQSEl5b2ljeVAzSTFUYkZrYWE1VkdzNWR3YlNTV1lpWUF3RjFiMHBhWEVHR21sQlg4SFZwZ2pjYjdBd1Q2Nk1rOWZQRW81V25rakpwdjBIdw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiT0FVX3lxTE1mQmI1eVpwNklPRzZEQ1oxbWRUSWxRMUNQTFhjak12YmhRWVY5THZWazhSSmlIc3dISGJIdGxNekdzYVFaNi1RN1E5emdVYjA?oc=5)
 
-自变量机器人获近20亿元B轮融资，小米战投与红杉中国领投。此轮融资将加速人形
-
----
-
-### 小米米家扫拖机器人6发售,2699 元起 - 新浪财经
-
-**发布日期**: 2026-04-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBUVkpIRzFZQUdpWkF5S0R5aFNOekVkZk1ZRzM4NUt1LUZFZm9UM3hsUUFOWk5CdjlnbGY2cVVIQkVJZlpXQjh3Y3luMnR5ZUlVU1F1V1U0RkJjczFIU2NKNjBmRkQ0eHQyU3hHaUk1aU1OTTRqYVUxNmduTGNYZw?oc=5)
-
-小米推出米家扫拖机器人6，售价2699元起，展示其在家庭服务机器人领域的持续布局，虽
+自变量机器人获近20亿元B轮融资，小米战投和红杉中国领投。这显示头部资本持续加注人形机器人赛道，将加速技术研发与商业化进程。
 
 ---
 
-### 小米人形机器人消失4年回归 CEO雷军晒技术新进展 - 凤凰网
+## 1X Technologies
 
-**发布日期**: 2026-04-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTFBCNlRCN3JMWXFVOElIS2VPMkhGV2k4eHBSWjVoUklxbWxCdkwtSVNGOVdXTlhkTHk4QVdTRUNNYlZQUllOeXRTVA?oc=5)
+### Inside the company building America's first mail-order servant robot - Dezeen
 
-小米人形机器人时隔4年回归，CEO雷军展示技术新进展，显示中国科技企业持续深耕人形机器人领域，将推动行业竞争与发展。
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE1wWWt6WlZsSms3MEVWNkJsVk1tNFBqVFFVNEVqUDhjaHItY216VEdEMl92Y3pBd0F2M3NGaTdfUGt2SHVWYmJaX3VpYm84OVpOWE5oWjQtdk1JX2NuRzNjc3NpeVZHZ2RXcS11WlpzS0g?oc=5)
 
----
-
-### 小米人形机器人消失4年回归CEO雷军晒技术新进展-腾讯新闻 - QQ News
-
-**发布日期**: 2026-04-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1kNW53bllLdXN6UDIzNnNBa0lVc05vR0FzVEY5Qmp3bjRieXkzTkFIRnZEc2hsN1AwZ3VHZFJtbFlMMk1SNktaZ1BwZEN2d05QN25Hd3V3?oc=5)
-
-小米人形机器人时隔4年重新亮相，CEO雷军展示了新的技术进展，标志着小米在人形机器人领域重启研发，对国内人形机器人行业发展具有积极示范意义。
-
----
-
-## Sunday Robotics
-
-### Humanoid Robot Wins Half-Marathon and Smashes Humans’ Record - The New York Times
-
-**发布日期**: 2026-04-19
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxNMEZUdFpsNThiUERsajJITHdkZHU3aGRMYlJpYUhhX09JaHhBQklNQzNJbVYzSnpzT3l5eFgtMXJhSjZIRml5Z3BuRUlvbWE0aWVUX3M5T0pmeHIwaFk3WG9BcUc0ZWhGemJ5UW9aQTl0ekFPOTlwdVB5bEhuQ0c5c2R3?oc=5)
-
-人形机器人在半程马拉松中夺冠并打破人类记录，彰显运动能力重大突破，将推动行业技术竞赛与应用场景加速拓展。
-
----
-
-### Robot named Lightning blows past human runners to set half-marathon record in Beijing - Los Angeles Times
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirgFBVV95cUxPeVdqME91d3FQaUdGczFmblBWYVZqRkoxVzNkT0wxMmhBcWx3Wk5tUjNnNU54WlNmSEVPQnBhenZRVE4wTVRIcUIyZHBfcHR2QU9idDc3dnRya3RwZW96enJfb2tLS3FiQjA5cW1zWVRxM0J2NTU5VWx6bThxYXRRU3F5SVY0Q2FqTF8tUkZxQjN0emR0SVNMTlBwN3p6STdGMlNhdkVCWlhLcXNVZ3c?oc=5)
-
-人形机器人"Lightning"在北京半程马拉松超越人类选手创纪录，展示机器人耐力与速度新突破，标志行业里程碑。
-
----
-
-### In a race between humans and robots, machines take the victory in a sign of advancements - NBC News
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWTZTdU8zNFJGYkt5d1JpM3kyZnlXb1JZOU4ycS1ETnNFbC1CeFZoQWhXRERpZDBJZWk0NVdUSHQzdTJHbV9CT0E1SWgtaXZsS2k5a3hNbnlCMm1QR0cwZndUekR0cF82MUVJYUhpX19rUFgyX0dfT242N28yN1hYQjdHYWFmNk53blhkaENmUERVc2dERlB3QURkYkY4RWQ1c1Q1cFFtYWtMd1RtT1dISjJpeUFTU00y?oc=5)
-
-人类与机器人赛跑中机器人获胜，展现人形机器人运动控制与速度的重大技术突破，彰显行业加速发展趋势。
-
----
-
-### Opinion | What the Chinese robot that ran a half-marathon says about America - The Washington Post
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxQRFhrdVBoRFd1cUFXUjdLb3ZRRXVZblZNbDgxRjRTbDBNTHpGSWUtUGUxb2lDQ3hfSUJrMk5fOGZaZ2dwWlhzYTNLMVVzN0dPNTlHMG9LZk5EV3JRSXVqRmVZaDNNemRDWEVKM1ZWRGVHMC1PWXZ4OUlDSE1JanVwa201WQ?oc=5)
-
-中国一款人形机器人成功完成半程马拉松，展示了国产人形机器人运动能力的重大突破，凸显了人形
+1X Technologies正在开发美国首款大众化家政服务机器人，将人形机器人从工业应用拓展至家庭场景，可能开创家用服务机器人商业化先河。
 
 ---
 
 ## Industry News
 
-### The USC Professor Who Pioneered Socially Assistive Robotics
+### This Roboticist-Turned-Teacher Built a Life-Size Replica of ENIAC
 
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://spectrum.ieee.org/socially-assistive-robotics)
-
-南加州大学一位教授在社会辅助机器人领域做出开创性贡献，推动人形机器人在医疗陪伴、老年护理等社会交互场景的应用，为行业发展提供新方向。
-
----
-
-### Video Friday: Digit Learns to Deadlift
-
-**发布日期**: 2026-04-17
-**链接**: [查看原文](https://spectrum.ieee.org/robot-learning)
-
-Digit双足机器人学会硬拉动作，展示人形机器人在负重平衡与运动控制方面的技术突破，推动物流搬运等
-
----
-
-### Robot runner handily beats humans in half-marathon, setting new record
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://arstechnica.com/ai/2026/04/robot-runner-handily-beats-humans-in-half-marathon-setting-new-record/)
-
-人形机器人首次在官方半马赛事中超越人类选手并创纪录，证明双足运动与耐力技术获突破。此成就将加速人形机器人在体育竞技、应急救援等动态场景的应用。
-
----
-
-### A Humanoid Robot Set a Half-Marathon Record in China
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://www.wired.com/story/a-humanoid-robot-set-a-half-marathon-record-in-china/)
-
-中国人形机器人创造半程马拉松纪录，展示运动与耐久性能重大突破，标志技术成熟度提升，为商业应用场景拓展奠定基础。
-
----
-
-### From EVs to robotics: Tesla targets 10M Optimus units with new Texas plant
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/from-evs-to-robotics-tesla-targets-10m-optimus-units-with-new-texas-plant/)
-
-特斯拉将在德州建新工厂，目标年产千万台Optimus人形机器人，加速从汽车向机器人领域扩张，推动行业规模化发展并加剧竞争。
-
----
-
-### Cruz’ing through the terminal: A&K Robotics lands $8M for autonomous mobility
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/cruzing-through-the-terminal-ak-robotics-lands-8m-for-autonomous-mobility/)
-
-A&K Robotics获800万美元融资，将用于开发机场自主移动机器人技术。此轮融资表明室内自主移动技术在交通枢纽场景的商业化潜力获资本认可。
-
----
-
-### Glydways brings in $170M to scale its AV technology
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/glydways-brings-in-170m-to-scale-its-av-technology/)
-
-Glydways获1.7亿美元融资用于扩展自动驾驶技术，反映资本市场对自动导航领域的持续看好。该技术突破可迁移至人形机器人的环境感知与自主导航能力，促进行业
-
----
-
-### Learn about the latest advancements in healthcare robotics at the Robotics Summit & Expo
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/learn-about-the-latest-advancements-in-healthcare-robotics-at-the-robotics-summit-expo/)
-
-医疗机器人行业峰会将展示最新技术进展，对专注于康复护理场景的人形机器人企业
-
----
-
-### Crewline secures $7.1M to automate construction’s most repetitive task
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/crewline-secures-7-1m-to-automate-constructions-most-repetitive-task/)
-
-Crewline获得710万美元融资，致力于自动化建筑行业
-
----
-
-### AI robotics: Moving from the lab to the real-world factory floor
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://www.therobotreport.com/ai-robotics-moving-from-the-lab-to-the-real-world-factory-floor/)
-
-AI机器人正从实验室研发转向实际工厂应用，这一进展标志着人形机器人在工业场景中的商业化落地加速，为制造业智能化转型提供了新的解决方案。
-
----
-
-### German court rules in favor of Teradyne Robotics, issues injunction against Elite Robots
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://www.therobotreport.com/german-court-rules-in-favor-of-teradyne-robotics-issues-injunction-against-elite-robots/)
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://spectrum.ieee.org/roboticist-turned-teacher-eniac-replica)
 
 
 
 ---
 
-### RBR50 Gala returns in the 2026 Robotics Summit & Expo
+### Reliable Robotics raises funding for fully automated aircraft
 
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://www.therobotreport.com/rbr50-gala-returns-2026-robotics-summit-expo/)
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/)
 
-RBR50 Gala将于2026年机器人峰会上回归，作为机器人行业重要奖项活动，为人形机器人企业提供了行业认可和展示创新成果的重要平台。
-
----
-
-### Drones & Robotics AI Summit 2026: Entering the quantum era of autonomy
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://www.therobotreport.com/drones-robotics-ai-summit-2026-entering-quantum-era-autonomy/)
-
-**新闻摘要：** 2026年无人机与机器人AI峰会将于quantum computing（量子计算）与AI融合为主题，探讨自主性技术新突破。**行业意义：** 量子AI或将成为人形机器人实现高级自主决策的关键驱动力。
+该新闻涉及航空领域的全自动驾驶技术，与人形机器人行业无直接关联。此类自动驾驶融资动态或可作为自动驾驶技术整体发展的参考素材。
 
 ---
 
-### Improving mobile robot stability on uneven terrain through vibration monitoring techniques
+### Reliable Robotics raises funding for fully automated aircraft
 
-**发布日期**: 2026-04-19
-**链接**: [查看原文](https://www.therobotreport.com/improving-mobile-robot-stability-on-uneven-terrain-through-vibration-monitoring-techniques/)
+**发布日期**: 2026-04-23
+**链接**: [查看原文](https://www.therobotreport.com/reliable-robotics-raises-funding-fully-automated-aircraft/)
 
-
-
----
-
-### Fail fast, fail small, fail safe: A practical model for robotic automation
-
-**发布日期**: 2026-04-18
-**链接**: [查看原文](https://www.therobotreport.com/fail-fast-fail-small-fail-safe-a-practical-model-for-robotic-automation/)
-
-该新闻提出机器人自动化的“快速失败、小型失败、安全失败”实践模型，为人形机器人行业的安全部署与规模化应用提供指导框架。
-
----
-
-### MODEX 2026 recap
-
-**发布日期**: 2026-04-17
-**链接**: [查看原文](https://www.therobotreport.com/modex-2026-recap/)
-
-MODEX 2026展会汇聚全球物流与制造机器人新技术，展示人形机器人在仓储及工业场景的应用进展，推动行业商用化进程。
-
----
-
-### From EVs to robotics: Tesla targets 10M Optimus units with new Texas plant
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/from-evs-to-robotics-tesla-targets-10m-optimus-units-with-new-texas-plant/)
-
-特斯拉将在德克萨斯州新建工厂，计划年产
-
----
-
-### Cruz’ing through the terminal: A&K Robotics lands $8M for autonomous mobility
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/cruzing-through-the-terminal-ak-robotics-lands-8m-for-autonomous-mobility/)
-
-A&K Robotics获800万美元融资，用于开发机场终端自主移动机器人解决方案。该融资将推动人形机器人在物流、运输等垂直领域的商业化落地。
-
----
-
-### Glydways brings in $170M to scale its AV technology
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/glydways-brings-in-170m-to-scale-its-av-technology/)
-
-
-
----
-
-### Learn about the latest advancements in healthcare robotics at the Robotics Summit & Expo
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/learn-about-the-latest-advancements-in-healthcare-robotics-at-the-robotics-summit-expo/)
-
-该新闻报道了即将举办的机器人峰会与博览会，重点聚焦医疗机器人领域的最新进展。对人形机器人行业而言，医疗护理场景是重要应用方向，此类行业峰会有助于技术交流与市场推广，推动医疗类人形机器人的发展。
-
----
-
-### Crewline secures $7.1M to automate construction’s most repetitive task
-
-**发布日期**: 2026-04-22
-**链接**: [查看原文](https://www.therobotreport.com/crewline-secures-7-1m-to-automate-constructions-most-repetitive-task/)
-
-Crewline获710万美元融资，致力于自动化建筑中最重复的任务。这表明建筑领域的人形机器人应用正在获得资本关注，推动行业向自动化转型。
-
----
-
-### AI robotics: Moving from the lab to the real-world factory floor
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://www.therobotreport.com/ai-robotics-moving-from-the-lab-to-the-real-world-factory-floor/)
-
-AI机器人正从实验室进入真实工厂，人形机器人工业应用商业化进程加速。
-
----
-
-### German court rules in favor of Teradyne Robotics, issues injunction against Elite Robots
-
-**发布日期**: 2026-04-21
-**链接**: [查看原文](https://www.therobotreport.com/german-court-rules-in-favor-of-teradyne-robotics-issues-injunction-against-elite-robots/)
-
-
-
----
-
-### RBR50 Gala returns in the 2026 Robotics Summit & Expo
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://www.therobotreport.com/rbr50-gala-returns-2026-robotics-summit-expo/)
-
-RBR50 Gala将于2026年机器人峰会与博览会上回归，这一行业权威奖项活动为人形机器人企业提供了重要的行业认可和展示平台，促进行业创新与发展。
-
----
-
-### Drones & Robotics AI Summit 2026: Entering the quantum era of autonomy
-
-**发布日期**: 2026-04-20
-**链接**: [查看原文](https://www.therobotreport.com/drones-robotics-ai-summit-2026-entering-quantum-era-autonomy/)
-
-2026年无人机与机器人AI峰会聚焦"量子自主时代"，标志着量子计算与AI融合将加速人形机器人从工具向智能伙伴的转型，驱动行业进入下一代自主能力竞赛。
-
----
-
-### Improving mobile robot stability on uneven terrain through vibration monitoring techniques
-
-**发布日期**: 2026-04-19
-**链接**: [查看原文](https://www.therobotreport.com/improving-mobile-robot-stability-on-uneven-terrain-through-vibration-monitoring-techniques/)
-
-通过振动监测技术实时检测地面状态，可提升移动机器人在不平地形上的稳定性，这对人形机器人在复杂环境中的运动控制和安全性具有重要意义。
-
----
-
-### Fail fast, fail small, fail safe: A practical model for robotic automation
-
-**发布日期**: 2026-04-18
-**链接**: [查看原文](https://www.therobotreport.com/fail-fast-fail-small-fail-safe-a-practical-model-for-robotic-automation/)
-
-该报道提出"快速试错、小规模验证、安全运行"的机器人自动化实践模型，为人形机器人部署提供风险控制方法论，有助于加速技术落地应用。
-
----
-
-### MODEX 2026 recap
-
-**发布日期**: 2026-04-17
-**链接**: [查看原文](https://www.therobotreport.com/modex-2026-recap/)
-
-
+Reliable Robotics获资金支持开发全自动飞机技术，虽属航空自动化领域而非人形机器人，但对机器人行业整体的自主控制技术发展具有借鉴意义。
 
 ---
 
