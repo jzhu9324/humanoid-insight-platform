@@ -1,62 +1,68 @@
 {
   "papers": [
     {
-      "title": "Learning Whole-Body Humanoid Locomotion via Motion Generation and Motion Tracking",
-      "summary": "提出结合扩散模型运动生成与强化学习运动跟踪的全身人形机器人 locomotion 框架，实现地形感知的实时运动自适应和鲁棒控制。",
-      "date": "2026-04-19",
-      "link": "http://arxiv.org/abs/2604.17335v1"
+      "title": "Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies",
+      "summary": "论文评估了视觉语言模型(VLM)在非人形机器人形态上进行语义affordance推理的能力，通过构建混合数据集揭示了VLM对不同机器人形态的泛化效果及其保守预测倾向。",
+      "date": "2026-04-21",
+      "link": "http://arxiv.org/abs/2604.19509v1"
     },
     {
-      "title": "A Rapid Deployment Pipeline for Autonomous Humanoid Grasping Based on Foundation Models",
-      "summary": "该论文提出了一种基于基础模型的端到端人形机器人快速部署pipeline，将新物体的部署周期从1-2天缩短至约30分钟，实现从数据采集到抓取执行的全流程自动化。",
-      "date": "2026-04-19",
-      "link": "http://arxiv.org/abs/2604.17258v1"
+      "title": "Reinforcement Learning Enabled Adaptive Multi-Task Control for Bipedal Soccer Robots",
+      "summary": "本文提出一种模块化强化学习框架，通过结合开环前馈振荡器与强化学习反馈残差策略，实现双足足球机器人在动态环境中的自适应多任务控制。",
+      "date": "2026-04-21",
+      "link": "http://arxiv.org/abs/2604.19104v1"
     },
     {
-      "title": "Towards Universal Skeleton-Based Action Recognition",
-      "summary": "本文提出一种基于Transformer的通用异构骨架动作识别方法，通过构建大规模HOV数据集和多粒度运动-文本对齐机制，实现开放词汇下的跨源骨架动作识别。",
-      "date": "2026-04-18",
-      "link": "http://arxiv.org/abs/2604.17013v1"
+      "title": "Multi-Gait Learning for Humanoid Robots Using Reinforcement Learning with Selective Adversarial Motion Prior",
+      "summary": "### 现状痛点",
+      "date": "2026-04-21",
+      "link": "http://arxiv.org/abs/2604.19102v1"
     },
     {
-      "title": "Leveraging VR Robot Games to Facilitate Data Collection for Embodied Intelligence Tasks",
-      "summary": "提出基于Unity的VR游戏化数据采集框架，通过程序化场景生成和VR人型机器人控制，实现具身智能任务的大规模高效数据收集。",
-      "date": "2026-04-18",
-      "link": "http://arxiv.org/abs/2604.16903v1"
+      "title": "HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincaré Maps, and Regions of Attraction",
+      "summary": "本文提出HALO框架，通过自编码器学习低维潜在状态并构建潜在庞加莱映射，实现周期性混合动力系统的降阶建模，同时利用李雅普诺夫分析构建吸引域并可解码回原系统。",
+      "date": "2026-04-20",
+      "link": "http://arxiv.org/abs/2604.18887v1"
+    },
+    {
+      "title": "Bounded Ratio Reinforcement Learning",
+      "summary": "该论文提出Bounded Ratio Reinforcement Learning (BRRL)框架，通过建立正则化约束的策略优化问题并推导出解析最优解，弥补了PPO启发式裁剪目标与信任域方法理论基础之间的鸿沟，并开发了BPO和GBPO算法。",
+      "date": "2026-04-20",
+      "link": "http://arxiv.org/abs/2604.18578v2"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla will bring humanoid robot Optimus to India at appropriate time: Official - The Hindu",
-      "summary": "特斯拉宣布将在适当时候把人形机器人Optimus引入印度市场，此举表明特斯拉加速Optimus全球化布局，印度或成为其亚洲重要市场。",
-      "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQOWszaFU0YnlqbGxZLWU3WHVzUEVpZXFUZ1RSV0stTnAxYk92cEFOTkMwcExrVEY0U2VuZ29yQlBfTE5vTTB3dk5ScUhIdFk4X0czQkNvV0NDZGttTjF4OGhoUU10NmdUaE1CMDBaMng2TUFiV3ItMVZETjBLeFFiRExzajhNakRzWHp3bF9XVlJpMVhpaWpoTjJqdTU5OE4zUmtWSXpBZGtPY045V2VscGFWMm81dU5GdGxHcUUyVkFJa2xTVUdkSFVmOFI3cDJMQjdDNXFsNTBuZ9IB4AFBVV95cUxPNUdUbl9UTnNuSU5sZC1rclhsTzJhSHY2LXU1Uk4zaV84bThDMEhlRC01ODNFT2hhV216T2tnMHdvNXJ0ZzNPbVE4V1pTZFZrVTF6eDh2VlM2bTM1bUUtS2VTM3ZlTDVFMXFkc1FwbUd6QW5GUmV3aW12T09IbUtPNl9iU0l2YkpTNV96anlBZXhia0dDSVlDM29Ib1ZpZW9VNFRxNHJqRVBwU01vM0IwNXljbzNVS3hueHBNODhxUzlRTTBvX2RJRk9OSV8zNnJpVExGOTIxbTVJazJtZ0llbA?oc=5"
+      "title": "Tesla confirms Optimus production starting late July at Fremont on former Model S/X line - Electrek",
+      "summary": "Tesla宣布其人形机器人Optimus将于7月底在加州Fremont工厂（原Model S/X生产线）开始量产，标志着Tesla正式进入人形机器人商业化阶段。此举将加速全球人形机器人竞争格局的形成。",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTYxMW9XclFDMmtza0VONERTQlAyQXdqMU9sVWl6Nkk3WmJQVjAtempBZnpMakJnV01ubnZMT2I5ZTlUZjRaVVRjbFJ0cVM4OUlmRU0zSjVhYmRSSjdxamhHdWhtSXYwdlExbTBFQW84ekdxcV9nTlBiRmJQRFZUa1poVUQ?oc=5"
     },
     {
-      "title": "Tesla's Optimus Humanoid Robot Will Come To India At Appropriate Time, APAC Chief Confirms - NDTV Profit",
-      "summary": "Tesla确认Optimus人形机器人将进入印度市场，由APAC负责人宣布。此举标志着Tesla推动人形机器人全球布局的重要一步，印度将成为其亚太区关键市场。",
-      "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTUJCSUdJZ2dGSlQzcnJtVUZIZk1pT3hhaEx5a3dubXZUMl9hcEZncDMzR1pnSmxSNWZsX1gxWWtVTVZCdkRXUjBmSTJlRTdyVjBJNDB2NXNUNEx1ZE9hcmhWdFNEa01nOXUxUXl6MnhoalAwSFhZWUVtS0NHd1gwLUR3QWVhZTAzOFpJeG80YlN0Zk5LVmhiTHVYSWdQdXc2WGNNd2VBZmpCOVBISnd3RWxGMU5QaHFjQklKUGhUSGljYzhHekNtNE1QcE5uRzRG0gHYAUFVX3lxTE1hNlEtV2VjTDVGZlFpYzFkZUgxRElQMWRGc2p3c2FlMEZzR0hMZTlqQ3h3dFFSMElMX1kzaTBQeFJ3eWhMaEhnR1VXSEhVUnpic0l4NWZZLVA4NERLcXROTlpkbldLWUsyLTNKSnROV1dSR2FTd2lnaUhwdFJ0RVhQbGxEVld2QXZwTTNUT205Rms4OE1oQ2ZxMDBVTmtVRGZHc0s1djNxc2wzZHdVbERfVUwwMXRXOXhDMzl5c0JzQWFVdzZYZUFkZzQxMldQanVvUlltNzlHMQ?oc=5"
+      "title": "Elon Musk says copycats are to blame for pushing Tesla's Optimus humanoid robot unveiling - Business Insider",
+      "summary": "特斯拉CEO马斯克称竞争对手的模仿行为促使公司加快推出Optimus人形机器人，反映出该领域竞争加剧，传统车企与科技公司正加速布局人形机器人市场。",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnFtMVBTNm5pOTRZM1p2WHpJQ2p3bDRfdGxacU9xN0N3WlFLbklGRzQxYXFtNlVST3BFWkJFa0NDcC1zS1JaLWlxU2NBNlA3VEU5M3I2Z1R0VUlhMnlTdmI5M1lDTHR6emFRcUI0MzhReVhqS1NzS3M5bmdSX3hUVmJMRGIxbzZoYkJfS05pLUZuQ3pnMzhV?oc=5"
     },
     {
-      "title": "Tesla Brings Optimus To Boston Marathon — But China's Robots Are The Ones Winning Races - Yahoo Finance",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckczNW9fNWRUWVRUTW9DdEM3ejdDcUR6d2Y2R1",
+      "title": "Elon Musk says Tesla’s Optimus robot could be its 'biggest product ever' - USA Today",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElKcHktYzJibUZsTnBKczBSSkR6V1Jyb3oycG",
       "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQckczNW9fNWRUWVRUTW9DdEM3ejdDcUR6d2Y2R1FFOUMwWGpPamdQVlRxNENMRHZ4YkNIUkJpWUhUZ2V6aWJlcV85V1FoUjZCRTZBREgxZWdVVnVSTjJ2dWsybUZaTS1WQXZCcGI5TVdRNnRCb3VTX2xRNzNOX0c5UEVIWjY4SUVHb2h4Rnh5YzNvMHZGS1Y5eDE4YklWaUV6MVlHWnhodFE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElKcHktYzJibUZsTnBKczBSSkR6V1Jyb3oycGV3UlplbmF6TGJKUEotU1FPYnQtMnNTeGF1cWNERVhLU3EyLXR4cThRVi1CajZZblk5SUFBNlROejFqRkI1Z1ZNa2NVa29tWDlucjBSZU9WX3dXOVJpTXdTVVRaN1RRQ0lrNWF4RV8wcnJQOF9ia0k2XzFtNlVPMFFITVp1MVREb2REVkxhSENj?oc=5"
     },
     {
-      "title": "Tesla Signals Future India Entry for Optimus Robot and Energy Solutions - The Hans India",
-      "summary": "特斯拉暗示未来将Optimus机器人和能源解决方案引入印度市场，标志着人形机器人加速布局新兴市场，将推动全球行业竞争扩展。",
-      "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcGNobmYxOU54NDFzVFVwR0hoMUdsTmRnS0RSamxEYzcyb0ppeURQU2ZBM3BHZGdPM0JfWlZzM01WQXl4QTFuMEZFVDZZSFUzRWU3QWExX0Fwb0dEQ0R5TFZyNFpCaGJOYUFveU10RkxDNHBCUDd6UVZxZHhYcUM3QVJreWJuRWRYRUl3b29fMjVfLWNkazg5T3V2UUdfajhoTGdxejR3YjFkSUpwaW56U0hvcFQ0UmstV051TERCY295NlViSzZ0bNIBzgFBVV95cUxQS2xJRXhKdW1OdzBneEhfSzNJZTBrR2VrLTI0U2xkY0VYSzV5bXRaUUFTU24zM0NZUzI0T2h0OGEwQmRGcThVUWtmS0cwbml5ZkpvNkZSWWFna3pySldEMGJ6VGkwa0dsa1hGZVVHNjQ4cGZ5bmFOay1XYnA1cl9DdkV6LUVydTNJbUxPQVhuUDZPZzgydFEwYmxVaFhnbFBJOGk1SUpuQXdaZFR0d2xOQUVNS3M3QzdTNWtFZVk2em1SVXRnaU1ka2VFd1l5Zw?oc=5"
+      "title": "Elon Musk reveals shocking Tesla Optimus patent detail - Teslarati",
+      "summary": "Elon",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdl92Ym80ZGtRa1UtMFo0am5uZWx2SGg5RUJieDR0TnBsVHZXc0VaeEpLMld4Szh1WlpEUEJVOVRLMVhtREtNUERhQV9hRUlveHBEQ2xaVUVHSDg4ODJKZ1NlUXZhOC1vV0VlYTJjM1Qza1dUU1plZ0pqMmZySFJZbno3X0tmRmNK?oc=5"
     },
     {
-      "title": "Tesla's Technological Leap: Optimus and Energy Solutions on the Horizon for India - Devdiscourse",
-      "summary": "Tesla计划在印度推出Optimus机器人及能源解决方案，标志着",
+      "title": "Elon Musk targets one million Optimus robots annually from Fremont factory - The Business Journals",
+      "summary": "特斯拉计划在弗里蒙特工厂实现年产100万台Optimus机器人，此举将推动人形机器人行业规模化发展，加速替代重复性劳动。",
       "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOS1ZTam02aS1ZOWwxdmhib21yVkpxczNsV21JVEs2SUZuTXo1UW9zWmVNSEE0Si1NaGJZTGdfYkpIa1RlQ1U5VWZTbFdFaF9heTd0RlhyRjlrOUtYZGhpM3dSb1RXLWRrUC1QaFJUbVF1ck9iSlNvSjRwZmM2bXNibTZiTTI5ak03QU9Zd0RKMzh1MkM1VkZZdGJHd1l6OUFzZHhMczgzRTdLMXJra2hCZl9zRWZxX2hvZDBsVXdhbjJKMFhfcTNvcUlndnczZTgz0gHWAUFVX3lxTFBBREthcDREOUdZd2FDSzFkUmFKVE1rR3VQQk9Va0hHTkhLcHZyYjV3dXRyMmxVVm5EVTBjeDR2TWNMUEVnd2tzWTAwMEVtOU9ld3VaeDJObW5lNFVIVndKckF6MHo3VnRnRXJ5bEJvRjdOX2pGQWtHeWpGcjJOdmxMVFVfcHRrMHY2bjVPdkI0QnByYkFsWGQ1LUFxSUVFVkZhZ2VQYzRfMVZlc3lWOUVwemE1WmtjRzN1Q3c5TTZXVEJyNUFGSXdSNk8xZmJEVkZNemNOZnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNb0djaVp2RVRZVURJNzEtTm9ZZmJoRXhwbHFVWTBweGFqdlg2VHpHVGMwdTRveFNvbnZCTEJZenJDSkY2MW9QRnFtRmNUdU1tWm52Yk41bk9vVmlKNzVjaFdYLXVXR2JxbE1LUl9pdktRVnJ3ckdMWV9WaVRtU3VQTEN3U3YzT1E1Y2lfMjdKbGI4M084WWtoWFZNUlM2VlVNeWtQQmN4OWtwUQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-22T14:00:59.605894"
+  "updated_at": "2026-04-23T02:52:23.768921"
 }
