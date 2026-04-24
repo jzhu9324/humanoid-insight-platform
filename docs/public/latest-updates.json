@@ -1,68 +1,68 @@
 {
   "papers": [
     {
+      "title": "X2-N: A Transformable Wheel-legged Humanoid Robot with Dual-mode Locomotion and Manipulation",
+      "summary": "X2-N是一种高自由度可变形轮腿式人形机器人，通过关节重构实现人形与轮腿模式无缝切换，并采用强化学习全身控制框架实现双模态运动与操作的统一控制。",
+      "date": "2026-04-23",
+      "link": "http://arxiv.org/abs/2604.21541v1"
+    },
+    {
+      "title": "A Replicable Robotics Awareness Method Using LLM-Enabled Robotics Interaction: Evidence from a Corporate Challenge",
+      "summary": "本文提出一种基于LLM驱动的人形机器人挑战赛方法，用于在企业环境中向非专业员工普及机器人技术，实验表明该方法能有效提升参与者对机器人与AI的兴趣与理解。",
+      "date": "2026-04-23",
+      "link": "http://arxiv.org/abs/2604.21377v1"
+    },
+    {
+      "title": "RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting",
+      "summary": "本文提出RPG框架，通过混合专家策略结合运动转换随机化和时间随机化训练，实现类人机器人在格斗中的平滑多技能切换与稳定全身控制。",
+      "date": "2026-04-23",
+      "link": "http://arxiv.org/abs/2604.21355v1"
+    },
+    {
+      "title": "Learn Weightlessness: Imitate Non-Self-Stabilizing Motions on Humanoid Robot",
+      "summary": "论文提出失重机制(WM)，通过模拟人类在非自稳态动作中的「失重」状态，动态选择放松特定关节实现与环境的身体接触和交互，实现无需任务特定调优的跨环境泛化。",
+      "date": "2026-04-23",
+      "link": "http://arxiv.org/abs/2604.21351v1"
+    },
+    {
       "title": "Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies",
-      "summary": "论文评估了视觉语言模型(VLM)在非人形机器人形态上进行语义affordance推理的能力，通过构建混合数据集揭示了VLM对不同机器人形态的泛化效果及其保守预测倾向。",
+      "summary": "论文首次系统评估了视觉语言模型在非人形机器人形态学上的可供性推断能力，揭示了模型倾向于保守预测的特征。",
       "date": "2026-04-21",
       "link": "http://arxiv.org/abs/2604.19509v1"
-    },
-    {
-      "title": "Reinforcement Learning Enabled Adaptive Multi-Task Control for Bipedal Soccer Robots",
-      "summary": "本文提出一种模块化强化学习框架，通过结合开环前馈振荡器与强化学习反馈残差策略，实现双足足球机器人在动态环境中的自适应多任务控制。",
-      "date": "2026-04-21",
-      "link": "http://arxiv.org/abs/2604.19104v1"
-    },
-    {
-      "title": "Multi-Gait Learning for Humanoid Robots Using Reinforcement Learning with Selective Adversarial Motion Prior",
-      "summary": "### 现状痛点",
-      "date": "2026-04-21",
-      "link": "http://arxiv.org/abs/2604.19102v1"
-    },
-    {
-      "title": "HALO: Hybrid Auto-encoded Locomotion with Learned Latent Dynamics, Poincaré Maps, and Regions of Attraction",
-      "summary": "本文提出HALO框架，通过自编码器学习低维潜在状态并构建潜在庞加莱映射，实现周期性混合动力系统的降阶建模，同时利用李雅普诺夫分析构建吸引域并可解码回原系统。",
-      "date": "2026-04-20",
-      "link": "http://arxiv.org/abs/2604.18887v1"
-    },
-    {
-      "title": "Bounded Ratio Reinforcement Learning",
-      "summary": "该论文提出Bounded Ratio Reinforcement Learning (BRRL)框架，通过建立正则化约束的策略优化问题并推导出解析最优解，弥补了PPO启发式裁剪目标与信任域方法理论基础之间的鸿沟，并开发了BPO和GBPO算法。",
-      "date": "2026-04-20",
-      "link": "http://arxiv.org/abs/2604.18578v2"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla (TSLA) is preparing 10 million Optimus robots per year production line at Gigafactory Texas - Shacknews",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXctelQ5X2RlUThoV1kzSGFVdmJTcGZlOVI1VG",
+      "title": "Tesla pushes Optimus V3 reveal later this year – again - Electrek",
+      "summary": "Tesla再次推迟Optimus V3人形机器人发布，展示其技术挑战。作为行业标杆的频繁延期，或将影响整个类人机器人商业化进程的预期。",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTYxMW9XclFDMmtza0VONERTQlAyQXdqMU9sVWl6Nkk3WmJQVjAtempBZnpMakJnV01ubnZMT2I5ZTlUZjRaVVRjbFJ0cVM4OUlmRU0zSjVhYmRSSjdxamhHdWhtSXYwdlExbTBFQW84ekdxcV9nTlBiRmJQRFZUa1poVUQ?oc=5"
+    },
+    {
+      "title": "Elon Musk says copycats are to blame for pushing Tesla's Optimus humanoid robot unveiling - Business Insider",
+      "summary": "马斯克称因竞争对手“模仿”而提前发布Optimus，反映特斯拉在人形机器人领域面临激烈竞争，将加速该行业技术竞赛与商业化进程。",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnFtMVBTNm5pOTRZM1p2WHpJQ2p3bDRfdGxacU9xN0N3WlFLbklGRzQxYXFtNlVST3BFWkJFa0NDcC1zS1JaLWlxU2NBNlA3VEU5M3I2Z1R0VUlhMnlTdmI5M1lDTHR6emFRcUI0MzhReVhqS1NzS3M5bmdSX3hUVmJMRGIxbzZoYkJfS05pLUZuQ3pnMzhV?oc=5"
+    },
+    {
+      "title": "Elon Musk's Optimus dream inches closer to reality - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU04ZzZRRjFEdTVBSkJyU2d6MlVfSmVIek5oSj",
       "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXctelQ5X2RlUThoV1kzSGFVdmJTcGZlOVI1VGxERWZlTXRrZXVUTzJKb056MEdrbjJXQ2Via2xLREdpSk41TkM3LVhiRHF2cnJDUTJMNW1DZVQ4eUo1Yko1bGpLcXJXS2kxZ21BUnR0WFlWeXNTX0ZFZThHMEVpYkJ2Qk81S25UX3NOZzNUcEzSAZ4BQVVfeXFMTUpVNDhBdklQNjluXzQxak9lMVV6LUxWMWpqUjdaU01uVjc2TjZBSzRoZkhiTnhYQWZvVTVhM0dJcDJ1V3RIWHhyX2gtSUF6dldVTURnRmhnSVdNSG95V3dmdWpINm1DR1RaaU5CZEFmaElXcm0xT2pjSHhyOGNLTGdJZHhqLWw3YU5rQ0xfRGdKbFZ5UmZQU2ZNX29NYnc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU04ZzZRRjFEdTVBSkJyU2d6MlVfSmVIek5oSjJQaVU4RnpsVkMwWXRWbWhKUmFlQ2o4VURaVFBUdWxEUFlCYXF0eXp4R3EzcGZaV1d3RFg3MG8xVW5RYnREeHhlQlVUdXUyaWxBemlvTE5jcHFLdmp6QlFwaHdzSjZBR29LNm45eTZLVVlNSi1DX0dNQ1B4cGdxUlRheEkyS1JGVXNCc1RJajdwTGpEcmxZUQ?oc=5"
     },
     {
-      "title": "Elon Musk Hides Tesla Optimus V3 Details as Humanoid Robot Production Nears Launch, But Why? - Tech Times",
-      "summary": "Tesla Optimus V3即将投产，Elon Musk隐藏技术细节，可能反映保密策略或技术成熟度考虑，对行业竞争格局和供应链发展具有风向标意义。",
-      "date": "2026-04-23",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZFJQOXdVelFzMWk1ZV9hZEoyOUZ2T0FTYW5YdXV3ajhtZnhoWjRndmRtR1AtenJ0c2xTLVQtM2xYZGxXX2o0dmo3Q3pLS2tPVVhBemNUeGJ3SkYtMjBMazdWMjRoTnM3YVp6MTUzMW9xSnR4Y1lMOHRleXMwVXZpUi1DazMzRGJQZ0U0TDl2NndfYndVYl8zbkN4cGRUM2s2aG1wb0JDX25OcWdER2x6RzZWcTFKSmlnajdxczIxUTRsTlZ6ZDRNbTV2VU02aVNMemwtdw?oc=5"
+      "title": "Elon Musk says Tesla’s Optimus robot could be its 'biggest product ever' - USA Today",
+      "summary": "马斯克称",
+      "date": "2026-04-22",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElKcHktYzJibUZsTnBKczBSSkR6V1Jyb3oycGV3UlplbmF6TGJKUEotU1FPYnQtMnNTeGF1cWNERVhLU3EyLXR4cThRVi1CajZZblk5SUFBNlROejFqRkI1Z1ZNa2NVa29tWDlucjBSZU9WX3dXOVJpTXdTVVRaN1RRQ0lrNWF4RV8wcnJQOF9ia0k2XzFtNlVPMFFITVp1MVREb2REVkxhSENj?oc=5"
     },
     {
-      "title": "Elon Musk Says Optimus V3 Unveil To Be Closer To Robot's Production As Rivals 'Copy' Everything Tesla Doe - Benzinga",
-      "summary": "马斯克称Optimus V3发布更接近量产版本，竞争对手纷纷模仿特斯拉技术。",
-      "date": "2026-04-23",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQQjY0NE9WS1pzQXBtY1JrX3dqd1lhLUlPQU5LRDVlNlN3ejZ3TFVQRU9IS1JnVVBENFVHNV9rdUp2aUxZTFZTT2o5d2FrSU9ITmRSd1ZWVGJ1djcteTdJV3ZwZHZOSmZkQzNvUTlQU2JmbDFmUEhwV1VnTFh3bmw2cHo1SzJ1U3lhRDkxdTNzNHFreUZ6RTAzRnk1Vnk1OUVER0VFdTg0SnpHV1RKUlBRdTNtSDFuR2trcmdlOEdIMzZVVE9mcFJuSUhJZXBkMmUzeUpodWZna3RKeTBucUFDTHowUDJzRmh0a19HZQ?oc=5"
-    },
-    {
-      "title": "Elon Musk says copycats are why Tesla can't unveil Optimus sooner - AOL.com",
-      "summary": "Musk称因担忧技术被抄袭而推迟Optimus发布，此举反映人形机器人领域竞争激烈，知识产权保护成为行业创新的关键考量。",
-      "date": "2026-04-23",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yalJUOWhqQzV6LU40YWlwRzBWSXVFRG5MbjY1TS1rendTVGNpcnNtLXRyR3ZTbFZvVm1nUFBpX21QcXNld2xuQVZwVjJIT0xxaFhOOUhvS19rRi0yM21feENXSkFQdENOOFcwcWRFSEdLWTBJZlE?oc=5"
-    },
-    {
-      "title": "Tesla Boosts Spending Plan to $25 Billion in AI, Robotics Push - Bloomberg.com",
-      "summary": "特斯拉将AI和机器人投资预算提升至250亿美元，彰显其押注人形机器人赛道决心，有望加速行业技术迭代与商业化进程。",
-      "date": "2026-04-23",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPNXFER2ZlUy1LUEVSbHlEWjAzZEJCNFJreEFpb3NPbEg3QUtlZl90b1U2VDlrUnM0R1JGTjVaT29JeE81c09XeDdub19LZWJKaHhpR1ZuWThBelRzYkZIV2NLZngwOU1jQ0xuRGF0amRSU2xvSzA2c1NzRkNJTnI1MFpuZmhiOWlwdUN4R01LWU8zVFh3czFfLTFxdjFHZHpkMC1KOERNTkp5R2ZkNlVGaw?oc=5"
+      "title": "Tesla's Optimus Robot Scored the Boston Marathon's Hottest Marketing Campaign—for Free - inc.com",
+      "summary": "Tesla的Optimus机器人在波士顿马拉松上意外成为焦点，获得大量免费曝光，展示了人形机器人商业化营销的潜力。",
+      "date": "2026-04-20",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQckFUQkluZ01nb2pmLTA0bk14dFNSWmw4aEdIb1g5eFQ0U0RidHZqZW9LVlZNNnRSNHNTZ0x4YXF3dXN6UHFXLXRwcFlMZ0tpNHFYbXczMnprUXNsRlQxVDktTEJCa3lPNmQ3bjhPcnluaW5sd0NLcklRcVhPajVhWlN6aGpzZw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-23T14:00:51.224605"
+  "updated_at": "2026-04-24T02:56:57.761985"
 }
