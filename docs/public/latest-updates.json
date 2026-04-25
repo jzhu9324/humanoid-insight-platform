@@ -2,67 +2,67 @@
   "papers": [
     {
       "title": "X2-N: A Transformable Wheel-legged Humanoid Robot with Dual-mode Locomotion and Manipulation",
-      "summary": "X2-N是一种高自由度可变形轮腿式人形机器人，通过关节重构实现人形与轮腿模式无缝切换，并采用强化学习全身控制框架实现双模态运动与操作的统一控制。",
+      "summary": "X2-N是一种高自由度的可变形轮腿式人形机器人，通过关节重构实现人形与轮腿形态的无缝切换，并采用基于强化学习的全身控制框架实现混合运动、变形和操作的统一控制。",
       "date": "2026-04-23",
       "link": "http://arxiv.org/abs/2604.21541v1"
     },
     {
       "title": "A Replicable Robotics Awareness Method Using LLM-Enabled Robotics Interaction: Evidence from a Corporate Challenge",
-      "summary": "本文提出一种基于LLM驱动的人形机器人挑战赛方法，用于在企业环境中向非专业员工普及机器人技术，实验表明该方法能有效提升参与者对机器人与AI的兴趣与理解。",
+      "summary": "论文提出了一种基于LLM驱动的类人机器人挑战式培训方法，通过结构化的企业活动向非专业人员普及机器人技术，验证了其在提升员工机器人认知和接受度方面的有效性。",
       "date": "2026-04-23",
       "link": "http://arxiv.org/abs/2604.21377v1"
     },
     {
       "title": "RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting",
-      "summary": "本文提出RPG框架，通过混合专家策略结合运动转换随机化和时间随机化训练，实现类人机器人在格斗中的平滑多技能切换与稳定全身控制。",
+      "summary": "### 现状痛点",
       "date": "2026-04-23",
       "link": "http://arxiv.org/abs/2604.21355v1"
     },
     {
       "title": "Learn Weightlessness: Imitate Non-Self-Stabilizing Motions on Humanoid Robot",
-      "summary": "论文提出失重机制(WM)，通过模拟人类在非自稳态动作中的「失重」状态，动态选择放松特定关节实现与环境的身体接触和交互，实现无需任务特定调优的跨环境泛化。",
+      "summary": "### 现状痛点",
       "date": "2026-04-23",
       "link": "http://arxiv.org/abs/2604.21351v1"
     },
     {
       "title": "Assessing VLM-Driven Semantic-Affordance Inference for Non-Humanoid Robot Morphologies",
-      "summary": "论文首次系统评估了视觉语言模型在非人形机器人形态学上的可供性推断能力，揭示了模型倾向于保守预测的特征。",
+      "summary": "论文首次系统评估视觉语言模型在非人形机器人形态上的可供性推断能力，揭示了模型倾向于保守预测的特征及其对新型工具使用场景的局限性。",
       "date": "2026-04-21",
       "link": "http://arxiv.org/abs/2604.19509v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Elon Musk's Plan to Build One Million Robots: How Many Motors, Reducers, and Lead Screws Are Made in China? - eu.36kr.com",
-      "summary": "Tesla计划量产100万台人形机器人，关键零部件电机、减速器、滚珠丝杠等中国供应链产能受关注，凸显中国在人形机器人核心部件制造领域的战略地位。",
-      "date": "2026-04-24",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBWUHA3SFIzY0FJdDZZODFOMXU0TVRGTnJZUWZGQk5EV0hZd2NuVGc2TmhFUXBRZUlXcVVkcDVaRmlrZkNPeFE5YU1ialYxWFRTZGtF?oc=5"
-    },
-    {
-      "title": "Tesla loses head of Optimus robot program - MSN",
-      "summary": "Tesla核心人物离职，Optimus人形机器人项目负责人跳槽至竞争对手，这对行业影响深远。",
+      "title": "Elon Musk says Tesla’s Optimus robot could be its 'biggest product ever' - USA Today",
+      "summary": "**摘要：** Elon Musk称特斯拉Optimus人形机器人可能成为公司“最大产品”，凸显电动汽车巨头对人形机器人商业化前景的强烈信心。",
       "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMisAJBVV95cUxQR2Y1STF1VTE2a3BkNHR5ejFHc2d6NjVYNGNJQTNlV050cVdVX1hnaUhXTlZyUkdqaXRxVmlJSnl6SVZBOFFYeXpIQU5FanhQQVBwZXV6dE5IbVFJZlNNeURjeDJjQ0lDNnNzTjQwY2xHYjdoZWRRdFNKSHJUM0tsV2xDVlhmSXVmNURtd3NrNS1Vd0JlVlg5SHhJd0J4QndqNkFpV1ZIMlo5NlBnTHYxNTFxWTE2WmliV3lvdHBXd2VBS19FT1NETWxWN0pzYWFKWGtzd0xUbndsUHlncU1yT0RtRHpoQlR4RElpOUJpWE1LZmZUN1FmSE1VN2tpa3BQRktveWgtaFJlM0I2c2FNaGN3VTRkbUxMbHZMbTRSVE9pN1lPcDRUNGNycXhmQ1Fm?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElKcHktYzJibUZsTnBKczBSSkR6V1Jyb3oycGV3UlplbmF6TGJKUEotU1FPYnQtMnNTeGF1cWNERVhLU3EyLXR4cThRVi1CajZZblk5SUFBNlROejFqRkI1Z1ZNa2NVa29tWDlucjBSZU9WX3dXOVJpTXdTVVRaN1RRQ0lrNWF4RV8wcnJQOF9ia0k2XzFtNlVPMFFITVp1MVREb2REVkxhSENj?oc=5"
     },
     {
-      "title": "Tesla (TSLA) Earnings Call Reveals $25 Billion Capex Plan for AI, Optimus Robots and Cybercab as Stock Retreats - foreignpolicyjournal.com",
-      "summary": "Tesla宣布250亿美元AI与机器人投资计划，彰显其推进Optimus人形机器人量产的坚定决心，将加速行业竞争与技术商业化进程。",
+      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - eWeek",
+      "summary": "Tesla目标2027年实现Optimus机器人规模化生产，显示其对人形机器人商业化的重大推进，可能加速行业竞争与发展。",
       "date": "2026-04-24",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUy1pdEJBUTA1UmdtN2gxMERQX0cwbW95MWZqX01XNTVhUGtzNWtnOWY4ZktjaGd6YnAwek9sZkRnemZhbnE5UVkwUDVsR2ZtQktHUFBtV0Y2Wjk5NldXZmVfc2hJcE5JdFR4TUxKcUJlWVFPVUUxTjFIZk1yQVl6aWw2NllhQ0xTd0UtbDZ2eFZRekRnb0xwbWVFYkNRbmUwVUpXMzZGRFEwSEotWkpFMFJlQVI2ZU9Ea2h6Y1p4ZEtKVFJfTVJlRzdjQjdQaVRkNEFjaVhvYmZUYURITmc4RnpGYUxjYm5mQjlWRw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3THlvb1JiallMendkcFM4VTZDRURDOTBGTVJUTzdYbjN1OTNucXlVSHVPWkU0aVp1V0FRczJySGRKT1p1LTNVZEZ4SjRqRlEtSXN2MWYzTzlHcVR5a3BKa3NGWWRfYXpOZUYtUF9kamRQRldrenc?oc=5"
     },
     {
-      "title": "Tesla's profit grew in the first quarter, Musk announced a new Roadster - Українські Національні Новини (УНН)",
-      "summary": "Tesla Q1利润增长并发布新Roadster，强劲财报增强投资者信心，为其人形机器人Optimus研发提供更充足资金支持。",
-      "date": "2026-04-24",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNYzhabHhKRVlYR2hMcTFLWUs4bWZHc0xycXJXYmxZSVdhQ1JXd2loVGpYWUNQVXBaYUgybGdsVlIxOGlHMmkwLVU0WF9QcDhnYlRybFpCZzNfMzk0YzlHcHVaS1kwc0tURTVaUEdiSzZoSlB4OWdXQTR4T0tzcVF6ZlVvc0d4UGJYMEk1WFFUdmVEcjk1Qkp30gGWAUFVX3lxTE92Y3daSkpQb0pWckFfXzl1cHdSODFkQmR0V1kzQTE1bzRXLU9rRmRGWmVXR3lsLXZUSDItREZJMTBhYUdnNHJDRWFuT2lpUHFTdjQwQU5pck9ORDdTRXU0SVNiaUpuZzJyNzZ6Y0ZCbGgxS21TZ2pSSXVtcGhVeHl3cDkxWEduZmJvYVRmcDRiZGVsZjNNdw?oc=5"
+      "title": "Elon Musk's Optimus dream inches closer to reality - Yahoo Finance",
+      "summary": "Tesla Optimus人形机器人取得新进展，距离商业化更近一步，推动行业技术竞争加速。",
+      "date": "2026-04-22",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU04ZzZRRjFEdTVBSkJyU2d6MlVfSmVIek5oSjJQaVU4RnpsVkMwWXRWbWhKUmFlQ2o4VURaVFBUdWxEUFlCYXF0eXp4R3EzcGZaV1d3RFg3MG8xVW5RYnREeHhlQlVUdXUyaWxBemlvTE5jcHFLdmp6QlFwaHdzSjZBR29LNm45eTZLVVlNSi1DX0dNQ1B4cGdxUlRheEkyS1JGVXNCc1RJajdwTGpEcmxZUQ?oc=5"
     },
     {
-      "title": "Ross Gerber Slams Elon Musk's Tesla For Phasing Out 'Best EV Ever' Amid Optimus Push: 'This Is Just Wrong - Benzinga",
-      "summary": "特斯拉减少电动汽车生产以推进Optimus人形机器人项目，引发投资者批评战略转向，行业竞争加剧。",
-      "date": "2026-04-24",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOHl6QmtzRnFBUFVKNWduMVEtcWo4R0lGbVd1NlU1WFJHUXZTRkpYTnRfVUtoOE8zREtXbHZCSFBMZkdYRnNwS3FYQ0JLMk40bmhhN0NOUUsxM3VjdkZVZjc3MVJ6QTNmcWU4d1lqeGdwYkRyQzZDS20wWlJOYjk5blFaMUwwSF8xM1ZuaXF1UU0zVFVBZWp0LXNLM2pFQnJjVk1WNmVHVEJTYXhsbTNHUGxXMTN2WDJf?oc=5"
+      "title": "Elon Musk says copycats are to blame for pushing Tesla's Optimus humanoid robot unveiling - Business Insider",
+      "summary": "标签",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnFtMVBTNm5pOTRZM1p2WHpJQ2p3bDRfdGxacU9xN0N3WlFLbklGRzQxYXFtNlVST3BFWkJFa0NDcC1zS1JaLWlxU2NBNlA3VEU5M3I2Z1R0VUlhMnlTdmI5M1lDTHR6emFRcUI0MzhReVhqS1NzS3M5bmdSX3hUVmJMRGIxbzZoYkJfS05pLUZuQ3pnMzhV?oc=5"
+    },
+    {
+      "title": "Tesla pushes Optimus V3 reveal later this year – again - Electrek",
+      "summary": "Tesla人形机器人Optimus V3再次延期至今年晚些时候发布，反映出商业化量产的复杂性。这一延迟可能影响投资者信心，但也为竞争对手争取追赶时间。",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTYxMW9XclFDMmtza0VONERTQlAyQXdqMU9sVWl6Nkk3WmJQVjAtempBZnpMakJnV01ubnZMT2I5ZTlUZjRaVVRjbFJ0cVM4OUlmRU0zSjVhYmRSSjdxamhHdWhtSXYwdlExbTBFQW84ekdxcV9nTlBiRmJQRFZUa1poVUQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-24T13:50:06.683780"
+  "updated_at": "2026-04-25T02:41:02.254768"
 }
