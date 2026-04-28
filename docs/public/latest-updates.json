@@ -1,62 +1,50 @@
 {
   "papers": [
     {
-      "title": "X2-N: A Transformable Wheel-legged Humanoid Robot with Dual-mode Locomotion and Manipulation",
-      "summary": "X2-N是一种可在人形和轮腿形态间自由切换的高自由度变形机器人，通过强化学习实现跨形态的统一全身控制。",
-      "date": "2026-04-23",
-      "link": "http://arxiv.org/abs/2604.21541v1"
+      "title": "QuietWalk: Physics-Informed Reinforcement Learning for Ground Reaction Force-Aware Humanoid Locomotion Under Diverse Footwear",
+      "summary": "QuietWalk提出一种结合逆动力学约束PINN估计足部垂直地面反作用力的强化学习框架，在无需部署力传感器的情况下实现低冲击力行走，成功适配多种鞋类且显著降低足地冲击噪音。",
+      "date": "2026-04-26",
+      "link": "http://arxiv.org/abs/2604.23702v1"
     },
     {
-      "title": "A Replicable Robotics Awareness Method Using LLM-Enabled Robotics Interaction: Evidence from a Corporate Challenge",
-      "summary": "论文提出并验证了一种基于LLM的挑战式人形机器人交互方法，通过企业环境中的团队任务帮助非专业员工提升机器人认知和接受度。",
-      "date": "2026-04-23",
-      "link": "http://arxiv.org/abs/2604.21377v1"
-    },
-    {
-      "title": "RPG: Robust Policy Gating for Smooth Multi-Skill Transitions in Humanoid Fighting",
-      "summary": "提出RPG混合专家策略框架，通过运动过渡随机化和时间随机化训练统一策略，实现人形机器人多技能间平滑稳定转换，打破传统方法需在多个单技能策略间切换的限制。",
-      "date": "2026-04-23",
-      "link": "http://arxiv.org/abs/2604.21355v1"
-    },
-    {
-      "title": "Learn Weightlessness: Imitate Non-Self-Stabilizing Motions on Humanoid Robot",
-      "summary": "本文提出失重机制(WM)让机器人在执行非自稳态动作时动态放松特定关节，实现与环境的自适应交互，在坐椅子、躺床、靠墙等任务上展现强泛化能力。",
-      "date": "2026-04-23",
-      "link": "http://arxiv.org/abs/2604.21351v1"
+      "title": "RecoverFormer: End-to-End Contact-Aware Recovery for Humanoid Robots",
+      "summary": "RecoverFormer是一个端到端的人形机器人恢复策略，通过因果Transformer处理观测历史，并创新性地引入潜在恢复模式头和接触可供性头，实现多种恢复行为（补偿性迈步、手-环境接触、重心重塑）的自适应切换，在零样本情况下泛化到新环境。",
+      "date": "2026-04-24",
+      "link": "http://arxiv.org/abs/2604.22911v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla: AI And Robotics Shift Is The Real Story (NASDAQ:TSLA) - Seeking Alpha",
-      "summary": "特斯拉强调AI和机器人转型为核心战略，计划推出人形机器人Optimus，此举将加速人形机器人行业竞争与技术发展。",
-      "date": "2026-04-27",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZlJlQVhKNzRrMFNoVXJLcHhsT2tDMmpPcUVwVDhuWkFsc0pqcjJzSlphaXd6MjhENlJHaU1NUTlDMV9DTnZ0dnhvdDVXRDVCcl9RTWtCNWVqMWZLdnMwMk9xaTdDNnEyMzJ2cDBqRGd3SnNWemVOdDdqdHZ1YU1zakdHVTNnNEhHdy1abjRLWkZNRWt4S0s4?oc=5"
+      "title": "Elon Musk Says Optimus V3 Unveil To Be Closer To Robot's Production As Rivals 'Copy' Everything Tesla Does - Yahoo Finance",
+      "summary": "标签\"",
+      "date": "2026-04-25",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPUGRXMVRhbDJvdFp1VmN5REp3a1d0WmJLb0xiNThhcnlJN04zQXRSclBaOHBNZ3A1R0ZoWDB3bmZjNFRSQ01FQ3EzelJlWmUwcEdJZWpZYTdEMkVKb2psWENJZkVIZ1NzVVpVMFp1cmpCWjlwQ2cxM1VZNmMyanBJV3A0Tk5sb0hTRGZmaTlQbllFQXIy?oc=5"
     },
     {
-      "title": "Chery’s Founder Cites Elon Musk Pay Package as AiMOGA Robot Benchmark - eletric-vehicles.com",
-      "summary": "Chery创始人以马斯克薪酬方案为AiMOGA机器人基准，反映中国车企正对标特斯拉人形机器人发展策略，将推动行业人才薪酬和技术竞争。",
-      "date": "2026-04-27",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV01GZ2gtbFYwMWx6NmRFa1JJem1oSG5PMmpNWnlBRXNsVlg5UDZDYTJQSDhDemV5OG9PaVJIVUJQdHpjdUxZZ0s2OHd3b3pFaHJzeTUtb2Q5Wk1WcTZkRUZkNVg0MWZMTS1uYWl1azFtLVd0akc2bjY5Vzk3aGxYMzdvMVBmTF9naTJjdHh3c0dqam9tQTZwRVdQSk5RcW9wWmNhc0VPd1k?oc=5"
+      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - eWeek",
+      "summary": "特斯拉计划2027年实现Optimus机器人规模化量产，表明其正式进军人形机器人市场，届时将加剧全球竞争，推动行业发展进程。",
+      "date": "2026-04-24",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3THlvb1JiallMendkcFM4VTZDRURDOTBGTVJUTzdYbjN1OTNucXlVSHVPWkU0aVp1V0FRczJySGRKT1p1LTNVZEZ4SjRqRlEtSXN2MWYzTzlHcVR5a3BKa3NGWWRfYXpOZUYtUF9kamRQRldrenc?oc=5"
     },
     {
-      "title": "Tesla plans to expand Robotaxi to a 'dozen or so' states - USA Today",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHBnNGdjUGFQRm11ZjZJemtJTzl6SE5fM25sOH",
+      "title": "Elon Musk says copycats are to blame for pushing Tesla's Optimus humanoid robot unveiling - Business Insider",
+      "summary": "马斯克称竞争对手的\"模仿\"促使特斯拉推出Optimus人形机器人，反映人形机器人领域竞争加速，行业创新与商业化进程正在提速。",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTnFtMVBTNm5pOTRZM1p2WHpJQ2p3bDRfdGxacU9xN0N3WlFLbklGRzQxYXFtNlVST3BFWkJFa0NDcC1zS1JaLWlxU2NBNlA3VEU5M3I2Z1R0VUlhMnlTdmI5M1lDTHR6emFRcUI0MzhReVhqS1NzS3M5bmdSX3hUVmJMRGIxbzZoYkJfS05pLUZuQ3pnMzhV?oc=5"
+    },
+    {
+      "title": "Tesla pushes Optimus V3 reveal later this year – again - Electrek",
+      "summary": "Tesla再次推迟Optimus V3人形机器人发布，显示技术成熟仍需时间。这对行业而言，既反映技术挑战，也影响市场对人形机器人商业化节奏的预期。",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTYxMW9XclFDMmtza0VONERTQlAyQXdqMU9sVWl6Nkk3WmJQVjAtempBZnpMakJnV01ubnZMT2I5ZTlUZjRaVVRjbFJ0cVM4OUlmRU0zSjVhYmRSSjdxamhHdWhtSXYwdlExbTBFQW84ekdxcV9nTlBiRmJQRFZUa1poVUQ?oc=5"
+    },
+    {
+      "title": "Elon Musk's Optimus dream inches closer to reality - Yahoo Finance",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU04ZzZRRjFEdTVBSkJyU2d6MlVfSmVIek5oSj",
       "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMHBnNGdjUGFQRm11ZjZJemtJTzl6SE5fM25sOHphNVJDaW81bTlibVlqZ2F2c1lHUmI3Y3VSNkU5MzV1OEVZOFdPNGFsbHZvRjBVdEZsckZXanQtU0UyWjVMWThBQlpmRkhycjNjVERwSHB3WGtzYjZjdm5NY2cyWUJsa1pJVVV2S1hiZU9MQndPa3ZfNkQxRzFnbENDQUlFZ0N6Wll3YW1oUTc2NmdxeFNNVQ?oc=5"
-    },
-    {
-      "title": "Boston Dynamics' humanoid Atlas robot is finally becoming a real product — it's going into production, and here's what it can do - MSN",
-      "summary": "Boston Dynamics宣布其人形机器人Atlas正式投产，从研究原型转为商业产品，标志着人形机器人进入商业化阶段，将加速工业和服务领域的应用竞争。",
-      "date": "2026-04-27",
-      "link": "https://news.google.com/rss/articles/CBMivgNBVV95cUxPVXZJaDhLdEM0cXB1SDZ6VUpGMmF6aWVIU3dhRmNBRE1qM0RTdGE1U2tVYkhGOEhYOUF0X3pZejdsMjNCWHpVdzlmdUhXWU1kQTE5R3NCQVZmVmVEUEVyUW1zREs3YTNoOXpVVURWeGRrLWVmYWdERlk1aWliZ3RFT2VhdGhLZFhqZVFuOEN6blBFVzJLTm1iRDczSzR2OW1mekF0VVd1Z0k3WDZaNHp2MGhyd2h4Zm5oSnpBSDlhRGxMak1jWlBPNjRlU2I0OG9GS2cwSHZPS2l1X2UwdEtjd1BrQ3Y3U3pQQ1drUkxUbko4Qm9YU1F2aXZzRXNpYU9QckVKVVVrcHA3dnk5QjdORGZKVndWaXQ2VFdkeVUtaHNpMEFLU0JVVWE3QUxZYi1aT3hpTEJYbmJvQ2NmZW11Mlg4MTd4OXlVRWoyQlFzVUNucnpGNkcwejRjcHdSYnd4MDF5OU1hSnk2eGxyV2k2a18zX2l4SldobS1pVUltTjItRFl4WnJvSkZjbEF0U1lFUkhGbjBnbWJ0eTNud0hLMHYxVEQwYVpfTVlmeTJPM3VBb25EUE1SSjBjNWtvZw?oc=5"
-    },
-    {
-      "title": "The Steel-Door Warning: Why Humanoid Robots Are a Nightmare Nobody’s Talking About - Gadget Review",
-      "summary": "外媒警示人形机器人存在被忽视的重大风险与挑战，提示行业需审慎评估技术与安全隐患。",
-      "date": "2026-04-22",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUDJxNHlJeUVWV0R3WXFmWWVSR2w3ZkNJTThmblIyVTdqSFZMdElMYUt0Nm9ILWNZZTRaYzZqMDVRNlY5bEo3cW44ek5IYUZRRk1na0FXVjFTVGg2Y2pWMGdNNjdCY1puelFfd0pydksyM2tVb1lVNjFoU001TllvOHFCVUVid041R0MwUm5kS3FoZjh1UGNTSnhheWZlQjI5UlVtbTJ4Sk5qR25qcEE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWU04ZzZRRjFEdTVBSkJyU2d6MlVfSmVIek5oSjJQaVU4RnpsVkMwWXRWbWhKUmFlQ2o4VURaVFBUdWxEUFlCYXF0eXp4R3EzcGZaV1d3RFg3MG8xVW5RYnREeHhlQlVUdXUyaWxBemlvTE5jcHFLdmp6QlFwaHdzSjZBR29LNm45eTZLVVlNSi1DX0dNQ1B4cGdxUlRheEkyS1JGVXNCc1RJajdwTGpEcmxZUQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-27T14:09:11.908661"
+  "updated_at": "2026-04-28T03:10:58.014648"
 }
