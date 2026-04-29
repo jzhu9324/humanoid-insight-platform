@@ -1,50 +1,50 @@
 {
   "papers": [
     {
-      "title": "QuietWalk: Physics-Informed Reinforcement Learning for Ground Reaction Force-Aware Humanoid Locomotion Under Diverse Footwear",
-      "summary": "QuietWalk提出一种结合逆动力学约束PINN估计足部垂直地面反作用力的强化学习框架，在无需部署力传感器的情况下实现低冲击力行走，成功适配多种鞋类且显著降低足地冲击噪音。",
-      "date": "2026-04-26",
-      "link": "http://arxiv.org/abs/2604.23702v1"
+      "title": "MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives",
+      "summary": "MotionBricks提出模块化潜在生成模型加智能原语的大规模实时动作生成框架，在单一模型中融合35万条动作片段，实现15000 FPS吞吐量和2毫秒延迟，同时支持精细化多模态控制。",
+      "date": "2026-04-27",
+      "link": "http://arxiv.org/abs/2604.24833v1"
     },
     {
-      "title": "RecoverFormer: End-to-End Contact-Aware Recovery for Humanoid Robots",
-      "summary": "RecoverFormer是一个端到端的人形机器人恢复策略，通过因果Transformer处理观测历史，并创新性地引入潜在恢复模式头和接触可供性头，实现多种恢复行为（补偿性迈步、手-环境接触、重心重塑）的自适应切换，在零样本情况下泛化到新环境。",
-      "date": "2026-04-24",
-      "link": "http://arxiv.org/abs/2604.22911v1"
+      "title": "QuietWalk: Physics-Informed Reinforcement Learning for Ground Reaction Force-Aware Humanoid Locomotion Under Diverse Footwear",
+      "summary": "QuietWalk提出一种结合逆动力学约束的物理信息神经网络预测足部地面反作用力，并将其嵌入强化学习奖励函数，实现无需足力传感器的低噪声步行控制，且能适应多种鞋类带来的接触动力学变化。",
+      "date": "2026-04-26",
+      "link": "http://arxiv.org/abs/2604.23702v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla's Optimus humanoid robot will come to India at appropriate time, APAC chief confirms - MSN",
-      "summary": "Tesla确认Optimus人形机器人将在适当时机进入印度市场，体现其加速全球布局、拓展亚洲新兴市场的战略意图，推动人形机器人技术竞争扩展至印度。",
-      "date": "2026-04-28",
-      "link": "https://news.google.com/rss/articles/CBMi-wJBVV95cUxNY1J0dEpsby12M0tZd0Z2UlRuSmQ4R0VkbFVIX3c4b3lab3puaWR5VGRaOWkwd2J0TjF3U1h0cjdTbDdqRlB3TVlpb3prUHFNcllzQjVmRUJyNUJpU0tTaDVQak9BZFdLSTlEdklVRE90RFdwbmpDMGV1NDlsbVZaN3hDSGZiSWtULXZzU1pjQlhWMUJVS2xTRWpqQmdPSkZBZFg0X1gtU1Z4a2NYNXkwdG5YdkVZelRKRklzSGw5OHBDUVEwQ2tTUjZZaXY1SVFjUjFQSTZHTjlFajRaakk5cUtHUXU5ZW9RZGQwbkRldDBmSXBZQXlnT2tTTldBejZKUXRFTmU3WFRJMC1lak83Qlp3YXRJUlhSb0RTd0JsMFVjbFdKZFhjd09zMVI0NTZfazJENEd1Z1o0ZlNQX3A4SHlIUXE3NlNEbFlYTDBULXV0Nm42MEIwQnRGZk5SVl9jT1F2cnNwRFRCbkdDeEhJMzJaa3V1cGtlTnpn?oc=5"
+      "title": "Elon Musk says Tesla’s Optimus robot could be its 'biggest product ever' - USA Today",
+      "summary": "马斯克",
+      "date": "2026-04-24",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElKcHktYzJibUZsTnBKczBSSkR6V1Jyb3oycGV3UlplbmF6TGJKUEotU1FPYnQtMnNTeGF1cWNERVhLU3EyLXR4cThRVi1CajZZblk5SUFBNlROejFqRkI1Z1ZNa2NVa29tWDlucjBSZU9WX3dXOVJpTXdTVVRaN1RRQ0lrNWF4RV8wcnJQOF9ia0k2XzFtNlVPMFFITVp1MVREb2REVkxhSENj?oc=5"
     },
     {
-      "title": "Boston Dynamics Atlas robot gets more work at Hyundai factory, highlights rising importance of humanoids - MSN",
-      "summary": "这条新闻的关键信息是：Boston Dynamics的Atlas机器人已在现代汽车工厂投入使用，突显人形机器人在工业应用领域的商业化进展。",
-      "date": "2026-04-28",
-      "link": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxPSXpoRmUzam5mVGYxSW8teVllUWpxMEZtODdEeHhFcHNpdVZNOVN0MmhyRkwxLXNiWkdNNnEzSURWTFNvRVhRbXgtTE5tbHR2WExmU0E2TTFrbXhYTmNoSGlid0tDdTVSTWpDNzlQS3RpaTNLZ3NnXzlrMEFaQVlFcjdhU0hlNG41Tkh6X3dLWE52OWgzWTVUV2dXa3BRM2VuX1BkOXRINjJVWThWYXRidnZiSjRkRGc1VFQxQVZkNWt2UEk1cWFzUHR2TXhrdkJ6ZHh3VTV3cEJZSC1ETHl1YjVXVDRYUUMtTmV4TzJnNmtEVUE5bzNxSkxOc2NELXY1cGh5cHhyclhUdlVWNGNRdVV2ZUduMV9pN1hNMG5Tdk1acGxTd252YlNjSFlndDV4T0ZTQ3JjZDJOMGQ5dy00cnhTanJpTG9aUTZGMllDd1NZWE1RMHo2aTVHeWtVSXFNWVI4b2x1MjBpdUo2cGZCSHRjRFhuYVp5UzBmMnIxZ3dGT2RnSnM0azA1c0dDZE5YN1pNNkRkNVNSOVRXb0VRbElEWWpydTVNMjVDQ0lra2Vqai13OXFCdy1fbXo2NWc1b3RyakZUZG5URm8yT0tDcG9JTmF5REk3azZBTWh1Ym95dUdv?oc=5"
+      "title": "Elon Musk Reveals Launch Timeline for Tesla's Optimus Robot—and What It Will Actually Do - inc.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZG9MeVhodlZ6NkJDblJhMUlwYWFSSDBQSmxaV1",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZG9MeVhodlZ6NkJDblJhMUlwYWFSSDBQSmxaV1JoVU5VWVR2TkdCU2piX29SODhHRzJ0cnV5cXZLTXJVa3c1dzVNQVlmT1IwMFN6N0tqbnRhYThxOWZocS10bkxaOUFCT294THktUE1tdjBKeE1KaWZVY2JuYkdQVFdhakVHUHJX?oc=5"
     },
     {
-      "title": "Hyundai just put humanoid robots to work in its factory — now it’s Tesla’s move to ramp up - MSN",
-      "summary": "现代汽车在工厂部署人形机器人，成为首家大规模应用该技术的车企。此举推动人形机器人工业落地，加剧与特斯拉等企业的竞争。",
-      "date": "2026-04-27",
-      "link": "https://news.google.com/rss/articles/CBMihwNBVV95cUxPb1BKZ2k0WFB0Nl9FalMzS2g1VUF4RXZoVHl5VGhyeUFlOUNJVWQ1bFduWmV6dXhXb000YkU3bElRSGpBXzlIbXp0QmVYRXhUaS1YalFqd0xwdS1adXlxSmVKVGIyaGhlNmZzSnZEaTVOMVoxd3A0cTJHUE5zdWNaSHV0eWZWeGh6N1czcmFDdUprWTlLdFl6YkFkanVObXFqMVJyY3B4WFNVRmR5TXJXY0R4cUZ3QjllWlFLTUFKRUpGaWhBNEpJSmpUWmhGdFBBTzFtYm1IUkotakYyaHpJMWpTWjNKRjJxUUZHaGJPTFdJZC1HUFZBN3hiZjFwbE5ET0FUQlJNWTA3NC03UHFLem9FY2ttR0tRbXd3RjBaM2FNRFdlcHlRNjEwVWZHRkg3RGtsOEwtNk10ek5CTG9naTRpbTFxSXhKZUp5dVJfNTFVSUtRLXlZUmZ4NWpzY08xVGU5V0w5R05HQmpoOXVQa0MzM3BVb0pEaXhDZ3hfajh4cHhLREdF?oc=5"
+      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - eWeek",
+      "summary": "特斯拉计划2027年实现Optimus人形机器人规模化量产，标志着其正式加码布局人形机器人领域，将加速行业发展竞争。",
+      "date": "2026-04-24",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3THlvb1JiallMendkcFM4VTZDRURDOTBGTVJUTzdYbjN1OTNucXlVSHVPWkU0aVp1V0FRczJySGRKT1p1LTNVZEZ4SjRqRlEtSXN2MWYzTzlHcVR5a3BKa3NGWWRfYXpOZUYtUF9kamRQRldrenc?oc=5"
     },
     {
-      "title": "Humanoid robot begins work at Japanese airport to tackle labor crisis - Interesting Engineering",
-      "summary": "Unitree人形机器人在日本机场投入使用，填补服务业劳动力缺口，标志人形机器人从研发走向实际应用，推动行业商业化进程。",
-      "date": "2026-04-28",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOTHlZV0x3R3M3SHQ5UC1lTWJ6UXlia0xmUzRRbkdNUTFNSFB2c1J0bDNSNlhBdGFXZHI1LXM3S2tRU3dnbkRSUFZPdGRodUZGak9ULVQzUjNuQVlEOF8zRkpiUmVqb2ZkWTVqOTBGR2hybEhZZkR1b2RQMXhJSU10UHJnLUM0MndqbDFB?oc=5"
+      "title": "Tesla pushes Optimus V3 reveal later this year – again - Electrek",
+      "summary": "**摘要：** Tesla再次推迟Optimus V3人形机器人发布，展现自动驾驶技术转型的挑战，凸显人形机器人商业化仍需时间。",
+      "date": "2026-04-23",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNNTYxMW9XclFDMmtza0VONERTQlAyQXdqMU9sVWl6Nkk3WmJQVjAtempBZnpMakJnV01ubnZMT2I5ZTlUZjRaVVRjbFJ0cVM4OUlmRU0zSjVhYmRSSjdxamhHdWhtSXYwdlExbTBFQW84ekdxcV9nTlBiRmJQRFZUa1poVUQ?oc=5"
     },
     {
-      "title": "Robotics success on track - China Daily",
-      "summary": "**摘要：** 中国日报报道机器人领域的成功进展，彰显中国在人形机器人技术研发与商业应用方面的持续突破，推动行业快速发展与国际竞争力提升。",
-      "date": "2026-04-27",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBPZzhRbXRwajhDcTRBNHQ5Sk5ONnRJcnNVSXdrelZMQXlJT2dBcVFqZDVnejg5dkZsa09tWURhUHR1VXFaTl9OZnlpM0NOdWNFWDh3M0loY196R3RYcm95R1JyNGFWcGl0ejV5Z3JNTG9kWkN2YnI4U0d6Mlk5QQ?oc=5"
+      "title": "From EVs to robotics: Tesla targets 10M Optimus units with new Texas plant - The Robot Report",
+      "summary": "Tesla将在德州新建工厂生产10万台Optimus人形机器人，正式跨界进入人形机器人领域，目标实现大规模商业化，可能加速行业竞争与发展。",
+      "date": "2026-04-22",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUEJLZXdwemxZVEpOQnZOM2dRQkJRSENVTkxndW80RFFaaVdnVGxraFV3UktEbGV2TnFlSVBXNWVvSEhJd0VEYnBaWkNoZmpuZm9SZzktOXp3TURsYW01dzdVTU1oOGQ5aXJ6UWtTOHJ1aklhOVNNZjkwcjBDLVY1bllQc1NrQ0FHeDQ4SmNKMC1nMV8yQ01wTGZfNjlMZ0pUcDVNbHBJdVk?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-28T14:43:46.370328"
+  "updated_at": "2026-04-29T03:11:29.949045"
 }
