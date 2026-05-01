@@ -1,50 +1,56 @@
 {
   "papers": [
     {
-      "title": "MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives",
-      "summary": "MotionBricks提出模块化潜在生成模型加智能原语的大规模实时动作生成框架，在单一模型中融合35万条动作片段，实现15000 FPS吞吐量和2毫秒延迟，同时支持精细化多模态控制。",
-      "date": "2026-04-27",
-      "link": "http://arxiv.org/abs/2604.24833v1"
+      "title": "Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids",
+      "summary": "### 现状痛点",
+      "date": "2026-04-30",
+      "link": "http://arxiv.org/abs/2604.27583v1"
     },
     {
-      "title": "QuietWalk: Physics-Informed Reinforcement Learning for Ground Reaction Force-Aware Humanoid Locomotion Under Diverse Footwear",
-      "summary": "QuietWalk提出一种结合逆动力学约束的物理信息神经网络预测足部地面反作用力，并将其嵌入强化学习奖励函数，实现无需足力传感器的低噪声步行控制，且能适应多种鞋类带来的接触动力学变化。",
-      "date": "2026-04-26",
-      "link": "http://arxiv.org/abs/2604.23702v1"
+      "title": "Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies",
+      "summary": "### 现状痛点",
+      "date": "2026-04-29",
+      "link": "http://arxiv.org/abs/2604.27224v1"
+    },
+    {
+      "title": "MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives",
+      "summary": "MotionBricks提出一种模块化潜在生成模型结合智能原语的大规模实时运动生成框架，在单一模型中有效建模超35万动作片段，实现1.5万FPS吞吐量与2ms延迟，同时支持动画创作与机器人控制。",
+      "date": "2026-04-27",
+      "link": "http://arxiv.org/abs/2604.24833v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla Unveils Optimus Robot Gen 2: Tesla-Designed Fingertip Sensors, Actuators and Ten Other Improvements [Video] - Not a Tesla App",
-      "summary": "Tesla发布Optimus Gen 2机器人，配备自研指尖传感器和执行器等十项升级，展示核心部件自主设计能力，标志其人形机器人商业化进程加速。",
-      "date": "2026-04-28",
-      "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPc2xvNWpQNWE2SUdoRTU2RkVxX0pydFdNR1dyXzRfRnFhQ19rZHZ6WXFNYUJpYy1VRmhaaEdIRDV3QnFqaGZkdDVQdVVnWmlVakVZN1FuZkxWOUxLdE1rcDZ6U3lFS1VfQllPc0ZhNkdYTkEtalk5dG85MkNRX0UtdUZodUszOXVEdHNhNkdIbmJWc3ppeUItLVVlY3lmS1ExVzJMRjZUX2l4LXNyOC03UTQwUWZWY0ZIWFI4aF9LNXJqcWxleDloTDFldm5DcnNlYWpsZjF5MzJjdUg2UHh6UTJn?oc=5"
-    },
-    {
-      "title": "Tesla Stock Falls. Elon Musk Talks Up 'Special' Optimus 3 Robot. -- Barrons.com - 富途牛牛",
-      "summary": "Tesla股价下跌，但Musk力推\"特殊\"的Optimus 3机器人，显示其对人形机器人业务的战略重视，有望加速行业商业化进程。",
-      "date": "2026-04-29",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbVVYU21zUDZsNEJ5cDh0NDMtQUdQWlFOV1N2X00xME1mT0hpbjFVR3pUZExkTGxlTUJCWXJsQmJTRzBHd2RQbGJ4dkRjQ3FkRDhHTDBZSEptRXlXR2laQkx1c0ZnSFh1b0RvT0xIb2o1WXVkOVVrNklKc2tvMHR2T0RKX2d0R0l2azBtZmZyTnM4UEg3aFFIUXJWUQ?oc=5"
-    },
-    {
-      "title": "Boston Dynamics: 2026 TIME100 Most Influential Companies - Time Magazine",
-      "summary": "Boston Dynamics入选《时代》2026年度全球最具影响力公司榜单，彰显人形机器人技术获得主流认可。",
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
+      "summary": "IEEE Spectrum报道机器人专家对Tesla Optimus人形机器人的看法与评价，反映行业技术进展与实际应用挑战。",
       "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMnVqRlpJYTRKeGhkMkd0ZmtTczRXT2l5ZUZvN016QlExb2lrR0hTRUVwTkI2R21yVVJ3LWtFTFZXamM4Z1ZQb3dvQzc5UFRZeE1LLUFQVkVNTWxMMFFpSjRoZGlkV2xRX1hOaDg3YWdmYWZiREV3RWpnRi1UaUtkejVES1pnVzdpcExxMw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdHZENHVpRldlQnhVSy1aU3ZXRDZYVVNGREU1TjFjQkJyVV9fLUlDMFc5WkFQRDk2em9jeXF5UHpoU0hTdTBhZmFsM2xPRHJlM2ExTUs4N2FUcExJQTE4Zk3SAYABQVVfeXFMUGtmcFdoZFNDemtvejF5QmFHVHNYdHZ5QnBCVHN6UlE4Q1BHSGlzMFpUSVF1SW1TUnhhTUo4VDFrQklQQWJlLXVCQXpraWFYRUYzRGxQN3NOWHFUcS1WWFliOWh1bFMyM0RLVl83emQyZkhmM0RyS1ZqNm1nRGlxM1c?oc=5"
     },
     {
-      "title": "Hyundai accelerates physical AI to deploy robots across Korea’s industry - CHOSUNBIZ - Chosunbiz",
-      "summary": "现代加速推进物理AI技术，计划在韩国工业领域大规模部署机器人，标志着人形机器人从研发向产业化应用的关键转折。",
-      "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPZXBwaUE3WFNOeVduOFJ3ckxFUE05V1FfczdKbWF1dTZla3U0SG5CX3ltR1I1Zmo5ZDlENkdQZTdwYXQ5OVZPMTRVZnIxWHc5aTFMR3FqZ2FyTHh3SHAyajUxUjVIR0wxaVQtRzNXbWoyM3ZaUFJJR0xNSklKLXpPZndR0gGWAUFVX3lxTE9FVklUTDFld0MzVE92RWE1UmxpSllySXRpODJXT0w4Sl9pbXBsWTZWM1ZGOHVuMDBRZC1aODhhdG5QbEJHUEhJOTFmSkZXRG9hR1ljRWlPdHNnaWxDY2V0Z25vMC1VdUV5ejVqUEQwUGwwbU1JS094dXNuWFRDSXpYaHFUcEMwZnRtVnBUT3RfcGFoM3VBQQ?oc=5"
+      "title": "Elon Musk says Tesla’s Optimus robot could be its 'biggest product ever' - USA Today",
+      "summary": "马斯克称特斯拉Optimus人形机器人有望成为公司\"史上最大产品\"，凸显科技巨头对人形机器人商业化前景的高度信心。",
+      "date": "2026-04-24",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZElKcHktYzJibUZsTnBKczBSSkR6V1Jyb3oycGV3UlplbmF6TGJKUEotU1FPYnQtMnNTeGF1cWNERVhLU3EyLXR4cThRVi1CajZZblk5SUFBNlROejFqRkI1Z1ZNa2NVa29tWDlucjBSZU9WX3dXOVJpTXdTVVRaN1RRQ0lrNWF4RV8wcnJQOF9ia0k2XzFtNlVPMFFITVp1MVREb2REVkxhSENj?oc=5"
     },
     {
-      "title": "Figure claims new BotQ facility can make one humanoid robot per hour - Interesting Engineering",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHowTm9lemhzdEVmd2plWG1zQmZMWWcxM3hlVT",
+      "title": "Tesla’s Optimus Dream Rattled as OpenAI-Backed Rival Set to Build 100,000 Californian Humanoids - TipRanks",
+      "summary": "OpenAI支持的人形机器人公司计划在加州建造10万台机器人，挑战Tesla的Optimus项目。这预示着人形机器人行业竞争加剧，规模化生产成为新趋势。",
       "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNWHowTm9lemhzdEVmd2plWG1zQmZMWWcxM3hlVTFEYUpLVWd3ZC1zRUVLWWoxMl8zNXYyZGdPdnB5QXJIekRkMzY1RVI5el8tVVFuWkJvcjUzdFo1RTdzWEgtdmg5N3lYOW9id19DbDFrZEhTUzdlS3NFY3Ezd1lwV25WQ2ZYb1pRX0RuRFdVOXo0UQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlp5VmVOOWljVW52U1J0cEh6Znh4ckh2T1FLRTZScV9jNEpHS0dvYkkzUDVWQnZDRlQtWTljOTFQdWpUelF0M2taNS1vQjRNX3hCTGpNT3BTU1NIZ29wb0ZRR0NORmFWS21rb09SaGdGOTZDeERDMXJHNEoyeHNLRzRwT0prR3NFajJlYUEwcVZnYlZpTFh0bVJHZUhXcVhXckw4WW9lY0MxUWwtLWRlVm5ydmU5cm02SWJCeTBQeFM?oc=5"
+    },
+    {
+      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - eWeek",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFA3THlvb1JiallMendkcFM4VTZDRURDOTBGTVJUTz",
+      "date": "2026-04-24",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFA3THlvb1JiallMendkcFM4VTZDRURDOTBGTVJUTzdYbjN1OTNucXlVSHVPWkU0aVp1V0FRczJySGRKT1p1LTNVZEZ4SjRqRlEtSXN2MWYzTzlHcVR5a3BKa3NGWWRfYXpOZUYtUF9kamRQRldrenc?oc=5"
+    },
+    {
+      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - TechRepublic",
+      "summary": "Tesla Optimus目标2027年实现规模化投产，标志人形机器人进入产业化关键阶段，将加速行业商业化进程。",
+      "date": "2026-04-30",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXBWWjFKQTVwZXc3ZWJwdEl1QlAtNC01ektPbWxGYTBTZ1RTaFhZUmxLbHZXWnMyUmVLXzFlT0Fkc1pURm9yME1zRk9PS293b0xPS3pPdmZuVkd5LW9xd0VkX2QyT3FOSi1feG4xb19oQ1hJbVphSHhNZzhDdzhSeDYyQUE?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-04-30T14:11:31.871417"
+  "updated_at": "2026-05-01T03:36:05.098919"
 }
