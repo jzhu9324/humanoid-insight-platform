@@ -2,49 +2,49 @@
   "papers": [
     {
       "title": "Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids",
-      "summary": "该论文提出一种将婴儿运动从视频重定向到类人机器人的框架，通过重建婴儿3D姿态并映射到物理iCub和虚拟模拟器，模拟婴儿的第一人称多模态传感器运动体验。",
+      "summary": "本研究提出了一种将婴儿运动视频重定向到实体和虚拟人形机器人平台的框架，用于模拟婴儿的 Multimodal 感觉运动体验，并实现了亚厘米级精度的运动重现。",
       "date": "2026-04-30",
       "link": "http://arxiv.org/abs/2604.27583v1"
     },
     {
       "title": "Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies",
-      "summary": "### 现状痛点",
+      "summary": "本文提出一种层级化的触觉感知四足机器人 locomanipulation 学习框架，通过人类演示训练的高层视觉触觉策略结合模拟中大规模强化学习的全身控制策略，实现零样本迁移到真实机器人，显著提升接触密集型操作任务的表现。",
       "date": "2026-04-29",
       "link": "http://arxiv.org/abs/2604.27224v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Who Is Tesla Selling 1 Million Humanoid Robots A Year To? - CleanTechnica",
-      "summary": "Tesla宣布年产100万台Optimus人形机器人计划，目标是进入家庭和服务行业，此举将加速人形机器人商业化进程并重塑全球劳动力市场格局。",
-      "date": "2026-05-02",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNel9USWxsTUR1NXJPeFZDRC1iX0ttOUVnNGxiRVFJeGhvZ1JjUWxLZjVjbHRGZ3ZLNHFWamt3dDlGb1V3TVlOMm4wTjhiSWJTaHQyZWRsenZuRWwyaUVSRW1nR1pTTUVoRUF2X21ZNWtTbEZSV08wMmpkNVRhSXZ6WDNNUTR5aW1yd1NvU1BaQ1hnb2J0ZGVEZlln0gGiAUFVX3lxTE1mc3FvZEdPc2N6LUdVTi1yaEpnMmJtUkRhUlVvRVNmSHR3Tm9FZE9SSlVJUTdJYWhva05MSWZMMGo0aTRtcU9zVFdCZGhlM0MxZzZXQjVHUlZGZzV3UHlKbjk5dVlpY0NFSTRMZG9ubXFhWWhHdU52bjlVdDVUSi1vRGtKSGtodUN5NHlkeHZ5b3hZRHZpOEd6bkMwbHJMTFBmdw?oc=5"
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
+      "summary": "特斯拉Optimus机器人引发IEEE Spectrum机器人专家热议，其技术进展对人形机器人行业具有示范效应，或将加速行业技术标准和市场竞争。",
+      "date": "2026-05-01",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdHZENHVpRldlQnhVSy1aU3ZXRDZYVVNGREU1TjFjQkJyVV9fLUlDMFc5WkFQRDk2em9jeXF5UHpoU0hTdTBhZmFsM2xPRHJlM2ExTUs4N2FUcExJQTE4Zk3SAYABQVVfeXFMUGtmcFdoZFNDemtvejF5QmFHVHNYdHZ5QnBCVHN6UlE4Q1BHSGlzMFpUSVF1SW1TUnhhTUo4VDFrQklQQWJlLXVCQXpraWFYRUYzRGxQN3NOWHFUcS1WWFliOWh1bFMyM0RLVl83emQyZkhmM0RyS1ZqNm1nRGlxM1c?oc=5"
     },
     {
-      "title": "Is Tesla's pivot to robotics coming at the cost of its car business? - USA Today",
-      "summary": "Tesla加速布局人形机器人Optimus，但市场质疑其核心汽车业务资源被分流",
-      "date": "2026-05-02",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWmJxZGdKTFJYTzlBM1l5VGdsc2p5d3VOTXlIbmE5WHpQWGVrWFpJWlJHMUFNWjRiZ2Q1VGFaTnljajlsUEtDWDZ3Ujd3eU9wT19NQ2hiTFZjLXI5WFdGRWxRdTJsOGJxazZPMWQxX2FkbzNma0RObXRKVDl4UWFaRnF5UFhuR3d4aHBHc0pZMGl4YWdRa280UzZzQW80WV96dVhOSWFB?oc=5"
-    },
-    {
-      "title": "Tesla teases Optimus humanoid robot prototype with new image - Not a Tesla App",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZRHZ5UmhoVkhoVW9Wc1dBWXN0NHM0cHEzMmY0OF",
+      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - TechRepublic",
+      "summary": "Tesla目标2027年实现Optimus机器人规模化生产，表明其正式进入人形机器人商业化阶段，将加速行业竞争并推动成本下降。",
       "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ZRHZ5UmhoVkhoVW9Wc1dBWXN0NHM0cHEzMmY0OFNDQTJfdVpmSmFoNDhFRGtvU1RTc2xDMTBlb2IyU1JLTV9xS251TnpKbVVDZXc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXBWWjFKQTVwZXc3ZWJwdEl1QlAtNC01ektPbWxGYTBTZ1RTaFhZUmxLbHZXWnMyUmVLXzFlT0Fkc1pURm9yME1zRk9PS293b0xPS3pPdmZuVkd5LW9xd0VkX2QyT3FOSi1feG4xb19oQ1hJbVphSHhNZzhDdzhSeDYyQUE?oc=5"
     },
     {
-      "title": "Figure AI Ramps Up Production to One Humanoid Robot Per Hour - AI Insider",
-      "summary": "Figure AI宣布将人形机器人产能提升至每小时一台，标志着产品进入规模化生产阶段，人形机器人行业商业化进程加速。",
-      "date": "2026-05-01",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOVUFLZ1VMVVJzZHZ4a0puZTZ1VjZyOGtFVGI3bXFvS05tUmZlYWgtS1RpLW44bXVnU29DdUl3eGdCeFZlSVUzWU93OURYQ1NILURFb0ZQeEhWR1d5RGZwbjhleGxZLU9GeTJIMS12ZFdhQUdBMUZLVzEzejItTXVXZlUza19MQ1lURUJKMUdGTVZGYUV2UU80MmZCam9LVlU?oc=5"
+      "title": "Tesla’s Optimus Dream Rattled as OpenAI-Backed Rival Set to Build 100,000 Californian Humanoids - TipRanks",
+      "summary": "OpenAI支持的竞争对手计划在加州建造10万个人形机器人，挑战Tesla的Optimus项目，这将加速人形机器人行业竞争与规模化生产进程。",
+      "date": "2026-04-30",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlp5VmVOOWljVW52U1J0cEh6Znh4ckh2T1FLRTZScV9jNEpHS0dvYkkzUDVWQnZDRlQtWTljOTFQdWpUelF0M2taNS1vQjRNX3hCTGpNT3BTU1NIZ29wb0ZRR0NORmFWS21rb09SaGdGOTZDeERDMXJHNEoyeHNLRzRwT0prR3NFajJlYUEwcVZnYlZpTFh0bVJHZUhXcVhXckw4WW9lY0MxUWwtLWRlVm5ydmU5cm02SWJCeTBQeFM?oc=5"
     },
     {
-      "title": "Video: Unitree’s G1 humanoid robot stuns with skating flips and spin in wild demo - MSN",
-      "summary": "Unitree G1人形机器人展示高难度滑冰翻转和旋转动作，体现",
+      "title": "Top 10 robotics stories of April 2026 - The Robot Report",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBnTnFYOGZ5bURabGVRLThfZU1RZC1xSW1nLWhqZW",
       "date": "2026-05-01",
-      "link": "https://news.google.com/rss/articles/CBMi5gJBVV95cUxQSENrMXBfTnJiOUtmdHhWeE9lQzlIa0dzTEtNcER2c0R5LTB1VHVmSGlKX29SLVNqY3pVNXluNG56VERCMi1ZUl9qRzgyTHVocGdpbk9jbnhnTHZhRUc4a1ZlSDQ1Vm1jcERUVmZ4NE1iSWxFaEc5YnQ5cDhMUE5qSWtFRW1GMk5sc3NLdFVEZVhaTXFIZkVmSDdhcE1TZmVEcko4T3NNV3Bma2JNUThTYTAwTXFJd1FaMG1JUTNGdkZNLWk4UGViRGw1UVV5MDVyS0RlQm9FWk5HOXVfY0NlbkNJRnlreWg5Slp5YmRxUzB4Vk16TTVtTXJYVmJLVFdoazJZTXpaRW5kWEhweEMyVHZMX0ZMb05sOGh5Nnl0THRrVEJTUDBNRGZIdGFlTEFndVRaNDAyek9rZ2UydnZjUmFTbV9ldjJMTlJUelIxOU1SX3ItOFgtbTd2VnJsQzhQY2FENndn?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBnTnFYOGZ5bURabGVRLThfZU1RZC1xSW1nLWhqZWkxUkQ3ZFpHa1JxUm45UjhGNDJjRHlyWHh2bHhHaTZndzVybkQzRmVOR2FhdllDSWpURnJJZzBIc3N0cXBIUDFoS2t1TDVnSkdkdHFESXFF?oc=5"
+    },
+    {
+      "title": "Tesla Stock: Used EV Boom, Robotaxis and $158B Twist - TipRanks",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlF3OE1obUZpVVlQbFlBYWRQOU92TkdmMmx2VH",
+      "date": "2026-05-02",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQlF3OE1obUZpVVlQbFlBYWRQOU92TkdmMmx2VHRjOE5KRzFpTmFiYUdvZ0tUYTAtMTZVTWlhTXplcTByR2s1eEdLY0F4X3FCZlZabjVpcGJyRm9IbFV6anlsVVQtMTFncFh4ZGNRZ3NUaDFWTW9hUU54WHhWNDExdnc0UVNKUzRMVGE4a1QzWHV0Y1Y2LXdTSWpYZw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-02T13:23:16.053950"
+  "updated_at": "2026-05-03T03:07:03.336258"
 }
