@@ -2,49 +2,43 @@
   "papers": [
     {
       "title": "Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids",
-      "summary": "本研究提出了一种将婴儿运动视频重定向到实体和虚拟人形机器人平台的框架，用于模拟婴儿的 Multimodal 感觉运动体验，并实现了亚厘米级精度的运动重现。",
+      "summary": "本文提出将婴儿视频动作重定向到实体iCub机器人和虚拟仿真平台，生成多模态感知运动数据流，为婴儿期感觉运动体验模拟提供系统性框架。",
       "date": "2026-04-30",
       "link": "http://arxiv.org/abs/2604.27583v1"
-    },
-    {
-      "title": "Learning Tactile-Aware Quadrupedal Loco-Manipulation Policies",
-      "summary": "本文提出一种层级化的触觉感知四足机器人 locomanipulation 学习框架，通过人类演示训练的高层视觉触觉策略结合模拟中大规模强化学习的全身控制策略，实现零样本迁移到真实机器人，显著提升接触密集型操作任务的表现。",
-      "date": "2026-04-29",
-      "link": "http://arxiv.org/abs/2604.27224v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Keep an eye on these 5 cutting-edge humanoid robots to be released in 2026 - Money & Banking Magazine - วารสารการเงินธนาคาร",
-      "summary": "标签",
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
+      "summary": "Tesla Optimus引发机器人专家关注，IEEE Spectrum集成了行业专家的反馈，揭示技术进展与挑战，对人形机器人行业发展具有重要参考价值。",
+      "date": "2026-05-02",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdHZENHVpRldlQnhVSy1aU3ZXRDZYVVNGREU1TjFjQkJyVV9fLUlDMFc5WkFQRDk2em9jeXF5UHpoU0hTdTBhZmFsM2xPRHJlM2ExTUs4N2FUcExJQTE4Zk0?oc=5"
+    },
+    {
+      "title": "Tesla's Latest Report and Strategic Shift: What It Means for Nvidia - IndexBox",
+      "summary": "Tesla最新报告显示其可能减少对外部芯片依赖，转向自研芯片战略，这将对Nvidia等芯片供应商",
       "date": "2026-05-03",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1rdzdiLU9IeWNsRjFnaFBaSmZBaVFva2FoOEJ5SE1wWjlkTWlVcl90QjVoU0RBV0VNVW9lSkZ2Wl9fLURhR29ZOEFCcDBfcWZGWndidzVyTjA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVMyMmN1bXhkbUdiWTE1bUU4NHF3b29CY01jemFpMXAxSDdKWHM3MFRtNzRRaUYyLW1VVFB2WjQzRzBqNTc3TDY3TlB5b3FZQVQ4WEJHcHNHYmVxVjQ4cXVhQlpacHlKVEI3MXlJRlZGRl9SZG1VelV3YkhBNFhoYnR2YVlNeUlMN2x1RlZZeHNvdHZlZHg3cU5Qbw?oc=5"
     },
     {
-      "title": "Unitree G1 humanoid robot ice skates and Rollerblades - AOL.com",
-      "summary": "Unitree G1人形机器人展示滑冰与轮滑技能，体现其在复杂动态平衡控制上的技术突破，推动服务型人形机器人向运动休闲场景应用更进一步。",
-      "date": "2026-05-01",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1aUC1pQ3BfQi05WEs3SkptOVU4MlRjZUJDWEhBNXhoNk14XzFBNHNnZEJwMTB0SnItVzc1bEVnTFNRT2I1eXFHN2FoUUhaVC01Z3FDaVRMbVpONUdwVWVMeHF4dFBHejloa3hQdFFGUkc3eGNHN3hodEp3X2dBQQ?oc=5"
-    },
-    {
-      "title": "Chinese Unitree robot attacked dancers during a performance in Beijing - Українські Національні Новини (УНН)",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVBQWnVtd2t4dkFmU2thNUtPM2NsOE9RX1ZOLX",
+      "title": "Tesla Patents Detail Optimus Hand and Knee Designs - Not a Tesla App",
+      "summary": "Tesla披露OptimusGen3手部与膝盖专利设计细节，体现其在仿生机械结构上的技术迭代，对人形机器人行业具有推动运动灵活性和精细操作能力进步的参考价值。",
       "date": "2026-05-03",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNYVBQWnVtd2t4dkFmU2thNUtPM2NsOE9RX1ZOLXY5QWdlWXlHNWlPQjZlMjRlZ3RTMDBqdnJqdDVfN0VNTnpYZ01MTFY3REdld0JiRlBZWnJZaHNCY0o1RTdNdm9DcE5DNWxZUnFPOWdPenZJbmJIV2NiQWtldm5BQjhnblZOMVBqUWdOSlp3bE5idEFKMTRJd9IBlwFBVV95cUxOM0Ntem5ka3g2aTBFYkduemVndkpkc1pvZUVUaDJQNlN3bUwwMUFSVFU2WDBsMm84amhEdjJjSWxYUTYxV3YzYTVKd3pZSjdfQThEbzN4cXJCdU5jZG9CV1RSRVRMRWh4Z2hUUlZFZFJ6YjZ4bFdCLThrWTU0MklYN2NNQnNYQW5JLW9fandMVnJzaFFzOGUw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldHZvNTcyZ2lHNklQQ1VFWFdZUjEyWkJENmYzWXNHOUIzTVphU3lYcjJSNkx3VmdEOXdGVXhxV0MyR1pXRzFHYmRPRDFkWGo2Z1JlNHZMQ1B3a2FDRnVUMVVXLUxQNVJpd0c0d3dtektzd2dULThrU21Jb1UxRmM?oc=5"
     },
     {
-      "title": "Unitree Robotics Launches Dual-Arm Humanoid Robot, Priced from RMB26,900 - AASTOCKS.com",
-      "summary": "Unitree推出售价26,900元起的双臂人形机器人",
+      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - TechRepublic",
+      "summary": "Tesla目标2027年实现Optimus人形机器人规模化生产，标志着特斯拉正式进入人形机器人商业竞争领域。",
       "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB2Z3M2N0o4SDk0VUpEcWNYbjhUekFtd1J4d0RQSW5ZRkNiajdzb3FUdGxqc0FDaXgxOHpYT0Q0VGtxRlBxcDN5R09VaGRpY0t3N3Y4cTc5RklOa0hHU25obEpGTkdwRW1rWHh1X2Vsdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXBWWjFKQTVwZXc3ZWJwdEl1QlAtNC01ektPbWxGYTBTZ1RTaFhZUmxLbHZXWnMyUmVLXzFlT0Fkc1pURm9yME1zRk9PS293b0xPS3pPdmZuVkd5LW9xd0VkX2QyT3FOSi1feG4xb19oQ1hJbVphSHhNZzhDdzhSeDYyQUE?oc=5"
     },
     {
-      "title": "China's humanoid robot training centres multiply as sector gains momentum - IOL",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0dSLXF2WnlpaS1RYnA2VmVob1BvUl9CTHJpTE",
-      "date": "2026-04-29",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPM0dSLXF2WnlpaS1RYnA2VmVob1BvUl9CTHJpTElFSGpmcUJ5d0tsb1hsbUpidVRkWGFBS2o4eEVJT1ExODJReXhoLUVfT2pNRjY5Y2FXeWc5YVgzV092Y1I2NmFaRzFtWkREYWEzcW1jbFpOMEVpRE5CSHZwcHNuUXl0TjRrWURPR25yM2pqTHlkckdCTFZkQW5qSVNEV3Z4Y2lRaGw0RHNGdG1jQzBaNkJ0MG0zT181bmc1cnFaUVluWHBtMkE?oc=5"
+      "title": "Tesla’s Optimus Dream Rattled as OpenAI-Backed Rival Set to Build 100,000 Californian Humanoids - TipRanks",
+      "summary": "OpenAI支持的竞争对手计划在加州建造10万个人形机器人，将冲击Tesla的Optimus项目，加剧行业竞争。",
+      "date": "2026-04-30",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlp5VmVOOWljVW52U1J0cEh6Znh4ckh2T1FLRTZScV9jNEpHS0dvYkkzUDVWQnZDRlQtWTljOTFQdWpUelF0M2taNS1vQjRNX3hCTGpNT3BTU1NIZ29wb0ZRR0NORmFWS21rb09SaGdGOTZDeERDMXJHNEoyeHNLRzRwT0prR3NFajJlYUEwcVZnYlZpTFh0bVJHZUhXcVhXckw4WW9lY0MxUWwtLWRlVm5ydmU5cm02SWJCeTBQeFM?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-03T13:23:00.514752"
+  "updated_at": "2026-05-04T02:59:59.769571"
 }
