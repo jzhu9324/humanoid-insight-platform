@@ -1,44 +1,62 @@
 {
   "papers": [
     {
-      "title": "Simulating Infant First-Person Sensorimotor Experience via Motion Retargeting from Babies to Humanoids",
-      "summary": "本文提出将婴儿视频动作重定向到实体iCub机器人和虚拟仿真平台，生成多模态感知运动数据流，为婴儿期感觉运动体验模拟提供系统性框架。",
-      "date": "2026-04-30",
-      "link": "http://arxiv.org/abs/2604.27583v1"
+      "title": "Natural Gradient Bayesian Filtering: Geometry-Aware Filter for Dynamical Systems",
+      "summary": "### 现状痛点",
+      "date": "2026-05-04",
+      "link": "http://arxiv.org/abs/2605.02306v1"
+    },
+    {
+      "title": "Stability of Control Lyapunov Function Guided Reinforcement Learning",
+      "summary": "### 现状痛点",
+      "date": "2026-05-03",
+      "link": "http://arxiv.org/abs/2605.01978v1"
+    },
+    {
+      "title": "VOFA: Visual Object Goal Pushing with Force-Adaptive Control for Humanoids",
+      "summary": "### 现状痛点",
+      "date": "2026-05-02",
+      "link": "http://arxiv.org/abs/2605.01518v1"
+    },
+    {
+      "title": "SixthSense: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids",
+      "summary": "SixthSense提出一种任务无关的本体感知only全身外力估计方法，利用条件流匹配从proprioceptive历史中估计稀疏接触事件流，实现仅靠IMU和本体感知数据完成接触 timing、位置和全身外力的估计。",
+      "date": "2026-05-02",
+      "link": "http://arxiv.org/abs/2605.01427v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Is Meta building humanoid robot to rival Tesla's Optimus? - The News International",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQaTdoVHdhZ3JJYUpiRGIxcWY2aFhYQmNVdDhMVX",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTdoVHdhZ3JJYUpiRGIxcWY2aFhYQmNVdDhMVXZ2NFhnRGVtSE41bDI5SFpoNnZVRDJrd0JjVDctZnp1NjVxOTVETGM2MTJfOUV3UG1vMEg5cmhHX0ZVZDgtRU1ZWk1nc3lmUVpKUTF5YkFWRkFlRFkwbFBEYmlkYTJLT1hQOG5QbXRFT0MxTEEwYmIyQ24wOVZmVUtuQQ?oc=5"
-    },
-    {
-      "title": "Tesla targets 1 million a year for Optimus humanoid robot, but will demand follow? - 디지털투데이",
-      "summary": "Tesla计划年产100万台Optimus人形机器人，突显其大规模商业化野心，但市场实际需求能否跟上仍是关键挑战。该目标将推动人形机器人行业竞争与发展。",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQUo2TDNmU3BqX09XMDN4UFpBVkFmTEtzQnJfQl9XTTN4S1hkanlmaTc1ZHNUQVVxTlF1NXJuWGZoVm1ZYVFYel9VXzJHTktfeEEwT1R4RlMzMzRBc1V6WFM1MGw1cHhYUE1XYzJDVW9acTRyNGxFV3NwM1JCRWppNTdVbU40Rk4yVnlyQWZ1WHQwZi1CR19ua3gwUGhkQW11TjRPbnVDWnJ2Y18wcmgzZmxKM1FSeUp3S1B6T0Q0X0J4dERpaGc?oc=5"
-    },
-    {
-      "title": "Hyundai Reportedly Demanding ‘Tens of Thousands’ of Boston Dynamics Robots ASAP - Gizmodo",
-      "summary": "现代汽车要求波士顿动力供应数以万计机器人，彰显汽车制造业对人形机器人规模化应用的强烈需求，将加速行业产业化进程。",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPc2U4cFZNZl9TZjVnMnI2aWVfMnpLUVhYZGVYS0p6ZWl1OF9Fb0RPNXNhTnBaNFdUNmRMSGxWbVpTTVo4T1JYREJHaXl3OGxYdm9mdWdXUlAxa0NaY3V5VDFSSTVId2lURnluOVB4YTZhVkVaSWVDdFNJamtESFJGVlJUVFhSZ3BIVVRwZzdWRDRUX084eDZpTVFtb2pxZlNfQUZwNTFLRWh2RXdi?oc=5"
-    },
-    {
-      "title": "Meta Platforms Acquires ARI, Intensifying Big Tech Race in Humanoid AI - thelec.net",
-      "summary": "Meta收购先进机器人研究所（ARI），加速布局人形AI领域，大型科技公司竞争升温。此举将推动人形机器人技术研发与商业化进程。",
-      "date": "2026-05-04",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WbXpqeFM3ZWdLNHpGYU8wcG1DWkVBY05wVExDYTdJSWU1VVlBMklrcEYyWHRTeXRFNjFNNHM0eGRkYUlYekJUdjBDTWxkODU5ZzhGblgyNHdBSmwyT3FmRXV5VXBQMnc?oc=5"
-    },
-    {
-      "title": "Meta Buys Robotics Startup Assured Robot Intelligence To Power Humanoid Push As $5 Trillion Market Race Heats Up - Sahm",
-      "summary": "Meta收购机器人初创公司Assured Robot Intelligence，加码人形机器人布局，在5万亿美元市场机遇下，科技巨头竞争将加速行业商业化进程。",
+      "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdH",
       "date": "2026-05-02",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUE9WQ0NSVS1fODN6RzdpSFNSTWJnNm91YVdjd0h1RG1WSDNFUENsN2RFWlRuNXJMM3hyZU9CUU5tVlhvMmczRVRwV3lFdnNmUlF1d2FWekFJTHVFV0tiMFN0clVPV0NHRjdRdFhCVVBFWklzVFVXMmZ4bzhoZXdPaDMxMktTREJ1TmhyQkVWUjRzRUI5RDI4UUlOWG55cm5FcmdsZlBFNVBWQ3I4b19haXBTUWhTUWxjcWw2LUExNlNuNGs4N1hvT2dFeDZuY2cxOHMyY2VhbTN1M0toSEViVjJpRk1SWkJ3TkVqT2M2UUMtOWpVQVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdHZENHVpRldlQnhVSy1aU3ZXRDZYVVNGREU1TjFjQkJyVV9fLUlDMFc5WkFQRDk2em9jeXF5UHpoU0hTdTBhZmFsM2xPRHJlM2ExTUs4N2FUcExJQTE4Zk0?oc=5"
+    },
+    {
+      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - TechRepublic",
+      "summary": "Tesla Optimus 机器人计划2027年规模化投产，预示人形机器人商业化进程加速，将推动行业竞争格局重构。",
+      "date": "2026-04-30",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXBWWjFKQTVwZXc3ZWJwdEl1QlAtNC01ektPbWxGYTBTZ1RTaFhZUmxLbHZXWnMyUmVLXzFlT0Fkc1pURm9yME1zRk9PS293b0xPS3pPdmZuVkd5LW9xd0VkX2QyT3FOSi1feG4xb19oQ1hJbVphSHhNZzhDdzhSeDYyQUE?oc=5"
+    },
+    {
+      "title": "Tesla's Latest Report and Strategic Shift: What It Means for Nvidia - IndexBox",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVMyMmN1bXhkbUdiWTE1bUU4NHF3b29CY01jem",
+      "date": "2026-05-03",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVMyMmN1bXhkbUdiWTE1bUU4NHF3b29CY01jemFpMXAxSDdKWHM3MFRtNzRRaUYyLW1VVFB2WjQzRzBqNTc3TDY3TlB5b3FZQVQ4WEJHcHNHYmVxVjQ4cXVhQlpacHlKVEI3MXlJRlZGRl9SZG1VelV3YkhBNFhoYnR2YVlNeUlMN2x1RlZZeHNvdHZlZHg3cU5Qbw?oc=5"
+    },
+    {
+      "title": "Tesla’s Optimus Dream Rattled as OpenAI-Backed Rival Set to Build 100,000 Californian Humanoids - TipRanks",
+      "summary": "OpenAI支持的竞争对手计划在加州建造10万个人形机器人，挑战Tesla的Optimus项目，加速行业竞争与规模化发展。",
+      "date": "2026-04-30",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlp5VmVOOWljVW52U1J0cEh6Znh4ckh2T1FLRTZScV9jNEpHS0dvYkkzUDVWQnZDRlQtWTljOTFQdWpUelF0M2taNS1vQjRNX3hCTGpNT3BTU1NIZ29wb0ZRR0NORmFWS21rb09SaGdGOTZDeERDMXJHNEoyeHNLRzRwT0prR3NFajJlYUEwcVZnYlZpTFh0bVJHZUhXcVhXckw4WW9lY0MxUWwtLWRlVm5ydmU5cm02SWJCeTBQeFM?oc=5"
+    },
+    {
+      "title": "Tesla Patents Detail Optimus Hand and Knee Designs - Not a Tesla App",
+      "summary": "Tesla新专利披露Optimus仿人手部与膝盖结构设计，涉及17个自由度手指及新型膝盖关节，体现其在机器人精细操作与运动能力上的技术突破，对推动人形机器人硬件发展具有重要意义。",
+      "date": "2026-05-03",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldHZvNTcyZ2lHNklQQ1VFWFdZUjEyWkJENmYzWXNHOUIzTVphU3lYcjJSNkx3VmdEOXdGVXhxV0MyR1pXRzFHYmRPRDFkWGo2Z1JlNHZMQ1B3a2FDRnVUMVVXLUxQNVJpd0c0d3dtektzd2dULThrU21Jb1UxRmM?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-04T14:16:23.107884"
+  "updated_at": "2026-05-05T02:52:53.726702"
 }
