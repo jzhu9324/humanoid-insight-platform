@@ -1,6 +1,24 @@
 {
   "papers": [
     {
+      "title": "BifrostUMI: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation",
+      "summary": "BifrostUMI是一种基于轻量级VR设备和稀疏关键点轨迹的无机器人数据采集框架，通过关键点重定向和全身控制器实现从人类演示到类人机器人的敏捷行为无缝迁移。",
+      "date": "2026-05-05",
+      "link": "http://arxiv.org/abs/2605.03452v1"
+    },
+    {
+      "title": "Height Control and Optimal Torque Planning for Jumping With Wheeled-Bipedal Robots",
+      "summary": "提出轮式双足机器人跳跃动力学模型W-JBD与贝叶斯优化扭矩规划方法BOTP，实现精确高度控制并降低能耗82.3%高度误差与26.9%能耗。",
+      "date": "2026-05-05",
+      "link": "http://arxiv.org/abs/2605.03302v1"
+    },
+    {
+      "title": "RLDX-1 Technical Report",
+      "summary": "### 现状痛点",
+      "date": "2026-05-05",
+      "link": "http://arxiv.org/abs/2605.03269v1"
+    },
+    {
       "title": "Natural Gradient Bayesian Filtering: Geometry-Aware Filter for Dynamical Systems",
       "summary": "### 现状痛点",
       "date": "2026-05-04",
@@ -11,52 +29,40 @@
       "summary": "### 现状痛点",
       "date": "2026-05-03",
       "link": "http://arxiv.org/abs/2605.01978v1"
-    },
-    {
-      "title": "VOFA: Visual Object Goal Pushing with Force-Adaptive Control for Humanoids",
-      "summary": "### 现状痛点",
-      "date": "2026-05-02",
-      "link": "http://arxiv.org/abs/2605.01518v1"
-    },
-    {
-      "title": "SixthSense: Task-Agnostic Proprioception-Only Whole-Body Wrench Estimation for Humanoids",
-      "summary": "SixthSense提出一种任务无关的本体感知only全身外力估计方法，利用条件流匹配从proprioceptive历史中估计稀疏接触事件流，实现仅靠IMU和本体感知数据完成接触 timing、位置和全身外力的估计。",
-      "date": "2026-05-02",
-      "link": "http://arxiv.org/abs/2605.01427v1"
     }
   ],
   "companyNews": [
     {
-      "title": "What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdH",
-      "date": "2026-05-02",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MX3pnRUlFYUZuNGw4OGhLTFFTZ1hLUGlYd0VhdHZENHVpRldlQnhVSy1aU3ZXRDZYVVNGREU1TjFjQkJyVV9fLUlDMFc5WkFQRDk2em9jeXF5UHpoU0hTdTBhZmFsM2xPRHJlM2ExTUs4N2FUcExJQTE4Zk0?oc=5"
+      "title": "Rockwell, Teradyne, Tesla see automation demand despite uncertainty - Manufacturing Dive",
+      "summary": "Rockwell、Ter",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JuZlRSb2lNX1JXRWZ6X3VnZlRsYm5vZ2Q5OEZ2aUFIbkNCRHFQX2g2VGM0ZWp4YWJ0ek1ZTHZEQ3NoQWZzQXMyaVNSQ0V3VTBLY213NC1pYktqVkg1QjV3WmgwbDM4eERNSGluYnNqUGVTOXFldFFVU2htSEdqQXJYTDJaWkxsSEtJREFBX3l0ZEwxeEJfSkNZcUJyTHRUSnFqNTdCbm5RZ3kxN2VUaGItRFNWS1ZU?oc=5"
     },
     {
-      "title": "Tesla Optimus Robot Launch Timeline Targets 2027 Scale - TechRepublic",
-      "summary": "Tesla Optimus 机器人计划2027年规模化投产，预示人形机器人商业化进程加速，将推动行业竞争格局重构。",
-      "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXBWWjFKQTVwZXc3ZWJwdEl1QlAtNC01ektPbWxGYTBTZ1RTaFhZUmxLbHZXWnMyUmVLXzFlT0Fkc1pURm9yME1zRk9PS293b0xPS3pPdmZuVkd5LW9xd0VkX2QyT3FOSi1feG4xb19oQ1hJbVphSHhNZzhDdzhSeDYyQUE?oc=5"
+      "title": "Boston Dynamics’ Atlas Masters Every Shift in a Demanding Balance Routine - TechEBlog -",
+      "summary": "Atlas机器人掌握高难度平衡动作，实现稳定切换，彰显人形机器人动态控制能力取得新突破，为工业应用场景中的稳定作业提供技术支撑。",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2FCV3hTVGJzX1hfbEdaUXJQYWlpLWRVQzIwWkRiYVprTFpLcDRrOW9mc2JsZVd2am9VbkFYN0JmX0FGZWVJOFhZNVc3MVQ4Q1ctcHNGcVd6bFlpN1VLQ3lMa1U5cEZzSWtqaGxQZzRxQ014Y1RMd0x4Vld6aU1NdTZfVQ?oc=5"
     },
     {
-      "title": "Tesla's Latest Report and Strategic Shift: What It Means for Nvidia - IndexBox",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVMyMmN1bXhkbUdiWTE1bUU4NHF3b29CY01jem",
-      "date": "2026-05-03",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOVMyMmN1bXhkbUdiWTE1bUU4NHF3b29CY01jemFpMXAxSDdKWHM3MFRtNzRRaUYyLW1VVFB2WjQzRzBqNTc3TDY3TlB5b3FZQVQ4WEJHcHNHYmVxVjQ4cXVhQlpacHlKVEI3MXlJRlZGRl9SZG1VelV3YkhBNFhoYnR2YVlNeUlMN2x1RlZZeHNvdHZlZHg3cU5Qbw?oc=5"
+      "title": "The production version of Boston Dynamic’s Atlas is also impressively agile. - The Verge",
+      "summary": "Boston Dynamics 发布Atlas生产版，展示其卓越的敏捷性和运动控制能力，持续引领人形机器人技术前沿，推动行业向实际应用更进一步。",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlZPLVJQd1lxU1hjRVdEVE1paFdiVk5JaWw3ek15aHZ5YjdRalc3enlyN010Rm5ja3JkYS1wMm5FTlM5RmpZVmVvZDk5WEFSQ0NGRktPT2J6ekNNWlhGY2pONmxUc2tEWW5rUTU5SDY2TVdnTmtCZ3ZCcXBsLUN1d0NSX0x4M3AxTGZ6aXVnRQ?oc=5"
     },
     {
-      "title": "Tesla’s Optimus Dream Rattled as OpenAI-Backed Rival Set to Build 100,000 Californian Humanoids - TipRanks",
-      "summary": "OpenAI支持的竞争对手计划在加州建造10万个人形机器人，挑战Tesla的Optimus项目，加速行业竞争与规模化发展。",
-      "date": "2026-04-30",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQlp5VmVOOWljVW52U1J0cEh6Znh4ckh2T1FLRTZScV9jNEpHS0dvYkkzUDVWQnZDRlQtWTljOTFQdWpUelF0M2taNS1vQjRNX3hCTGpNT3BTU1NIZ29wb0ZRR0NORmFWS21rb09SaGdGOTZDeERDMXJHNEoyeHNLRzRwT0prR3NFajJlYUEwcVZnYlZpTFh0bVJHZUhXcVhXckw4WW9lY0MxUWwtLWRlVm5ydmU5cm02SWJCeTBQeFM?oc=5"
+      "title": "Boston Dynamics Atlas Performs High-Difficulty Gymnastics - 조선일보",
+      "summary": "波士顿动力Atlas机器人展示高难度体操动作，体现其在平衡控制与运动协调方面的技术突破，为仿人机器人更复杂场景应用奠定基础。",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFkzdTVzd2dwdkVPX0djdFM2ZXc0Ml8wbFhiaWx4dFZyRWl2cWU3UmtpWmgtTi05aVdhNkloSlc0SFpaekp5U0ZfUV9qWEZGaGMzLVBuQXQ0OVBadjg1ZHpPaHRybXdYanA5YTNXQTZFM0xKUnJrckJDV1p1UUpZZG5pMDJIanB5?oc=5"
     },
     {
-      "title": "Tesla Patents Detail Optimus Hand and Knee Designs - Not a Tesla App",
-      "summary": "Tesla新专利披露Optimus仿人手部与膝盖结构设计，涉及17个自由度手指及新型膝盖关节，体现其在机器人精细操作与运动能力上的技术突破，对推动人形机器人硬件发展具有重要意义。",
-      "date": "2026-05-03",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBldHZvNTcyZ2lHNklQQ1VFWFdZUjEyWkJENmYzWXNHOUIzTVphU3lYcjJSNkx3VmdEOXdGVXhxV0MyR1pXRzFHYmRPRDFkWGo2Z1JlNHZMQ1B3a2FDRnVUMVVXLUxQNVJpd0c0d3dtektzd2dULThrU21Jb1UxRmM?oc=5"
+      "title": "Hyundai Is Getting Tired of Waiting for Its Robots - Industrial Equipment News",
+      "summary": "现代汽车对Boston Dynamics机器人商业化进展缓慢表示不满，可能加速行业洗牌。此事件反映出人形机器人从研发到商业",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzVCS3FQODJhZDhYTHp2c3Y4QlNQYi1FUXFDYkFTM1VMSGZnOHVUVVJxZUVNZzJHQlNsM1Q4TXBrWm1Gd3dZN3FLSFJLZUxZanhVNmRMc205bUQ5RDluNFFiQmZCTkppUGM3cFYxYTUyVGpxUzFfX1ZIZzlJVXo2T3FmX01MUllqRzQ2RC1vVXpCMnZiNTlkYzc3LTA?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-05T02:52:53.726702"
+  "updated_at": "2026-05-06T02:58:32.859572"
 }
