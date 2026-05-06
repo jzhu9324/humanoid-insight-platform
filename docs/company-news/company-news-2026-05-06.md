@@ -6,400 +6,296 @@ type: company-news
 
 # 人形机器人公司动态 - 2026-05-06
 
-本期收录 6 家公司的 41 条动态。
-
-## Tesla
-
-### Rockwell, Teradyne, Tesla see automation demand despite uncertainty - Manufacturing Dive
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JuZlRSb2lNX1JXRWZ6X3VnZlRsYm5vZ2Q5OEZ2aUFIbkNCRHFQX2g2VGM0ZWp4YWJ0ek1ZTHZEQ3NoQWZzQXMyaVNSQ0V3VTBLY213NC1pYktqVkg1QjV3WmgwbDM4eERNSGluYnNqUGVTOXFldFFVU2htSEdqQXJYTDJaWkxsSEtJREFBX3l0ZEwxeEJfSkNZcUJyTHRUSnFqNTdCbm5RZ3kxN2VUaGItRFNWS1ZU?oc=5)
-
-Rockwell、Ter
-
----
+本期收录 6 家公司的 31 条动态。
 
 ## Boston Dynamics
 
-### Boston Dynamics’ Atlas Masters Every Shift in a Demanding Balance Routine - TechEBlog -
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2FCV3hTVGJzX1hfbEdaUXJQYWlpLWRVQzIwWkRiYVprTFpLcDRrOW9mc2JsZVd2am9VbkFYN0JmX0FGZWVJOFhZNVc3MVQ4Q1ctcHNGcVd6bFlpN1VLQ3lMa1U5cEZzSWtqaGxQZzRxQ014Y1RMd0x4Vld6aU1NdTZfVQ?oc=5)
-
-Atlas机器人掌握高难度平衡动作，实现稳定切换，彰显人形机器人动态控制能力取得新突破，为工业应用场景中的稳定作业提供技术支撑。
-
----
-
-### The production version of Boston Dynamic’s Atlas is also impressively agile. - The Verge
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlZPLVJQd1lxU1hjRVdEVE1paFdiVk5JaWw3ek15aHZ5YjdRalc3enlyN010Rm5ja3JkYS1wMm5FTlM5RmpZVmVvZDk5WEFSQ0NGRktPT2J6ekNNWlhGY2pONmxUc2tEWW5rUTU5SDY2TVdnTmtCZ3ZCcXBsLUN1d0NSX0x4M3AxTGZ6aXVnRQ?oc=5)
-
-Boston Dynamics 发布Atlas生产版，展示其卓越的敏捷性和运动控制能力，持续引领人形机器人技术前沿，推动行业向实际应用更进一步。
-
----
-
-### Boston Dynamics Atlas Performs High-Difficulty Gymnastics - 조선일보
+### Watch Boston Dynamics' Atlas humanoid robot pull off a handstand - Interesting Engineering
 
 **发布日期**: 2026-05-06
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOTFkzdTVzd2dwdkVPX0djdFM2ZXc0Ml8wbFhiaWx4dFZyRWl2cWU3UmtpWmgtTi05aVdhNkloSlc0SFpaekp5U0ZfUV9qWEZGaGMzLVBuQXQ0OVBadjg1ZHpPaHRybXdYanA5YTNXQTZFM0xKUnJrckJDV1p1UUpZZG5pMDJIanB5?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijgFBVV95cUxNR29sZ0szRVVoUlU4aHh3bGNmbl9HcTdMYU1HMlgtOW5Ya0kwQ0JPM05mbE9lSGJoTDNTY1E0ZktoZ3ppcjh3VE44ZkVJVWQxaU9YbVZLOEtKOE1GNko3NXlmUjliRUQ0RThDakpva29vOV9qR1dBSTdwb0g0QzFwbURVYmlIN1RzaUx1YjFB?oc=5)
 
-波士顿动力Atlas机器人展示高难度体操动作，体现其在平衡控制与运动协调方面的技术突破，为仿人机器人更复杂场景应用奠定基础。
-
----
-
-### Hyundai Is Getting Tired of Waiting for Its Robots - Industrial Equipment News
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxPVzVCS3FQODJhZDhYTHp2c3Y4QlNQYi1FUXFDYkFTM1VMSGZnOHVUVVJxZUVNZzJHQlNsM1Q4TXBrWm1Gd3dZN3FLSFJLZUxZanhVNmRMc205bUQ5RDluNFFiQmZCTkppUGM3cFYxYTUyVGpxUzFfX1ZIZzlJVXo2T3FmX01MUllqRzQ2RC1vVXpCMnZiNTlkYzc3LTA?oc=5)
-
-现代汽车对Boston Dynamics机器人商业化进展缓慢表示不满，可能加速行业洗牌。此事件反映出人形机器人从研发到商业
+波士顿动力Atlas机器人完成手倒立动作，展示双足机器人卓越的运动控制与平衡能力。该突破进一步推动了人形机器人在灵活性和动态运动领域的发展。
 
 ---
 
-### "Machines are doing gymnastics"...Boston Dynamics Reveals Video of 'Atlas' Operation - 매일경제
+### Boston Dynamics showcases Atlas' strength, ability to shoulder industrial weight - Korea JoongAng Daily
 
 **发布日期**: 2026-05-06
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE5tdDBDZy1reHdrQUVVM203VG13b19QWGpWTEFFdEpZVFhsbTVjVmZiZHRZZjZjN0ZXLUlRQ2VqdHRLMGN1NDZaMDRJZGJQaTgxR2xj?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeExWb0djQ0kyYnJNTWw0dFZsRG1rdW9WMEZrUEdIVUFLd2FzZnpnMi13aURZNU9ndUZiZmR2M21QWEIxNFo2Z1R6ZWFhaXdiX2VsNEpNVWlPUzcwMTdRbkI1dlA0dk5xVkhrY0lsOWhTLUxZcjgyT1VMZml5cnJLT0hib0xPWW1UU2NJVTJIVERXdmRKdkxfcElQS2xCY1p1QVFnb0dVQ1VNZEVMdW16ZldqRnEyWFV3cVRVSjhid0VUVEhCZ21tM09Pa2pVSzF0NF81b0p4cUJCN3NjU1JzdHJtWEJGM3pyLWhiRUFB?oc=5)
 
-Boston Dynamics发布Atlas机器人最新体操动作视频，展示了更流畅、更拟人化的运动能力，彰显人形机器人运动控制技术的持续突破。
+Boston Dynamics展示Atlas机器人搬运工业重物的能力，突显人形机器人在工业搬运领域的应用潜力，推动行业向实际工业应用发展。
 
 ---
 
-### Boston Dynamics Unveils First Developmental Atlas Model Performing Gymnastics - Seoul Economic Daily
+### Boston Dynamics' Atlas shows off humanlike gymnastic skills - The Korea Herald
 
 **发布日期**: 2026-05-06
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMingFBVV95cUxQRzNlZ05Kd0hzV1FZenlWMmhaWGJWZjQwSTFxWDduQlBudHFaanBrT3NZYno0YUgwcS1XbDBuOEJxUDNLMjJGeDczZ0ttVWl6eFRhLWFwQzQ5SEpCaVB0UlcyeDdrZTk3aUNXVWUzczR0OHdjYk45MlhTUVBzcHM4Z3pGaVJ3ZFpxcEZoTTY5ajlFZHROT0pXenltU1pJQQ?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZak5CRS1BeUV0ZVRNcnVsVERaaVR1Z0pELURtMDZHWlhaRVNkaC12OFN4MTh1VThfekRyZUd5REdvQ1NEeTE3aDd3R2dXdDNFR2lVSHNjWQ?oc=5)
 
-Boston Dynamics发布首个具备体操运动能力的Atlas开发模型，展示双足机器人高难度运动控制技术突破，对行业而言标志着人形机器人运动能力再上新台阶，加速商业化应用进程。
-
----
-
-### Exclusive / C-suite exodus at Boston Dynamics - Semafor
-
-**发布日期**: 2026-05-01
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxPcEstVUJSNkxMdjVseE9XMkdqRFNfSDU2d1VlWmt4ajVBeXloaVVtWGFKLTJBaGJic0JCVFZXVndpQXJkWDZqZW8zalFFVThfRHd5V0U0RFpad3c0cmtxU2pibUNfbllQNHBWdjhFUkc2NFRzbDBwa0lOTGZIbEtBZ1Fn?oc=5)
-
-Boston Dynamics核心高管团队离职，可能影响公司战略执行与产品商业化进程，对人形机器人行业信心与发展规划带来短期挑战。
+Atlas机器人展现体操级运动能力，标志人形机器人平衡与灵活性技术获突破，推动服务与救援应用前景。
 
 ---
 
-### Hyundai Orders "Tens of Thousands" of Boston Dynamics Robots for Factory Takeover - Gadget Review
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXZocUpBSTQ3eUtkV2YyZF9ISGM2dDNXSllfNVpFek5XTE5EeHFuVURMNXNRVDQ2VXlTLUx3U1kxTE5fMWo0M21IUUxDLTZIejQ4Wm9zMW1MV05RcGhZRGJqbWpIclpidzBpTFBYYXhrSkg2N1B4eU0yR2plSHduSEZnN1NWSGlob0psUk5ueDFqR3hZMVE0TXo0R0FVVEZpbnhkMnlYZXZyTmo1?oc=5)
-
-现代汽车宣布订购数万台Boston Dynamics机器人用于工厂自动化，这是人形机器人行业最大规模的商业订单之一，标志着工业人形机器人应用进入爆发期。
-
----
-
-### Hyundai Is Building a Factory to Make 30,000 Atlas Robots a Year and the Fleet Economics It Needs to Justify That Bet Are the Most Important Numbers in Industrial AI - Startup Fortune
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMinAJBVV95cUxOcm1kUF9udnlRQ3d1RE82T0I0TDhQUE9La0xRSXNQR0FHcUtzSHRSbHc4LTZJT0EtR2d5TjgzcnNLNWFudVpoZ3g4dGd4RUxmNWVIQW9jdGtxQlF6M0dnWE11TkJ3R3JUdGNYVXRGQzItbmZJODc4NGNwLW05b05SOU9ueExtdzBybElxUEFuajgzOXBwUXJPeXRkSFk3MTJfd2RGdG0zVWFvc2pIVmFPWmNucnVHZXpDR3JXQ2IyZlNneUR2SnduOTdwcFdMLUR2a001bGdaUUJQdWN2aTdDT1dfTnJlYWtzZUh4cE02U0k1NW0taFZoU084NWlJMDEtal9JV3YzcGRwam9fSmhFUmMxREhHMzFfMGxKWg?oc=5)
-
-现代汽车计划建设年产3万台Atlas人形机器人的工厂，规模量产将推动人形机器人商业化进程，成为工业AI应用的关键节点。
-
----
-
-### Atlas Development Model Unveiled for the First Time...Effortlessly Performs Advanced Gymnastics Moves - 아시아경제
+### Boston Dynamics im Alltag: Leitende gehen, nur 4 Roboter in "Serienproduktion" - eu.36kr.com
 
 **发布日期**: 2026-05-06
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMic0FVX3lxTE5tZkV1Q1RVRzlpR3YtNmgxUldyZHpTQ0FIQmlEc2FDSjA0TlozLWYwQ1BzaklGUHBiRXFnLUlhZ0JfYnJzSEhuUWdDUVpNZFNkZEFuNllONGhyNXduVWwta0dOZFF2dm05d0IwVXlvN2hjX1U?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5MTlWX3R5U1l1Sm5YZmJHLTVBczVxOXpGbkhFZ0Vmazh6Yko4WFZuWmZ3cGZjTnc0V1ZQLXd0WGRGUnNWSnJlNVcxdzhmNWV1WFdz?oc=5)
 
-波士顿动力首次公开Atlas开发模型，展示高级体操动作能力，彰显人形机器人运动控制技术新突破。
+Boston Dynamics高管离职，目前仅4台机器人进入量产阶段，反映人形机器人商业化进程困难重重，行业仍面临技术落地与规模化挑战。
+
+---
+
+### Hyundai Robot Performs Handstand, Complex Gymnastics Moves - Bloomberg
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3RuanRPRk5Wa2tpOEJzQmt0SDBwYjBQQ0pONVlxY0E3YUhOellQYTdNTzVsSjhvVnlkcE5DQUlsWHA1bDFjUmcyTE40LUNLS08wNzNocUtKdUdVclhsOEVIQlNzaVdXdnJtX0NtcXBMVkRPc2U5RjZONzcwLW5xVENPR3N2a09icURPTXdmUUZFb0Z3NHZRVllhamJDTjhfbU5ONlRYTXdjVmxSWGhQQWFn?oc=5)
+
+现代汽车旗下机器人展示倒立及复杂体操动作，凸显双足机器人动态平衡与运动控制技术突破，推动人形机器人向实用化更进一步。
+
+---
+
+### Atlas robot performs handstands to show factory-readiness - The Daily Star
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMitAFBVV95cUxOWW5EQ09VNUZVaGpsVERnREhWdThJb2xzMXFQVFJaaHdJc2tLZkwxT1lwSy1VSlQ4azkyM2pjSEl2THNxenlqNkxGeXZfNXhzaUVwV1MwX3hjZXYwalVWdTRaZzhFSjBPMFVYdkZRLXQ3SDhFUjdNbXhGN01OMzRLamQ1aW5ta1lDOVV1czlIZ3QzZVFzRXFzWVVRcWhuaHlGNEFtaWxlUTJ5R1lNNDNPbmVMT0E?oc=5)
+
+Atlas机器人通过手倒立展示工厂场景下的运动能力，表明Boston Dynamics在推进人形机器人工业应用实用性方面取得进展，为商用部署奠定基础。
+
+---
+
+### Boston Dynamics’ Atlas showcases advanced gymnastic control for Hyundai rollout - CHOSUNBIZ - Chosunbiz
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxOb2wxNjdrc19La1BYNlNsb3ZwQklLYUZSSWd2WVEzNVJYY0RlWTRjTU8tTWwwcXEteUNfUXg3MTBSQndUdHNlc1BlOVZBWHR0SHZpR2kxOW5ZMklmaFh2aXk4TDFuYnBOcFE4eXFDbV9jVFlfY0N2dlBDUGpxUjQzZERR0gGWAUFVX3lxTE5wT09sUmxaTEFXOGpwdTVsUi00ZHNfeDVxUXAwU2dnbmRlM2ZmVGRZaXU1X2VvTTRRek81SHFXZWl1SEhQZURLeTc3d3dDR3ZSMnRZR09ldHlLaDl4aXZsdEIzcnNRVi1GcFBUcEJLb01hQlotUTAyWkJ1UVVpYW1NVHIyUFVmb05lZXdDVzFSOFUtYVBvQQ?oc=5)
+
+Boston Dynamics的Atlas机器人展示高级体操控制能力，为Hyundai部署做准备。该突破标志着双足机器人运动控制达到新水平，推动人形机器人商业化应用进程。
 
 ---
 
 ## Unitree Robotics
 
-### Humanoid Robots Can Now Run Faster Than Usain Bolt, So Is It Officially Time To Be Scared? - BroBible
+### Unitree Robotics launches dual-arm humanoid robot, starting from 26,900 yuan - Gasgoo
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi0gFBVV95cUxNQkpYM0IwX25HbnpnX2dkRk1jM0wycmlSelZnampEMU1laFZJdTlnQzBhTThGNzFnWHFCeGJtMF9WMjdwRmp1TWc2ZGFTbzdCYllTOEpLMFpfV0ttTEJMSGhPOXdwY1RTeWk5MEJVZ3ZWVFNhTlpCakM0dDBwX2hqN25tRjc3Qm10dzJNcXFTSDJadDhOdlo1OTZlWjBvSXZYSDljZnlPNG1mVmFUZ0VIWUtYRUFLOUh5cFQyclZybWxoVUFqMFZ1ZGt1NUpZMU9zWmc?oc=5)
+
+宇树科技推出双足人形机器人，售价26,900元起，以低价策略切入消费级市场，降低人形机器人入门门槛，或将加速行业价格竞争与市场普及。
+
+---
+
+### Baggage bots: Chinese humanoids clock on at Japanese airports amid labour crunch - South China Morning Post
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxQc1dTWkQ5OU1xYWhfNVp6UmJXUlB4OU0xaUUzTlMzRFZaeTVoVXNPUDNoMUNYRzNkeFZxNk1jaDRZMUhMS0pScWFRZ2xyYlFKS2JXeWtEZThkZ3R2VWpFZmhNX3dSODVLcTJlMmpqQjRwSlBSck5uQXJQRmNUOURMdjhHSllBYmdwd3N5M1pDeDRyTzBzVnpmeTg4YkhsVUctM1lyWG4yVmtsazVkajBTNHdNQjRkdkJJQllZUtIBvAFBVV95cUxNNExGczgxc1AwelpyLWYxeHlhZk16aUplRkFBUGg5UWxEN2ZOOVZ4UC05b1RxWndMRDcyZkVxeVl1TnBTV1EwU055UnY2SEdQNnlyUGhQNlNVUVJkTnZfalFrM1hYeHJxajBLeFRtaXoySkV1N2tCSlUzejBzSGhhWWZFZVRDemViMEdMQTlYcktJd3RDVTFaTWhjMkpZU0VUbUh2UnJ6Qno0dk5KRFJyZmpRZkp2amdoRXBrbQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxQc1dTWkQ5OU1xYWhfNVp6UmJXUlB4OU0xaUUzTlMzRFZaeTVoVXNPUDNoMUNYRzNkeFZxNk1jaDRZMUhMS0pScWFRZ2xyYlFKS2JXeWtEZThkZ3R2VWpFZmhNX3dSODVLcTJlMmpqQj
+
+---
+
+### Meet the robot monk - The Korea Herald
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zWXhwY0o1ZDR1NE5WRm9OcEEzX3BLazRqbEVpMWxQcWlqcVdyUXB4enhiV09ZdlpDSmVxa0dveUtuU1Q0bFdMR0R4TUJ3UzhTUGZ0NGh0MA?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE4zWXhwY0o1ZDR1NE5WRm9OcEEzX3BLazRqbEVpMWxQcWlqcVdyUXB4enhiV09ZdlpDSmVxa0dveUtuU1Q0bFdMR0R4TUJ3UzhTUGZ0NGh0MA?oc=5" target="_blank">Meet the 
+
+---
+
+### Japan’s Haneda airport deploys Unitree’s G1 humanoid robot to work alongside humans - MSN
 
 **发布日期**: 2026-05-05
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxNOUNXMmxLUWdtajZNRHVyejIwc0hSOVJQNmgzN0NfaEtDLXBjOEc3Unc3Tk5IY2hFaG96ZmJ5ZkZnUGxvbml5ZDBkMm5VbS03R2IwWVk1dWdpVjE3aXB2Y01PM0xEdXU2QXlReVNMOURNajR1anBtdG8tQ0g5UkxpSA?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMipgNBVV95cUxPTWtiTTJScGhrQUUtT2xkSmNqQ1VMemo3c20wc1Rmc0FqU2lNcVJvelF4VmU2LVpIYmFtc1RlNjVnNWhKRFFGTnduOWMyYTRGVDJmVHFQUFIxcmpSN2psRS1LNnVwNmZqOVJ3Q3ZZMFhmLWZua200UGk0a0QxdGJBNTQ4YXJHMUZ3UXJ3VXRyYXVCNEp6Qi1kOFhGb0NPS3Y2c1I1WTRxRjM4VGVQNnU3amEyYXhNT3g2MXNUX2V5eDRrNFEyd1RCMWpkWk9hdlk3UjFWVHY4ZTJYaURxeE45VDAzcTR2blQtZUFBM1hwNEVKUG56eFB5QklBTUVISU9BU29rV1VmQ1J6UlR4Z0VGWHF1VmxncFlzaFRROHc2OFV5Mzh0cHdGblZVN2YxQ2lOOFJ0aXNUQ2ZIdFpNWlBlQzQ5ZHktTFhJUEs2OERBN19OUjhlbUI4YlVPZlY1MFFRNGVxeklpSG1YaERHbHpBOTdsUWV4YWt2TFVoY1NmMEtwOVREekYwQTdYQkg5ajJ2U085cDFFaUJmZzgxd3dUenY3aGtNZw?oc=5)
 
-Unitree Robotics展示了能跑得比博尔特更快的人形机器人，突破运动能力极限，标志行业从行走向奔跑的重大技术里程碑。
+日本Haneda机场部署Unitree G1人形机器人与人类协同工作，标志着人形机器人在服务业实际应用的重要突破，彰显其在复杂环境中的作业潜力。
+
+---
+
+### Unitree Just Priced a Dual-Arm Humanoid Robot at $4,290 and the Embodied AI Experimentation Race Is About to Get Crowded - Startup Fortune
+
+**发布日期**: 2026-04-30
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi3wFBVV95cUxPREJCbFA0NUpSRFFHU2xJUFp1S2lXVjNaUGQ1TlZ1MkxpTWJpMl9hMkJKb1lEdkNLaEUxNTlfb0VuNEhVU2pGVDRXQXV2YS12V3V5bklBWEJMa3VGdkJGS0kwTVk5QjNVeEtCREYxTDlxY0FJS3hEX3NhYXdRdjBFWUExejBkMEtlckk5czg3WERHQ0l5U3JuT2JtUUtJd0xmdkcxdVZjN2FQRUJkemdpZnJUT0JuOFNFVTVCejR1aTRHT3pWbzFjamI1V2F2SkdTMFRKeW9MVXBzc0NrbHlN?oc=5)
+
+Unitree推出双足人形机器人定价仅$4,290，将大幅降低具身AI研发门槛，引发行业价格战，加速人形机器人商业化进程。
 
 ---
 
 ## 优必选
 
-### 2025年人形机器人产业链全景分析：核心零部件率先兑现业绩，整机迎万台交付关键年 - Sohu
+### Baggage bots: Chinese humanoids clock on at Japanese airports amid labour crunch - South China Morning Post
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxNNExGczgxc1AwelpyLWYxeHlhZk16aUplRkFBUGg5UWxEN2ZOOVZ4UC05b1RxWndMRDcyZkVxeVl1TnBTV1EwU055UnY2SEdQNnlyUGhQNlNVUVJkTnZfalFrM1hYeHJxajBLeFRtaXoySkV1N2tCSlUzejBzSGhhWWZFZVRDemViMEdMQTlYcktJd3RDVTFaTWhjMkpZU0VUbUh2UnJ6Qno0dk5KRFJyZmpRZkp2amdoRXBrbdIBvAFBVV95cUxNNExGczgxc1AwelpyLWYxeHlhZk16aUplRkFBUGg5UWxEN2ZOOVZ4UC05b1RxWndMRDcyZkVxeVl1TnBTV1EwU055UnY2SEdQNnlyUGhQNlNVUVJkTnZfalFrM1hYeHJxajBLeFRtaXoySkV1N2tCSlUzejBzSGhhWWZFZVRDemViMEdMQTlYcktJd3RDVTFaTWhjMkpZU0VUbUh2UnJ6Qno0dk5KRFJyZmpRZkp2amdoRXBrbQ?oc=5)
+
+优必选人形机器人在日本机场投入行李搬运工作，缓解当地劳动力短缺，体现中国 humanoid 机器人技术在全球服务业的商业化应用前景。
+
+---
+
+### 强势登顶！优必选发布全新具身智能世界大模型 - 荣格工业传媒
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ObGJZWXhERDB6aTU5alp2emszZEo1MFNvNVMtbUp0el82dWhxX3YtUzdkSURtU3BZalIwMzVZMkhqTmVJa3VVQXdWWGJHYUJUUHJpYlVvSUthUQ?oc=5)
+
+优必选发布全新具身智能大模型，技术突破将加速人形机器人智能进化，推动行业应用落地。
+
+---
+
+### 北京亦庄机器人马拉松，形态各异花样百出，第一名比人类更快 - 手机新浪网
+
+**发布日期**: 2026-05-03
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi1wJBVV95cUxPcExtZGdnb2ItM0xrZUFXNEtnNlQwZ0RGU1RvVTdWVXJpc3VjWEFzOHB6M1JKMkd6SDVxeGFZNWQ3bnRRU0RJczZ6bW5JQTNyQmlSN0hWV3pXQnllV2t4akc5aVQ4b1VZZkRPQkJpeGtzOGFpWEhIZFlHZjB3Z0dIR0ZkOGxyZjJxSFJlRUJKQnhCaEMwNDlTMzRaNkh0ZmZWeEdPY3lUQjlzWlFfeWI4eXNWZ3E5RkVzcUFvdk5QUldDMUh4cnU1U3VPU3V4M0pNNG1ONHI2OU5QbTd6TnJFODNITVpKNDB0TW4wNnZ2TTM4TndRMDFZLXpCOWZMNW11eXpyWHBkUVZrU2lValZNMmxGQU9Xck5qNFdRWGVBd1hnYUV2dHlUc0U0aDNFQmpXMlYyaEpRNmVPWlQ2NzU2Si14c0R4Q3dETmx0MU1ReGJRc1l1Q0JF?oc=5)
+
+北京亦庄举办
+
+---
+
+## 小米机器人
+
+### 前小米集团高管，正在做“机器人时代的小米” - 创业邦
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiUEFVX3lxTE1LMkMtaHdZSnNBM3hSZ3BDN25rNXZ6X3pLa2VQT2tnNG16cDRTMXd1VjNfOTk3VVJQZk5GMkRXYnQxR2pYMDc4eVJyX19UZ0Ew?oc=5)
+
+前小米集团高管创业投身机器人领域，打造“机器人时代的小米”，预示人形机器人赛道将迎更多互联网科技企业布局。
+
+---
+
+### 先发优势一夜归零，荣耀、小米杀入，二线机器人生死倒计时 - 36kr.com
 
 **发布日期**: 2026-05-05
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkxIOFRBQngzcjh1YW9XbUJ4Q3lTMzhHRTZqdjY5Mm9HcWVVeF9MLW83dlpWQWpmNVZQeEZXNXBsQUd2MVpJYlNDTWl3aGhSZFR2S19veVNzX3JaX05XeG5teVNjRFhUbG41NkIwRDBSRzZZOVVSV3A4aUhmd3htQzVfVElzbHMw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiTkFVX3lxTE16ckRDRHNMekRpSjI5RTFyQzB1bUo2VFBvZjdrSW00cl91SllrSVZYUUhtQ1lKVm9BOHRuQXdRX3B1ME9VODdJLVVtb0dIdw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZkxIOFRBQngzcjh1YW9XbUJ4Q3lTMzhHRTZqdjY5Mm9HcWVVeF9MLW83dlpWQWpmNVZQeEZXNXBsQUd2MVpJYlNDTWl3aGhSZFR2S19veVNzX3JaX05XeG5teVNjRFhUbG41NkIwRD
+**摘要：** 荣耀、小米等大企业入
+
+---
+
+### 越障高度 40mm：小米米家扫拖机器人 6 水箱版 1899 元、上下水版 2206 元 - 新浪财经
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTFBYSlhlSGIzT3R2bG5xM2hhSmJNalYyaUdmYXVTWnF1NHZqdkljdW9QU0hQMDRsM01paVBiY1BlOGdqdnV3VlVoVXhkZ0FKd0JlenBIWmcxNl9WYkQ0V3ZYY1RwLV92dVVQbVBURTRrb2g4R1laVWNLWmpKTE1za0E?oc=5)
+
+小米发布米家扫拖机器人6，越障高度40cm，水箱版1899
 
 ---
 
 ## 1X Technologies
 
-### NEO humanoid robot company plans to release 100,000 units by late 2027 - USA Today
+### Norway-founded robotics firm opens massive 58,000-square-foot California plant for humanoid robot production - edhat
 
-**发布日期**: 2026-05-01
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxOWk9SbFZrMm5xM2tHNUx1d0FhZXI2U1p5c1QzZWJRdVFPNi0yQ3VJWmFXckdRcl9ZU1NvLUJZUGFRaWJxUXhJXzNTUDlPbjc2Q1Q3bzJLWjROa21maFBtUWhtcUVsWGVPa0VxTmFXQ1lrb19VenN1cmR5cTBEUFM3YUZ4cVlaTW95Y1kwQmFjUFhseHdIOWVCbW1wYV8tbVVDZDY4dHZoUHZkODAzR0FPQkMxYWtMNUhBRS1kSQ?oc=5)
+**发布日期**: 2026-05-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi3wFBVV95cUxQcTZWMmt0NENuY2xyeWZzdElKQmdDTWlZbVRHcFZDTENVdEZlRDZqM2l1YW9Cd0h2bEZQS1g5WV9kSXV1MWo2MFAwUENmWFRZTG8zVFdSa1dkdWNnRVlNSHBibVZUUk91Q1dSeEFNb3h3dGJGbkxtcmdDMGZMcWF1WEc1TDlhbnJFWUlGYmF2Ty1rWmMyT0ZHX09KVHVDYUViMmxIZHVrUFptUGtiQjNXNFNweW9qdG9HczVhNVRMcW9fY2dhYXRhX2lUWFBfN21qMGphbS1jUldxenR1QTk4?oc=5)
 
-NEO计划2027年底前量产10万台人形机器人，标志人形机器人进入大规模商业化阶段，将加速行业竞争与技术普及。
+1X Technologies在加州开设58,000平方英尺工厂，标志着人形机器人从研发进入规模化生产阶段，对行业发展具有里程碑意义。
+
+---
+
+### This humanoid robot is about to be made at a much larger scale - WUSA9
+
+**发布日期**: 2026-05-02
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnVJMVVtWHhxRW1XNWRFd2pzUHItNFVnM1lTT2F6SzhzNHE5V1NudXJSRDVQYnNFRVNITzl2OXFSaEZ5ckFMSG1VR1ZJWU51X0xZZXFMLUlyemFaelVoMjZQWGZqZW1ZelRHU3VuNldOVTlpY01rTHhmYlNIZW05MmZFdnJZZlE4UlE5RlBteEpjUzRDSk9MdkNPMVRoSGd5eEtuemVMdnBrRHlLaEQ3OW9GbUVYTGFRSWpKVlRmRkFLZGRJczJlZTFfaw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiywFBVV95cUxOUnVJMVVtWHhxRW1XNWRFd2pzUHItNFVnM1lTT2F6SzhzNHE5V1NudXJSRDVQYnNFRVNITzl2OXFSaEZ5ckFMSG1VR1ZJWU51X0xZZXFMLUlyemFaelVoMjZQWGZqZW1ZelRHU3VuNl
 
 ---
 
 ### 1X Opens NEO Factory in Hayward, CA – America's First - GlobeNewswire
 
 **发布日期**: 2026-04-30
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqgJBVV95cUxQNkRTZVVaVUNSWlJZNlZxa0FTNEpLTkFEWU1YaUxsdnpWRGJ2SjZONUE4UVUtRXlDN2hiMUlfNjVNcW9PVGk0UnE2TldEVWJ5M2h3RDhTMW9BbTFJWWlDR0tvTlctWEd6NEJQeHp3YVotWjNFRFdocUxlMU5Fbk9yZFRJckZ1Y3ItdXZRUXZFYjZnek5JZnRVVlF3TVo2bFNiUTB2WEIyYnp6MkNsekNsQ3hpOTgwbTI4RTVZUUtsQU93czdCNzBIVDFyenBJSlRBNEg5QTNvdXAtbUI2NW1fclNzSE8wYzVVQXJTS2FyRWJXMU11dWxyai1MT0RBVU9RNGVrdElxSWpmZjlJbDQ4NmF2Yl9pNDg1YWNGOWpxalVoSjBMWWRiOTV3?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMisAJBVV95cUxNY3VVMmlkLU0yUThPbW50QVIwMXhSTloteXFEWkZEWld1UEF4U0dHT0dZNHpSRVFRaUZmY0g3T0NsVy1tZWRaVDBKYmlUdG5sNWI0V1NKSUxKWWZBc2tBc3ZjX2ptZWJ4YURoRUp2a25NVjJ2YTVmeHotVUwtNTluQ0dENTVLbkZ5SXpmZmtrejJ6aWpJUjV5LW5QbkZhVUpZc2kwVll5bTZjLXNoanhIRWJiQk5VUE1BY0pZR1dhUTRGbVh5WWFrWXRMRTBuVVFuWmVOZnJLYk5xcFNLd09uRUdvZGNvWHNFNWJKVjJNODRRX3lOOXFaZ1FlcjQtczJRNXVuZkpkcnMyMFAwdXlILXVqaElNNXQwNDUwQ0JkMnVZeFpzcjRlVHhIeVNxdnAt?oc=5)
 
-1X在加州Hayward开设美国首个NEO机器人制造工厂，实现人形机器人本土量产，反映行业从研发向规模化生产的关键转折。
+1X在加州海
 
 ---
 
 ## Industry News
 
-### WaiV Robotics emerges from stealth to help drones take off and land at sea
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.therobotreport.com/waiv-robotics-emerges-from-stealth-help-drones-take-off-land-at-sea/)
-
-WaiV Robotics宣布推出海上无人机起降技术，虽然专注于无人机领域，但其海洋自动化解决方案可为未来人形机器人在海上作业场景中的应用提供技术参考和协同
-
----
-
-### Tutor Intelligence builds Data Factory to train robot AI in the real world
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.therobotreport.com/tutor-intelligence-builds-data-factory-to-train-robot-ai-in-the-real-world/)
-
-标签
-
-但我注意到一个问题：我没有被提供新闻的详细内容，只是给了标题和一个链接。用户说摘要部分是"N/A"（不可用）。
-
-不过，从标题来看，我可以推测主要内容：
-- Tutor Intelligence这家公司正在建立"数据工厂"
-- 目的是训练机器人AI，让机器人在现实世界中学习
-- 这涉及数据采集和训练方面的创新
-
-作为行业分析专家，我需要基于标题提供的信息来总结。但我实际上并不知道新闻的具体内容，只能从标题推断。
-
-我会基于标题进行合理分析：
-
-
-我将开发一个创新的数据平台，旨在收集真实世界场景数据，为机器人AI训练提供关键支持。这个工厂将帮助机器人获取更准确、更
-
----
-
-### Hiroshi Fujiwara and Robert Little selected for 2026 Joseph F. Engelberger Robotics Awards
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.therobotreport.com/hiroshi-fujiwara-robert-little-selected-2026-joseph-f-engelberger-robotics-awards/)
-
-
-
----
-
-### NORD Drivesystems releases motor starters, variable frequency drives
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.therobotreport.com/nord-drivesystems-releases-motor-starters-variable-frequency-drives/)
-
-NORD Drivesystems发布新型电机启动器与变频驱动器，为人形机器人关节电机提供高精度运动控制解决方案，提升能效与响应速度，促进行业技术进步。
-
----
-
-### WaiV Robotics emerges from stealth to help drones take off and land at sea
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.therobotreport.com/waiv-robotics-emerges-from-stealth-help-drones-take-off-land-at-sea/)
-
-
-
----
-
-### Tutor Intelligence builds Data Factory to train robot AI in the real world
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.therobotreport.com/tutor-intelligence-builds-data-factory-to-train-robot-ai-in-the-real-world/)
-
-Tutor Intelligence正在建设数据工厂，为人形机器人AI提供真实世界的训练数据。此举有望解决机器人AI训练中的数据短缺问题，加速
-
----
-
-### Hiroshi Fujiwara and Robert Little selected for 2026 Joseph F. Engelberger Robotics Awards
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.therobotreport.com/hiroshi-fujiwara-robert-little-selected-2026-joseph-f-engelberger-robotics-awards/)
-
-Hiroshi Fujiwara和Robert Little获2026年Joseph F. Engelberger机器人奖项，彰显其在机器人领域的卓越贡献，激励行业创新发展。
-
----
-
-### NORD Drivesystems releases motor starters, variable frequency drives
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.therobotreport.com/nord-drivesystems-releases-motor-starters-variable-frequency-drives/)
-
-NORD Drivesystems发布新型电机启动器和变频驱动器，为人形机器人关节电机提供更精确的速度与扭矩控制，提升运动精度和能效，对机器人动力系统升级具有直接推动作用。
-
----
-
-### Boston Dynamics posted a video of the new production version electric Atlas spinning its body while balancing on its arms
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4h0sf/boston_dynamics_posted_a_video_of_the_new/)
-
-Boston Dynamics发布新版电动Atlas演示视频，展示360度自主旋转和高难度双臂平衡动作，标志其从液压驱动向全电动方案的技术转型，为人形机器人运动能力树立新标杆。
-
----
-
-### Autonomous solar panel installation: Crawler base, robotic arm, suction system, AI vision, and 3D sensors — placing ~30 kg panels with ±1–2 mm precision. At about 1 panel every 30 seconds.
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4alwf/autonomous_solar_panel_installation_crawler_base/)
-
-
-
----
-
-### Presenting the XR-4 „Rehbar“ („Pioneer“ in Urdu 🇵🇰)
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4au4m/presenting_the_xr4_rehbar_pioneer_in_urdu/)
-
-
-
----
-
-### Harvard engineers built ant-like robots that work together without central control
+### Marc Lore says that AI will soon enable anyone open a restaurant
 
 **发布日期**: 2026-05-06
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4xl9d/harvard_engineers_built_antlike_robots_that_work/)
-
-哈佛团队研发出仿蚂蚁协作机器人，无需中央控制即可群体协同作业。这为人形机器人的分布式控制、群体智能及自主协作系统提供了重要技术参考。
-
----
-
-### Is "AI-powered robotics" just a marketing term at this point?
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4frai/is_aipowered_robotics_just_a_marketing_term_at/)
-
-行业开始质疑"AI驱动机器人"是否沦为营销噱头，呼吁明确定义与真实技术突破，这有助于推动行业回归务实创新，提升产品透明度与市场信任度。
-
----
-
-### Humanoid Robotics: are humanoid robots actually going to work in the warehouse, and if so doing what first?
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4tjzh/humanoid_robotics_are_humanoid_robots_actually/)
-
-人形机器人正探索仓储物流场景的实际工作能力，仓库可能成为其早期商业化落地应用领域，推动行业从研发向实际作业转型。
-
----
-
-### Robot Wall E , parte 1
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t453fa/robot_wall_e_parte_1/)
-
-抱歉，我无法直接访问 Reddit 链接来获取新闻的具体内容。请您提供新闻的实际文字内容或详细摘要，我才能为您生成准确的行业分析。
-
----
-
-### Real-Time Inference on Thor & RTX Pi0.5/GR00T N1.6/1.7 Thor 23 Hz RTX 5090 50-80Hz
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4emw2/realtime_inference_on_thor_rtx_pi05gr00t_n1617/)
-
-该新闻称人形机器人Thor和GR00T N1.6/1.7已实现实时推理，推理频率达23-80Hz，依托RTX
-
----
-
-### Over time and as my robot has progressed, many user interfaces have been added for reading and visualizing data and controlling the robot; here they are.
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4ixy2/over_time_and_as_my_robot_has_progressed_many/)
-
-该帖子展示了个研究项目中随机器人演进
-
----
-
-### The "Victory After the Struggle"
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t44m5i/the_victory_after_the_struggle/)
+**链接**: [查看原文](https://techcrunch.com/2026/05/05/marc-lore-says-that-ai-will-soon-enable-anyone-open-a-restaurant/)
 
 
 
 ---
 
-### new companion robot Lepro Ami ready for EU market?
+### Genesis AI introduces GENE-26.5 model for more dexterous robot manipulation
 
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4kkxe/new_companion_robot_lepro_ami_ready_for_eu_market/)
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.therobotreport.com/genesis-ai-introduces-gene-foundation-model-more-dexterous-manipulation/)
 
-Lepro AMI新型陪伴机器人准备进入欧盟市场，反映消费级人形机器人正积极开拓高标准全球市场。
-
----
-
-### Simulation of the two-stage Stewart platform in a new robotic solver
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t43ta0/simulation_of_the_twostage_stewart_platform_in_a/)
-
-该新闻报道了两段式Stewart平台的新型机器人求解器仿真技术，对人形机器人的关节控制和平衡系统研发具有参考价值。
+Genesis AI推出GENE-26.5基础模型，旨在提升人形机器人的灵巧操作能力。该模型有望推动人形机器人在精细任务执行方面取得突破，加速行业应用落地。
 
 ---
 
-### Brown researchers teach robot dogs to fetch
+### Genesis AI introduces GENE-26.5 model for more dexterous robot manipulation
 
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4jfj0/brown_researchers_teach_robot_dogs_to_fetch/)
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.therobotreport.com/genesis-ai-introduces-gene-foundation-model-more-dexterous-manipulation/)
 
-布朗大学研究团队成功训练四足机器狗完成“fetch”（取回）物品的任务，这展示了机器人精细运动控制与自主学习的新进展。该技术在双足人形机器人领域具有迁移潜力，推动行业向更实用的服务执行能力发展。
-
----
-
-### Need to know what it is
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4jc65/need_to_know_what_it_is/)
-
-无法从所提供信息中提取足够内容。该Reddit帖子标题"Need to know what it is"过于模糊，链接无摘要，无法分析具体新闻内容和意义。
+Genesis AI发布GENE-26.5基础模型，显著提升人形机器人的灵巧操作能力，推动AI驱动下的人形机器人向更精细、更通用的任务执行方向发展。
 
 ---
 
-### Figure just posted this with caption “robot fashion”, do you think we are getting robot clothing next?
+### Homemade robotic hand & wrist doing actual stuff
 
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4j7te/figure_just_posted_this_with_caption_robot/)
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t51e0f/homemade_robotic_hand_wrist_doing_actual_stuff/)
 
-Figure公司在社交媒体发布"robot fashion"主题帖子，引发机器人是否需要服装的讨论。这反映出行业开始关注人形机器人的外观设计与社交属性，探索人机交互中的时尚和个性化可能。
 
----
-
-### Looking for good robotics companies in India to start a career (need honest insights)
-
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t46kxu/looking_for_good_robotics_companies_in_india_to/)
-
-该帖子是Reddit上从业者寻求在印度机器人公司职业建议的讨论，反映出印度市场对机器人人才需求的增长趋势，对了解印度人形机器人行业就业环境具有一定参考价值。
 
 ---
 
-### Building an Operating System for Physical AI. Looking for Feedback
+### Testing cingoli di Wall-E
 
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t43od3/building_an_operating_system_for_physical_ai/)
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t52tyl/testing_cingoli_di_walle/)
 
-**摘要：** 开发者正为物理AI构建专用操作系统并公开征集反馈，将为机器人提供统一软件平台，奠定行业标准基础，对人形机器人软硬件协同发展具有重要意义。
+
 
 ---
 
-### Humanoid Robotics: are humanoid robots actually going to work in the warehouse, and if so doing what first?
+### Built an Autonomous Mobile Robot (AMR) for warehouse automation - from CAD to code.
 
-**发布日期**: 2026-05-05
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t4tjzh/humanoid_robotics_are_humanoid_robots_actually/)
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t5a31j/built_an_autonomous_mobile_robot_amr_for/)
 
-人形机器人正探讨在仓库环境中的应用潜力和首批任务场景，显示行业正积极推进其在物流领域落地，但大规模实际部署仍需时间和成本效益验证。
+一台用于仓库自动化的AMR，从CAD设计到代码编程实现，展现了移动机器人技术从
+
+---
+
+### Open Source Simple Software to Calibrate Fisheye Cameras
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t57fd6/open_source_simple_software_to_calibrate_fisheye/)
+
+该开源工具简化了鱼眼摄像头校准流程，可提升人形机器人的视觉感知精度与环境建模效率，降低开发者成本。
+
+---
+
+### I Built Rocky from project hail Mary as a walking talking robot
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t5aqw6/i_built_rocky_from_project_hail_mary_as_a_walking/)
+
+
+
+---
+
+### Ai2 released MolmoAct 2: a fully open-source action reasoning model for real-world robotics (with MolmoAct 2-Bimanual YAM dataset)
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t56zqa/ai2_released_molmoact_2_a_fully_opensource_action/)
+
+
+
+---
+
+### Quantum for robotics use case
+
+**发布日期**: 2026-05-06
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1t5bc4d/quantum_for_robotics_use_case/)
+
+
 
 ---
 
