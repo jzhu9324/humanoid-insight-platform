@@ -1,14 +1,26 @@
 {
   "papers": [
     {
+      "title": "Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking",
+      "summary": "### 现状痛点",
+      "date": "2026-05-06",
+      "link": "http://arxiv.org/abs/2605.04607v1"
+    },
+    {
+      "title": "Constraint-Enhanced Reinforcement Learning Based on Dynamic Decoupled Spherical Radial Squashing",
+      "summary": "### 现状痛点",
+      "date": "2026-05-05",
+      "link": "http://arxiv.org/abs/2605.04185v1"
+    },
+    {
       "title": "BifrostUMI: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation",
-      "summary": "BifrostUMI是一种基于轻量级VR设备和稀疏关键点轨迹的无机器人数据采集框架，通过关键点重定向和全身控制器实现从人类演示到类人机器人的敏捷行为无缝迁移。",
+      "summary": "### 现状痛点",
       "date": "2026-05-05",
       "link": "http://arxiv.org/abs/2605.03452v1"
     },
     {
       "title": "Height Control and Optimal Torque Planning for Jumping With Wheeled-Bipedal Robots",
-      "summary": "提出轮式双足机器人跳跃动力学模型W-JBD与贝叶斯优化扭矩规划方法BOTP，实现精确高度控制并降低能耗82.3%高度误差与26.9%能耗。",
+      "summary": "提出W-JBD动力学模型与BOTP贝叶斯优化转矩规划方法，实现轮式双足机器人的精确跳跃高度控制与能量效率优化。",
       "date": "2026-05-05",
       "link": "http://arxiv.org/abs/2605.03302v1"
     },
@@ -16,53 +28,41 @@
       "title": "RLDX-1 Technical Report",
       "summary": "### 现状痛点",
       "date": "2026-05-05",
-      "link": "http://arxiv.org/abs/2605.03269v1"
-    },
-    {
-      "title": "Natural Gradient Bayesian Filtering: Geometry-Aware Filter for Dynamical Systems",
-      "summary": "### 现状痛点",
-      "date": "2026-05-04",
-      "link": "http://arxiv.org/abs/2605.02306v1"
-    },
-    {
-      "title": "Stability of Control Lyapunov Function Guided Reinforcement Learning",
-      "summary": "### 现状痛点",
-      "date": "2026-05-03",
-      "link": "http://arxiv.org/abs/2605.01978v1"
+      "link": "http://arxiv.org/abs/2605.03269v2"
     }
   ],
   "companyNews": [
     {
-      "title": "Watch Boston Dynamics' Atlas humanoid robot pull off a handstand - Interesting Engineering",
-      "summary": "波士顿动力Atlas机器人完成手倒立动作，展示双足机器人卓越的运动控制与平衡能力。该突破进一步推动了人形机器人在灵活性和动态运动领域的发展。",
+      "title": "Why Tesla's Optimus Story Is More Promise Than Progress - The Globe and Mail",
+      "summary": "Tesla的Optimus人形机器人被指承诺多、实际进展有限，反映当前行业宣传与落地成果间的落差，提示业界",
       "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR29sZ0szRVVoUlU4aHh3bGNmbl9HcTdMYU1HMlgtOW5Ya0kwQ0JPM05mbE9lSGJoTDNTY1E0ZktoZ3ppcjh3VE44ZkVJVWQxaU9YbVZLOEtKOE1GNko3NXlmUjliRUQ0RThDakpva29vOV9qR1dBSTdwb0g0QzFwbURVYmlIN1RzaUx1YjFB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPc0RyQXo2REZid2F0T1RQdm1IcXZubW1pMmpnM2Utek95blJWRk5BdEFDNU9Xb2xheldKQTY0aTlxZHp1bmZXNVpoZm12WmdMc1MwdU1DNGtabl9SVk9EWEZaVGREWVZtdHgwMU9fU3l6UmhNX1haSmY3YllpMzZhalQxMXVveWl2NzNENDdXdlluRnNObFNtTnRmd1BIcmtsakFremRtMkVqOXRQVWRjdVpSeGVWRE5qNTRsZmljdmJSZkttRDl3Z2hRQlB4bFZpSUJacU1n?oc=5"
     },
     {
-      "title": "Boston Dynamics showcases Atlas' strength, ability to shoulder industrial weight - Korea JoongAng Daily",
-      "summary": "Boston Dynamics展示Atlas机器人搬运工业重物的能力，突显人形机器人在工业搬运领域的应用潜力，推动行业向实际工业应用发展。",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxOeExWb0djQ0kyYnJNTWw0dFZsRG1rdW9WMEZrUEdIVUFLd2FzZnpnMi13aURZNU9ndUZiZmR2M21QWEIxNFo2Z1R6ZWFhaXdiX2VsNEpNVWlPUzcwMTdRbkI1dlA0dk5xVkhrY0lsOWhTLUxZcjgyT1VMZml5cnJLT0hib0xPWW1UU2NJVTJIVERXdmRKdkxfcElQS2xCY1p1QVFnb0dVQ1VNZEVMdW16ZldqRnEyWFV3cVRVSjhid0VUVEhCZ21tM09Pa2pVSzF0NF81b0p4cUJCN3NjU1JzdHJtWEJGM3pyLWhiRUFB?oc=5"
+      "title": "Rockwell, Teradyne, Tesla see automation demand despite uncertainty - Manufacturing Dive",
+      "summary": "尽管经济不确定性存在，Rockwell、Teradyne等自动化供应商与Tesla仍看到自动化需求强劲，表明制造业对机器人技术需求持续增长，为人形机器人行业提供了良好的发展环境。",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JuZlRSb2lNX1JXRWZ6X3VnZlRsYm5vZ2Q5OEZ2aUFIbkNCRHFQX2g2VGM0ZWp4YWJ0ek1ZTHZEQ3NoQWZzQXMyaVNSQ0V3VTBLY213NC1pYktqVkg1QjV3WmgwbDM4eERNSGluYnNqUGVTOXFldFFVU2htSEdqQXJYTDJaWkxsSEtJREFBX3l0ZEwxeEJfSkNZcUJyTHRUSnFqNTdCbm5RZ3kxN2VUaGItRFNWS1ZU?oc=5"
     },
     {
-      "title": "Boston Dynamics' Atlas shows off humanlike gymnastic skills - The Korea Herald",
-      "summary": "Atlas机器人展现体操级运动能力，标志人形机器人平衡与灵活性技术获突破，推动服务与救援应用前景。",
+      "title": "The $25 Billion Question: Is Tesla Becoming A Physical AI Company? - BW Auto World",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEZfOGFLcGd1NEdHb1hBYkdnX3NfX19vZXBJc1",
       "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBZak5CRS1BeUV0ZVRNcnVsVERaaVR1Z0pELURtMDZHWlhaRVNkaC12OFN4MTh1VThfekRyZUd5REdvQ1NEeTE3aDd3R2dXdDNFR2lVSHNjWQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEZfOGFLcGd1NEdHb1hBYkdnX3NfX19vZXBJc1lvbWx0RVlZaHowdmk5MXlEdld1YVY1bGh5ZnNxMXR0RXV1TFlfU0RXZjBIci1IU3AtZWY4QWVnejg2eTV4cjBuS2xIcmR2T1Z4ZGtRa2pQWnBNeUtiTmZsNTY4aldVZGlLT25EOUQxZ3hIeHU5Q1FxNGJreXA4WmFMY05KRGNjQQ?oc=5"
     },
     {
-      "title": "Boston Dynamics im Alltag: Leitende gehen, nur 4 Roboter in \"Serienproduktion\" - eu.36kr.com",
-      "summary": "Boston Dynamics高管离职，目前仅4台机器人进入量产阶段，反映人形机器人商业化进程困难重重，行业仍面临技术落地与规模化挑战。",
+      "title": "Hyundai robot performs handstand, complex gymnastics moves - The Boston Globe",
+      "summary": "现代汽车公司旗下机器人展现倒立及复杂体操动作，彰显人形机器人运动控制与平衡能力取得新突破，为服务机器人应用场景拓展提供技术支撑。",
       "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFA5MTlWX3R5U1l1Sm5YZmJHLTVBczVxOXpGbkhFZ0Vmazh6Yko4WFZuWmZ3cGZjTnc0V1ZQLXd0WGRGUnNWSnJlNVcxdzhmNWV1WFdz?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmdyTFJMazQ2bXJhYmwteFgtMUhUdmlfcFNMUFNLbVZrQ2djeWRoa25nS1Y3YnVYRXlheVZTTUF2b2kwZjh5dS1LN0VkU2xHRXh5OUFjdlBSMmZzSFhOc19MV0U5RmpNVVRFMlZIRDQxeGxhaC1oQkVObkIyaGFIZGJLWktuR3Z5aUJFNXNjck1POTNwLXJDYXVsa3RYU0lv?oc=5"
     },
     {
-      "title": "Hyundai Robot Performs Handstand, Complex Gymnastics Moves - Bloomberg",
-      "summary": "现代汽车旗下机器人展示倒立及复杂体操动作，凸显双足机器人动态平衡与运动控制技术突破，推动人形机器人向实用化更进一步。",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOc3RuanRPRk5Wa2tpOEJzQmt0SDBwYjBQQ0pONVlxY0E3YUhOellQYTdNTzVsSjhvVnlkcE5DQUlsWHA1bDFjUmcyTE40LUNLS08wNzNocUtKdUdVclhsOEVIQlNzaVdXdnJtX0NtcXBMVkRPc2U5RjZONzcwLW5xVENPR3N2a09icURPTXdmUUZFb0Z3NHZRVllhamJDTjhfbU5ONlRYTXdjVmxSWGhQQWFn?oc=5"
+      "title": "Boston Dynamics’ Atlas Masters Every Shift in a Demanding Balance Routine - TechEBlog -",
+      "summary": "Boston Dynamics的Atlas机器人展示了高难度动态平衡能力，能够应对多班次轮换 demanding 的工作场景。这一进展凸显了人形机器人在运动控制与自主适应领域的持续突破，为未来工业应用",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2FCV3hTVGJzX1hfbEdaUXJQYWlpLWRVQzIwWkRiYVprTFpLcDRrOW9mc2JsZVd2am9VbkFYN0JmX0FGZWVJOFhZNVc3MVQ4Q1ctcHNGcVd6bFlpN1VLQ3lMa1U5cEZzSWtqaGxQZzRxQ014Y1RMd0x4Vld6aU1NdTZfVQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-06T14:27:56.186928"
+  "updated_at": "2026-05-07T02:58:53.415137"
 }
