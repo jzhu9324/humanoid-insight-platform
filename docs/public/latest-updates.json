@@ -1,14 +1,20 @@
 {
   "papers": [
     {
+      "title": "Multi-Robot Coordination in V2X Environments",
+      "summary": "论文提出基于V2X通信的机器人去中心化协调框架，通过RAS和RMCS两项设施层服务实现多机器人与弱势道路使用者的协同感知和低延迟 maneuver 协调。",
+      "date": "2026-05-07",
+      "link": "http://arxiv.org/abs/2605.06662v1"
+    },
+    {
       "title": "Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking",
-      "summary": "### 现状痛点",
+      "summary": "提出一种近端采用全身详细模型、远端采用单刚体简化模型的级联保真度MPC方法，在acados中用SQP求解实现实时双足行走控制，无需预设足部位置即可优化步态。",
       "date": "2026-05-06",
       "link": "http://arxiv.org/abs/2605.04607v1"
     },
     {
       "title": "Constraint-Enhanced Reinforcement Learning Based on Dynamic Decoupled Spherical Radial Squashing",
-      "summary": "### 现状痛点",
+      "summary": "论文提出DD-SRad方法，通过为每个执行器独立计算位置自适应半径来精确匹配异构关节速率约束（高维盒状可行域），突破传统球形约束的几何失配问题",
       "date": "2026-05-05",
       "link": "http://arxiv.org/abs/2605.04185v1"
     },
@@ -20,49 +26,43 @@
     },
     {
       "title": "Height Control and Optimal Torque Planning for Jumping With Wheeled-Bipedal Robots",
-      "summary": "提出W-JBD动力学模型与BOTP贝叶斯优化转矩规划方法，实现轮式双足机器人的精确跳跃高度控制与能量效率优化。",
+      "summary": "针对轮式双足机器人跳跃高度控制精度不足及能耗过高的问题，提出结合W-JBD动力学模型与贝叶斯优化扭矩规划(BOTP)的方法，实现精确高度控制与能耗优化。",
       "date": "2026-05-05",
       "link": "http://arxiv.org/abs/2605.03302v1"
-    },
-    {
-      "title": "RLDX-1 Technical Report",
-      "summary": "### 现状痛点",
-      "date": "2026-05-05",
-      "link": "http://arxiv.org/abs/2605.03269v2"
     }
   ],
   "companyNews": [
     {
-      "title": "Why Tesla's Optimus Story Is More Promise Than Progress - The Globe and Mail",
-      "summary": "Tesla Optimus机器人目前承诺多、实际进展少，技术成熟度和商业化时间表存疑，反映出人形机器人行业整体仍处于早期研发阶段，面临技术突破和落地应用的挑战。",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS2Zhc0prcktqWEIzWWF1ZEhzQ2xYblpSaWJnTEkyam1WeTYxMjZabktxdUZOamM1akpRNzhaSEZqREVUOThkUER6WnhOZGtHWGVNbXd5SVdQZk1yR2huRVFtNUNfcUlhTGsyWlpBdkoyRE9TM3phcGFzazRQNmdUTkFsLTFYbDVUdVNtbjhIVXF6ZGtwcURvT015VUF1QUhGeEVRc2dGblpBX0JsR2xtOTBxazFsWEpiU0tuci1VMkg4RTBTSzMwbmFFWWNaS29kd2tXUkpB?oc=5"
-    },
-    {
-      "title": "Watch Boston Dynamics’ Atlas humanoid robot amazes with flawless handstand - MSN",
-      "summary": "Boston Dynamics Atlas人形机器人成功完成完美手倒立动作，展示其卓越的平衡控制与运动能力，进一步彰显双足机器人技术的突破性进展，为行业应用开辟新可能。",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMi3AJBVV95cUxNVGdTZ1lfSEh0ZFdvU1ZBbFltZDd2SkZmQUd5SXhjVklIc2RFbFJCTVA1ZmQzY0VELWE2Yi1XSlQtOF94eTNMVDNFRWs1alhacFBjRk9XRXJ5RjNmQVVXQzMzVGp2OEE2N1Z1cVNELWtBRTZLQXFhdHI3Z0JKbnNFbTNMeGViNW95VDlaQlNxU1ljQzRxd2trX1ZlZGZTS0steTJiNi1MWG1aRDdFMUdJNjlzV3Zialg1NnV1cjdyUDNWdmFqQ0N4c1BaNEFSNzQyc2lkZ2QwaVZCVHctdFJwWGhDcEgtaDlfdGlaSE94am84Q2M3R1E0OXJKOVU4LVpub3FhWkQ2NE1raWtPS2RMQ21ROHNiRnp3M3loVVhUWnFTbVdtZUZOYkFSRHdVMWhlZUJFd3hscFdnSmU0dGxiS3VCU0VJWUlLMVNGcDZWdmFiYldaRy1Ob1B5cS0?oc=5"
-    },
-    {
-      "title": "Atlas Robot Nails High-Difficulty Gymnastics Routine - 동아비즈니스리뷰 | DBR",
-      "summary": "Atlas机器人完成高难度体操动作，展示双足机器人运动控制与平衡能力重大突破，推动人形机器人灵活性和实用性的发展。",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1GaTEzWmNlREVqY2JJeld3NDFNcE00b205bVFCei01VnQwWko3MTRGRHhicnZvSEFEUUlzS2pLOS14M2NrQlhHd1Fyd21LcXowV2pFX09FdExWQmZvNXhHVFNB?oc=5"
-    },
-    {
-      "title": "Hyundai Orders \"Tens of Thousands\" of Boston Dynamics Robots for Factory Takeover - Gadget Review",
-      "summary": "现代汽车宣布订购数万台Boston Dynamics机器人用于工厂自动化，标志着人形机器人在工业制造领域首次实现大规模部署。",
+      "title": "Rockwell, Teradyne, Tesla see automation demand despite uncertainty - Manufacturing Dive",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JuZlRSb2lNX1JXRWZ6X3VnZlRsYm5vZ2Q5OE",
       "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWXZocUpBSTQ3eUtkV2YyZF9ISGM2dDNXSllfNVpFek5XTE5EeHFuVURMNXNRVDQ2VXlTLUx3U1kxTE5fMWo0M21IUUxDLTZIejQ4Wm9zMW1MV05RcGhZRGJqbWpIclpidzBpTFBYYXhrSkg2N1B4eU0yR2plSHduSEZnN1NWSGlob0psUk5ueDFqR3hZMVE0TXo0R0FVVEZpbnhkMnlYZXZyTmo1?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JuZlRSb2lNX1JXRWZ6X3VnZlRsYm5vZ2Q5OEZ2aUFIbkNCRHFQX2g2VGM0ZWp4YWJ0ek1ZTHZEQ3NoQWZzQXMyaVNSQ0V3VTBLY213NC1pYktqVkg1QjV3WmgwbDM4eERNSGluYnNqUGVTOXFldFFVU2htSEdqQXJYTDJaWkxsSEtJREFBX3l0ZEwxeEJfSkNZcUJyTHRUSnFqNTdCbm5RZ3kxN2VUaGItRFNWS1ZU?oc=5"
     },
     {
-      "title": "Hyundai shares climb as Atlas video boosts robotics optimism in South Korea - CHOSUNBIZ - Chosunbiz",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUJLcDgzckdyVWF1Y0g3eDR4b3Nna3htQktvYT",
-      "date": "2026-05-07",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQUUJLcDgzckdyVWF1Y0g3eDR4b3Nna3htQktvYTd4SG1HdW9VckZVUEp0cHpDUHB1a3JuY3JSV3RSRDh4VEVMeEwtSjVzeTVNeW8zdFFJZ2Fxal9HQ1NCaTlNRTZLUTlCU2d5Z1hyNXpkSEthdXB3SGhJeGxEeUdLYdIBlAFBVV95cUxOX09qMjE5a0FTQUxudEJJUVA1bDBzTTN1ejJXal95OHRWNjRVNm5iaGRQazdMVVRPN2o0MnUtcGN4eFljUndEd09LM1VQYllsdHBscGN0RVJraGJlb2tNRC15QnlqOUh1S2xJSzRMSUdvQ1h6cDhIYUR3TUhuMVM4MllKU2doanFwRFpZbHM0RE1Ra21W?oc=5"
+      "title": "The $25 Billion Question: Is Tesla Becoming A Physical AI Company? - BW Auto World",
+      "summary": "特斯拉可能投资250亿美元转型为物理AI公司，进军人形机器人领域，行业发展格局或迎重大变革。",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEZfOGFLcGd1NEdHb1hBYkdnX3NfX19vZXBJc1lvbWx0RVlZaHowdmk5MXlEdld1YVY1bGh5ZnNxMXR0RXV1TFlfU0RXZjBIci1IU3AtZWY4QWVnejg2eTV4cjBuS2xIcmR2T1Z4ZGtRa2pQWnBNeUtiTmZsNTY4aldVZGlLT25EOUQxZ3hIeHU5Q1FxNGJreXA4WmFMY05KRGNjQQ?oc=5"
+    },
+    {
+      "title": "Boston Dynamics’ Atlas Masters Every Shift in a Demanding Balance Routine - TechEBlog -",
+      "summary": "**摘要**：Boston Dynamics Atlas机器人成功完成高难度平衡动作连贯演示，彰显人形机器人动态平衡与运动控制技术新",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2FCV3hTVGJzX1hfbEdaUXJQYWlpLWRVQzIwWkRiYVprTFpLcDRrOW9mc2JsZVd2am9VbkFYN0JmX0FGZWVJOFhZNVc3MVQ4Q1ctcHNGcVd6bFlpN1VLQ3lMa1U5cEZzSWtqaGxQZzRxQ014Y1RMd0x4Vld6aU1NdTZfVQ?oc=5"
+    },
+    {
+      "title": "The production version of Boston Dynamic’s Atlas is also impressively agile. - The Verge",
+      "summary": "波士顿动力Atlas机器人已进入生产版本阶段，展示出令人印象深刻的高机动性。此标志着人形机器人从实验室迈向商业化应用的重要里程碑，推动行业向实际部署进一步发展。",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlZPLVJQd1lxU1hjRVdEVE1paFdiVk5JaWw3ek15aHZ5YjdRalc3enlyN010Rm5ja3JkYS1wMm5FTlM5RmpZVmVvZDk5WEFSQ0NGRktPT2J6ekNNWlhGY2pONmxUc2tEWW5rUTU5SDY2TVdnTmtCZ3ZCcXBsLUN1d0NSX0x4M3AxTGZ6aXVnRQ?oc=5"
+    },
+    {
+      "title": "Hyundai robot performs handstand, complex gymnastics moves - The Boston Globe",
+      "summary": "现代汽车发布人形机器人演示手倒立及复杂体操动作，展示其在平衡控制与运动灵活性方面的技术突破，推动行业向高动态运动",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmdyTFJMazQ2bXJhYmwteFgtMUhUdmlfcFNMUFNLbVZrQ2djeWRoa25nS1Y3YnVYRXlheVZTTUF2b2kwZjh5dS1LN0VkU2xHRXh5OUFjdlBSMmZzSFhOc19MV0U5RmpNVVRFMlZIRDQxeGxhaC1oQkVObkIyaGFIZGJLWktuR3Z5aUJFNXNjck1POTNwLXJDYXVsa3RYU0lv?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-07T14:27:26.882749"
+  "updated_at": "2026-05-08T03:01:17.471409"
 }
