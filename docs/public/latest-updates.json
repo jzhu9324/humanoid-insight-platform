@@ -2,67 +2,61 @@
   "papers": [
     {
       "title": "Multi-Robot Coordination in V2X Environments",
-      "summary": "论文提出基于V2X通信的机器人去中心化协调框架，通过RAS和RMCS两项设施层服务实现多机器人与弱势道路使用者的协同感知和低延迟 maneuver 协调。",
+      "summary": "### 现状痛点",
       "date": "2026-05-07",
       "link": "http://arxiv.org/abs/2605.06662v1"
     },
     {
       "title": "Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking",
-      "summary": "提出一种近端采用全身详细模型、远端采用单刚体简化模型的级联保真度MPC方法，在acados中用SQP求解实现实时双足行走控制，无需预设足部位置即可优化步态。",
+      "summary": "论文提出一种级联保真度MPC方法，在近 horizon使用详细全身模型保证控制精度，在远 horizon使用简化单刚体模型降低计算量，实现了双足机器人的实时行走控制。",
       "date": "2026-05-06",
       "link": "http://arxiv.org/abs/2605.04607v1"
     },
     {
       "title": "Constraint-Enhanced Reinforcement Learning Based on Dynamic Decoupled Spherical Radial Squashing",
-      "summary": "论文提出DD-SRad方法，通过为每个执行器独立计算位置自适应半径来精确匹配异构关节速率约束（高维盒状可行域），突破传统球形约束的几何失配问题",
+      "summary": "DD-SRad通过为每个关节独立计算位置自适应半径的球面径向压缩，解决异构执行器速率约束与同构球形近似之间的几何失配问题，实现硬约束满足与零求解器开销的精确策略梯度训练。",
       "date": "2026-05-05",
       "link": "http://arxiv.org/abs/2605.04185v1"
     },
     {
       "title": "BifrostUMI: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation",
-      "summary": "### 现状痛点",
+      "summary": "BifrostUMI是一种无需机器人参与的便携式高效数据采集框架，通过轻量级VR设备捕获人类关键点轨迹和视觉数据，利用策略网络预测和关键点重定向技术将人类演示迁移到人形机器人全身控制中。",
       "date": "2026-05-05",
       "link": "http://arxiv.org/abs/2605.03452v1"
-    },
-    {
-      "title": "Height Control and Optimal Torque Planning for Jumping With Wheeled-Bipedal Robots",
-      "summary": "针对轮式双足机器人跳跃高度控制精度不足及能耗过高的问题，提出结合W-JBD动力学模型与贝叶斯优化扭矩规划(BOTP)的方法，实现精确高度控制与能耗优化。",
-      "date": "2026-05-05",
-      "link": "http://arxiv.org/abs/2605.03302v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Elon Musk halts Tesla and invests 25 billion in Optimus robot - modernetdigital.cat",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1lZcm96VWRDY3hqdUpSdWlId2VTVXdjeHFtSG",
-      "date": "2026-05-07",
-      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPc1lZcm96VWRDY3hqdUpSdWlId2VTVXdjeHFtSGxQYkhiV0FncmNFLXJVQVhOd1d2RlFlZ2Z6MTVaQUNBcFgwRVJjLWlfbzl1Vi1MaWlHY2xSell3OENWWlZWVDAyb3RkU1dXNVB3SEtSZ1MwRmxLZDM2cjBBX0ZFNjNrUzFVX2tsUXUyX3g1b3VMVG9zdmxYaHo4Q0xTM3Q1dzc4UXI4ckhzVFptOF9UektHUU1WVXZtdVVsVGMzUVFrMkR2Z2Q2TF9oRnZYeERVSWZLRzR3X00?oc=5"
-    },
-    {
-      "title": "Hyundai humanoid robot Atlas performs handstand, gymnastics skills - VnExpress International",
-      "summary": "Hyundai旗下Boston Dynamics的Atlas机器人展示了手倒立等高难度体操动作，体现了人形机器人在动态平衡、运动控制和灵活性方面的技术突破，为行业树立新的技术标杆。",
+      "title": "The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More - TechRepublic",
+      "summary": "该新闻报道了TechRepublic发布的人形机器人Top 10排名榜单，重点提及Tesla和Unitree等行业领军企业。这反映了人形机器人市场竞争加剧，各企业在技术商业化进程中的排名受到业界关注。",
       "date": "2026-05-08",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOSkZ3NDE3dWNOTF9MVUEyYU1kYm1DN1RZdnFOblFnMDJhNnFZSVdVVzByUXBpRGItQy02d1VJVFZnNGhYSVMzazlJQk5NaFJ4SXVUNkN6cFhSdzVpM050V2FVd0QwWFp2NlMxN0ttRUZEUXhTWWU5eExocnd6TDZMOEdseTc2Y2Q5cjZaZy04OXh5eXUxSFVpODV6cF9pODMzQUlpOEMwS3B3MThXVEUxbTlrOHNfbGFCSUhlOC04NA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmNvcXVRVmZBMS1jMXBtRkZfM195NjZuLWNuR1B2b2YxQ05WZU9PN0V6ZEdkNTAzWlg5eHY0ZG9iS0dTSEI1SzZJa3A5UXFDb1hobWxzNGlVMXBQbVIyMWlBUWdZSmVfd0xKbllISllsWmxGcGRRd3U4VVp5NzJyaHVTVQ?oc=5"
     },
     {
-      "title": "Hyundai AutoEver Soars to Daily Limit on Atlas Humanoid Robot Expectations - Seoul Economic Daily",
-      "summary": "Hyundai旗下AutoEver因市场对人形机器人Atlas的商业化期待，股价涨停。反映资本市场对人形",
-      "date": "2026-05-08",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNdjluS0l4REY3RTAyWERmR2lTOUtKdUZOUm1wTnROMG9vMXZORFZXNHNtR3RaZFVlOWR0TmFNa2FVYUM3Tlk3bFpXb0ZKN0ZCTVNCV3JRNkZQTmtCaDZwTngzMVMwSlV6X0ViMXlCRFdCV0ZzbkV5V3ppamdqNXNyWFNOZmNKSWt2TmFZLW9kajVVOTlVWGIyR1BuNFdYZw?oc=5"
-    },
-    {
-      "title": "Figure AI Stock: From Prototype to IPO? - Access IPOs",
-      "summary": "Figure AI正从原型阶段推进至IPO阶段，反映出人形机器人商业化进程加速，对行业估值和投资者信心具有重要意义。",
+      "title": "Rockwell, Teradyne, Tesla see automation demand despite uncertainty - Manufacturing Dive",
+      "summary": "尽管经济不确定，Rockwell、Teradyne、Tesla等头部企业自动化需求仍保持强劲，表明人形机器人在",
       "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE04dUZoRTEwUHRKbHhueWN0OXVIRjlhY0MycWJ5VGc2WTFNUlVWcjBaWEN0alRWZXNkZ1dIMkFBRjBZbUhIWmJ1MWREeHVjbXZxd2U2ZHF3?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JuZlRSb2lNX1JXRWZ6X3VnZlRsYm5vZ2Q5OEZ2aUFIbkNCRHFQX2g2VGM0ZWp4YWJ0ek1ZTHZEQ3NoQWZzQXMyaVNSQ0V3VTBLY213NC1pYktqVkg1QjV3WmgwbDM4eERNSGluYnNqUGVTOXFldFFVU2htSEdqQXJYTDJaWkxsSEtJREFBX3l0ZEwxeEJfSkNZcUJyTHRUSnFqNTdCbm5RZ3kxN2VUaGItRFNWS1ZU?oc=5"
     },
     {
-      "title": "Unitree confirms with GT after its G1 humanoid robot reportedly ordained as Buddhist monk in S. Korea; netizens call it ‘cyberpunk’ as robot expands real-world applications - Global Times",
-      "summary": "Unitree G1机器人在韩国被“授予”佛教僧侣称号，引发网民“赛博朋克”热议。此事件彰显人形机器人正跨界进入宗教服务等现实应用领域，拓展商业化想象空间。",
-      "date": "2026-05-08",
-      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE0zTV9WM3B6MERKYV9IYlY1SzlEX29LaEJ5dVg2NDI3RVJHb1FMZ0FINnJ5WENXN2QtY2dIV2tObmwwR3RwNk9FcGtwdllzOW9saW9KODRJclNkYkdzaTRSWF93?oc=5"
+      "title": "The $25 Billion Question: Is Tesla Becoming A Physical AI Company? - BW Auto World",
+      "summary": "特斯拉250亿美元投入物理AI领域，加速Optimus人形机器人研发进程，标志其从车企向智能机器人公司战略转型。",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVEZfOGFLcGd1NEdHb1hBYkdnX3NfX19vZXBJc1lvbWx0RVlZaHowdmk5MXlEdld1YVY1bGh5ZnNxMXR0RXV1TFlfU0RXZjBIci1IU3AtZWY4QWVnejg2eTV4cjBuS2xIcmR2T1Z4ZGtRa2pQWnBNeUtiTmZsNTY4aldVZGlLT25EOUQxZ3hIeHU5Q1FxNGJreXA4WmFMY05KRGNjQQ?oc=5"
+    },
+    {
+      "title": "Hyundai robot performs handstand, complex gymnastics moves - The Boston Globe",
+      "summary": "现代汽车公司的人形机器人完成倒立及复杂体操动作，展现双足机器人运动控制与平衡能力的新突破，为未来服务及救援机器人应用奠定技术基础。",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmdyTFJMazQ2bXJhYmwteFgtMUhUdmlfcFNMUFNLbVZrQ2djeWRoa25nS1Y3YnVYRXlheVZTTUF2b2kwZjh5dS1LN0VkU2xHRXh5OUFjdlBSMmZzSFhOc19MV0U5RmpNVVRFMlZIRDQxeGxhaC1oQkVObkIyaGFIZGJLWktuR3Z5aUJFNXNjck1POTNwLXJDYXVsa3RYU0lv?oc=5"
+    },
+    {
+      "title": "Boston Dynamics’ Atlas Masters Every Shift in a Demanding Balance Routine - TechEBlog -",
+      "summary": "Atlas机器人掌握高难度平衡动作，展现人形机器人运动控制新突破，标志行业动态平衡技术进一步成熟。",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2FCV3hTVGJzX1hfbEdaUXJQYWlpLWRVQzIwWkRiYVprTFpLcDRrOW9mc2JsZVd2am9VbkFYN0JmX0FGZWVJOFhZNVc3MVQ4Q1ctcHNGcVd6bFlpN1VLQ3lMa1U5cEZzSWtqaGxQZzRxQ014Y1RMd0x4Vld6aU1NdTZfVQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-08T14:02:38.684628"
+  "updated_at": "2026-05-09T02:56:22.901465"
 }
