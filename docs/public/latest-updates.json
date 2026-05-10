@@ -8,55 +8,43 @@
     },
     {
       "title": "Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking",
-      "summary": "论文提出一种级联保真度MPC方法，在近 horizon使用详细全身模型保证控制精度，在远 horizon使用简化单刚体模型降低计算量，实现了双足机器人的实时行走控制。",
+      "summary": "论文提出了一种近 horizon 使用全身动力学模型、远 horizon 使用简化单刚体模型的级联保真度 MPC 方法，在保证控制精度的同时实现双足机器人的实时步行控制。",
       "date": "2026-05-06",
       "link": "http://arxiv.org/abs/2605.04607v1"
-    },
-    {
-      "title": "Constraint-Enhanced Reinforcement Learning Based on Dynamic Decoupled Spherical Radial Squashing",
-      "summary": "DD-SRad通过为每个关节独立计算位置自适应半径的球面径向压缩，解决异构执行器速率约束与同构球形近似之间的几何失配问题，实现硬约束满足与零求解器开销的精确策略梯度训练。",
-      "date": "2026-05-05",
-      "link": "http://arxiv.org/abs/2605.04185v1"
-    },
-    {
-      "title": "BifrostUMI: Bridging Robot-Free Demonstrations and Humanoid Whole-Body Manipulation",
-      "summary": "BifrostUMI是一种无需机器人参与的便携式高效数据采集框架，通过轻量级VR设备捕获人类关键点轨迹和视觉数据，利用策略网络预测和关键点重定向技术将人类演示迁移到人形机器人全身控制中。",
-      "date": "2026-05-05",
-      "link": "http://arxiv.org/abs/2605.03452v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Figure AI's robots can make a bed faster than you - Business Insider",
-      "summary": "Figure AI发布的人形机器人已能独立完成铺床等日常家务，执行效率超过人类。该进展标志着家用服务机器人技术进入实用化阶段，将加速人形",
-      "date": "2026-05-09",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEVMNU1qbE9OQ0w0WndnM1ZfZjZoRjdnQ0gyNU9STWxQY2ZnMS1uTWl1UTlRRV9NQVpDclJYNFpRQXZqZGN5MlRmWm5IcVQ1RjZpUE56NExyd3NzYnhLUTFNSklrOGFLcmV5V1ZWd3l1eXFjRkJmNnBGYXBMaFhieEozWjlPWXFFM0E?oc=5"
+      "title": "Rockwell, Teradyne, Tesla see automation demand despite uncertainty - Manufacturing Dive",
+      "summary": "尽管经济不确定性，Rockwell、Teradyne等自动化供应商与Tesla的机器人需求依然强劲，表明人形机器人市场仍有增长潜力。",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JuZlRSb2lNX1JXRWZ6X3VnZlRsYm5vZ2Q5OEZ2aUFIbkNCRHFQX2g2VGM0ZWp4YWJ0ek1ZTHZEQ3NoQWZzQXMyaVNSQ0V3VTBLY213NC1pYktqVkg1QjV3WmgwbDM4eERNSGluYnNqUGVTOXFldFFVU2htSEdqQXJYTDJaWkxsSEtJREFBX3l0ZEwxeEJfSkNZcUJyTHRUSnFqNTdCbm5RZ3kxN2VUaGItRFNWS1ZU?oc=5"
     },
     {
-      "title": "Tesla's Optimus Robot Busts Ballet Moves In Viral Video: WATCH - MSN",
-      "summary": "Tesla Optimus机器人展示芭蕾舞动作的视频走红，展示精细运动控制能力，提升公众对人形机器人兴趣，推动行业向消费级应用发展。",
-      "date": "2026-05-08",
-      "link": "https://news.google.com/rss/articles/CBMixgJBVV95cUxNbmQyZ2UxR254MjA5b25JbHZBX01fMU9WMGp6RkpnaFhEM2lNcFlLdmVvaXlmalNHSS1rcDZITjBwVG1vNjlLZEE4blI0YloyYkVrTDZEelhYbzc1UC1wT1ROeHFaSGtPV2xSRk5GQ0Z2LU03VWhYbUp3NmVTVGx1bWRsWVFXWFpSZ0owbWhoUkMxR2JjenA4MGdJTkstbHlMUDdaMllDaWxiNHYwMDhyWjNzZjJYbzFGc2JONzgxUEVSdDVfcl80VV9WOGpIUl9GLUM0T25ZUDFrMk9jN2pRMXNSU3R0SEFBZm9QdEhmR2h5MHVicFY0N3o3elo4TDdrNkNQRGpmeUlMOXBGc0VQbk02QzBXSmlwRE9FOEp1WFg0cUpzMzZzOHRhdDBQMURxcnZnTC1iWVluYU05dmdvMWNpQzFfQQ?oc=5"
+      "title": "The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More - TechRepublic",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmNvcXVRVmZBMS1jMXBtRkZfM195NjZuLWNuR1",
+      "date": "2026-05-09",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmNvcXVRVmZBMS1jMXBtRkZfM195NjZuLWNuR1B2b2YxQ05WZU9PN0V6ZEdkNTAzWlg5eHY0ZG9iS0dTSEI1SzZJa3A5UXFDb1hobWxzNGlVMXBQbVIyMWlBUWdZSmVfd0xKbllISllsWmxGcGRRd3U4VVp5NzJyaHVTVQ?oc=5"
     },
     {
-      "title": "The Boston Dynamics robot performed tricks beyond human capabilities - hi-Tech.ua",
-      "summary": "Boston Dynamics机器人展示超越人体极限的技巧动作，彰显运动控制技术突破，为工业巡检、救援等场景应用开辟新可能。",
-      "date": "2026-05-09",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOTk43MHA0U0dyaWdjWVNkWjdudXJ2d2hSRy1PLTcyTVI2WFpzcC1Jc3VWZDN1Z1J4Zjl6bWFnYjRycWtteGtBT3RzaW5JSWZNUHNhRmttaFNDdC1fU0NvU2NmUFA0Qm5fWXAwY2djcFRfem1qaHBNdG1nSldodUFXQXA0aE82LXRRYWNkUDU5cDZjcTVLS0E?oc=5"
+      "title": "Boston Dynamics’ Atlas Masters Every Shift in a Demanding Balance Routine - TechEBlog -",
+      "summary": "Boston Dynamics的Atlas机器人展示了在高难度平衡动作中的卓越控制能力，彰显人形机器人运动技术的突破性进展，为行业商业化",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2FCV3hTVGJzX1hfbEdaUXJQYWlpLWRVQzIwWkRiYVprTFpLcDRrOW9mc2JsZVd2am9VbkFYN0JmX0FGZWVJOFhZNVc3MVQ4Q1ctcHNGcVd6bFlpN1VLQ3lMa1U5cEZzSWtqaGxQZzRxQ014Y1RMd0x4Vld6aU1NdTZfVQ?oc=5"
     },
     {
-      "title": "Figure AI's robots can make a bed faster than you - Business Insider",
-      "summary": "Figure AI人形机器人展示叠",
-      "date": "2026-05-09",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOUEVMNU1qbE9OQ0w0WndnM1ZfZjZoRjdnQ0gyNU9STWxQY2ZnMS1uTWl1UTlRRV9NQVpDclJYNFpRQXZqZGN5MlRmWm5IcVQ1RjZpUE56NExyd3NzYnhLUTFNSklrOGFLcmV5V1ZWd3l1eXFjRkJmNnBGYXBMaFhieEozWjlPWXFFM0E?oc=5"
+      "title": "Hyundai robot performs handstand, complex gymnastics moves - The Boston Globe",
+      "summary": "Hyundai展示的人形机器人完成手倒立及复杂体操动作，标志着双足机器人在动态平衡与精细运动控制领域取得突破，推动行业向高运动性能应用发展。",
+      "date": "2026-05-06",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmdyTFJMazQ2bXJhYmwteFgtMUhUdmlfcFNMUFNLbVZrQ2djeWRoa25nS1Y3YnVYRXlheVZTTUF2b2kwZjh5dS1LN0VkU2xHRXh5OUFjdlBSMmZzSFhOc19MV0U5RmpNVVRFMlZIRDQxeGxhaC1oQkVObkIyaGFIZGJLWktuR3Z5aUJFNXNjck1POTNwLXJDYXVsa3RYU0lv?oc=5"
     },
     {
-      "title": "Figure AI Demonstrates Humanoid Robots Making a Bed - Let's Data Science",
-      "summary": "Figure AI展示人形机器人自主整理床铺的能力，验证了双足机器人在日常家务场景中的实用性和精确操作水平，推动家用服务机器人技术再进一步。",
-      "date": "2026-05-09",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQa1hScVdBSWNVMGdoQzFBQU5XUWgydG5PQ1BKQ1VpVFB5aWN4TDdEbURpQkxURkZTVHBQWnZYc2hSRTVDWjF5ckxFQWw5cXVQTzE3cjlWZlRtVWhrdGxKendyMTB5ZDhqd2pUdWRCOHhXQ003TURjS19wT200WGRCZFI5QzZhMXdnWWNsNWlUejZid3U4ZFhxNA?oc=5"
+      "title": "The production version of Boston Dynamic’s Atlas is also impressively agile. - The Verge",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlZPLVJQd1lxU1hjRVdEVE1paFdiVk5JaWw3ek",
+      "date": "2026-05-05",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlZPLVJQd1lxU1hjRVdEVE1paFdiVk5JaWw3ek15aHZ5YjdRalc3enlyN010Rm5ja3JkYS1wMm5FTlM5RmpZVmVvZDk5WEFSQ0NGRktPT2J6ekNNWlhGY2pONmxUc2tEWW5rUTU5SDY2TVdnTmtCZ3ZCcXBsLUN1d0NSX0x4M3AxTGZ6aXVnRQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-09T13:27:40.380303"
+  "updated_at": "2026-05-10T03:27:36.958969"
 }
