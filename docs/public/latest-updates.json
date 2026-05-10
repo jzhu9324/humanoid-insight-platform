@@ -15,36 +15,36 @@
   ],
   "companyNews": [
     {
-      "title": "Rockwell, Teradyne, Tesla see automation demand despite uncertainty - Manufacturing Dive",
-      "summary": "尽管经济不确定性，Rockwell、Teradyne等自动化供应商与Tesla的机器人需求依然强劲，表明人形机器人市场仍有增长潜力。",
-      "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOd1JuZlRSb2lNX1JXRWZ6X3VnZlRsYm5vZ2Q5OEZ2aUFIbkNCRHFQX2g2VGM0ZWp4YWJ0ek1ZTHZEQ3NoQWZzQXMyaVNSQ0V3VTBLY213NC1pYktqVkg1QjV3WmgwbDM4eERNSGluYnNqUGVTOXFldFFVU2htSEdqQXJYTDJaWkxsSEtJREFBX3l0ZEwxeEJfSkNZcUJyTHRUSnFqNTdCbm5RZ3kxN2VUaGItRFNWS1ZU?oc=5"
+      "title": "How to engineer robot tracks and 7th axis systems for real-world environments",
+      "summary": "该新闻介绍了为真实环境设计机器人轨道和第七轴系统的工程方法，聚焦于提升人形机器人在复杂环境中的移动性、系统集成与作业能力，对推进行业实际应用具有参考价值。",
+      "date": "2026-05-10",
+      "link": "https://www.therobotreport.com/how-to-engineer-robot-tracks-7th-axis-systems-real-world-environments/"
     },
     {
-      "title": "The Top 10 Humanoid Robots, Ranked: Tesla, Unitree, and More - TechRepublic",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmNvcXVRVmZBMS1jMXBtRkZfM195NjZuLWNuR1",
-      "date": "2026-05-09",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYmNvcXVRVmZBMS1jMXBtRkZfM195NjZuLWNuR1B2b2YxQ05WZU9PN0V6ZEdkNTAzWlg5eHY0ZG9iS0dTSEI1SzZJa3A5UXFDb1hobWxzNGlVMXBQbVIyMWlBUWdZSmVfd0xKbllISllsWmxGcGRRd3U4VVp5NzJyaHVTVQ?oc=5"
+      "title": "How to engineer robot tracks and 7th axis systems for real-world environments",
+      "summary": "这条新闻探讨了如何为机器人设计轨道和第七轴系统，以适应真实环境中的应用。对人形机器人行业而言，这意味着在工业和服务场景中的运动灵活性和作业范围将得到显著提升。",
+      "date": "2026-05-10",
+      "link": "https://www.therobotreport.com/how-to-engineer-robot-tracks-7th-axis-systems-real-world-environments/"
     },
     {
-      "title": "Boston Dynamics’ Atlas Masters Every Shift in a Demanding Balance Routine - TechEBlog -",
-      "summary": "Boston Dynamics的Atlas机器人展示了在高难度平衡动作中的卓越控制能力，彰显人形机器人运动技术的突破性进展，为行业商业化",
-      "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNY2FCV3hTVGJzX1hfbEdaUXJQYWlpLWRVQzIwWkRiYVprTFpLcDRrOW9mc2JsZVd2am9VbkFYN0JmX0FGZWVJOFhZNVc3MVQ4Q1ctcHNGcVd6bFlpN1VLQ3lMa1U5cEZzSWtqaGxQZzRxQ014Y1RMd0x4Vld6aU1NdTZfVQ?oc=5"
+      "title": "Bimo’s walking model now runs natively on a Raspberry Pi Pico at 5ms inference time!",
+      "summary": "Bimo行走模型可在Raspberry Pi Pico上原生运行，推理时间低至5毫秒。这或将推动低成本小型人形机器人的实时步行控制普及。",
+      "date": "2026-05-10",
+      "link": "https://www.reddit.com/r/robotics/comments/1t968vj/bimos_walking_model_now_runs_natively_on_a/"
     },
     {
-      "title": "Hyundai robot performs handstand, complex gymnastics moves - The Boston Globe",
-      "summary": "Hyundai展示的人形机器人完成手倒立及复杂体操动作，标志着双足机器人在动态平衡与精细运动控制领域取得突破，推动行业向高运动性能应用发展。",
-      "date": "2026-05-06",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNbmdyTFJMazQ2bXJhYmwteFgtMUhUdmlfcFNMUFNLbVZrQ2djeWRoa25nS1Y3YnVYRXlheVZTTUF2b2kwZjh5dS1LN0VkU2xHRXh5OUFjdlBSMmZzSFhOc19MV0U5RmpNVVRFMlZIRDQxeGxhaC1oQkVObkIyaGFIZGJLWktuR3Z5aUJFNXNjck1POTNwLXJDYXVsa3RYU0lv?oc=5"
+      "title": "Custom Robotics Simulator focused on a drag-and-drop prefab workflow.",
+      "summary": "**关键信息：** 一款支持拖放式预制件工作流的定制机器人仿真器发布，旨在简化机器人软件开发与测试流程。",
+      "date": "2026-05-10",
+      "link": "https://www.reddit.com/r/robotics/comments/1t8ycyd/custom_robotics_simulator_focused_on_a/"
     },
     {
-      "title": "The production version of Boston Dynamic’s Atlas is also impressively agile. - The Verge",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlZPLVJQd1lxU1hjRVdEVE1paFdiVk5JaWw3ek",
-      "date": "2026-05-05",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQSlZPLVJQd1lxU1hjRVdEVE1paFdiVk5JaWw3ek15aHZ5YjdRalc3enlyN010Rm5ja3JkYS1wMm5FTlM5RmpZVmVvZDk5WEFSQ0NGRktPT2J6ekNNWlhGY2pONmxUc2tEWW5rUTU5SDY2TVdnTmtCZ3ZCcXBsLUN1d0NSX0x4M3AxTGZ6aXVnRQ?oc=5"
+      "title": "Convex MPC for humanoid locomotion",
+      "summary": "该研究提出凸模型预测控制（Convex MPC）方法用于人形机器人 locomotion，能够实现更稳定、高效的双足步行运动控制。这一进展有望推动人形机器人在复杂地形行走能力的发展，加速行业实际应用落",
+      "date": "2026-05-10",
+      "link": "https://www.reddit.com/r/robotics/comments/1t8wteh/convex_mpc_for_humanoid_locomotion/"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-10T03:27:36.958969"
+  "updated_at": "2026-05-10T13:41:29.018484"
 }
