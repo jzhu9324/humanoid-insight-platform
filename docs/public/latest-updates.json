@@ -2,49 +2,43 @@
   "papers": [
     {
       "title": "Multi-Robot Coordination in V2X Environments",
-      "summary": "### 现状痛点",
+      "summary": "该论文提出基于V2X的Multi-Robot协调框架，通过RAS和RMCS两个设施层服务实现去中心化多机器人协作，并整合脆弱道路用户（VRU）。",
       "date": "2026-05-07",
       "link": "http://arxiv.org/abs/2605.06662v1"
-    },
-    {
-      "title": "Right Model, Right Time: Real-Time Cascaded-Fidelity MPC for Bipedal Walking",
-      "summary": "论文提出了一种近 horizon 使用全身动力学模型、远 horizon 使用简化单刚体模型的级联保真度 MPC 方法，在保证控制精度的同时实现双足机器人的实时步行控制。",
-      "date": "2026-05-06",
-      "link": "http://arxiv.org/abs/2605.04607v1"
     }
   ],
   "companyNews": [
     {
-      "title": "How to engineer robot tracks and 7th axis systems for real-world environments",
-      "summary": "该新闻介绍了为真实环境设计机器人轨道和第七轴系统的工程方法，聚焦于提升人形机器人在复杂环境中的移动性、系统集成与作业能力，对推进行业实际应用具有参考价值。",
-      "date": "2026-05-10",
-      "link": "https://www.therobotreport.com/how-to-engineer-robot-tracks-7th-axis-systems-real-world-environments/"
+      "title": "Video Friday: AI Gives Robot Hands Human-Like Dexterity",
+      "summary": "AI技术实现机器人手具备人类般精细操作能力，显著提升人形机器人在服务、执行复杂任务时的实用性与适应性。",
+      "date": "2026-05-09",
+      "link": "https://spectrum.ieee.org/video-friday-robotic-hand-dexterity"
     },
     {
-      "title": "How to engineer robot tracks and 7th axis systems for real-world environments",
-      "summary": "这条新闻探讨了如何为机器人设计轨道和第七轴系统，以适应真实环境中的应用。对人形机器人行业而言，这意味着在工业和服务场景中的运动灵活性和作业范围将得到显著提升。",
-      "date": "2026-05-10",
-      "link": "https://www.therobotreport.com/how-to-engineer-robot-tracks-7th-axis-systems-real-world-environments/"
+      "title": "Why traditional robotics data collection is obsolete and what replaces it",
+      "summary": "传统机器人数据收集方法已过时，新一代数据收集技术正兴起，这对提升人形机器人的学习效率和适应性具有重要意义。",
+      "date": "2026-05-08",
+      "link": "https://www.therobotreport.com/why-traditional-robotics-data-collection-is-obsolete-and-what-replaces-it/"
     },
     {
-      "title": "Bimo’s walking model now runs natively on a Raspberry Pi Pico at 5ms inference time!",
-      "summary": "Bimo行走模型可在Raspberry Pi Pico上原生运行，推理时间低至5毫秒。这或将推动低成本小型人形机器人的实时步行控制普及。",
-      "date": "2026-05-10",
-      "link": "https://www.reddit.com/r/robotics/comments/1t968vj/bimos_walking_model_now_runs_natively_on_a/"
+      "title": "Learn how to successfully design hospital logistics robots at the Robotics Summit",
+      "summary": "",
+      "date": "2026-05-08",
+      "link": "https://www.therobotreport.com/learn-how-to-successfully-design-hospital-logistics-robots-2026-robotics-summit/"
     },
     {
-      "title": "Custom Robotics Simulator focused on a drag-and-drop prefab workflow.",
-      "summary": "**关键信息：** 一款支持拖放式预制件工作流的定制机器人仿真器发布，旨在简化机器人软件开发与测试流程。",
-      "date": "2026-05-10",
-      "link": "https://www.reddit.com/r/robotics/comments/1t8ycyd/custom_robotics_simulator_focused_on_a/"
+      "title": "Nyobolt raises funding to bring fast charging to more robots",
+      "summary": "Nyobolt获融资将快速充电技术引入更多机器人，解决人形机器人续航与充电效率痛点，促进行业商业化落地。",
+      "date": "2026-05-08",
+      "link": "https://www.therobotreport.com/nyobolt-raises-funding-bring-fast-charging-more-robots/"
     },
     {
-      "title": "Convex MPC for humanoid locomotion",
-      "summary": "该研究提出凸模型预测控制（Convex MPC）方法用于人形机器人 locomotion，能够实现更稳定、高效的双足步行运动控制。这一进展有望推动人形机器人在复杂地形行走能力的发展，加速行业实际应用落",
-      "date": "2026-05-10",
-      "link": "https://www.reddit.com/r/robotics/comments/1t8wteh/convex_mpc_for_humanoid_locomotion/"
+      "title": "How coupling stiffness and misalignment compensation impact servo performance",
+      "summary": "该新闻探讨联轴器刚度和不对中补偿对伺服系统性能的影响，强调优化这些参数可提升运动精度和可靠性。对人形机器人行业意义重大，因为高精度关节驱动是实现稳定行走和精细操作的关键技术。",
+      "date": "2026-05-08",
+      "link": "https://www.therobotreport.com/how-coupling-stiffness-and-misalignment-compensation-impact-servo-performance/"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-10T13:41:29.018484"
+  "updated_at": "2026-05-11T03:39:55.376749"
 }
