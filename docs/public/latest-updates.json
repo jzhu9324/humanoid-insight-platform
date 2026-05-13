@@ -1,44 +1,62 @@
 {
   "papers": [
     {
-      "title": "Multi-Robot Coordination in V2X Environments",
-      "summary": "该论文提出基于V2X的Multi-Robot协调框架，通过RAS和RMCS两个设施层服务实现去中心化多机器人协作，并整合脆弱道路用户（VRU）。",
-      "date": "2026-05-07",
-      "link": "http://arxiv.org/abs/2605.06662v1"
+      "title": "Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation",
+      "summary": "该论文提出了一种基于IMU动作捕捉的实时全身人形机器人遥操作系统，实现了从模拟验证到真实平台的无缝迁移。",
+      "date": "2026-05-12",
+      "link": "http://arxiv.org/abs/2605.12347v1"
+    },
+    {
+      "title": "Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation",
+      "summary": "提出一种融合基础设施视觉与V2X通信的协作人形机器人，通过主动阻止车辆防止NLOS路口碰撞，突破传统V2X无法影响未联网车辆的局限。",
+      "date": "2026-05-12",
+      "link": "http://arxiv.org/abs/2605.11972v1"
+    },
+    {
+      "title": "Mapping Embodied Affective Touch Strategies on a Humanoid Robot",
+      "summary": "### 现状痛点",
+      "date": "2026-05-12",
+      "link": "http://arxiv.org/abs/2605.11825v1"
+    },
+    {
+      "title": "Explicit Stair Geometry Conditioning for Robust Humanoid Locomotion",
+      "summary": "论文提出将楼梯的可解释几何参数（步高、步深、偏航角）作为显式条件输入PPO策略，实现对人形机器人楼梯攀爬的主动控制和泛化能力的显著提升。",
+      "date": "2026-05-11",
+      "link": "http://arxiv.org/abs/2605.09944v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Best Robotics Developments in AI Integration - Analytics Insight",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZTVQWURLbG1RVnR2UWUzeTEzV29SX3pMU0xBTU",
+      "title": "Elon Musk Sees $15 Trillion Optimus Upside — Tesla Investors Could Get A Piece For 'Free' - Benzinga",
+      "summary": "Elon Musk预测Optimus机器人将带来15万亿美元价值，可能给投资者提供免费份额。这表明特斯拉对人形机器人商业化前景高度乐观，或将推动行业加速发展。",
       "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTVQWURLbG1RVnR2UWUzeTEzV29SX3pMU0xBTU5Hc2ZsTGFETWhlenRUd2doYTk3WFVHZTZPQlJxWXVReDFNWUItZjJBN2VlZGlwYkpqOTZqYVpwaWpVRFlzYkRiTDByV1BJM2JDYUhoNUQwZm9jODlLZWlRTUZ5VlFLdkRlTkJQZnNqbi1nWHZWbkszQ2N1VFROeVFSQdIBngFBVV95cUxOZTVQWURLbG1RVnR2UWUzeTEzV29SX3pMU0xBTU5Hc2ZsTGFETWhlenRUd2doYTk3WFVHZTZPQlJxWXVReDFNWUItZjJBN2VlZGlwYkpqOTZqYVpwaWpVRFlzYkRiTDByV1BJM2JDYUhoNUQwZm9jODlLZWlRTUZ5VlFLdkRlTkJQZnNqbi1nWHZWbkszQ2N1VFROeVFSQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTWpkOW11eDFmV0I5cDZvaDlYMEJxZkJpcHVFOVdJbW9QeWQ4Sjh1OV95Tlh2bE1KcVNXSUhYTXctVXA4dWJvbHI4dkdETllZcmllaUI5cWdlal9uOUZocWpsV29kV0V5TnRacjM0M1Fxd3lOaXhSQXF5MXYyLUlzd1V6T1ZEYkUwdmh4cndnLWF0QW1UUXdOMU9kSnlnb21LcHZ2czdBbFQtRWtfMlhRMC1FTUlJeU9oemdBODg4bDJURjl6U3owUjI0d0pBQmpsREtpSi1iZVNuaXhSNzRPRkU4RGozZDBqM0x1RWFWS2R6UQ?oc=5"
     },
     {
-      "title": "1 Robot Every Hour Figure AI Is Scaling Faster Than Expected (sVQ0r7XHSe) - fathomjournal.org",
-      "summary": "Figure AI实现每小时生产1台机器人，增速超预期。这标志人形机器人制造进入规模化阶段，加速行业从研发向量产过渡。",
-      "date": "2026-05-10",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBmbHBQU3Z4MFhSODMwMDRTelRBaENBVmItSy1mSkF2RzJ6c2h5aXBNdEV6ZHVEcFcxN1VXN040Si04SHhSMjZNdHd2NnBySnVVNDVLamV1MmRyUUN0OFBMZmNWM1NVR295cExiY3FoRW1BeWdaYnc?oc=5"
-    },
-    {
-      "title": "Best Robotics Developments in AI Integration - Analytics Insight",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOZTVQWURLbG1RVnR2UWUzeTEzV29SX3pMU0xBTU",
+      "title": "Is Tesla Giving Away Its Robot Business for Free? One Wall Street Analyst Thinks So - AOL.com",
+      "summary": "华尔街分析师质疑Tesla可能免费开放机器人业务，此举或将重塑行业竞争格局，加速人形机器人应用普及。",
       "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTVQWURLbG1RVnR2UWUzeTEzV29SX3pMU0xBTU5Hc2ZsTGFETWhlenRUd2doYTk3WFVHZTZPQlJxWXVReDFNWUItZjJBN2VlZGlwYkpqOTZqYVpwaWpVRFlzYkRiTDByV1BJM2JDYUhoNUQwZm9jODlLZWlRTUZ5VlFLdkRlTkJQZnNqbi1nWHZWbkszQ2N1VFROeVFSQdIBngFBVV95cUxOZTVQWURLbG1RVnR2UWUzeTEzV29SX3pMU0xBTU5Hc2ZsTGFETWhlenRUd2doYTk3WFVHZTZPQlJxWXVReDFNWUItZjJBN2VlZGlwYkpqOTZqYVpwaWpVRFlzYkRiTDByV1BJM2JDYUhoNUQwZm9jODlLZWlRTUZ5VlFLdkRlTkJQZnNqbi1nWHZWbkszQ2N1VFROeVFSQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGtOYjJCaEFUdlVzY1RPczU3eDRtbVBnNGRkUnJicEY4SWJtcmdlS21ycWdTbmI0TjdSeVlVWFhYU0xfVU9tazlpQnAyTGVYZUJ5UFhYTEQ1QndQVEJmT3p2c3VRZy0zQnJpcHJLbzcxVVNlRlkwSFl1RjI4c25CbmVn?oc=5"
     },
     {
-      "title": "Meet the Figure AI humanoid that can fold laundry, clean rooms and make beds - MSN",
-      "summary": "Figure AI发布能做家务的人形机器人，可折叠衣物、清洁房间、整理床铺，标志着人形机器人向家庭服务场景落地，对家用服务机器人发展具有",
-      "date": "2026-05-09",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanNhVXNiQ2pKVHJQZnQwb1JaRmpDdk5MZzRxLVl6WmVtVk4zWjBROW1KTG9WQjcwQnFYNmJjYzE0Uy1Wb2R5b2xTRUdrSk5VZF8tVXVrTlB2b1RxUnRPMllhNVB3SHhPRE02bk9ublUwYXhTSzVfT1dIS1NpUHI3T0xaT1NKN0RJWTFfZFV3TEdIejZNVFpRLXR0Skw1cUlZektHc0hnaWRXVy1sNHlxMGxWa3p6MmM0djdNZ0pZNjJsUQ?oc=5"
-    },
-    {
-      "title": "Best Robotics Developments in AI Integration - Analytics Insight",
-      "summary": "Agility Robotics在AI集成方面取得新进展，其双足机器人Digit在自主导航和物体抓取能力上得到提升。这将推动人形机器人在物流仓储领域的实际应用落地。",
+      "title": "Piper Sandler: Tesla Optimus Robot Valued at Zero in Current $420 Share Price, Analyst Says - News and Statistics - IndexBox",
+      "summary": "分析师Piper Sandler将Tesla Optimus机器人估值归零，认为当前$420股价未包含任何机器人业务溢价，反映市场对人形机器人商业化进程仍持谨慎态度。",
       "date": "2026-05-12",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOZTVQWURLbG1RVnR2UWUzeTEzV29SX3pMU0xBTU5Hc2ZsTGFETWhlenRUd2doYTk3WFVHZTZPQlJxWXVReDFNWUItZjJBN2VlZGlwYkpqOTZqYVpwaWpVRFlzYkRiTDByV1BJM2JDYUhoNUQwZm9jODlLZWlRTUZ5VlFLdkRlTkJQZnNqbi1nWHZWbkszQ2N1VFROeVFSQdIBngFBVV95cUxOZTVQWURLbG1RVnR2UWUzeTEzV29SX3pMU0xBTU5Hc2ZsTGFETWhlenRUd2doYTk3WFVHZTZPQlJxWXVReDFNWUItZjJBN2VlZGlwYkpqOTZqYVpwaWpVRFlzYkRiTDByV1BJM2JDYUhoNUQwZm9jODlLZWlRTUZ5VlFLdkRlTkJQZnNqbi1nWHZWbkszQ2N1VFROeVFSQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlFoMXFnVFl4Y2RnWDNGZFVHN0EzU3RDTmJQcm5KdEZ2czlGeE5sc0JiMVFiTW1NTVdNTzV3cHpxUjE2YXk4bENtNXdWNmVkcEFTV09EVzl6UlBUU0ZiSVVSOXRrWUdLVlpya0hoU3hYQzZFZWZuWU5jSlp2NkZYUFo4dk5kcVdpV2swUjc1aUtOR0hCZFFNQ0NQenlhMEw1YUVpNHljUFdZeXFqN1E?oc=5"
+    },
+    {
+      "title": "Tesla ends Model S and Model X production in pivot to robots - qz.com",
+      "summary": "特斯拉宣布停产Model S和Model X车型，全面转向机器人领域。此举表明电动汽车巨头正式进军机器人市场，将加速人形机器人行业的技术竞争与商业化进程。",
+      "date": "2026-05-11",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBUMkgtSzZfeVR1SEtXZEZ4d2hGeEhFUmZnWnlIOS1aT2VhYmJVVVFkUGh2UnV3eTNQcHduanpucW5XRE92RFB2V1I1TlhFZ1U4MUpfcGcyN2dfSmFFdXdyXzVJX0cyNmZQdDM0?oc=5"
+    },
+    {
+      "title": "Piper Sandler delivers blunt message for Tesla stock investors - TradingView",
+      "summary": "Piper Sandler对特斯拉投资者发出警示，可能影响公司估值和融资能力，进而制约Optimus人形机器人研发进度。",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXp1RV8ySVVkbVFlakJjRTUtaHFXTnhHaUFpcm5vdmRicldCZnV3S1dMS3BIalE3aXMtblBEOGs1QWNEMzJZaGlOU0x5LWJPRjA1SEhfOGJ2eGRZa0hqX1p2bUhabVNabnhDXzVXUkt0eVRVc1hxMmZpbm5JRmVxODhGcm1zeGlxa1Q3blM1Zm5EaWFNYnNEVjNpOHd0UHI5NFNGZFRMbjlrR3JCR2k2ZHRIR085X056M1R1dXJSSQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-12T14:37:10.765454"
+  "updated_at": "2026-05-13T03:34:49.568592"
 }
