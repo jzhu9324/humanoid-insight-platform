@@ -2,13 +2,13 @@
   "papers": [
     {
       "title": "Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation",
-      "summary": "该论文提出了一种基于IMU动作捕捉的实时全身人形机器人遥操作系统，实现了从模拟验证到真实平台的无缝迁移。",
+      "summary": "### 现状痛点",
       "date": "2026-05-12",
       "link": "http://arxiv.org/abs/2605.12347v1"
     },
     {
       "title": "Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation",
-      "summary": "提出一种融合基础设施视觉与V2X通信的协作人形机器人，通过主动阻止车辆防止NLOS路口碰撞，突破传统V2X无法影响未联网车辆的局限。",
+      "summary": "该论文提出在NLOS交叉口部署协同人形机器人作为主动交通疏导者，通过融合基础设施双摄像头和车载V2X的双重感知来预测危险并线，并用肢体手势阻止车辆进入主路。",
       "date": "2026-05-12",
       "link": "http://arxiv.org/abs/2605.11972v1"
     },
@@ -20,43 +20,43 @@
     },
     {
       "title": "Explicit Stair Geometry Conditioning for Robust Humanoid Locomotion",
-      "summary": "论文提出将楼梯的可解释几何参数（步高、步深、偏航角）作为显式条件输入PPO策略，实现对人形机器人楼梯攀爬的主动控制和泛化能力的显著提升。",
+      "summary": "提出使用可解释的显式楼梯几何参数（步高、步深、偏航角）直接conditioning PPO策略，实现对不同楼梯结构的主动适应和鲁棒攀爬。",
       "date": "2026-05-11",
       "link": "http://arxiv.org/abs/2605.09944v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Hyundai Motor aims to turn robot factory into data gold mine, with $2.7 bn annual profit potential - KED Global",
-      "summary": "现代汽车计划将Boston Dynamics机器人工厂转化为数据服务平台，预计年利润潜力达27亿美元。这对人形机器人行业意义：标志着机器人厂商从硬件销售向数据服务商业化的重要转型，凸显工业数据资产的巨",
-      "date": "2026-05-13",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE45NzB0blJFbXJiSGhteGwxRXRZZUFMcExxMmZsa3VydEkzSS1XQWd3OWFFSWpfLWJhZW1zaG9PMy1OZFNSS3VnYUQ4VDZXUFo2M1d2bVE4a1pTNmFaWk1RRDNTUG11RnRiczFF?oc=5"
-    },
-    {
-      "title": "Hyundai Motor Tops 700,000 Won as Physical AI Stocks Surge - Seoul Economic Daily",
-      "summary": "现代汽车股价突破70万韩元，受Physical AI概念推动上涨，反映资本市场对实体AI及机器人领域信心增强。",
-      "date": "2026-05-13",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNVldSSTR2d1hrTW94Nm0yRkYxRnNsLWNEOGdhZXE4YUhUYno4aU5PUzFXZHdmTVpXakJBWWFXbjQ3ZWZUMGhSeVFWVEpfeThBOXlCbkdJeXYyb0tZSXhrOUJ0bmJrSU5zT3o2OGY0VmdQYXkzYUxIVjV5Unl3bThXVGk2QkVUZUFtVk9FbE5fMlBvM0g1S2drVDVNcXlRX05s?oc=5"
-    },
-    {
-      "title": "A Chinese factory in Guangdong is assembling a humanoid robot every 30 minutes while Tesla, Figure, and Boston Dynamics still struggle to deliver 10 thousand per year. - CPG Click Petróleo e Gás",
-      "summary": "广东工厂每30分钟组装一台人形机器人，生产效率远超Tesla等公司年产能，预示成本优势将重塑全球人形机器人竞争格局。",
+      "title": "Tesla Optimus is already benefiting investors, top Wall Street firm says - Teslarati",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVlHMnFFUFE5QUVoOHppNDl3dU02RHQwYTZNck",
       "date": "2026-05-11",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxNZ25MS1FCTWxUd0VxSGp5MHhjSXd6WWRURWdpcUdSR2dFai1FVTVvY0VNcTJaS3JxUVRNd3k0Zlp1emFBV2V4aURHWTBJaF8wYnRFU1dwRG5GQXpXUGF1eDNiTUdLUWtHMlV3Szlrc0c2ZTBRWXh1YXk3ZUZMMDVpODVIUHkwdzhUWFZLTTQ3ZGxDN0ZCWHctanlKY3l2UVRKYmhzV1NpMHhiN1c5RDZ5aE5xTklQQlRDQ2htdDNwbnlqRlR4bWcteVlra3BPX2xISWJrU1BMczBiS3FwbHJyNXVYSktIMEdiODh6aklZdG42VVlGZUhLV29nTzI0UTYxSzlVazRPNWFSNFVwQ3p0TjVB?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVlHMnFFUFE5QUVoOHppNDl3dU02RHQwYTZNckhrSnhZU3Q2RXBIa1lvUFFrMmQxYkg0UEdnTEhOYzRDUFl2dW41MzAyVHV1QmFweWFFVnJkRVF2QV85bERNR0o0dktGaFJDS1RhNS1NcUJ5aTk2SnBiNEpULWNVUlB2WVpDMFU4QktfSVpfdlZyUkJZdmljTlJoMng?oc=5"
     },
     {
-      "title": "Figure Founder: F.04 Robot Initiates Component Delivery Process - Gasgoo",
-      "summary": "Figure AI发布F.04机器人启动组件交付流程，标志其人形机器人技术在实际应用场景取得新进展，为商业化落地奠定基础。",
+      "title": "Tesla (TSLA) Stock: FSD China Push and Optimus Robot Drive Fresh Momentum - CoinCentral",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNBczYwSzh6Q016clo5SGZhRkd6aWdlUDEwTF",
       "date": "2026-05-13",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbUJxTUhuMXNQNTUxbDRYejBQa2tCNWRoUFB3NUdyTE1pVmhOQ01kNWNPbEVfOHQxd203ZE91RDYwUHd5SV8tOGN4Q0VjLTFqaGtNVnBBU0x1dHRSUDhKMTFFejl2Mmx1dHpUQXlFcV91OHZ1S19jVmVWX0xEdlRLcnRYRm42U1pSX2o0TjdrbUlBdTBMOGxfVnpMc3h4bkFQX0JTeEVKbktwd0lINVA5Tm1XNW5veE5fQ1Z1R0x2Unc?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNBczYwSzh6Q016clo5SGZhRkd6aWdlUDEwTFJBX3BxLU9zRkxtUXdGOVVRMW01ZmFwRWJXR0hrdGJBNE16ZEpyY3hqVUtwVmtkUXFMNWRuLTF3VWw4NHo3bnFFZVRob0hpM1Mxb3pZZXBybHlnMnh1U2hnNTRGUEJUVWRJWk1mQ0RRUldlYXpISEpJbndHbVlzRQ?oc=5"
     },
     {
-      "title": "Two Figure F.03 Humanoid Robots Just Reset an Entire Bedroom in Under Two Minutes - TechEBlog -",
-      "summary": "Figure F.03双足机器人在2分钟内完成卧室整理，展示人形机器人家务应用的",
-      "date": "2026-05-13",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOSllaY0VMRkZ2eTlQLXZsQzBBMGdyNVYzRjZNUnZtajZ4YWNiUk9EMHRaZnJxczhjb2xnSC1DLWY2dDV6OG1RV1F1ZVYxcFhhQll0MHd6OFl3ckxLZzBNN1FIOGxHOU5uYVliN3Z0REFZbUdPMnFSNGlXbXdVWWl1RWhsZlEzTGxwb0NnZ3pySmQ?oc=5"
+      "title": "Piper Sandler: Tesla Optimus Robot Valued at Zero in Current $420 Share Price, Analyst Says - News and Statistics - IndexBox",
+      "summary": "Piper Sandler分析师认为特斯拉Optimus机器人对当前420美元股价的估值接近零，反映市场对其商业化前景持怀疑态度，这将影响投资者对人形机器人行业的估值预期。",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlFoMXFnVFl4Y2RnWDNGZFVHN0EzU3RDTmJQcm5KdEZ2czlGeE5sc0JiMVFiTW1NTVdNTzV3cHpxUjE2YXk4bENtNXdWNmVkcEFTV09EVzl6UlBUU0ZiSVVSOXRrWUdLVlpya0hoU3hYQzZFZWZuWU5jSlp2NkZYUFo4dk5kcVdpV2swUjc1aUtOR0hCZFFNQ0NQenlhMEw1YUVpNHljUFdZeXFqN1E?oc=5"
+    },
+    {
+      "title": "Elon Musk Sees $15 Trillion Optimus Upside — Tesla Investors Could Get A Piece For 'Free' - Benzinga",
+      "summary": "Musk预估Tesla人形机器人Optimus将创造15万亿美元价值，投资者有望免费获股权。对行业",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTWpkOW11eDFmV0I5cDZvaDlYMEJxZkJpcHVFOVdJbW9QeWQ4Sjh1OV95Tlh2bE1KcVNXSUhYTXctVXA4dWJvbHI4dkdETllZcmllaUI5cWdlal9uOUZocWpsV29kV0V5TnRacjM0M1Fxd3lOaXhSQXF5MXYyLUlzd1V6T1ZEYkUwdmh4cndnLWF0QW1UUXdOMU9kSnlnb21LcHZ2czdBbFQtRWtfMlhRMC1FTUlJeU9oemdBODg4bDJURjl6U3owUjI0d0pBQmpsREtpSi1iZVNuaXhSNzRPRkU4RGozZDBqM0x1RWFWS2R6UQ?oc=5"
+    },
+    {
+      "title": "Is Tesla Giving Away Its Robot Business for Free? One Wall Street Analyst Thinks So - AOL.com",
+      "summary": "特斯拉机器人业务被质疑“免费”赠予，华尔街分析师持此观点，可能影响行业估值与竞争格局。",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGtOYjJCaEFUdlVzY1RPczU3eDRtbVBnNGRkUnJicEY4SWJtcmdlS21ycWdTbmI0TjdSeVlVWFhYU0xfVU9tazlpQnAyTGVYZUJ5UFhYTEQ1QndQVEJmT3p2c3VRZy0zQnJpcHJLbzcxVVNlRlkwSFl1RjI4c25CbmVn?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-13T14:47:26.615974"
+  "updated_at": "2026-05-14T03:35:03.086852"
 }
