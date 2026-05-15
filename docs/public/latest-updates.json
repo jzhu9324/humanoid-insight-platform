@@ -1,62 +1,68 @@
 {
   "papers": [
     {
-      "title": "Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation",
+      "title": "CoCo-InEKF: State Estimation with Learned Contact Covariances in Dynamic, Contact-Rich Scenarios",
+      "summary": "CoCo-InEKF通过可微分的 invariant EKF 与端到端训练的轻量神经网络学习连续接触协方差，替代传统二元接触状态，实现对高动态接触场景的鲁棒状态估计。",
+      "date": "2026-05-14",
+      "link": "http://arxiv.org/abs/2605.15122v1"
+    },
+    {
+      "title": "Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control",
       "summary": "### 现状痛点",
+      "date": "2026-05-14",
+      "link": "http://arxiv.org/abs/2605.14417v1"
+    },
+    {
+      "title": "Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation",
+      "summary": "本论文提出使用IMU动捕服装实现对Unitree G1人形机器人的实时全身遥操作，通过自定义运动处理和运动学重定向管道，无需学习组件即可实现低延迟运动映射，并完成sim2sim到sim2real的验证。",
       "date": "2026-05-12",
       "link": "http://arxiv.org/abs/2605.12347v1"
     },
     {
       "title": "Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation",
-      "summary": "该论文提出在NLOS交叉口部署协同人形机器人作为主动交通疏导者，通过融合基础设施双摄像头和车载V2X的双重感知来预测危险并线，并用肢体手势阻止车辆进入主路。",
+      "summary": "本文创新引入合作人形机器人作为主动交通管理员，通过融合基础设施双摄像头视觉与V2X通信的双感知路径，在NLOS交叉口执行人类般的STOP手势物理阻止车辆，解决传统V2X/集体感知无法影响未连接车辆的安全痛点。",
       "date": "2026-05-12",
       "link": "http://arxiv.org/abs/2605.11972v1"
     },
     {
       "title": "Mapping Embodied Affective Touch Strategies on a Humanoid Robot",
-      "summary": "### 现状痛点",
+      "summary": "本研究让32名参与者在配备全身分布式触觉传感器的iCub机器人上，在三种约束条件下表达8种情绪，系统揭示了身体区域与空间约束如何共同塑造情感触摸的位置选择与动态特征。",
       "date": "2026-05-12",
       "link": "http://arxiv.org/abs/2605.11825v1"
-    },
-    {
-      "title": "Explicit Stair Geometry Conditioning for Robust Humanoid Locomotion",
-      "summary": "提出使用可解释的显式楼梯几何参数（步高、步深、偏航角）直接conditioning PPO策略，实现对不同楼梯结构的主动适应和鲁棒攀爬。",
-      "date": "2026-05-11",
-      "link": "http://arxiv.org/abs/2605.09944v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Robots kill off production of flagship Tesla electric cars - The Star | Malaysia",
-      "summary": "Tesla工厂机器人故障导致旗舰电动汽车生产线停产。",
-      "date": "2026-05-14",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMmVGV3JPOGRtZHE0d1JxajFxT25CVW52RFJCSE9nS3JyRFhjLTBDOUdlUFNta3p1SnhLUklBNkE3b2hOelBQUlNySjQwZ2hPZGh4YzhYcGtqazdtQ09SYUV3ZVRINTVmMS03cTNoQ0ZYTjNta1IyQTlhWGctaE9VX2g5bnBFYzNuZ1JucHFMTEJkUUwzYXRweGluVEIzam9BV1NKeGZuamdMMWFyalZQNA?oc=5"
+      "title": "Tesla Optimus is already benefiting investors, top Wall Street firm says - Teslarati",
+      "summary": "Tesla Optimus获顶级华尔街机构认可，已开始为投资者带来实际收益，验证了人形机器人商业化潜力和行业发展前景。",
+      "date": "2026-05-11",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVlHMnFFUFE5QUVoOHppNDl3dU02RHQwYTZNckhrSnhZU3Q2RXBIa1lvUFFrMmQxYkg0UEdnTEhOYzRDUFl2dW41MzAyVHV1QmFweWFFVnJkRVF2QV85bERNR0o0dktGaFJDS1RhNS1NcUJ5aTk2SnBiNEpULWNVUlB2WVpDMFU4QktfSVpfdlZyUkJZdmljTlJoMng?oc=5"
     },
     {
-      "title": "Can You Invest in Boston Dynamics Stock in 2026? Details & Alternatives - The Motley Fool",
-      "summary": "该新闻",
+      "title": "Piper Sandler: Tesla Optimus Robot Valued at Zero in Current $420 Share Price, Analyst Says - News and Statistics - IndexBox",
+      "summary": "分析师 Piper Sandler 认为 Tesla Optimus 机器人在当前 420 美元股价中价值为零，说明市场对 Tesla 机器人业务商业化前景持怀疑态度，可能影响人形机器人行业投资热度。",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlFoMXFnVFl4Y2RnWDNGZFVHN0EzU3RDTmJQcm5KdEZ2czlGeE5sc0JiMVFiTW1NTVdNTzV3cHpxUjE2YXk4bENtNXdWNmVkcEFTV09EVzl6UlBUU0ZiSVVSOXRrWUdLVlpya0hoU3hYQzZFZWZuWU5jSlp2NkZYUFo4dk5kcVdpV2swUjc1aUtOR0hCZFFNQ0NQenlhMEw1YUVpNHljUFdZeXFqN1E?oc=5"
+    },
+    {
+      "title": "Elon Musk Sees $15 Trillion Optimus Upside — Tesla Investors Could Get A Piece For 'Free' - Benzinga",
+      "summary": "Elon Musk预测Tesla Optimus机器人将创造15万亿美元价值，投资者或可免费获得股份。此举彰显人形机器人作为万亿级新增长点的战略重要性。",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTWpkOW11eDFmV0I5cDZvaDlYMEJxZkJpcHVFOVdJbW9QeWQ4Sjh1OV95Tlh2bE1KcVNXSUhYTXctVXA4dWJvbHI4dkdETllZcmllaUI5cWdlal9uOUZocWpsV29kV0V5TnRacjM0M1Fxd3lOaXhSQXF5MXYyLUlzd1V6T1ZEYkUwdmh4cndnLWF0QW1UUXdOMU9kSnlnb21LcHZ2czdBbFQtRWtfMlhRMC1FTUlJeU9oemdBODg4bDJURjl6U3owUjI0d0pBQmpsREtpSi1iZVNuaXhSNzRPRkU4RGozZDBqM0x1RWFWS2R6UQ?oc=5"
+    },
+    {
+      "title": "Tesla (TSLA) Stock: FSD China Push and Optimus Robot Drive Fresh Momentum - CoinCentral",
+      "summary": "Tesla加速FSD入华并推进Optimus人形机器人项目，显示科技巨头深入布局机器人领域，将加速人形机器人商业化进程。",
       "date": "2026-05-13",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZk03Yy1ZYTloUkYyekNxNF9oZk5GR3dDTkJOWFEwampzT1NaNC1CcVV3Mm44SnRSakM5VU8yZjN6LXdEaEtqUVhWUGtZUGpxaDgwVlpIVXpsVjB6LWkxY3pkeE13a1k0UGxLRTdINnNLNWs5aHpTTC01Tzc0cFdBTGY2RUxNdEJoeTlnSHB0TllMczBEcVE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOZTNBczYwSzh6Q016clo5SGZhRkd6aWdlUDEwTFJBX3BxLU9zRkxtUXdGOVVRMW01ZmFwRWJXR0hrdGJBNE16ZEpyY3hqVUtwVmtkUXFMNWRuLTF3VWw4NHo3bnFFZVRob0hpM1Mxb3pZZXBybHlnMnh1U2hnNTRGUEJUVWRJWk1mQ0RRUldlYXpISEpJbndHbVlzRQ?oc=5"
     },
     {
-      "title": "Humanoid Robot Price: 2026 Cost Guide ($1.4K–$320K) - Robozaps",
-      "summary": "2026年人形机器人价格指南显示成本大幅下降至$1.4K-$320K区间，反映技术成熟正向消费级",
-      "date": "2026-05-14",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5zcGxFaF9ET2tfZHM2dHpPbGNpdVQ1eE83RUVNamxfc1pjM0hsdmdlMzN3cXhCamJRaFlQTWxNRXp1NWdHbHFvQmJDUDZ1V2lPa1R1OTVUeDF0TkE?oc=5"
-    },
-    {
-      "title": "Figure AI's Helix-02 Robots Complete Full 8-Hour Autonomous Shifts as Humanoid Race Intensifies - Tech Times",
-      "summary": "Figure AI的Helix-02机器人成功完成8小时自主作业，标志着人形机器人在实用化方面取得关键突破。随着技术竞争加剧，行业正向全天候自主运行目标加速迈进。",
-      "date": "2026-05-14",
-      "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUENfVUlWeU8tMUt0RjJqbkZqNE93b3NhV0VIdmhWUEVHOFdyanBoQS1RN2d2Y1FsVzN2MVpCLV9QQkpHX0l2QkNxN1c3Z0EzMlBaZFpRT005RjFDOENWVkZEdXZaVkJSS2hjS2xDQUJVWnpmcUFISHQ0SjJmQUh2STR1UGVvVG9jVE9XYzBrU3d6MGx2dzFHV3JwVmJZMHlhSFRNSWtFTmxZMEg0NDdKQlU1azZWME5fbTNpdmFUUzI3TXZRZWt2SUZsMVg5Nl9KelVZZnFONmtKSE53YWdB?oc=5"
-    },
-    {
-      "title": "Figure AI Livestreams 8-Hour Autonomous Shift of Figure 03 Humanoid Robot - MEXC",
-      "summary": "Figure AI直播展示Figure 03人形机器人完成8小时自主工作，标志着双足机器人在真实环境中的长期稳定运行能力取得突破，推动行业向实际应用部署迈进。",
-      "date": "2026-05-14",
-      "link": "https://news.google.com/rss/articles/CBMiSEFVX3lxTE42cFJpV2ZBZmIycm5KX0xnZnh5MEFZVGNSRUNGTHlxbUFsU1JHUDA0V1NtRnNvS3pldUpuVTVPY2ZSMjR6UDlDUA?oc=5"
+      "title": "Is Tesla Giving Away Its Robot Business for Free? One Wall Street Analyst Thinks So - AOL.com",
+      "summary": "华尔街分析师质疑特斯拉可能免费送出机器人业务，可能放弃该业务盈利，对人形机器人行业商业化模式及估值预期产生影响。",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQdGtOYjJCaEFUdlVzY1RPczU3eDRtbVBnNGRkUnJicEY4SWJtcmdlS21ycWdTbmI0TjdSeVlVWFhYU0xfVU9tazlpQnAyTGVYZUJ5UFhYTEQ1QndQVEJmT3p2c3VRZy0zQnJpcHJLbzcxVVNlRlkwSFl1RjI4c25CbmVn?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-14T14:26:58.639377"
+  "updated_at": "2026-05-15T03:38:20.289825"
 }
