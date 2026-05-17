@@ -2,7 +2,7 @@
   "papers": [
     {
       "title": "CoCo-InEKF: State Estimation with Learned Contact Covariances in Dynamic, Contact-Rich Scenarios",
-      "summary": "本文提出CoCo-InEKF框架，通过神经网络学习连续接触协方差来动态调节接触置信度，替代传统二值接触状态，显著提升动态接触场景下足式机器人状态估计精度。",
+      "summary": "### 现状痛点",
       "date": "2026-05-14",
       "link": "http://arxiv.org/abs/2605.15122v1"
     },
@@ -11,58 +11,40 @@
       "summary": "### 现状痛点",
       "date": "2026-05-14",
       "link": "http://arxiv.org/abs/2605.14417v1"
-    },
-    {
-      "title": "Real-Time Whole-Body Teleoperation of a Humanoid Robot Using IMU-Based Motion Capture with Sim2Sim and Sim2Real Validation",
-      "summary": "该论文提出了一种基于IMU动作捕捉的实时全身遥控系统，将人类动作直接映射到Unitree G1人形机器人，并通过sim2sim和sim2real验证实现了稳定的低延迟全身动作再现。",
-      "date": "2026-05-12",
-      "link": "http://arxiv.org/abs/2605.12347v1"
-    },
-    {
-      "title": "Cooperative Robotics Reinforced by Collective Perception for Traffic Moderation",
-      "summary": "提出一种结合集体感知(CP)与类人机器人的协作交通moderator系统，通过双摄像头基础设施和V2X融合感知，在NLOS交叉口物理阻止未连接车辆的危险汇入。",
-      "date": "2026-05-12",
-      "link": "http://arxiv.org/abs/2605.11972v1"
-    },
-    {
-      "title": "Mapping Embodied Affective Touch Strategies on a Humanoid Robot",
-      "summary": "该论文首次系统研究了情感触觉在人形机器人全身不同区域的表达模式,通过32名参与者在iCub机器人上表达8种情绪的实验,揭示了身体区域与空间约束如何共同影响情感触摸的位置和动态特征。",
-      "date": "2026-05-12",
-      "link": "http://arxiv.org/abs/2605.11825v1"
     }
   ],
   "companyNews": [
     {
-      "title": "US’s Figure AI humanoid robots make bed, clean room in under two minutes - VnExpress International",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPb0x6Ulg4TS1kWjJRNV9QNkRJbENDaGdEQzltTz",
+      "title": "12 Best Tesla Optimus Alternatives & Competitors [2026] - Robozaps",
+      "summary": "该新闻列举了2026年Tesla Optimus人形机器人的12个主要替代品与竞争对手，反映出市场上正涌现更多差异化方案，为行业竞争格局提供参考。",
       "date": "2026-05-13",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPb0x6Ulg4TS1kWjJRNV9QNkRJbENDaGdEQzltTzA0aHRvS3duSWpvcWZVMm9HMjh2UkJrN3UyUDZub25UV2cwUFctcXZCaV9YRkwxS2FLU1l4RDdGSXJ3dDRzSW5NU1JFWURkd0JhMVJaN3hfTmRnay0xdmhqM1p1Rmhmd3JXdGhpMkVOeHZDUVRsZl9oNW5SRU5PTzdGNG5DZlExOVNaZ1ZENnBEQXVPTWdRcjhKZndOdFNFMkNfUXk2SWxnbVlZ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE96RFFDVTYzYzJtaXpxX2xidVZtV21hOHhxMVJ4ckVCX3FLZ2VBSk9veTVwQkNSdW9VZHMxeG15RTJNVTNsc2N0YkRGV2dSNmZKVlYyRENobHZnNTlKVFU3ZFlwSDd0U3BhSFA3enhnUTAyZnZx?oc=5"
     },
     {
-      "title": "Figure’s robot livestream raises the bar for humanoid proof - Startup Fortune",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmNXZjZJTVpjM2U5LXZWOHhMZjdNM1NzZUxPOT",
-      "date": "2026-05-16",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmNXZjZJTVpjM2U5LXZWOHhMZjdNM1NzZUxPOTFHcFVhNWl4TW14LUlfSWU5Nk1sNjVLVVFibkRvRUhRY0t4UjlnVktBSWZkSEhzN1FzZTlVMjdPZGFmdGdvakhrS3dIOHFlVktyWTFUNVFlRjlsOGhmS0VnRjg2d3puUnBUOTBIUlRrdHNWMA?oc=5"
+      "title": "Tesla Optimus is already benefiting investors, top Wall Street firm says - Teslarati",
+      "summary": "**Tesla Optimus已为投资者带来回报获华尔街认可，人形机器人商业化进程加速。**",
+      "date": "2026-05-11",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeVlHMnFFUFE5QUVoOHppNDl3dU02RHQwYTZNckhrSnhZU3Q2RXBIa1lvUFFrMmQxYkg0UEdnTEhOYzRDUFl2dW41MzAyVHV1QmFweWFFVnJkRVF2QV85bERNR0o0dktGaFJDS1RhNS1NcUJ5aTk2SnBiNEpULWNVUlB2WVpDMFU4QktfSVpfdlZyUkJZdmljTlJoMng?oc=5"
     },
     {
-      "title": "'Uncharted territory': Figure AI humanoid robots hit 24/7 nonstop work milestone - MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1ptRGtUUXVWaEZEY1pQMUprdXp3NEctcHNoTV",
-      "date": "2026-05-14",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQ1ptRGtUUXVWaEZEY1pQMUprdXp3NEctcHNoTVBIWUlGNHhiRlNHdEpreThhVlhadVBXZWRFVHRBLWFsZUpjOGdTTi1EdHN6V0w3a1NXWXd5SFJqRjVMY0ZGOFF3aGlVNTFMS1dQQ1NldU9zMUZmSU5vN21Gc05nOW8zdnVrMjdiVTdSdXdDUXluOU1EczhBQzU5QTdQM2xqMlNBN0xfcVg5WWhQVjZYdllkQUlJN21QZ1lqdE5ycWVvazdiTFVpYVg0NA?oc=5"
+      "title": "Tesla Optimus Gen 2 Review: Specs, Price, Factory Use [2026] - Robozaps",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CNmY1S0hqMUk1WVN2S2lOR0dKSWY0WUwwd1NOOV",
+      "date": "2026-05-13",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CNmY1S0hqMUk1WVN2S2lOR0dKSWY0WUwwd1NOOVlqcWRNMXpXa1NDU3hQRUFuZWhBSmVtUmlnY1RtU0tycW43OXF5cFZrZWJnZFNEdWtZM2JOZk5uX1ZGSXY4elA?oc=5"
     },
     {
-      "title": "The Data Drought: Why Embodied AI Can’t Just Read the Internet - Tech Times",
-      "summary": "具身智能面临数据短缺，无法仅依赖互联网文本数据训练，需要",
-      "date": "2026-05-16",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTW0ySk1sMDcyR0h6RmZpNllIcXgza2pwdW9ySjIyRlotVVhWbVd1ZjFQRjllWnFNUmRYV3Q2ME1zSW5lWWtQLWNFVTNXNmdLQm10cW1mVk5uZW5Lb2ZKcEQ3TlF2cmw1SXgxcENMcVlMbmFvWWxHVmJGeDlSek9BRUstMThoTE1DMS1PY3hFVkpxSHM0U0l4X0lMWkg0WVI1ZGRnNlNYLWRBeDA?oc=5"
+      "title": "Piper Sandler: Tesla Optimus Robot Valued at Zero in Current $420 Share Price, Analyst Says - News and Statistics - IndexBox",
+      "summary": "分析师 Piper Sandler 称 Tesla Optimus 机器人在当前 420 美元股价中价值为零，表明市场尚不认可其人形机器人项目的商业化前景，可能影响投资者对行业",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOYlFoMXFnVFl4Y2RnWDNGZFVHN0EzU3RDTmJQcm5KdEZ2czlGeE5sc0JiMVFiTW1NTVdNTzV3cHpxUjE2YXk4bENtNXdWNmVkcEFTV09EVzl6UlBUU0ZiSVVSOXRrWUdLVlpya0hoU3hYQzZFZWZuWU5jSlp2NkZYUFo4dk5kcVdpV2swUjc1aUtOR0hCZFFNQ0NQenlhMEw1YUVpNHljUFdZeXFqN1E?oc=5"
     },
     {
-      "title": "Watch Figure CEO Says No Teleoperation in Their Humanoid Robot Testing - Bloomberg.com",
-      "summary": "Figure AI在人形机器人测试中采用完全自主控制，摒弃遥操作方式。这预示着人形机器人正迈向更高自主性，可能引领行业从远程控制向独立作业转型。",
-      "date": "2026-05-15",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOS3lpY3pSYU5IbDNMRkpTY0Y5aGxER0d6NlJ1YlZnRXRWVWV1RUQ2VmEySlZIUjMwaXhRcWpDUlc5RVZMM2VZNHBIUUpsVGU1d3FHVExRVVpVbVpQclBzWVAwNFZlcHZBQlZDV19hWXUwZjg4Ym9TOWpvbXpTaFVSeFdneWRyX1JXOTlpdkVsOVpzdzQtNTlBaUt3Z256MlFhbW1meXNoX2lVQmJtNHc?oc=5"
+      "title": "Elon Musk Sees $15 Trillion Optimus Upside — Tesla Investors Could Get A Piece For 'Free' - Benzinga",
+      "summary": "Elon Musk预测Optimus机器人将创造15万亿美元价值，投资者或可免费获得股份。这表明人形机器人市场潜力巨大，将加速行业商业化进程。",
+      "date": "2026-05-12",
+      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQTWpkOW11eDFmV0I5cDZvaDlYMEJxZkJpcHVFOVdJbW9QeWQ4Sjh1OV95Tlh2bE1KcVNXSUhYTXctVXA4dWJvbHI4dkdETllZcmllaUI5cWdlal9uOUZocWpsV29kV0V5TnRacjM0M1Fxd3lOaXhSQXF5MXYyLUlzd1V6T1ZEYkUwdmh4cndnLWF0QW1UUXdOMU9kSnlnb21LcHZ2czdBbFQtRWtfMlhRMC1FTUlJeU9oemdBODg4bDJURjl6U3owUjI0d0pBQmpsREtpSi1iZVNuaXhSNzRPRkU4RGozZDBqM0x1RWFWS2R6UQ?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-16T13:43:33.467829"
+  "updated_at": "2026-05-17T03:35:41.241501"
 }
