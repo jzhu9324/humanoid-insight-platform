@@ -1,50 +1,68 @@
 {
   "papers": [
     {
-      "title": "CoCo-InEKF: State Estimation with Learned Contact Covariances in Dynamic, Contact-Rich Scenarios",
+      "title": "SUGAR: A Scalable Human-Video-Driven Generalizable Humanoid Loco-Manipulation Learning Framework",
       "summary": "### 现状痛点",
-      "date": "2026-05-14",
-      "link": "http://arxiv.org/abs/2605.15122v1"
+      "date": "2026-05-19",
+      "link": "http://arxiv.org/abs/2605.20373v1"
     },
     {
-      "title": "Before the Body Moves: Learning Anticipatory Joint Intent for Language-Conditioned Humanoid Control",
+      "title": "CEER: Compliant End-Effector and Root Control as a Unified Interface for Hierarchical Humanoid Loco-Manipulation",
+      "summary": "本文提出CEER框架，通过 Compliance-aware 的末端执行器-根部（EE-root）任务空间控制抽象，结合教师-学生蒸馏方法，将复杂全身控制器简化为低维 EE-root 命令接口，实现模块化的人形机器人 loco-manipulation 分层控制。",
+      "date": "2026-05-19",
+      "link": "http://arxiv.org/abs/2605.19981v1"
+    },
+    {
+      "title": "Domain-Adaptive Communication-Rate Optimization for Sim-to-Real Humanoid-Robot Wireless XR Teleoperation",
       "summary": "### 现状痛点",
-      "date": "2026-05-14",
-      "link": "http://arxiv.org/abs/2605.14417v1"
+      "date": "2026-05-19",
+      "link": "http://arxiv.org/abs/2605.19293v1"
+    },
+    {
+      "title": "Adversarial Stress Testing of SPARK Humanoid Safety Filters",
+      "summary": "### 现状痛点",
+      "date": "2026-05-18",
+      "link": "http://arxiv.org/abs/2605.19009v1"
+    },
+    {
+      "title": "EgoTraj: Real-World Egocentric Human Trajectory Dataset for Multimodal Prediction",
+      "summary": "### 现状痛点",
+      "date": "2026-05-18",
+      "link": "http://arxiv.org/abs/2605.19004v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Hyundai, Tesla Race to Profit From Humanoid Robots - Businesskorea",
-      "summary": "现代与Tesla竞相开发人形机器人商业化技术，共同推动行业从研发走向盈利，表明人形机器人市场潜力巨大且竞争加剧。",
+      "title": "Tesla Optimus Caught Handing Out Water in New Demo - BASENOR - Tesla Accessories",
+      "summary": "Tesla Optimus展示了给人递水的服务能力，进一步验证了类人机器人在日常生活场景中的应用潜力，行业发展正从概念走向实际用例。",
+      "date": "2026-05-21",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTFKRkhGSncwZVlHZjBVbzFQd1BSeDFMSGJPUnRabXhKZHEwR2pHR25VYmVkcEdmdE5UVzVobGNjcmsyQ0w3UGU4dXdNWUtxUHR5SVY3RUVuUXdacm5RcDVHT3lBLVd6VGlxa25LMFVKYWRjaTJTdHhlV21Xd1M0RnpUOXMxNXZZeGlUbVJn?oc=5"
+    },
+    {
+      "title": "Tesla Optimus Pilot Production Line Gets First Look on Video - BASENOR - Tesla Accessories",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOWU55c1FRbjF6RGZtU2ZXODE5MHkyU3FLMEFrOV",
+      "date": "2026-05-21",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWU55c1FRbjF6RGZtU2ZXODE5MHkyU3FLMEFrOVd2Wko4YVJWTVUySk9VRlNDa3BHYVR1cGtHTzh5WnlXMnp5dGtQck5kQUhvcVRUblAxa0NWOGk3Z3kyME9qb2tPSXdUY2YzUkRsc3RBbVBXVE1fOGl3cDlPT2V2MlFmcGJodGhrSGpuVDc5bWkyMlhQMGFCQVJLbw?oc=5"
+    },
+    {
+      "title": "The Bar Just Keeps Getting Higher for Tesla’s Robots - Barron's",
+      "summary": "特斯拉人形机器人标准持续提升，暗示其技术或有重大突破，加剧行业竞争，加速推动人形机器人商业化进程。",
+      "date": "2026-05-18",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFRkaGJSbGZ5U09XczRoSXNFRDRWTG5fdmxSWUJ2ZmkwUFpXakJGaUVnNW96angteHdfZVJwYVJxNlNNb3Jyd3FERE91MmVtU0hKMXFTcW1CU2pMNUtmMFhPZUtvRnhLNXgtamJZdldJUEJJUFVncmpYR05rYjNfWlNzZUZ6aUlDdUN5TGdn?oc=5"
+    },
+    {
+      "title": "Elon Musk's 'Muskism' Ecosystem Unveiled - 조선일보",
+      "summary": "\"标签",
       "date": "2026-05-20",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE13SlloTGVhaE54QjRWRlU2V0NDdmRpSkNSTW94RlJ5V0VnMklNbUJJRnJjVTJHbnBOb0VjWlRta2JjRWRPZ2NHcURVX1NyU2NQS2h0NmxGdWRFTXBvVV9qb2NtSUJ5RmduMVJYN0xraXU1N2tR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnIxSUlnMG9LUndFQXFKY1h4VUFYbkRyd0NOSXlFVWpPdHEyVThic2pRM2pld1pMZ25YRmFGbENjSHA2aHc1UGlIYUJfOUhLTk9fMk5jZjllbDU1TFV1QklEMlZoX0VSVnZKUElvbEJSUGRTVmxwU0Z0UzhPRDF4NTB1RGwtcml6?oc=5"
     },
     {
-      "title": "Robots from the likes of Tesla could be the next frontier in the AI revolution: Should you invest? - MSN",
-      "summary": "人形机器人正成为AI技术落地的新兴领域，Tesla等科技巨头的布局可能加速行业商业化进程，同时也带来投资机遇与风险并存的局面。",
-      "date": "2026-05-17",
-      "link": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxQNG5jeFhJbTRWWFZlZF8zR2xZc2hjRTdRSmdSdjhQdFFEZUVUM2s2WnpzWEl4MjU5QnpZVzdSeGVoaEE0cUxicjUyOTJOR0VMVVk1T2lGOGd2X3BUUkdaUEFvbGFLQ1pXM3d5SUFqMnF0S0drNWc1VjlGcVhremYtN2otek93aUpURXk3M2Z5TDlhNWpjVzFFUDJVMWVrSXUzTjlQZTNIZ1VkQW81N1ZIcWhNbWVZYkdXUUNOV1o4a3RpY2dKT19lOGNzc19nb1A1MEZJMXRvMUFIdHpGWEhqd2NGZnFqeGZwQ1k2RDBGY1d5dkYwVzhZS29OMDJGWGFFaW5GVEtEMWVvNnlLVG8teE9HNjVkYmg0NTRFZGRoOXdfclZ0c3lvekI1UXZjSEpDVjBhOTlCRmJtOGcwOFhoVVZPMm04M3N1dVp4WWxDZ3hsTWRZX0JsMnRNc0otRnBTTmc4bmdKV3c5QjFqNGxlSzl2dzNRX1RlNXF3NQ?oc=5"
-    },
-    {
-      "title": "Boston Dynamics trains Atlas humanoid robot to pick up and place washing machine - Robotics & Automation News",
-      "summary": "Boston Dynamics训练Atlas人形机器人完成洗衣机的拿取和放置动作，展示其精确操作与平衡能力。这一进展标志着家务服务机器人向实际应用迈出重要一步。",
-      "date": "2026-05-20",
-      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMkpBVkRrQVVNaHNfTGFSYThUNVZHcDY5YnZIRXh3Z1ctMkhpTU0wOFlYZ1p2Y18wamFNNGxWR2ZkS1JYWjVERk9GSm1Qd2FtMUFSYmNLWm9JSEdMWHI4cjdZMnRNdWpXNUJXOWtPdXVkY3V6RVVLM1JqUGZneGhJUFo0T29tNXp0b0NYcGhDTl80Rkp1enVFR3g3ZnZiYmhwRXk0NmZWLUx0VkNpb193WHJVci1iRjVReEpPd3V4WllxMVFocUl1SG5PVk11RTBLRHZF?oc=5"
-    },
-    {
-      "title": "Hyundai Motor Group to deploy 25,000 Atlas robots across factories - The Korea Herald",
-      "summary": "现代将部署2.5万台Atlas人形机器人进工厂，推动人形机器人在工业制造领域规模化应用。",
-      "date": "2026-05-20",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1qNmh3N09jTlFQeVdUY3BnRzRiQUlsaDhuSHZ5d29rLVk1QVk4MExjR3hSR3NPMWRIUm53eGdIR0tBYjRmNnIwZHRZYVBxbzk4ZDlXQmtWVQ?oc=5"
-    },
-    {
-      "title": "Atlas, can you bring me a drink? | Boston Dynamics - Hyundai Motor Group",
-      "summary": "Atlas已能执行取饮料等日常服务任务，标志人形机器人向家庭服务应用迈出关键一步。",
-      "date": "2026-05-19",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTElENGVJQUU4Zk5HU3BDNUZEZTE5UzkyU1lyUWwteWhITXNRSktoaEZla29jcXRxQ19mdS0yZGNfZFpSRFhlZlU2R1FVb08wYkJZUnJhMkxGMUxDazZyRm9HWUp2TzNEaE5xU0hOSy11MHVFZ2FVNGt1UExtRld4SDVaeHhCcExIeXY2S3ZaUnM?oc=5"
+      "title": "'We have not seen the limits of what Atlas can do': Boston Dynamics shows off Atlas robot's impressive fridge-lifting and drink delivery capabilities — it's only 'limited by our imagination' - TechRadar",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AJBVV95cUxQblRZNFFJVEJBZWhxejc4WW15ZDl3ajJoTTdKSj",
+      "date": "2026-05-18",
+      "link": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxQblRZNFFJVEJBZWhxejc4WW15ZDl3ajJoTTdKSjlLNTNRUmkyejdEOUdxR1FGMUN0VHFHV0N3Y2RNOWxzRWUxcGhIbFlTTnlOVkg2S2hUMUpwem5aRF9uTmYtZm5MSDh3UEctY2p2NUoyNnJwb1hPSFFTOVRlRmlueGN2THBIM2kyMUVEUXQ5UlVkMDRDdFpnSHZ4anNxQ2k0TWdHRGEtcGlWODREVGdyc0JfS013TXl6NldCbjVxaXVSd1ZNTFlaZTBLeG82cXJSYWZFbXplQUQxbVI2Z041cDFyQ2xveG1wcFVuWkJOdE1vcG9VZUNiMVJna203SGdmTlUwQWFva05qekVFN3FTSFM1bmxoVUx2cFg5eHRDdWlVS01hOGwzN2NlMm5LaGROUHdmeEFRTE14cjF4aUJCZ2QyMVBUYnJRTjcyUXBXZ3Y?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-20T15:36:25.855225"
+  "updated_at": "2026-05-21T03:53:53.045211"
 }
