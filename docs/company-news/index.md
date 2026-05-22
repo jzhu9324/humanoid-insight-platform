@@ -8,6 +8,7 @@ title: 公司动态
 
 ## 最新动态
 
+- [2026-05-22 公司动态 (97条)](/company-news/company-news-2026-05-22)
 - [2026-05-21 公司动态 (30条)](/company-news/company-news-2026-05-21)
 - [2026-05-20 公司动态 (72条)](/company-news/company-news-2026-05-20)
 - [2026-05-19 公司动态 (45条)](/company-news/company-news-2026-05-19)

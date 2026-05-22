@@ -1,0 +1,331 @@
+---
+title: 人形机器人行业日报 - 2026-05-22
+date: 2026-05-22
+type: report
+---
+
+# 人形机器人行业日报
+## 2026-05-22
+
+---
+
+## 📊 数据概览
+
+本期共收录:
+- **学术论文**: 0 篇
+- **公司动态**: 97 条
+- **行业资讯**: 0 篇
+
+---
+
+## 🎯 核心摘要
+
+# 人形机器人行业周报摘要
+
+**本周行业整体态势**
+
+过去一周人形机器人行业媒体热度高涨，共收录97条公司动态，但无学术论文发表，行业焦点集中在特斯拉Optimus的演示验证与生产推进上。
+
+**技术研究主要方向和突破**
+
+本周缺乏学术论文发布。从企业动态观察，技术重点仍集中于末端操作能力建设：特斯拉Optimus实现了递水handoff与抓取转移（grasp-transfer）两项关键技能，标志着机器人在精细化物体操控领域的进步，为后续替代人工执行简单重复任务奠定基础。
+
+**主要公司动态和产业进展**
+
+特斯拉本周成为行业唯一主角，展现多项进展：Optimus完成递水demo、公开首批试产线视频、计划将现有车型产线产能向机器人倾斜，表明其正加速推动人形机器人从实验室走向规模化制造。
+
+**值得关注的趋势或信号**
+
+特斯拉将Model S/X生产优先级让渡给Optimus，释放出传统汽车制造向智能机器人战略转型的明确信号。预计将加速其他车企跟进布局，人形机器人商业化进程有望超预期。
+
+---
+
+## 📈 趋势分析
+
+# 人形机器人行业趋势分析报告
+
+## 本周主要技术趋势和热点话题
+
+基于提供的数据分析，本周人形机器人行业呈现出以下主要技术趋势和热点话题：
+
+1. **Tesla Optimus原型机演示与生产进展**
+   - Tesla Optimus成功完成水交接演示，展示抓取和转移能力的进步，试点生产线视频首次曝光
+   - 重要性：标志着特斯拉人形机器人从概念验证向实际应用迈出关键一步，体现了特斯拉将机器人技术整合到现有生态系统的发展战略
+
+2. **Boston Dynamics Atlas高负荷搬运能力展示**
+   - Atlas机器人展示搬运100磅（约45kg）工业重物的能力，成功搬运23公斤冰箱进行饮料配送服务
+   - 重要性：体现了液压驱动机器人在重载应用中的技术优势，为工业、物流等场景的商业化应用奠定基础
+
+3. **特斯拉生产资源向机器人业务转移**
+   - 特斯拉停止Model S和Model X生产，将资源和产能优先分配给Optimus项目
+   - 重要性：这可能预示着人形机器人即将进入量产阶段，也反映了汽车制造商向机器人技术领域转型的新趋势
+
+4. **全球人形机器人市场快速增长的预期**
+   - 根据学术研究预测，到2034年全球商业人形机器人市场将达到120亿美元规模，年复合增长率达52%
+   - 重要性：为整个行业的发展前景提供了量化参考，将吸引更多资本和技术投入该领域，推动技术创新和产业化进程
+
+5. **双足运动与控制技术的持续突破**
+   - 学界持续关注双足行走技术及控制系统策略的研究，强调机器人活动能力"仅受限于想象力"（only limited by our imagination）
+   - 重要性：运动能力是人形机器人的核心技术之一，技术突破将直接决定机器人在复杂环境中的应用潜力和实际价值
+
+---
+
+## 📚 学术前沿
+
+本期收录 0 篇高质量论文：
+
+## 🏢 产业动态
+
+本期收录 97 条公司动态：
+
+
+### Boston Dynamics
+
+**'We have not seen the limits of what Atlas can do': Boston Dynamics shows off Atlas robot's impressive fridge-lifting and drink delivery capabilities — it's only 'limited by our imagination' - TechRadar**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMi0AJBVV95cUxQblRZNFFJVEJBZWhxejc4WW15ZDl3ajJoTTdKSjlLNTNRUmkyejdEOUdxR1FGMUN0VHFHV0N3Y2RNOWxzRWUxcGhIbFlTTnlOVkg2S2hUMUpwem5aRF9uTmYtZm5MSDh3UEctY2p2NUoyNnJwb1hPSFFTOVRlRmlueGN2THBIM2kyMUVEUXQ5UlVkMDRDdFpnSHZ4anNxQ2k0TWdHRGEtcGlWODREVGdyc0JfS013TXl6NldCbjVxaXVSd1ZNTFlaZTBLeG82cXJSYWZFbXplQUQxbVI2Z041cDFyQ2xveG1wcFVuWkJOdE1vcG9VZUNiMVJna203SGdmTlUwQWFva05qekVFN3FTSFM1bmxoVUx2cFg5eHRDdWlVS01hOGwzN2NlMm5LaGROUHdmeEFRTE14cjF4aUJCZ2QyMVBUYnJRTjcyUXBXZ3Y?oc=5](https://news.google.com/rss/articles/CBMi0AJBVV95cUxQblRZNFFJVEJBZWhxejc4WW15ZDl3ajJoTTdKSjlLNTNRUmkyejdEOUdxR1FGMUN0VHFHV0N3Y2RNOWxzRWUxcGhIbFlTTnlOVkg2S2hUMUpwem5aRF9uTmYtZm5MSDh3UEctY2p2NUoyNnJwb1hPSFFTOVRlRmlueGN2THBIM2kyMUVEUXQ5UlVkMDRDdFpnSHZ4anNxQ2k0TWdHRGEtcGlWODREVGdyc0JfS013TXl6NldCbjVxaXVSd1ZNTFlaZTBLeG82cXJSYWZFbXplQUQxbVI2Z041cDFyQ2xveG1wcFVuWkJOdE1vcG9VZUNiMVJna203SGdmTlUwQWFva05qekVFN3FTSFM1bmxoVUx2cFg5eHRDdWlVS01hOGwzN2NlMm5LaGROUHdmeEFRTE14cjF4aUJCZ2QyMVBUYnJRTjcyUXBXZ3Y?oc=5)
+- 简介: Boston Dynamics展示Atlas机器人开冰箱门、送饮料等精细家务能力，表明人形机器人正突破简单行走演示，向复杂日常服务应用进阶。
+
+**Boston Dynamics reveals how Atlas robot lifts 100-pound industrial loads at scale - Interesting Engineering**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGFLaHgwaEl2RTBwMS1oRjEtV01fX1FYblNvSDZiZmptT1o4SDFzVW5HckZ0X1dza2VzMFNKaFpEWk4xSmZoOWRxS3lBVE5rNnptZ2IzV0tOalVtX1BaTGU5OFZSSkxCUkp4dTc4X05oRFlOMHVTV2x2UXZSdU02TUk1UWowQkd5OUNzQzhxVzlfOTZTbFRGNmcycjF1d1hIUUw3SA?oc=5](https://news.google.com/rss/articles/CBMipAFBVV95cUxNMGFLaHgwaEl2RTBwMS1oRjEtV01fX1FYblNvSDZiZmptT1o4SDFzVW5HckZ0X1dza2VzMFNKaFpEWk4xSmZoOWRxS3lBVE5rNnptZ2IzV0tOalVtX1BaTGU5OFZSSkxCUkp4dTc4X05oRFlOMHVTV2x2UXZSdU02TUk1UWowQkd5OUNzQzhxVzlfOTZTbFRGNmcycjF1d1hIUUw3SA?oc=5)
+- 简介: Boston Dynamics展示Atlas机器人搬运100磅工业重物的能力，标志着人形机器人在重体力劳动领域的实用化突破，对行业发展具有里程碑意义。
+
+**Boston Dynamics Atlas carries 23 kg fridge as experts see limited worker replacement by 2050 - 동아사이언스**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfOUI5azRETU8tcjcxMlNISXhrVlktZzhjQkVyTlVwdWtwN2xONDFod2tac3JuUTBGWERVM0p6TklleXQtWkpfU3QwS1VobTdrZDNUcg?oc=5](https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfOUI5azRETU8tcjcxMlNISXhrVlktZzhjQkVyTlVwdWtwN2xONDFod2tac3JuUTBGWERVM0p6TklleXQtWkpfU3QwS1VobTdrZDNUcg?oc=5)
+- 简介: **摘要：** Boston Dynamics Atlas机器人成功搬运23kg冰箱，展示了重载能力，但专家预测至2050年人形机器人对劳动力的替代仍将有限，行业商业化仍面临技术和成本挑战。
+
+**Boston Dynamics Reveals the Training That Equipped Atlas to Lift and Carry Heavy Loads, Including a Fridge - TechEBlog -**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMidkFVX3lxTE5xRS1jMUZwcG04XzNxbzhvUkJYY2E1R3ZTTWtjeTZWc1ZNa1p4cFFSVFJmU1VPSjhSQnJBVHZYRm9uTVVrZjViUzVZek5VX3J1a3AybnlRZVdrQ3hTaEFvMF9UbEpIb3RSQVlqZXFJRHVaQUxTTmc?oc=5](https://news.google.com/rss/articles/CBMidkFVX3lxTE5xRS1jMUZwcG04XzNxbzhvUkJYY2E1R3ZTTWtjeTZWc1ZNa1p4cFFSVFJmU1VPSjhSQnJBVHZYRm9uTVVrZjViUzVZek5VX3J1a3AybnlRZVdrQ3hTaEFvMF9UbEpIb3RSQVlqZXFJRHVaQUxTTmc?oc=5)
+- 简介: 标签
+4. 简洁明了，突出关键信息
+
+我需要用中文来总结，因为用户用中文提问。
+</think>
+
+**摘要：** Boston Dynamics公开Atlas搬运重物（如冰箱）的训练技术，展示了人形机器人在物流、家务等场景的实际应用潜力，推动行业向实用化迈进一步。
+
+**The Bar Just Keeps Getting Higher for Tesla’s Robots - Barron's**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFRkaGJSbGZ5U09XczRoSXNFRDRWTG5fdmxSWUJ2ZmkwUFpXakJGaUVnNW96angteHdfZVJwYVJxNlNNb3Jyd3FERE91MmVtU0hKMXFTcW1CU2pMNUtmMFhPZUtvRnhLNXgtamJZdldJUEJJUFVncmpYR05rYjNfWlNzZUZ6aUlDdUN5TGdn?oc=5](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFRkaGJSbGZ5U09XczRoSXNFRDRWTG5fdmxSWUJ2ZmkwUFpXakJGaUVnNW96angteHdfZVJwYVJxNlNNb3Jyd3FERE91MmVtU0hKMXFTcW1CU2pMNUtmMFhPZUtvRnhLNXgtamJZdldJUEJJUFVncmpYR05rYjNfWlNzZUZ6aUlDdUN5TGdn?oc=5)
+- 简介: 
+
+
+### Figure AI
+
+**Figure AI's humanoid robot surpasses 80 hours in autonomous logistics test - MSN**
+- 发布时间: 2026-05-17
+- 链接: [https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanF4RGsyWXp5MWxPZnZEc1gxdmVyLVRyUFFJb0hTS0JVeUlCRDJ4WnJCSFV5NFVxVTdGRWJ1TVZQX0g3WnZTQy1xZmpIZXhRTXRFdWhUeUFISmNYWEM2cW1IeXQ3MUlYamdEWDlEYWFlRVZZZlp5bjdaaTZSUFkyeUM5dDk0MjJJVHk4bDZyZ1FKUDRJcnZkckRLRjRzSVpCVTE3UlU1b1k?oc=5](https://news.google.com/rss/articles/CBMiqAFBVV95cUxOanF4RGsyWXp5MWxPZnZEc1gxdmVyLVRyUFFJb0hTS0JVeUlCRDJ4WnJCSFV5NFVxVTdGRWJ1TVZQX0g3WnZTQy1xZmpIZXhRTXRFdWhUeUFISmNYWEM2cW1IeXQ3MUlYamdEWDlEYWFlRVZZZlp5bjdaaTZSUFkyeUM5dDk0MjJJVHk4bDZyZ1FKUDRJcnZkckRLRjRzSVpCVTE3UlU1b1k?oc=5)
+- 简介: 
+
+**Figure AI’s humanoid robots sort 88,000 packages in 72 hours during nonstop livestream - Crypto Briefing**
+- 发布时间: 2026-05-16
+- 链接: [https://news.google.com/rss/articles/CBMidkFVX3lxTE9HV1I2UUt4WmFVZ3F5ZWZvbnM5bEpJbzBRcEdVNnZwcTZsRHE0SU1fU0RCb0NQR0UtWTNpY0JiMzFrNHVPamw5NFNHbkNtazJoNWFYNW1BX3A3b1hvZXdzX1lxUnQ3V1lqLTlZWEY4MnBySEEtdFE?oc=5](https://news.google.com/rss/articles/CBMidkFVX3lxTE9HV1I2UUt4WmFVZ3F5ZWZvbnM5bEpJbzBRcEdVNnZwcTZsRHE0SU1fU0RCb0NQR0UtWTNpY0JiMzFrNHVPamw5NFNHbkNtazJoNWFYNW1BX3A3b1hvZXdzX1lxUnQ3V1lqLTlZWEY4MnBySEEtdFE?oc=5)
+- 简介: Figure AI的人形机器人在72小时内连续工作成功分拣8.8万个包裹，验证了人形机器人在物流领域的实用性和持续运行能力，推动行业商业化进程。
+
+**Physical AI Is Sending Humanoid Robots to Real Factory Floors in 2026 - Memeburn**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXlVbS1IT3ZWMHp2LWtldVJ4S205enhqdG1EN2JLbWU1MTA0VXAxa0hfbm50MkpsRzZiRTZnRHBZWDlmTDB1QnBnVlRuaHJtdm5rakpnYzc4RHkzMHh5NnE5c1RkcndNWHFHRjdQcEx0b2ZmWUktQVp2NHVCLURMUTVFdk1YZlNlSElSdUhjcjVWQTBpTEE?oc=5](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSXlVbS1IT3ZWMHp2LWtldVJ4S205enhqdG1EN2JLbWU1MTA0VXAxa0hfbm50MkpsRzZiRTZnRHBZWDlmTDB1QnBnVlRuaHJtdm5rakpnYzc4RHkzMHh5NnE5c1RkcndNWHFHRjdQcEx0b2ZmWUktQVp2NHVCLURMUTVFdk1YZlNlSElSdUhjcjVWQTBpTEE?oc=5)
+- 简介: Figure AI宣布其人形机器人将于2026年正式进入工厂车间作业，标志着物理AI技术从研发走向实际工业应用，验证了人形机器人在制造业
+
+**'Uncharted territory': Figure AI humanoid robots hit 24/7 nonstop work milestone - MSN**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMiowNBVV95cUxOcXpZM0x2QUhLbXJWTHF1RWh2SmtfajlwaHU4V21jU3JJTjBoTU5nYW00d2p3SkJLLXJ2TUlsaklQOFY5R3p5NlJTbGZZUkVzbVlycWZUVXhEV3g2Vl9aQ2VxeDJsRVN2amdiN0JkRFRwOUc2ZjRsOUEwek5qdGhEcV9oelhNTUViUzd2SmE1RHByd2ptNmhiTXhIRC1kWHpUcVdld0JhNGZETEp1empiclFKRFRVakl5aWF6emt1dzJITmw2RzRTWEFXemptZ2RwaWFubmREaEo3cmVaUUJZdTE2ekhMZENxRFdTNk5YaUxPM3NEWHBJZGc0cC03SDQ5WnZtVDFIUzlMdEJELXFRTVFldUE2eGl6TktQQ0JiZ2htUTJGVzJkem1NbkFudloycENSNGhhMlAzWnBUNzFRckxPRHVKekxYbDBKazhXMi1XV0FNZW9XSFM5QjVjalU0SlRfSjVlVVBIdTdUUzRubEhlRmdZYW16cV9UYnNjbG53UGtHS3h0TEt6RGRQaks2QTdLdFMzQndhX2VnZnJSZEVZZw?oc=5](https://news.google.com/rss/articles/CBMiowNBVV95cUxOcXpZM0x2QUhLbXJWTHF1RWh2SmtfajlwaHU4V21jU3JJTjBoTU5nYW00d2p3SkJLLXJ2TUlsaklQOFY5R3p5NlJTbGZZUkVzbVlycWZUVXhEV3g2Vl9aQ2VxeDJsRVN2amdiN0JkRFRwOUc2ZjRsOUEwek5qdGhEcV9oelhNTUViUzd2SmE1RHByd2ptNmhiTXhIRC1kWHpUcVdld0JhNGZETEp1empiclFKRFRVakl5aWF6emt1dzJITmw2RzRTWEFXemptZ2RwaWFubmREaEo3cmVaUUJZdTE2ekhMZENxRFdTNk5YaUxPM3NEWHBJZGc0cC03SDQ5WnZtVDFIUzlMdEJELXFRTVFldUE2eGl6TktQQ0JiZ2htUTJGVzJkem1NbkFudloycENSNGhhMlAzWnBUNzFRckxPRHVKekxYbDBKazhXMi1XV0FNZW9XSFM5QjVjalU0SlRfSjVlVVBIdTdUUzRubEhlRmdZYW16cV9UYnNjbG53UGtHS3h0TEt6RGRQaks2QTdLdFMzQndhX2VnZnJSZEVZZw?oc=5)
+- 简介: Figure AI 人形机器人实现24/7全天候连续工作突破，标志着其可靠性和耐久性达到新水平，为人机协作 Workplace 应用奠定基础。
+
+**Figure AI's Humanoid Robot Sorts Parcels 81 Hours Straight - 조선일보**
+- 发布时间: 2026-05-17
+- 链接: [https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2dzdzZMUmd1ZzNOMk5PWW04aHpvNXJ2VXdDWi1zTUR6T0ZsN2pTcmw0ckliR0h5LTMzRW9jTld0cjVrYVBWRW1fRXBzNE9reGdOMk1FYmtVdGpPMFNWa29lc2FQUU9vM2dTT19FMFpfN2RPTG1pUmxDRVpFUTI0RDdpZU9vb05k?oc=5](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQM2dzdzZMUmd1ZzNOMk5PWW04aHpvNXJ2VXdDWi1zTUR6T0ZsN2pTcmw0ckliR0h5LTMzRW9jTld0cjVrYVBWRW1fRXBzNE9reGdOMk1FYmtVdGpPMFNWa29lc2FQUU9vM2dTT19FMFpfN2RPTG1pUmxDRVpFUTI0RDdpZU9vb05k?oc=5)
+- 简介: Figure AI人形机器人连续工作81小时完成包裹分拣任务，展示其在物流领域的实用性和耐久性，推动人形机器人商业化应用。
+
+
+### Industry News
+
+**Robots Could Turn E-Waste Into a Source of Legacy Chips**
+- 发布时间: 2026-05-19
+- 链接: [https://spectrum.ieee.org/e-waste-recycling-robots-ram](https://spectrum.ieee.org/e-waste-recycling-robots-ram)
+- 简介: 机器人技术可用于从电子废弃物中提取和回收有价值的旧芯片，为人形机器人开辟废弃物回收等新应用场景，同时缓解芯片短缺问题。
+
+**What Makes a Job Dull, Dirty, or Dangerous?**
+- 发布时间: 2026-05-18
+- 链接: [https://spectrum.ieee.org/dull-dirty-dangerous-robots](https://spectrum.ieee.org/dull-dirty-dangerous-robots)
+- 简介: 
+
+**Video Friday: Heavy Robotic Machinery Operates Itself**
+- 发布时间: 2026-05-15
+- 链接: [https://spectrum.ieee.org/video-friday-material-handling-robots](https://spectrum.ieee.org/video-friday-material-handling-robots)
+- 简介: 该视频展示了重型物料处理机器人实现了自主运行操作，无需人工持续操控。这一技术进展表明机器人自动化正在向更复杂的工业场景扩展，对人形机器人在物流搬运、仓储等领域的实际应用具有技术参考价值。
+
+**I Gave My OpenClaw Agent a Physical Body**
+- 发布时间: 2026-05-20
+- 链接: [https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/](https://www.wired.com/story/i-gave-my-openclaw-agent-physical-body-robot/)
+- 简介: AI代理软件OpenClaw获得物理机器人身体，实现软硬件结合。该案例体现了AI向具身智能发展的趋势，为家用服务机器人的人机协作提供新思路。
+
+**Brain Corp partners with UC San Diego to help robots operate in complex environments**
+- 发布时间: 2026-05-21
+- 链接: [https://www.therobotreport.com/brain-corp-partners-uc-san-diego-help-robots-operate-complex-environments/](https://www.therobotreport.com/brain-corp-partners-uc-san-diego-help-robots-operate-complex-environments/)
+- 简介: 
+
+
+### Sanctuary AI
+
+**Sanctuary AI: Humanoid Robots Will Hit Homes In 3-7 Years - Forbes**
+- 发布时间: 2026-05-16
+- 链接: [https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGNCQ3NjOWpNRFdHWGhNQzlnaDA1MGM0Y1M0QVhxbElnaWNRZjJUVGdfZVY1aHc2U0VEd3MtWUVpMDFmVXRqLUE3MFpDazZwNzVNMldCLWh6OUdYSmlwWUNtOTVLd25vVUhfTEstX1hUS2MyaFM3T3A1OWdjd0duLXdiT25GYld6d2hkS2dFVzZDSnBZRUtKZGVhT2xyQS04ejZucFlrTnJrSE9GNW0w?oc=5](https://news.google.com/rss/articles/CBMirwFBVV95cUxQOGNCQ3NjOWpNRFdHWGhNQzlnaDA1MGM0Y1M0QVhxbElnaWNRZjJUVGdfZVY1aHc2U0VEd3MtWUVpMDFmVXRqLUE3MFpDazZwNzVNMldCLWh6OUdYSmlwWUNtOTVLd25vVUhfTEstX1hUS2MyaFM3T3A1OWdjd0duLXdiT25GYld6d2hkS2dFVzZDSnBZRUtKZGVhT2xyQS04ejZucFlrTnJrSE9GNW0w?oc=5)
+- 简介: 标签
+4. 简洁明了，突出关键信息
+
+我需要提供一个简洁的摘要，强调Sanctuary AI预测人形机器人将在3-7年内进入家庭，以及这对行业的意义。
+</think>
+
+Sanctuary AI预测人形机器人将在3-7年内进入家庭，标志着消费级市场即将来临，将加速整个产业链的技术迭代与商业化落地。
+
+**Helios Humanoid Robot Boasts Four Arms For In-Orbit Missions - Gadget Review**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMikwFBVV95cUxQdE5tOGhhM2dlX3JxcUI2V040dVFoWS1ZM2ZpQTRMUzBlLUI4M0J5V0Z6QjlaT1UwNWZvWlJwZFhQa2lXODlHeFBtbzFzYUNaUk9kSHk4V3J4OEhmZk5hZ0tQQnl5d0F1YlE1SXBsWUtxUU5iQ0NvSnFNSWpxejJLTFd5eU1mMWJIT3hUTGRlM1JsOVE?oc=5](https://news.google.com/rss/articles/CBMikwFBVV95cUxQdE5tOGhhM2dlX3JxcUI2V040dVFoWS1ZM2ZpQTRMUzBlLUI4M0J5V0Z6QjlaT1UwNWZvWlJwZFhQa2lXODlHeFBtbzFzYUNaUk9kSHk4V3J4OEhmZk5hZ0tQQnl5d0F1YlE1SXBsWUtxUU5iQ0NvSnFNSWpxejJLTFd5eU1mMWJIT3hUTGRlM1JsOVE?oc=5)
+- 简介: Sanctuary AI
+
+
+### Sunday Robotics
+
+**Humanoid, Schaeffler to Bring Thousands of Robots to Factories - AI Business**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMikAFBVV95cUxQNUxpajJic2tUYTUwLW5CcE85cEdfdHplU3lESUxaS3hWQnA1dUhQUjg3aXpPemRpQ2tFcG52YjBiQ3BDZXIwMDBBMEo0Nk1vN05HTHphX0JBYmlTaW9uTkFMSFUzMUtMaUFKTnpnMThLMGYwUlhiQV9Cdk91R0drU0JMMzlUenNfMHJ2alpydmg?oc=5](https://news.google.com/rss/articles/CBMikAFBVV95cUxQNUxpajJic2tUYTUwLW5CcE85cEdfdHplU3lESUxaS3hWQnA1dUhQUjg3aXpPemRpQ2tFcG52YjBiQ3BDZXIwMDBBMEo0Nk1vN05HTHphX0JBYmlTaW9uTkFMSFUzMUtMaUFKTnpnMThLMGYwUlhiQV9Cdk91R0drU0JMMzlUenNfMHJ2alpydmg?oc=5)
+- 简介: Humanoid与工业巨头Schaeffler合作，将数千台人形机器人部署至工厂生产线上。这标志着人形机器人从研发阶段迈向规模化工业应用，对行业发展具有里程碑意义。
+
+**Silicon Valley test pits human against robot - 동아일보**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GM0ZodDQyNDFraDhXWW5ELWNkUkVacC1NUTdzQWtmZ3NUVi1kNkRISXh0YUxOM2xaRDlhZmRFZFI1YjMxOHZfeS02LUVPS0lULUFiT1lQeV94bFk0TzZpc3VIdnd2dw?oc=5](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GM0ZodDQyNDFraDhXWW5ELWNkUkVacC1NUTdzQWtmZ3NUVi1kNkRISXh0YUxOM2xaRDlhZmRFZFI1YjMxOHZfeS02LUVPS0lULUFiT1lQeV94bFk0TzZpc3VIdnd2dw?oc=5)
+- 简介: 
+
+
+### Tesla
+
+**Tesla Optimus Completes Water Handoff: Grasp-Transfer Progress Arrives Weeks Before Fremont Ramp - Tech Times**
+- 发布时间: 2026-05-22
+- 链接: [https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUEprSVlpR3lXdlVGSU5PMGhXbVE4QmpHNjVILUpOYnYtQmhnWjJoSFhsT0UxdVd4X3JqVDFfZDBCSExCVjg4bHEwcDdLdmhmSU5mTnBNTGVRYTBxOUR6MEE3VmFLU2VHRmpwcVR4OVRtWVpJV3o1dlAwMjg4VzZjZ2J6TVIwZElqcmV0Tkp6MGo5UnhxdGRHUk9qdU9DMWxoVFZHS09kck5BNVRNQ0hWQW9nMllqUG1QekxrMEY3eV9NRmx3STNwQlRTQjNxQ1YtS1NGa3U5VHptcGlVUnNlT25XeC0?oc=5](https://news.google.com/rss/articles/CBMi5AFBVV95cUxPUEprSVlpR3lXdlVGSU5PMGhXbVE4QmpHNjVILUpOYnYtQmhnWjJoSFhsT0UxdVd4X3JqVDFfZDBCSExCVjg4bHEwcDdLdmhmSU5mTnBNTGVRYTBxOUR6MEE3VmFLU2VHRmpwcVR4OVRtWVpJV3o1dlAwMjg4VzZjZ2J6TVIwZElqcmV0Tkp6MGo5UnhxdGRHUk9qdU9DMWxoVFZHS09kck5BNVRNQ0hWQW9nMllqUG1QekxrMEY3eV9NRmx3STNwQlRTQjNxQ1YtS1NGa3U5VHptcGlVUnNlT25XeC0?oc=5)
+- 简介: **摘要**：Tesla Optimus机器人实现水传递与抓取转移功能新进展，表明其精细操作能力持续提升，为未来商用落地奠定技术基础，推动人形机器人行业向实际应用更进一步。
+
+**Tesla Optimus Caught Handing Out Water in New Demo - BASENOR - Tesla Accessories**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTFKRkhGSncwZVlHZjBVbzFQd1BSeDFMSGJPUnRabXhKZHEwR2pHR25VYmVkcEdmdE5UVzVobGNjcmsyQ0w3UGU4dXdNWUtxUHR5SVY3RUVuUXdacm5RcDVHT3lBLVd6VGlxa25LMFVKYWRjaTJTdHhlV21Xd1M0RnpUOXMxNXZZeGlUbVJn?oc=5](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZTFKRkhGSncwZVlHZjBVbzFQd1BSeDFMSGJPUnRabXhKZHEwR2pHR25VYmVkcEdmdE5UVzVobGNjcmsyQ0w3UGU4dXdNWUtxUHR5SVY3RUVuUXdacm5RcDVHT3lBLVd6VGlxa25LMFVKYWRjaTJTdHhlV21Xd1M0RnpUOXMxNXZZeGlUbVJn?oc=5)
+- 简介: Tesla Optimus机器人在演示中展示递水功能，体现了特斯拉推进人形机器人进入实际服务场景的努力，展示其在服务型机器人领域的技术进步。
+
+**The Bar Just Keeps Getting Higher for Tesla’s Robots - Barron's**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFRkaGJSbGZ5U09XczRoSXNFRDRWTG5fdmxSWUJ2ZmkwUFpXakJGaUVnNW96angteHdfZVJwYVJxNlNNb3Jyd3FERE91MmVtU0hKMXFTcW1CU2pMNUtmMFhPZUtvRnhLNXgtamJZdldJUEJJUFVncmpYR05rYjNfWlNzZUZ6aUlDdUN5TGdn?oc=5](https://news.google.com/rss/articles/CBMijgFBVV95cUxQVFRkaGJSbGZ5U09XczRoSXNFRDRWTG5fdmxSWUJ2ZmkwUFpXakJGaUVnNW96angteHdfZVJwYVJxNlNNb3Jyd3FERE91MmVtU0hKMXFTcW1CU2pMNUtmMFhPZUtvRnhLNXgtamJZdldJUEJJUFVncmpYR05rYjNfWlNzZUZ6aUlDdUN5TGdn?oc=5)
+- 简介: 特斯拉人形机器人技术标准不断提升，行业竞争加剧，推动整个产业加速发展。
+
+**Tesla Optimus Pilot Production Line Gets First Look on Video - BASENOR - Tesla Accessories**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMimwFBVV95cUxOWU55c1FRbjF6RGZtU2ZXODE5MHkyU3FLMEFrOVd2Wko4YVJWTVUySk9VRlNDa3BHYVR1cGtHTzh5WnlXMnp5dGtQck5kQUhvcVRUblAxa0NWOGk3Z3kyME9qb2tPSXdUY2YzUkRsc3RBbVBXVE1fOGl3cDlPT2V2MlFmcGJodGhrSGpuVDc5bWkyMlhQMGFCQVJLbw?oc=5](https://news.google.com/rss/articles/CBMimwFBVV95cUxOWU55c1FRbjF6RGZtU2ZXODE5MHkyU3FLMEFrOVd2Wko4YVJWTVUySk9VRlNDa3BHYVR1cGtHTzh5WnlXMnp5dGtQck5kQUhvcVRUblAxa0NWOGk3Z3kyME9qb2tPSXdUY2YzUkRsc3RBbVBXVE1fOGl3cDlPT2V2MlFmcGJodGhrSGpuVDc5bWkyMlhQMGFCQVJLbw?oc=5)
+- 简介: 
+
+**Tesla Model S and Tesla Model X Production Face an Uncertain Future as Optimus Robots Take Priority - Techgenyz**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMif0FVX3lxTE9ha1dhZ3dua1M0cmJIc2JCcHE1V2IwTDJBcDhNZTdmTVRMWHNRZG9odVlfS0ZmWW9WSjZOOWUyV2VEcWU2ZnZZejRJcjRrdXZLN2NoTnE5c1BqaUg4V2poRVpCTVA3WWgyZnAtU2R1bkx1VW1nSnpJU25uTE03bXM?oc=5](https://news.google.com/rss/articles/CBMif0FVX3lxTE9ha1dhZ3dua1M0cmJIc2JCcHE1V2IwTDJBcDhNZTdmTVRMWHNRZG9odVlfS0ZmWW9WSjZOOWUyV2VEcWU2ZnZZejRJcjRrdXZLN2NoTnE5c1BqaUg4V2poRVpCTVA3WWgyZnAtU2R1bkx1VW1nSnpJU25uTE03bXM?oc=5)
+- 简介: Tesla将资源向Optimus人形机器人项目倾斜，Model S/X产可能受限。此举标志着汽车龙头加速布局人形机器人赛道，推动行业商业化进程。
+
+
+### Unitree Robotics
+
+**Fraunhofer IPA offers new test benchmark for humanoids - The Robot Report**
+- 发布时间: 2026-05-17
+- 链接: [https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmtLVGNUTS1ZaWhaWDFSTU9Obkk1RGd3cmREeFR2VE9lZHFPbzNoLWpBSF95VlJHb081ZkxBRjhWUjRjTnFRQ2xxWHZhdGZHaV9PV0YwR3lMRDgtbXA4aFRyMXJFU01BOTZvMGtCRS1KMVR4a0pLMVE1ekQyc3UxVy11ZWNveHJ5bW44WEdiYy1kWDRnWlZV?oc=5](https://news.google.com/rss/articles/CBMilwFBVV95cUxPYmtLVGNUTS1ZaWhaWDFSTU9Obkk1RGd3cmREeFR2VE9lZHFPbzNoLWpBSF95VlJHb081ZkxBRjhWUjRjTnFRQ2xxWHZhdGZHaV9PV0YwR3lMRDgtbXA4aFRyMXJFU01BOTZvMGtCRS1KMVR4a0pLMVE1ekQyc3UxVy11ZWNveHJ5bW44WEdiYy1kWDRnWlZV?oc=5)
+- 简介: Fraunhofer IPA推出全新人形机器人测试基准，为行业提供标准化性能评估工具，有助于推动技术迭代与商业落地。
+
+**JAL Deploys Unitree G1 Robots at Haneda as U.S. Congress Moves to Blacklist Supplier for National Security - Tech Times**
+- 发布时间: 2026-05-19
+- 链接: [https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbmw4em1LaU9OWWpaSWZnY2tHS0VDbVZHTU5Bd2xnT3ZsYUt2UW5TZV9HTnh5YUxkYkdjMmNBWi12VEpaMmlMLTFJT1F2QldaaDJtS2NCWWk0OElLVGhkWnBJY29EbkxKUFFjY2MzRFJRU09qY2JjODRRZk16SXd6Ni1qWGs0TlJ0QlpGdU1qNXFIbWx0Znlfak53a3ZjcGVOSENBTlpfcTY3VW1MVExGSVFuUnJIeEwxM1RFempyc29Sd21uam5XdDdrV2ctQUxTSmc4UXFEUDFISUhHZnZN?oc=5](https://news.google.com/rss/articles/CBMi3wFBVV95cUxNbmw4em1LaU9OWWpaSWZnY2tHS0VDbVZHTU5Bd2xnT3ZsYUt2UW5TZV9HTnh5YUxkYkdjMmNBWi12VEpaMmlMLTFJT1F2QldaaDJtS2NCWWk0OElLVGhkWnBJY29EbkxKUFFjY2MzRFJRU09qY2JjODRRZk16SXd6Ni1qWGs0TlJ0QlpGdU1qNXFIbWx0Znlfak53a3ZjcGVOSENBTlpfcTY3VW1MVExGSVFuUnJIeEwxM1RFempyc29Sd21uam5XdDdrV2ctQUxTSmc4UXFEUDFISUhHZnZN?oc=5)
+- 简介: JAL在东京机场部署Unitree G1机器人，显示人形机器人商业化加速，但美国国会考虑将Unit
+
+**China’s Unitree Debuts World's First Pilotable ‘Mech’ Humanoid for USD574,200 - Yicai Global**
+- 发布时间: 2026-05-17
+- 链接: [https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTR3S21sVnhMZ28yT0tia0JqVnI2SHZGMFdGZFlUUVpNY0xEZDl3b3d4aW0zVXFWRzhYeVlCOUVnX2k4R0tUbW9tTXdxbU14SDU3UjJpYUhEd1ZTOFNwakwtNUNIRUlNbzdhU0tFaGIzRnA3bU5Pd1N0ZHNFSXYwTFl5SFI1X1YyY1FteFVnenZHMDQ3SnlKZ3ltdUxIMHptT2Fscm9zckNJdw?oc=5](https://news.google.com/rss/articles/CBMiqgFBVV95cUxQaTR3S21sVnhMZ28yT0tia0JqVnI2SHZGMFdGZFlUUVpNY0xEZDl3b3d4aW0zVXFWRzhYeVlCOUVnX2k4R0tUbW9tTXdxbU14SDU3UjJpYUhEd1ZTOFNwakwtNUNIRUlNbzdhU0tFaGIzRnA3bU5Pd1N0ZHNFSXYwTFl5SFI1X1YyY1FteFVnenZHMDQ3SnlKZ3ltdUxIMHptT2Fscm9zckNJdw?oc=5)
+- 简介: 中国Unitree推出
+
+**Editorial | China’s AI-enabled robots set to transform global playing field - South China Morning Post**
+- 发布时间: 2026-05-15
+- 链接: [https://news.google.com/rss/articles/CBMisgFBVV95cUxNNm5FbW1BaUdHSDNMZFBHMVlOeUw3SkxQcDRteWFybXF3LVB1OXF5eWY1WWFxSXRJcmRDd3I0ZUJ2aVByQkVpbjNBNDRMemNCVmRoZnAyVnJNVDZjb2xVOHptSUJnYkdYY09YSzlHMmE2cDNLdXl0dmVYbmhzQ0FLTUM3UDlTcFVjeVZMVXRXc0x3cUFwYXhicS1ZQl9HdzgtR2I0ZWxuMjlGNlFscmJxdnN30gGyAUFVX3lxTE03UHBqWkRLdkZObzBjcWMxRTlsTzd0MFI1TldNTFpQdkViMzlCNU1wZDhwd19rV2J0eDhMaGpDSFU3aENxcDBIc0YxNVowd21YaHBFcEdTQVV2S1FhS3F1WENoaGxCdkhXVl9fY2ttY21vdTNnUk1HQlljd1FFeGExVXdRZ2tsSURlRGVLdWIzVHppSTRHUDZtLTdfUzhJclRaZGtMMk1hT0JVNHFFTnFXdlE?oc=5](https://news.google.com/rss/articles/CBMisgFBVV95cUxNNm5FbW1BaUdHSDNMZFBHMVlOeUw3SkxQcDRteWFybXF3LVB1OXF5eWY1WWFxSXRJcmRDd3I0ZUJ2aVByQkVpbjNBNDRMemNCVmRoZnAyVnJNVDZjb2xVOHptSUJnYkdYY09YSzlHMmE2cDNLdXl0dmVYbmhzQ0FLTUM3UDlTcFVjeVZMVXRXc0x3cUFwYXhicS1ZQl9HdzgtR2I0ZWxuMjlGNlFscmJxdnN30gGyAUFVX3lxTE03UHBqWkRLdkZObzBjcWMxRTlsTzd0MFI1TldNTFpQdkViMzlCNU1wZDhwd19rV2J0eDhMaGpDSFU3aENxcDBIc0YxNVowd21YaHBFcEdTQVV2S1FhS3F1WENoaGxCdkhXVl9fY2ttY21vdTNnUk1HQlljd1FFeGExVXdRZ2tsSURlRGVLdWIzVHppSTRHUDZtLTdfUzhJclRaZGtMMk1hT0JVNHFFTnFXdlE?oc=5)
+- 简介: 中国AI机器人技术快速发展，将在全球市场形成竞争优势，推动人形机器人行业进入全球化竞争新阶段。
+
+**China’s Unitree Robotics Receive Orders For Production Ready “Mecha” - BusinessToday Malaysia**
+- 发布时间: 2026-05-16
+- 链接: [https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFpjYUdXNi1rV29TYTBCLXFRQm1LMXpqbmNyaXE0LXIwX3pVMndSQkJOWUlBM2hzMUFoWE5qV08xc0Q5czljcHJVYWFxZjl3OXVBMnpQWS1ILWdLUXZNNWZnZktGdmlZMEpCQVpwdXY1TkJ0cVdua184OVhNb3hMOEpBdF9jOUpYeTFPSXA1aDFVWm5peXZJcmNhOTVuQmVKUXJ0UjZCcm03RUFxUm9z?oc=5](https://news.google.com/rss/articles/CBMirwFBVV95cUxPOFpjYUdXNi1rV29TYTBCLXFRQm1LMXpqbmNyaXE0LXIwX3pVMndSQkJOWUlBM2hzMUFoWE5qV08xc0Q5czljcHJVYWFxZjl3OXVBMnpQWS1ILWdLUXZNNWZnZktGdmlZMEpCQVpwdXY1TkJ0cVdua184OVhNb3hMOEpBdF9jOUpYeTFPSXA1aDFVWm5peXZJcmNhOTVuQmVKUXJ0UjZCcm03RUFxUm9z?oc=5)
+- 简介: 
+
+
+### 优必选
+
+**优必选发布消费级人形机器人品牌 - 新浪财经**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMiigNBVV95cUxPdlk3NXVsQVRzbEI4UUgxTkZQbkIzVWlKc3h0YnF1V3hSSktnS3VIRXlhTnN4Q0c2bnFjUnlmV0RuM0FfWjJaQlZ5cDItcjBqVGM4cFQ1T1ZIOUpzTkJZV29NS0dRcUF6UGVTQTdxeVpqbV9fWUVnaUo5Mk80Tm00MGJJcFRlWGF3MGJLaHhlM3BGbUVCT3JWSG96S3NvbENrWTN0MnF4LU1pX3B6dUNYNldLZEpYWURlbE8yZ191Q0dSZWxqOWpuXzBwY1RQT204SGhhS0Jvd3ZFMTh5RWdJUDU1Y09zbnZhY2g0UkVJTUNwSi1pc3VSZzRIU3R3cmNBbkI3cmZHc2hLYnRqRDZ1N0NvdnBCZm1xN3lhZUNSeUV5dWszaXhUM0lYcXJYMTJXb0REMjBSTFJBNUhoRXY4dnhpcEdKM05KLW42RzctNEdpaGNJZHAyN2dLeE1FYTVNa1NSbE5uZUk1QWQ4ZUt6QXRsSXp3OEFMbElsbjYzOElORUx3VWo4STFR?oc=5](https://news.google.com/rss/articles/CBMiigNBVV95cUxPdlk3NXVsQVRzbEI4UUgxTkZQbkIzVWlKc3h0YnF1V3hSSktnS3VIRXlhTnN4Q0c2bnFjUnlmV0RuM0FfWjJaQlZ5cDItcjBqVGM4cFQ1T1ZIOUpzTkJZV29NS0dRcUF6UGVTQTdxeVpqbV9fWUVnaUo5Mk80Tm00MGJJcFRlWGF3MGJLaHhlM3BGbUVCT3JWSG96S3NvbENrWTN0MnF4LU1pX3B6dUNYNldLZEpYWURlbE8yZ191Q0dSZWxqOWpuXzBwY1RQT204SGhhS0Jvd3ZFMTh5RWdJUDU1Y09zbnZhY2g0UkVJTUNwSi1pc3VSZzRIU3R3cmNBbkI3cmZHc2hLYnRqRDZ1N0NvdnBCZm1xN3lhZUNSeUV5dWszaXhUM0lYcXJYMTJXb0REMjBSTFJBNUhoRXY4dnhpcEdKM05KLW42RzctNEdpaGNJZHAyN2dLeE1FYTVNa1NSbE5uZUk1QWQ4ZUt6QXRsSXp3OEFMbElsbjYzOElORUx3VWo4STFR?oc=5)
+- 简介: 优必选发布消费级人形机器人品牌，标志着中国人形机器人企业正式进军消费市场，推动技术从B端向C端应用转化，为个人消费级智能机器人市场发展奠定基础。
+
+**德马科技与优必选合作进一步落地 成立合资公司德优智联 - zqrb.cn**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMia0FVX3lxTE1DUnhKNk1uRzF4M3k5NEw4bzA0aTNsMG8taXZndDZQZ1Bqd0JkMFJjbkZPUGxTZnMzaWFyNjU1cjFFU2JFcmlZTFA2SmRKMy1Mck8yLVNzQU5nSEEwanNMaFRNLTJuYVNIcm1R?oc=5](https://news.google.com/rss/articles/CBMia0FVX3lxTE1DUnhKNk1uRzF4M3k5NEw4bzA0aTNsMG8taXZndDZQZ1Bqd0JkMFJjbkZPUGxTZnMzaWFyNjU1cjFFU2JFcmlZTFA2SmRKMy1Mck8yLVNzQU5nSEEwanNMaFRNLTJuYVNIcm1R?oc=5)
+- 简介: 德马科技与优必选成立合资公司德优智联，深化
+
+**港股异动丨优必选大涨超7%，正式推出消费级人形机器人品牌“优世界UWORLD” - AASTOCKS.com**
+- 发布时间: 2026-05-22
+- 链接: [https://news.google.com/rss/articles/CBMigAFBVV95cUxPRi1QSnFxX0o2RUY5akh5MEFFQ0JIdUZvX2xLbFVlckNreThTX2dYc1dTUVJQQzQyWk9oUUQ1QUlhVTk5TGZWX2xmaXI2Vzl3SEI3dGVwb1k1cS10RU54azl6NTRKN2k1MGFsMjE3MWZEcUlyWnFzbWxFQjR2aHpBaQ?oc=5](https://news.google.com/rss/articles/CBMigAFBVV95cUxPRi1QSnFxX0o2RUY5akh5MEFFQ0JIdUZvX2xLbFVlckNreThTX2dYc1dTUVJQQzQyWk9oUUQ1QUlhVTk5TGZWX2xmaXI2Vzl3SEI3dGVwb1k1cS10RU54azl6NTRKN2k1MGFsMjE3MWZEcUlyWnFzbWxFQjR2aHpBaQ?oc=5)
+- 简介: 优必选股价大涨超7%，推出消费级人形机器人品牌“优世界UWORLD”，标志着中国人形机器人正式进军大众消费市场。
+
+**优必选打响消费级人形机器人第一枪？“优世界UWORLD”正式登场 - 机器人大讲堂**
+- 发布时间: 2026-05-20
+- 链接: [https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMemM3cG1Ldlo1eXJjZzFxMG9QekVWSHNDTFhCS0RVUGxyR0ZnakJEOGhvMjBoT1ZNVmx6MmZFZklzYU1WbkhTeWZYdlI?oc=5](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBMemM3cG1Ldlo1eXJjZzFxMG9QekVWSHNDTFhCS0RVUGxyR0ZnakJEOGhvMjBoT1ZNVmx6MmZFZklzYU1WbkhTeWZYdlI?oc=5)
+- 简介: 优必选发布消费级人形机器人"优世界UWORLD"，正式进军消费级市场，标志着人形机器人从B端向C端应用的重要突破
+
+**优必选被拍在沙滩上 - 搜狐网**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXFXblZDNjl0THN0TkxqN2hEMU1pb0JadGxJQnVRRm91QWRSTDhPcDd5NjdYeUJIZHNuSGdlTFJiZnlYcm10Z3EyWVpjV3ZWMklpME9rR21hWHhxR0xDS2wxdVhOeldTUTNUcDY3aGhNRGFxdTlIWS1pWnZTNXBPZXVjbmtCWTdh?oc=5](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOXFXblZDNjl0THN0TkxqN2hEMU1pb0JadGxJQnVRRm91QWRSTDhPcDd5NjdYeUJIZHNuSGdlTFJiZnlYcm10Z3EyWVpjV3ZWMklpME9rR21hWHhxR0xDS2wxdVhOeldTUTNUcDY3aGhNRGFxdTlIWS1pWnZTNXBPZXVjbmtCWTdh?oc=5)
+- 简介: 优必选近期遭遇发展困境，股价大幅下跌，业绩表现不佳。此事件反映出人形机器人行业竞争加剧，企业需加强技术创新和市场竞争力。
+
+
+### 小米机器人
+
+**手机长出“手脚”？机器人扔掉遥控器！ - 新浪网**
+- 发布时间: 2026-05-21
+- 链接: [https://news.google.com/rss/articles/CBMitAxBVV95cUxNTnRyUDhRQTNyY29XSDdSOUExQmlyUXRqdTN1SzBzTnhhRjdtS1RxZlQxLUdlNGh3My1yamxZbW0xa01nOE5PdVFBbFdKY28tSDRub3RpTTBrd0o1czBJQTZZdm1CaWJ4eDZ4VVl4X3BFWU5rMi1MQ2RNdTBfRG1Ia0JGeFZYZ1doQXlMeUlIV1R5VGFfYzFMcHh6OGJmX2piUWhYR21udkF2WnNCaFRSNEdyakNYMEpvRUFNSnMwRjV6a01YTldPVjczQzVzeklLXzZfQUFWSmIwQmp0T1liNVFBUHRnakdqNXpBcURla0ExYnUya1l5dDZ2TkhIVHZwZkxwS2JDbnVRVDhyb0lrSUVCSGlBYms3Q0FxWUFncnFfaXF3QkQ3M1h5dE5IcTRFalY5dzFzWFlnU3licmlqNXFEM2o3TTUwZXZPb0JES09xVzh4Z3ZLMHM2bmNqYUFrb253YVJBZVh6N2VPZ2xRTnNJbnpwYnRDU1NCeklJbU1XZ2k5NUczbnF0aE5VVFJ2QnN3Xy15UERlV29RZXItWjNOeUZ0YVJYakhVTk9mZUxyUDlENGFpanVURmo2X19LYS1tYWgwV1pKTHliVW5vQWRfNGFfY1Y2eFVYZVZxal9QLVpkYjdJSFNwMlM3UlNYWEtIZXdMZFc4TnVwZjd1X3RKQzhNaTBQZ1JTSVBnT1FzM0ZFR2hvUGM3WklCelg5dkRoaTJLMFFkRmhTN0pJckxzWWh3ZFVIeHZhYzdLNGEzZDlQNmczN2pWNzJVUkZMNWpCZGNtamk2eTA0Y1RfTW1ObjF4Y0F1VHJ2MDdZTmZjUWMxTDdfdTlKc1RYaHZjYWVsQmFIUTZISnJvUG5WM29XRUtnYVpNeTJJY3phZzBZbWlNZUxSam0zbkF0R0ozckcyU0gzeVJJUzMxMU5UbVBJNlNwcEducDhQdHFrQ1hrMjJuOTZwSFZVNW5XdTZzOGRaampsWWhNRi1ackRqN21yWVZnWmcxOHBCbTRULU5Zcm9rMWNiSHBhNU9UUG5sdnBhSGttcW5mcmNnOWxZcG9MMFE4N3M2U1Q2cDAwLWJCVkRsNVh1R2tWcTVpOTV2NVJ2cnNyS2xNakN4a3JCZHZJVU1tN0hzT3EzMVZ5UGlUdWNXT0R6V0hSclFTY2NQVWowbng5aEJFRkZKX3FROUhjelZ5SzZEUFBjaXhMTHRDNkg5cEMxU3lid0NjZzFLQ1prbGN2MDUtWDU0RVhDekg0RER2SmdWdFh3OXNmdzEyUW02c25HNFk2TzlrUVlBUC1TOWZlSE1SUENvZE1FTTZSME5pdDRzVUR6REl3MHRiaHEyLWxMbnFvRnN5cEt4YndHdWx3XzdfVVQ3SXBoYzNoYldFdnNGNWhiLU1CX1dwaFNNVEZ4NHNRc0tDTXpHN25MVWdFSmpDejhiY2o2RV85MFllNkp5bE9Wa1lEREhoc2YwaWp4V09Ec1YtMm9kUkx0dVU0aXJwaVlCRVdzR2VCSjBIbUN0NFp5SC1IMW5wbUdNdjNtYkNjUlB4TlhxaE5DcmdFdnowU1VpcnF1OFpaLTFGLUJCSHJDYm5sYTdQejgyMW9iRmRVdzYyM2YwcHpfamhrQV9kQ3pIbE8wMlFwc05ONldZcE9Wd3BzYUhRWHNXeG9UVFJTdGpsUkdkcTJfX284U0JoS09ZbDUyM2xfZDMxdjl5c0ZEU3hsdUNiRWM0UjliaGUwSTNXdjFfR1hlVjV4aTgteWtFSE5jRXFmc1EtTWFSbm9wckN5Z19NaXZ3OGxnQVRudlFDQlJadTFKRHg2ZWZFbUJ2ekJqSG5lYzI0V1FZTF9rX3hySkd6RkVLNV9QckFZcmRMTWFKeHd5dmpTeW9KOTBOZFIyT1VsSDRwcjEzY2x4R0JtSmNoX2IyZUxWQ2ZQc3JiZUd1YmdsbEpLNzl6dGZQcG9mMWk5ZWVybDd4OVVxZU5FWHNENi0zU1lpQVl2VTh0UDdGOGNXN0ZNM0NEODc3X0gwV20tT3VYZlphb3RlZ28teUl6LS1Lb2tNTlJ3Znd1RVFQT1otVHhVdHlkYjlsMVZIbDdSd2ZtUlJaS1dQMWZORTF5cVFV?oc=5](https://news.google.com/rss/articles/CBMitAxBVV95cUxNTnRyUDhRQTNyY29XSDdSOUExQmlyUXRqdTN1SzBzTnhhRjdtS1RxZlQxLUdlNGh3My1yamxZbW0xa01nOE5PdVFBbFdKY28tSDRub3RpTTBrd0o1czBJQTZZdm1CaWJ4eDZ4VVl4X3BFWU5rMi1MQ2RNdTBfRG1Ia0JGeFZYZ1doQXlMeUlIV1R5VGFfYzFMcHh6OGJmX2piUWhYR21udkF2WnNCaFRSNEdyakNYMEpvRUFNSnMwRjV6a01YTldPVjczQzVzeklLXzZfQUFWSmIwQmp0T1liNVFBUHRnakdqNXpBcURla0ExYnUya1l5dDZ2TkhIVHZwZkxwS2JDbnVRVDhyb0lrSUVCSGlBYms3Q0FxWUFncnFfaXF3QkQ3M1h5dE5IcTRFalY5dzFzWFlnU3licmlqNXFEM2o3TTUwZXZPb0JES09xVzh4Z3ZLMHM2bmNqYUFrb253YVJBZVh6N2VPZ2xRTnNJbnpwYnRDU1NCeklJbU1XZ2k5NUczbnF0aE5VVFJ2QnN3Xy15UERlV29RZXItWjNOeUZ0YVJYakhVTk9mZUxyUDlENGFpanVURmo2X19LYS1tYWgwV1pKTHliVW5vQWRfNGFfY1Y2eFVYZVZxal9QLVpkYjdJSFNwMlM3UlNYWEtIZXdMZFc4TnVwZjd1X3RKQzhNaTBQZ1JTSVBnT1FzM0ZFR2hvUGM3WklCelg5dkRoaTJLMFFkRmhTN0pJckxzWWh3ZFVIeHZhYzdLNGEzZDlQNmczN2pWNzJVUkZMNWpCZGNtamk2eTA0Y1RfTW1ObjF4Y0F1VHJ2MDdZTmZjUWMxTDdfdTlKc1RYaHZjYWVsQmFIUTZISnJvUG5WM29XRUtnYVpNeTJJY3phZzBZbWlNZUxSam0zbkF0R0ozckcyU0gzeVJJUzMxMU5UbVBJNlNwcEducDhQdHFrQ1hrMjJuOTZwSFZVNW5XdTZzOGRaampsWWhNRi1ackRqN21yWVZnWmcxOHBCbTRULU5Zcm9rMWNiSHBhNU9UUG5sdnBhSGttcW5mcmNnOWxZcG9MMFE4N3M2U1Q2cDAwLWJCVkRsNVh1R2tWcTVpOTV2NVJ2cnNyS2xNakN4a3JCZHZJVU1tN0hzT3EzMVZ5UGlUdWNXT0R6V0hSclFTY2NQVWowbng5aEJFRkZKX3FROUhjelZ5SzZEUFBjaXhMTHRDNkg5cEMxU3lid0NjZzFLQ1prbGN2MDUtWDU0RVhDekg0RER2SmdWdFh3OXNmdzEyUW02c25HNFk2TzlrUVlBUC1TOWZlSE1SUENvZE1FTTZSME5pdDRzVUR6REl3MHRiaHEyLWxMbnFvRnN5cEt4YndHdWx3XzdfVVQ3SXBoYzNoYldFdnNGNWhiLU1CX1dwaFNNVEZ4NHNRc0tDTXpHN25MVWdFSmpDejhiY2o2RV85MFllNkp5bE9Wa1lEREhoc2YwaWp4V09Ec1YtMm9kUkx0dVU0aXJwaVlCRVdzR2VCSjBIbUN0NFp5SC1IMW5wbUdNdjNtYkNjUlB4TlhxaE5DcmdFdnowU1VpcnF1OFpaLTFGLUJCSHJDYm5sYTdQejgyMW9iRmRVdzYyM2YwcHpfamhrQV9kQ3pIbE8wMlFwc05ONldZcE9Wd3BzYUhRWHNXeG9UVFJTdGpsUkdkcTJfX284U0JoS09ZbDUyM2xfZDMxdjl5c0ZEU3hsdUNiRWM0UjliaGUwSTNXdjFfR1hlVjV4aTgteWtFSE5jRXFmc1EtTWFSbm9wckN5Z19NaXZ3OGxnQVRudlFDQlJadTFKRHg2ZWZFbUJ2ekJqSG5lYzI0V1FZTF9rX3hySkd6RkVLNV9QckFZcmRMTWFKeHd5dmpTeW9KOTBOZFIyT1VsSDRwcjEzY2x4R0JtSmNoX2IyZUxWQ2ZQc3JiZUd1YmdsbEpLNzl6dGZQcG9mMWk5ZWVybDd4OVVxZU5FWHNENi0zU1lpQVl2VTh0UDdGOGNXN0ZNM0NEODc3X0gwV20tT3VYZlphb3RlZ28teUl6LS1Lb2tNTlJ3Znd1RVFQT1otVHhVdHlkYjlsMVZIbDdSd2ZtUlJaS1dQMWZORTF5cVFV?oc=5)
+- 简介: 小米发布具有自主行动能力的机器人，可脱离遥控器自主移动，标志着中国消费级人形机器人向智能化独立行动方向发展。
+
+**人类vs机器人分拣大战：Figure 03差点反超，人类赢了却笑不出来|Figure AI|工厂|物流|特斯拉|小米_手机新浪网 - 新浪财经**
+- 发布时间: 2026-05-19
+- 链接: [https://news.google.com/rss/articles/CBMioAVBVV95cUxPSTliR1QxRC1RcHY5RXFfOFh1QUJJQXlPQ1dWdHNEMkRFdVpabDBTdUN6Z3BHY2d4NWlUQ2lTTGo3UEI3V3I2MzNDV0ZERVZrNzN1OWNodkdpXzdQRlk3cnFGRDBuZl9maWd3am8zWTVMUThaZHVfVGVQRjBjSmRWekZqeGdxM2dIWEhBYkhzVmZOcTR2RmUxcE1iTllhZ0VQZHhOOWFjeE9ZT2VUM2cybFF2T3loYWRLTXFLOXhlS0MzZm5BcmZkQ242YWNfa0tCaVlZX0VPYi1BekI4OUY3UkpWWXVwNjM5MHNRWVNoYXItbHUzVl8wZ3JPYTRGUEtNeVNDWXd2cWdPNlNueUJ2MW5iby1HUWxzZU5JV1ZBVy1NZXhmR0xYQVJQQkh6TDVuUi1JWFNrd0RMQVpYOG5rSU91TWN6elhZYXBXc05FMkJBSFlTcVFjaWVxYU9NSDdwcGtEc1BMWGZnVUU5eWNUeFpWTlJ4dzk1M3JIM0wwdjFRTDZpTnNiOGRhM3BpdzhMazc1eE1Sbi1pd1IxM2o2S1ZZLVdDMzFySzJRZkxGQ0NwTlRLWFFsVmRUcG8wZVpXaDhlcS1kekJUM1BQcGNIVFFsWmxFZUVCWkZHRndkZHl3NEh0aGpjV3ZJNmpMbThydnZDd3l0TEJDUXpQQmtWZEFybkotcFFZZW5wbzQ3bzNSbTZrcmFsN1lncXVudU02Z2p0ekFTLURpLXJiSTJoeF9BXzY5Q19XcnZpWlJPdzJrMGthd05jaE5ISXZESUx1SXVQRjdXOHN5WlByUnB3cnB4dkpCamhHWHFQYzlCNnZ5dXl5YmhSNFpBMW9rX01HdmRZUWZabkRBcnc5eFNrS1BMYWJtRTRlSzJYTHRPNnM?oc=5](https://news.google.com/rss/articles/CBMioAVBVV95cUxPSTliR1QxRC1RcHY5RXFfOFh1QUJJQXlPQ1dWdHNEMkRFdVpabDBTdUN6Z3BHY2d4NWlUQ2lTTGo3UEI3V3I2MzNDV0ZERVZrNzN1OWNodkdpXzdQRlk3cnFGRDBuZl9maWd3am8zWTVMUThaZHVfVGVQRjBjSmRWekZqeGdxM2dIWEhBYkhzVmZOcTR2RmUxcE1iTllhZ0VQZHhOOWFjeE9ZT2VUM2cybFF2T3loYWRLTXFLOXhlS0MzZm5BcmZkQ242YWNfa0tCaVlZX0VPYi1BekI4OUY3UkpWWXVwNjM5MHNRWVNoYXItbHUzVl8wZ3JPYTRGUEtNeVNDWXd2cWdPNlNueUJ2MW5iby1HUWxzZU5JV1ZBVy1NZXhmR0xYQVJQQkh6TDVuUi1JWFNrd0RMQVpYOG5rSU91TWN6elhZYXBXc05FMkJBSFlTcVFjaWVxYU9NSDdwcGtEc1BMWGZnVUU5eWNUeFpWTlJ4dzk1M3JIM0wwdjFRTDZpTnNiOGRhM3BpdzhMazc1eE1Sbi1pd1IxM2o2S1ZZLVdDMzFySzJRZkxGQ0NwTlRLWFFsVmRUcG8wZVpXaDhlcS1kekJUM1BQcGNIVFFsWmxFZUVCWkZHRndkZHl3NEh0aGpjV3ZJNmpMbThydnZDd3l0TEJDUXpQQmtWZEFybkotcFFZZW5wbzQ3bzNSbTZrcmFsN1lncXVudU02Z2p0ekFTLURpLXJiSTJoeF9BXzY5Q19XcnZpWlJPdzJrMGthd05jaE5ISXZESUx1SXVQRjdXOHN5WlByUnB3cnB4dkpCamhHWHFQYzlCNnZ5dXl5YmhSNFpBMW9rX01HdmRZUWZabkRBcnc5eFNrS1BMYWJtRTRlSzJYTHRPNnM?oc=5)
+- 简介: 
+
+**小米AI与机器人技术应用进展_新浪新闻 - 新浪网**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GNlpRWVBaMkVtVWs2bjgyTmwwZzlYNXdyODZJVWxFWjZZdUNzMUtUUk9ueVNZQlBtdjVjYVlhellxUVpvX1p0cWpqTjJBRENwXzFfSzRZRy1WcFpFdmR4cjhqMA?oc=5](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1GNlpRWVBaMkVtVWs2bjgyTmwwZzlYNXdyODZJVWxFWjZZdUNzMUtUUk9ueVNZQlBtdjVjYVlhellxUVpvX1p0cWpqTjJBRENwXzFfSzRZRy1WcFpFdmR4cjhqMA?oc=5)
+- 简介: 小米在AI与机器人技术领域持续推进应用进展，反映其对智能硬件生态的战略布局。这将加速国内人形机器人技术成熟，促进行业竞争与发展。
+
+**小米引领AI与机器人革新_新浪新闻 - 新浪网**
+- 发布时间: 2026-05-18
+- 链接: [https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xS2poRV91VG8za2hMOGNROGNvRHFXbFN5UmJMemkxVDEwOWlZT3RVNUxhNUNlbk5wUFIwX09zTVdlU2hMU3RNRzBaR0xtLXdUb0dVVGpZOGhhVXd3ZTlyU1VHYw?oc=5](https://news.google.com/rss/articles/CBMiY0FVX3lxTE8xS2poRV91VG8za2hMOGNROGNvRHFXbFN5UmJMemkxVDEwOWlZT3RVNUxhNUNlbk5wUFIwX09zTVdlU2hMU3RNRzBaR0xtLXdUb0dVVGpZOGhhVXd3ZTlyU1VHYw?oc=5)
+- 简介: 根据提供的链接，我无法直接访问该新闻的具体内容。链接指向Google News的RSS源，可能需要特殊方式打开。建议：
+
+1. **手动查看**：将链接复制到浏览器地址栏直接访问
+2. **备用方案**：搜索关键词"小米 引领AI与机器人革新 新浪新闻"获取原文
+
+如果您能提供新闻的完整正文或更多细
+
+
+---
+
+## 📌 关于本报告
+
+本报告由 **Humanoid Insight Platform** 自动生成，基于 Claude AI 的深度分析能力，汇总人形机器人领域的最新学术研究、产业动态和行业资讯。
+
+**数据来源**:
+- 学术论文: arXiv
+- 公司动态: 官方网站和 RSS 订阅
+- 行业资讯: 微信公众号
+
+**生成时间**: 2026-05-22 03:48:31
+
+---
+
+*由 Claude AI 驱动 | [GitHub](https://github.com/yourusername/humanoid-insight-platform)*
