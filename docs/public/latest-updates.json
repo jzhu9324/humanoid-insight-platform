@@ -1,50 +1,68 @@
 {
   "papers": [
     {
-      "title": "Direct Dynamic Retargeting for Humanoid Imitation Learning from Videos",
-      "summary": "DDR提出单阶段直接动态重定向框架，从视频直接生成物理可行的动态轨迹，绕过中间运动学投影的几何偏差，显著提升拟态追踪精度。",
-      "date": "2026-05-22",
-      "link": "http://arxiv.org/abs/2605.23762v1"
+      "title": "EIT-Pneumatic Hybrid Robotic Skin for Practical and Accurate Force Map Reconstruction",
+      "summary": "### 现状痛点",
+      "date": "2026-05-27",
+      "link": "http://arxiv.org/abs/2605.28468v1"
     },
     {
-      "title": "Any2Any: Efficient Cross-Embodiment Transfer for Humanoid Whole-Body Tracking",
-      "summary": "Any2Any提出了一种跨人形机器人本体的高效迁移学习方法，通过运动学对齐和动力学适配两阶段策略，仅使用1%数据和计算资源即可将预训练的全身跟踪模型迁移到新机器人平台。",
-      "date": "2026-05-22",
-      "link": "http://arxiv.org/abs/2605.23733v1"
+      "title": "HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning",
+      "summary": "HumanoidMimicGen通过将接触丰富的全身技能从少量源演示泛化到新状态，自动生成稳定的无碰撞legged loco-manipulation数据。",
+      "date": "2026-05-26",
+      "link": "http://arxiv.org/abs/2605.27724v1"
+    },
+    {
+      "title": "Uni-LaViRA: Language-Vision-Robot Actions Translation for Unified Embodied Navigation",
+      "summary": "### 现状痛点",
+      "date": "2026-05-26",
+      "link": "http://arxiv.org/abs/2605.27582v1"
+    },
+    {
+      "title": "Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot",
+      "summary": "该论文提出一种将共享智能与具身认知整合的架构，通过基于人体工效学指标优化人形机器人硬件与控制，并研制了ergoCub机器人样机来实现与人类的物理协作。",
+      "date": "2026-05-26",
+      "link": "http://arxiv.org/abs/2605.26991v1"
+    },
+    {
+      "title": "ParkourFormer: Integrating Predictive Supervision and Sequence Modeling into Parkour Locomotion",
+      "summary": "ParkourFormer将人形机器人parkour运动重新定义为未来条件决策问题，通过Transformer序列建模显式预测短期未来本体感受状态，结合历史轨迹交叉注意和监督预测头，使策略能够主动预判接触转换和身体动态，从而实现更鲁棒的全地形通用运动控制。",
+      "date": "2026-05-25",
+      "link": "http://arxiv.org/abs/2605.25782v2"
     }
   ],
   "companyNews": [
     {
-      "title": "Atlas humanoid robot picks up soccer skills from World Cup games - Interesting Engineering",
-      "summary": "Atlas人形机器人通过分析世界杯比赛视频学习足球技能，展示高级运动学习能力，预示人形机器人在复杂动态任务中的技术突破。",
+      "title": "Tesla’s Optimus robot plan hits major snag - thestreet.com",
+      "summary": "Tesla Optimus 机器人计划遇阻，显示双足人形机器人技术落地难度超预期，可能延迟商业化进程，给波士顿动力等竞争对手带来追赶机会。",
       "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPblQ0WUhISGwzMmRxSk5TQXlhZ1lhVlNPWW1sMmViWURnOW16b295S1J5Rm1MNnJJWDBDWE1uWE1ublVLSG8wUWtvSGFoektqQUN5UzNxVlgtaVRSel9uaUh5YmhEYVhSVUpvQUhUWjJXcDJ4VGxsRm0xRzJHckNmSkx4NW1BMDJZajlCOGNyOWNheWIzSGlnSENEU1hrbENVSWRzdk5SYVR2MVNLTVBDTmljcV9WdElQaUVUS1QzRQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTczUHJtM21zVzB3emUtcll6MHEwYTNueWotdWQ4V00wSnF6N21sSmVwRk5oZ3hsWnFhZi1jSDNjTUtPaTkwdWk0eE15Nm1MV1dUbFdPQWhlejRZdXZXU05oWGF6bjA0TWNzMjdWMGROTkRIdnNMT3cxdUc0NWg3bzhJZ1Q?oc=5"
     },
     {
-      "title": "Investing in the Exponential Humanoid Wave - ETF Database",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNM0QtWEQzei1RWEs0dlR3aERRMXAtcHQ5b3lOV3",
+      "title": "Tesla's Optimus 10M/Year Factory Raises First Steel Structure - BASENOR - Tesla Accessories",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQcngwOUJUWUkyajZOclZEOUVTQ3ZZRF9TWnkxd3",
       "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM0QtWEQzei1RWEs0dlR3aERRMXAtcHQ5b3lOV3dTMXAxUFE4dFV3RDJ5UzRNbjFCMFNDYktxTGxOSGFKeml4c0I4Tzc5Q2QtY2RGQWt2VnNRYkdNOE81akppb2R3V1JxN2VrM3VfUzlpc2ZrTHB3UVllUHRsOExrdTFjMkVBdmlxTzV2SXphWE0?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcngwOUJUWUkyajZOclZEOUVTQ3ZZRF9TWnkxd3htaVM4SEY2NkRrQlNnNHZVSFJ6UE5rT3dfLUZRVE04WUlkVTFtNW5yRGtyaVJZc1JoRVZJZEZyMjQwMkRFQ2N5b0F1R0x2QkFlQ0VmR3JxenlOY1BMa0JrWFpDaXkyREQxUC1GWmpJS3ljdUwyZFNXNmxac1ZqTQ?oc=5"
     },
     {
-      "title": "Hyundai’s Atlas robots rollout could reshape industrial automation - Manufacturing Today",
-      "summary": "现代汽车推出Atlas类人机器人，有望加速工业自动化变革，推动人形机器人在制造业的商业化应用。",
+      "title": "Tesla Begins Construction of Optimus Factory - Let's Data Science",
+      "summary": "特斯拉启动Optimus人形机器人专用工厂建设，标志着其从研发转向规模化生产。此举将加速人形机器人商业化进程，为行业树立产业化标杆。",
       "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZEI1ZTV3S2x0cXQ3UDdhdS1oVk1ocUplTFBGcDFiSURTaU9jQWxwQmNPRXNXWDFDZDBwX2VOSTRmRFBuZ3d2UFBFTmdHZFN4N3o5SVpRdFdYSWdMUjlXVU9OcGptc2gya3F1Y0tfYVhxb1o2WmJhU2E0UHRtNXpPV0lyamZQaFZUUTVDVlFLdEJCUzduaTltWVB3dEY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczY2cUcyMUtBX21YUm1vMmhwMjRjRDNEbmJzWnQwbmpzeGVFUVpRYXlsTHJBOTFZVWI4ZDNqeVBBUHlNeUFMem0wemJ5NDJSZkppZ1QwbHRkcDFUTlNWeVNyYmNYY3B3UnpGMl9MLVZwZzhuaGNYMUgtemt5NjZaU2xkQzZIZ3A4VDM5aDJxcw?oc=5"
     },
     {
-      "title": "Robots Take Root in Human Life - 조선일보",
-      "summary": "Boston Dynamics的人形机器人正逐步融入日常生活，预计将加速推动人形机器人在服务、医疗等领域的商业化应用。",
-      "date": "2026-05-25",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNajdGX0x4dHdld0lvaFRyYUNlSUxvTUFJUzlNMTdXdEVYUmpNTTFpOS15MWZnNlN2bVZHWXQxQzRyOWdTSG4xeEJjUjJXcnM1dG5zR0dLNGFPNkRNclBId3pjaHUyLXo4UlJtUFFmWThQVWpsNk5hUG9aUm1jX1J6LWltT20?oc=5"
+      "title": "Tesla Patent Could Protect Two Biggest Future Revenue Drivers: Here's Why 'Lens Cleaning System' May Matter - Benzinga",
+      "summary": "特斯拉申请镜头清洁系统专利，或将保障自动驾驶及人形机器人视觉感知可靠性。该技术对",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSHRMSVJQcXVKTHRPM0d4aXg5c3FtNExQN0syS0lxaWZURHEzUkZCa1dKMzE5cUdXa2dIclF2WkhsV3lna2ItSnhNT3RZZnBFTUE5Zmh1LWdrS25JcmZocDgwOHdlSnh1bG51OUpzMnVUcUxpM0hYakVuWUJiTUc4VTk2aENCWXVHOURna2s5VzV4aW9EeHZ0cFUtMVNpUVFVMm81OG1ScnJmSE1ma09jNmpsOVotUHdhTFZ1YXFlVFJSOEJUc29HUW9TTG9Ed1J1dllocUl0UmRQODR0NDJFcFdRY1RUNV9kWFhIYg?oc=5"
     },
     {
-      "title": "Investing in the Exponential Humanoid Wave - ETF Database",
-      "summary": "ETF等投资基金开始布局人形机器人领域，反映资本市场对该技术赛道长期增长潜力的看好。",
-      "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNM0QtWEQzei1RWEs0dlR3aERRMXAtcHQ5b3lOV3dTMXAxUFE4dFV3RDJ5UzRNbjFCMFNDYktxTGxOSGFKeml4c0I4Tzc5Q2QtY2RGQWt2VnNRYkdNOE81akppb2R3V1JxN2VrM3VfUzlpc2ZrTHB3UVllUHRsOExrdTFjMkVBdmlxTzV2SXphWE0?oc=5"
+      "title": "Musk’s Wildest Pay Targets: Mars Colony, Robot Fleet And More - Forbes",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUTlZM0VWZ21IYXVQRjJnOGYyWG9EYXIxdVhVal",
+      "date": "2026-05-22",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPUTlZM0VWZ21IYXVQRjJnOGYyWG9EYXIxdVhValdRRkRzMXJraXN2S1NxMGl0b29XWFlBUTlKeWYwNG1hdXBzTHlsMzk5Mnk3R2IzWGhKSHQ3d0J5bTFZYS0zODYtdDROeHRnRjZkczVPSGNLaDhHX3ZLb2VNMHBXYXRNYnc2bEJLNUxhaUM3Q1g0TVg4bEo0eWg2M0h5SVc2ZnlmMW1MamsxajE4SDV1UFJOeWFsRmhqUXljbm4zaFpjZjRlc2VMSUhLQ25VN1FCV0R6Y0pDd0hXN2s?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-27T15:57:56.439624"
+  "updated_at": "2026-05-28T03:45:04.729335"
 }
