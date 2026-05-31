@@ -2,67 +2,43 @@
   "papers": [
     {
       "title": "EIT-Pneumatic Hybrid Robotic Skin for Practical and Accurate Force Map Reconstruction",
-      "summary": "### 现状痛点",
+      "summary": "该研究提出一种融合EIT电气阻抗成像与气动触觉传感的混合机器人皮肤，通过3D打印制作实现了低成本、大面积的准确力图重建，并将灵敏度不均匀系数从0.31降至0.14。",
       "date": "2026-05-27",
       "link": "http://arxiv.org/abs/2605.28468v1"
-    },
-    {
-      "title": "HumanoidMimicGen: Data Generation for Loco-Manipulation via Whole-Body Planning",
-      "summary": "HumanoidMimicGen通过将接触丰富的全身技能从少量源演示泛化到新状态，自动生成稳定的无碰撞legged loco-manipulation数据。",
-      "date": "2026-05-26",
-      "link": "http://arxiv.org/abs/2605.27724v1"
-    },
-    {
-      "title": "Uni-LaViRA: Language-Vision-Robot Actions Translation for Unified Embodied Navigation",
-      "summary": "### 现状痛点",
-      "date": "2026-05-26",
-      "link": "http://arxiv.org/abs/2605.27582v1"
-    },
-    {
-      "title": "Towards Shared Embodied Intelligence in Humanoid Robots through Optimization Development and Testing of the Human Aware ergoCub Robot",
-      "summary": "该论文提出一种将共享智能与具身认知整合的架构，通过基于人体工效学指标优化人形机器人硬件与控制，并研制了ergoCub机器人样机来实现与人类的物理协作。",
-      "date": "2026-05-26",
-      "link": "http://arxiv.org/abs/2605.26991v1"
-    },
-    {
-      "title": "ParkourFormer: Integrating Predictive Supervision and Sequence Modeling into Parkour Locomotion",
-      "summary": "ParkourFormer将人形机器人parkour运动重新定义为未来条件决策问题，通过Transformer序列建模显式预测短期未来本体感受状态，结合历史轨迹交叉注意和监督预测头，使策略能够主动预判接触转换和身体动态，从而实现更鲁棒的全地形通用运动控制。",
-      "date": "2026-05-25",
-      "link": "http://arxiv.org/abs/2605.25782v2"
     }
   ],
   "companyNews": [
     {
-      "title": "The Real Reason Google Sold Boston Dynamics to SoftBank - Geeky Gadgets",
-      "summary": "Google将Boston Dynamics出售给软银，反映当时科技巨头对商业化机器人投资回报的谨慎态度，标志人形机器人行业从实验室向商业化转型面临的现实挑战。",
-      "date": "2026-05-30",
-      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE0xbWZXMDdmVHRrWGtCQ2FzV1B5U2tyZWZvRGlCQ1BnbGM4RVFHeHdWNXFBTlV3UENzaEh0VlU0ZVBqazN0VzZhSm1GUUhxVjQ4LUhlU0FvVVNyb2dZa0FwaFVCbnBSSzhGSHBTVWYtQQ?oc=5"
+      "title": "Tesla’s Optimus robot plan hits major snag - thestreet.com",
+      "summary": "Tesla的Optimus机器人计划遭遇重大阻碍，技术或供应链出现关键问题。此挫折反映出人形机器人从概念到大规模量产的难度，提醒行业需更加关注实际落地的工程挑战而非仅概念宣传。",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTczUHJtM21zVzB3emUtcll6MHEwYTNueWotdWQ4V00wSnF6N21sSmVwRk5oZ3hsWnFhZi1jSDNjTUtPaTkwdWk0eE15Nm1MV1dUbFdPQWhlejRZdXZXU05oWGF6bjA0TWNzMjdWMGROTkRIdnNMT3cxdUc0NWg3bzhJZ1Q?oc=5"
     },
     {
-      "title": "The race of humanoid robots in factories has truly begun, Hyundai announced that it will deploy more than 25,000 units of Atlas in its production lines starting in 2028, in a partnership that involves Boston Dynamics and training with Google DeepMind. - CPG Click Petróleo e Gás",
-      "summary": "Hyundai计划2028年前在生产线部署超25000台Atlas机器人，与Boston Dynamics",
-      "date": "2026-05-30",
-      "link": "https://news.google.com/rss/articles/CBMikgJBVV95cUxQTWR3X3FzcFlsdmFMTk5UTENScWhuUmdPV0ktMGtiazZYMHlZRUY3ZS13MnoyZXRtZTlXMFJFNmhQODBqMXV0S3plbGg4eGR5dDlReUh5ZERsU1ROeGhfUUVmakJlTm8tWWlyYnZqb1FFZm9URzFTN2YtdXdWVTAtWFB4ZGtlQWNPekh4US1TUk9KVmJ4aFY1QWtIV2JJUWRLMmhjZWhKSzBYUktDdDVteXNyY0VSUW9RY0J3dTRhaVByWWpzMGdyMC02dVJaampGM0RJVl8xUTUwVDBJQWZyT09VOFhFZE1WQmxSYlBxSldjMEppeEpJT2pNOHp0TFJCdC1jaVkxOU0zbW9fTldVZjhR?oc=5"
+      "title": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of - 24/7 Wall St.",
+      "summary": "三家专门投资人形机器人领域的ETF产品出炉，针对Tesla Optimus和Figure AI等公司，标志着这一新兴行业正式进入金融产品化阶段，为普通投资者提供了参与 humanoid robotic",
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYVc5QmtGQWpzR2lLTFFLOFFqS2ZIMU1ES2F3bFFsSmFsREtkUU42SFNWMkwxRWhad3BFWGFWMGFqZWsyTTNmSXBSOUN1WnU2UUpyU25LR3NYR0NjZWZNMllMZGM2Ni1XcVNoYUN1Z3ZRT0lXOURIeXh6dFk4dVZQX2libGI4T0JVY0NLX1p0WmFaZ1ZNcXVvNTJoNEpocTVtVkVRNzdDWWdLSXZ2bi1LYnZPRk9Kdk1XRnFhQndZQTlnME43d0RsVE44Qm9kTEtmVkw2MG5iUE16ZUVveGlQTnJBTjZhelJE?oc=5"
     },
     {
-      "title": "Hyundai's Atlas Robot Performs Rabona Kick in Soccer Showcase - Seoul Economic Daily",
-      "summary": "Hyundai旗下Atlas机器人完成高难度Rabona足球踢球动作，展现双足机器人精细运动控制和平衡能力新突破，标志着人形机器人在动态运动领域取得显著进展。",
+      "title": "Tesla Begins Construction on Dedicated Optimus Factory at Giga Texas - Construction Owners",
+      "summary": "特斯拉在德州超级工厂开建专用Optimus人形机器人工厂，标志着其人形机器人进入",
       "date": "2026-05-29",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQaTU1NUxOQmM4ZFJMM2ZUSWR1NzhFSDFiazBwN3BPOGxWb0lEdWQ5aUJGSHVBaUgwRmRzRzl4RXBzcTV2REtHckM5ZjFLMGVTLUxGMTR6MC1BN19kQVdGd2xuRFZDOXJXRmZ0V0NQUm9XREhsWTRUbGg3dzh4U1JpalpDTEVON3dMRlhuSzdtakVQQzlOeGRHYjAtRThwZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVg0ZXdKT3ZRRmdFX2o2UGRKU3Jha1dqbUViWnEtY09BZXhFemE3bFgyOE93VEFCa05VMEhmSGNGbThULTFCaHFWZEhHXzNhRlBhRjRza2w3ZmRIODk4TlBBU2MwRmdQc2FhSlFyUGtyWE55N3dpeldyS2NiMFJUMDlUendaVnd5Smo5V1FsckRtbTdNNDBQSWwxVHNYeHREZkowVmJkdUVRY0J3Nm5vZWt4TTdBZw?oc=5"
     },
     {
-      "title": "China outpaces Elon Musk with Unitree humanoid robot available on AliExpress for $6,800, with free shipping and international delivery, turning billionaire technology into something anyone can buy online. - CPG Click Petróleo e Gás",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAJBVV95cUxPdkxCeWhfZFRteWpWRkd6ZDFKY2RNM1p3WG5rel",
-      "date": "2026-05-30",
-      "link": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPdkxCeWhfZFRteWpWRkd6ZDFKY2RNM1p3WG5rel9JTW9NQkdmRGpFckZPNFlMMjZMbXdnb3I5TE9XUWFxbHVxZlZoNzhfN21BTTZQVTZJTHY2YlFWdTdLanBsTHk5S3dfdmR5cHp0Z3l5WGg3Mlo4T1VxTks1X1VJbUZVVzBZLWtFV1JmQkxudVdWM3k3SW5OS3R0VngyTUROR18xdndzamV1VHIzZkJJekpTRGxlUktfRzVDX1Bla2dJZkFTdjgyc2NHN3RmOXF3RUw3REVCV3A2WEJOTkFPMkYxbnZ0Y04xUldvdEVZWl9RWUFuNkx1cDBsZkZNSlNYUGU0YUtLajlCa0Z3SzZzTQ?oc=5"
+      "title": "Tesla's Optimus 10M/Year Factory Raises First Steel Structure - BASENOR - Tesla Accessories",
+      "summary": "特斯拉开建年产千万台Optimus机器人工厂，竖立首座钢结构，标志着其人形机器人进入规模化量产阶段，将加速行业商业化进程。",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcngwOUJUWUkyajZOclZEOUVTQ3ZZRF9TWnkxd3htaVM4SEY2NkRrQlNnNHZVSFJ6UE5rT3dfLUZRVE04WUlkVTFtNW5yRGtyaVJZc1JoRVZJZEZyMjQwMkRFQ2N5b0F1R0x2QkFlQ0VmR3JxenlOY1BMa0JrWFpDaXkyREQxUC1GWmpJS3ljdUwyZFNXNmxac1ZqTQ?oc=5"
     },
     {
-      "title": "Humanoid robot dances into history as quantum battery debuts - MSN",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT193Mlg4b2hWdmduSzNBTDN0T2t0cjN6cThXX2",
-      "date": "2026-05-24",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNT193Mlg4b2hWdmduSzNBTDN0T2t0cjN6cThXX2dyMGFSYk5oSWxTV1VzcGNsREtnRmF4Y2hVeG9MYThtWE1ORWdfM3EyVGtvOEtld3pjMnRaYmNpU1M3aHU0SkFNNU9fWWpLelpPV0szUzZsNGdNQXFrRTJxYUp0MjZ2dzNiR3VWMTJBU3FpdXpBT1p6QzBUUzI4d0JJMllwUGxrNmwwSk84aWp1RnF1WHI2Y2s1aVM1VmhWTW55TEI0RkFuVi1uR0dyLU10aUFHWDJNSXZOUExSU3pFS1lNdnlkUTA?oc=5"
+      "title": "Tesla Begins Construction of Optimus Factory - Let's Data Science",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQczY2cUcyMUtBX21YUm1vMmhwMjRjRDNEbmJzWn",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQczY2cUcyMUtBX21YUm1vMmhwMjRjRDNEbmJzWnQwbmpzeGVFUVpRYXlsTHJBOTFZVWI4ZDNqeVBBUHlNeUFMem0wemJ5NDJSZkppZ1QwbHRkcDFUTlNWeVNyYmNYY3B3UnpGMl9MLVZwZzhuaGNYMUgtemt5NjZaU2xkQzZIZ3A4VDM5aDJxcw?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-30T13:50:05.666498"
+  "updated_at": "2026-05-31T03:59:08.169070"
 }
