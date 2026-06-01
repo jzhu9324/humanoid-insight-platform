@@ -1,44 +1,44 @@
 {
   "papers": [
     {
-      "title": "EIT-Pneumatic Hybrid Robotic Skin for Practical and Accurate Force Map Reconstruction",
-      "summary": "该研究提出一种融合EIT电气阻抗成像与气动触觉传感的混合机器人皮肤，通过3D打印制作实现了低成本、大面积的准确力图重建，并将灵敏度不均匀系数从0.31降至0.14。",
-      "date": "2026-05-27",
-      "link": "http://arxiv.org/abs/2605.28468v1"
+      "title": "Learning Terrain-Aware Whole-Body Control for Perceptive Legged Loco-Manipulation",
+      "summary": "本文提出TA-WBC地形感知全身控制框架，通过混合外部感知编码器提取地形特征，结合脚接触平面末端采样与双策略蒸馏，实现复杂地形下的全身运动操作的稳定控制。",
+      "date": "2026-05-29",
+      "link": "http://arxiv.org/abs/2605.31343v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Jensen Huang Just Called Humanoid Robots a $40 Trillion Market. Here's Why Wall Street Is Loading Up on Physical AI Stocks - 24/7 Wall St.",
-      "summary": "标签",
-      "date": "2026-05-31",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS0tneTZVOF96ajJpZ1kzUlJ0RGN4dUFIbUw1bzRfZlZJX2FVUks5alJSNjZMbVdHREV1U3JfWXFGT0dqelFNbHQ3b0MtNDBXR1hUNzM1TnpPRE9rdDdybFJYQ0tJVzlfSUFvMS1GRGNiQkVYYndwQzFwV25faVVicjVyd0hVQWR3QnNuM1RPa1BYUVpEMEkyTG9KOGNsdDVRejdFT2NBOVlJOGFlc1o0RFpCOGQ4N21obVY4NlY4cHJHQXpPMXZQZ3NnSlpqbFJJblRIb1luRC1IQUMwZ0kzLXhPdGpUdnJsVEtBeHpFSXUyeTNsTkE?oc=5"
-    },
-    {
-      "title": "Why Tesla’s Lens Cleaning Patent Matters For Optimus, Robotaxi - Tesla (NASDAQ:TSLA) - Benzinga",
-      "summary": "Tesla新获镜头清洁专利，对Optimus人形机器人和Robotaxi的视觉传感系统至关重要，可提升机器人环境感知能力与运行可靠性。",
+      "title": "Tesla’s Optimus robot plan hits major snag - thestreet.com",
+      "summary": "特斯拉Optimus人形机器人项目受阻，对行业而言既是警示也提供追赶机会，显示双足机器人研发难度超预期。",
       "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPSHRMSVJQcXVKTHRPM0d4aXg5c3FtNExQN0syS0lxaWZURHEzUkZCa1dKMzE5cUdXa2dIclF2WkhsV3lna2ItSnhNT3RZZnBFTUE5Zmh1LWdrS25JcmZocDgwOHdlSnh1bG51OUpzMnVUcUxpM0hYakVuWUJiTUc4VTk2aENCWXVHOURna2s5VzV4aW9EeHZ0cFUtMVNpUVFVMm81OG1ScnJmSE1ma09jNmpsOVotUHdhTFZ1YXFlVFJSOEJUc29HUW9TTG9Ed1J1dllocUl0UmRQODR0NDJFcFdRY1RUNV9kWFhIYg?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTczUHJtM21zVzB3emUtcll6MHEwYTNueWotdWQ4V00wSnF6N21sSmVwRk5oZ3hsWnFhZi1jSDNjTUtPaTkwdWk0eE15Nm1MV1dUbFdPQWhlejRZdXZXU05oWGF6bjA0TWNzMjdWMGROTkRIdnNMT3cxdUc0NWg3bzhJZ1Q?oc=5"
     },
     {
-      "title": "Hyundai's humanoid robot stuns football star Son Heung-min with advanced skills - VnExpress International",
-      "summary": "现代汽车发布人形机器人最新成果，现场展示足球颠球等复杂技能，连知名球星孙兴慜也为之惊叹。这表明韩系车企加速布局服务型机器人领域，人形机器人商业化进程持续推进。",
-      "date": "2026-05-31",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOc0NDcjF3dlJiM29iYTNPdTR3RHJpd0lTNDFiMkVLNWJyVkdTSTlxa3BjTllGZ1Q4d0F2SG1DcWp0ZXYycTRPMHR5dHVnNE5nT21NLVNYQVlaMFI1ajl6dTQ4d0dfWVhlSFNLS0NyZUxIMXFaMEtjVS1rcVd4eGYyV2RFR1Y0TmlJb1Vkc2lrZDl6ZlU2VzhHVUp0dmVLS0JfYnk0cDFZWk1kWVRxdzVKMVByd001SF9zanB2SGo4dnhDd09pOGR1SHJWWjV1M09ZakE?oc=5"
+      "title": "Sam Altman gears to take on Elon Musk's Tesla Optimus humanoid robot, OpenAI Robotics begins hiring; asks... - Moneycontrol.com",
+      "summary": "OpenAI宣布进军人形机器人领域，将与Tesla的Optimus直接竞争。此举标志着AI公司加速拓展硬件业务，人形机器人赛道竞争将更加激烈。",
+      "date": "2026-06-01",
+      "link": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPUUliS2cxNVJlUUZRM2hYZzM2dFdlUFBnc2toMDRqVHpxcFhSYURPYVFEaG1qamstb000STNGVElNcEV1Sl9tQS10WVVkVTFMR20tN3hYVVhxZXhmQ3ZVQ0l5SnRuT185RHdSTUFMY29IcE1Pb1pFZnI0eEtzaUFJeHluNlZBMDV5NUgyOElBWFgzZHlFeDQxZ05xVDlHcDZwNk0zcmxmMGlPNVF4NHNzTWZVc1A2SmtyVXhlZHVCMF8zcTVnNndEWTdKYUFqUW9KVklyMFpmS3JQNXZuVjMzb3pmZ0lkd3lEREFmMV82Z2p3cmVGZ0c3UkNCbFpkY0lOcDI2SFdCZ0FSS2NMWFhHaUpUSzJzd0d5QU9pVU9YV3ZzQkZFLVhRcW9DZXB2Zk1PX1hr0gG4AkFVX3lxTFA2ZWQzVy1fSjBKdGI1Wmk4Mjd3YTdKMmtBT2R4dFU5M0JrZmlNdFVFX2wtdTgydnBEa0YzQ0g1b0NUNGhEdjE5aC1KRzRyX2lhS095NzVZM3pVU1NIRFhhUklSNzJxaGNLMlJxRjU1eG9ud2tBMjA0UTNSaWlBREk3X0pFOVdKYThLMllRSFlNZzh2MExWYlBIckxiVWJDckludnVyVXE0M3pUU0lYOE9qTHluNG9fMXAtUGpnQlJZNHVzREpVSGNjTFBVVllZMkNya3lyR2l4QTZHSHhDT0ZVMlowcW50TTRVZHdqZWRXS0lrXzdVNGtEbUt4azluY3lPLW91dFNoaW80bkgwUXV4WEtLY21xYzVpcDdfLWJzMmE2X25XNTd1QWhBMWxJVE85bko2T2cyYw?oc=5"
     },
     {
-      "title": "Jensen Huang Just Called Humanoid Robots a $40 Trillion Market. Here's Why Wall Street Is Loading Up on Physical AI Stocks - 24/7 Wall St.",
-      "summary": "英伟达CEO黄仁勋称人形机器人市场将达40万亿美元，华尔街正积极布局物理AI领域，这将加速人形机器人技术商业化进程。",
-      "date": "2026-05-31",
-      "link": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQS0tneTZVOF96ajJpZ1kzUlJ0RGN4dUFIbUw1bzRfZlZJX2FVUks5alJSNjZMbVdHREV1U3JfWXFGT0dqelFNbHQ3b0MtNDBXR1hUNzM1TnpPRE9rdDdybFJYQ0tJVzlfSUFvMS1GRGNiQkVYYndwQzFwV25faVVicjVyd0hVQWR3QnNuM1RPa1BYUVpEMEkyTG9KOGNsdDVRejdFT2NBOVlJOGFlc1o0RFpCOGQ4N21obVY4NlY4cHJHQXpPMXZQZ3NnSlpqbFJJblRIb1luRC1IQUMwZ0kzLXhPdGpUdnJsVEtBeHpFSXUyeTNsTkE?oc=5"
+      "title": "Tesla Begins Construction on Dedicated Optimus Factory at Giga Texas - Construction Owners Club",
+      "summary": "特斯拉在德州超级工厂开建专用Optimus人形机器人生产线，标志着其人形机器人从研发转向规模化生产，有望加速行业商业化进程。",
+      "date": "2026-05-29",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNNVg0ZXdKT3ZRRmdFX2o2UGRKU3Jha1dqbUViWnEtY09BZXhFemE3bFgyOE93VEFCa05VMEhmSGNGbThULTFCaHFWZEhHXzNhRlBhRjRza2w3ZmRIODk4TlBBU2MwRmdQc2FhSlFyUGtyWE55N3dpeldyS2NiMFJUMDlUendaVnd5Smo5V1FsckRtbTdNNDBQSWwxVHNYeHREZkowVmJkdUVRY0J3Nm5vZWt4TTdBZw?oc=5"
     },
     {
-      "title": "Tesla Rival Figure Lands Deal With JCPenney Parent After Viral Package Sorting Marathon, White House Visit - Yahoo Finance",
-      "summary": "Figure AI与JCPenney母公司达成合作协议，收获首笔商业订单此前凭借病毒式包装分拣视频获得白宫关注。此进展标志人形机器人从技术展示迈向零售业实际应用，为行业商业化落地提供重要示范。",
-      "date": "2026-05-31",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSWhlbDZvTmREVUlITzRZZDV3aWZ5YldrakJzbTVlX3pWdmttc1licUlqTVVSam1mM3BjOEFVb3hNR0s1RzFNeDVLLWJKSVdMVU1xU2gwZWQ2Und6ZE9fVTBSenJTc0g5dzI0ZDNrUG1qaFJnUVY4YzF2ejdnRUp0SmFmTzVsRDZhdnRVbi1EM1F1Ty1vem9aUy12bVlOR28?oc=5"
+      "title": "Tesla's Optimus 10M/Year Factory Raises First Steel Structure - BASENOR - Tesla Accessories",
+      "summary": "特斯拉宣布其年产1000万台",
+      "date": "2026-05-27",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQcngwOUJUWUkyajZOclZEOUVTQ3ZZRF9TWnkxd3htaVM4SEY2NkRrQlNnNHZVSFJ6UE5rT3dfLUZRVE04WUlkVTFtNW5yRGtyaVJZc1JoRVZJZEZyMjQwMkRFQ2N5b0F1R0x2QkFlQ0VmR3JxenlOY1BMa0JrWFpDaXkyREQxUC1GWmpJS3ljdUwyZFNXNmxac1ZqTQ?oc=5"
+    },
+    {
+      "title": "Three Humanoid Robotics ETFs Built for the Tesla Optimus and Figure AI Era Most Investors Have Never Heard Of - 24/7 Wall St.",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYVc5QmtGQWpzR2lLTFFLOFFqS2ZIMU1ES2F3bF",
+      "date": "2026-05-28",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxNYVc5QmtGQWpzR2lLTFFLOFFqS2ZIMU1ES2F3bFFsSmFsREtkUU42SFNWMkwxRWhad3BFWGFWMGFqZWsyTTNmSXBSOUN1WnU2UUpyU25LR3NYR0NjZWZNMllMZGM2Ni1XcVNoYUN1Z3ZRT0lXOURIeXh6dFk4dVZQX2libGI4T0JVY0NLX1p0WmFaZ1ZNcXVvNTJoNEpocTVtVkVRNzdDWWdLSXZ2bi1LYnZPRk9Kdk1XRnFhQndZQTlnME43d0RsVE44Qm9kTEtmVkw2MG5iUE16ZUVveGlQTnJBTjZhelJE?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-05-31T13:55:53.284173"
+  "updated_at": "2026-06-01T04:14:40.081862"
 }
