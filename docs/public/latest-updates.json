@@ -1,44 +1,68 @@
 {
   "papers": [
     {
-      "title": "Learning Terrain-Aware Whole-Body Control for Perceptive Legged Loco-Manipulation",
-      "summary": "本文提出TA-WBC地形感知全身控制框架，通过混合外部感知编码器提取地形特征，结合脚接触平面末端采样与双策略蒸馏，实现复杂地形下的全身运动操作的稳定控制。",
-      "date": "2026-05-29",
-      "link": "http://arxiv.org/abs/2605.31343v1"
+      "title": "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+      "summary": "提出Humanoid-GPT，一种基于20亿帧运动数据预训练的GPT风格Transformer，实现零样本运动追踪与跨任务泛化能力的突破。",
+      "date": "2026-06-02",
+      "link": "http://arxiv.org/abs/2606.03985v1"
+    },
+    {
+      "title": "Let the Dynamics Flow: Stable Flow Matching Dynamical Systems",
+      "summary": "### 现状痛点",
+      "date": "2026-06-02",
+      "link": "http://arxiv.org/abs/2606.03834v1"
+    },
+    {
+      "title": "Bionic Human-Motion Style Transfer for Physically Executable Whole-Body Control of Humanoid Robots",
+      "summary": "该论文提出了一种基于扩散模型的仿生生成-控制框架，可将短时人类动作示范的风格迁移到不同目标动作内容上，生成物理可执行的类人机器人全身运动参考。",
+      "date": "2026-06-02",
+      "link": "http://arxiv.org/abs/2606.03536v1"
+    },
+    {
+      "title": "Human2Humanoid: Physics-Aware Cross-Morphology Motion Retargeting for Humanoid Robots",
+      "summary": "该论文提出Human2Humanoid框架，采用无监督CycleGAN架构结合骨骼感知图卷积网络，实现从人类运动到不同形体人形机器人的高保真动作迁移，同时通过末端执行器一致性损失和物理可行性约束确保动作语义保留和物理真实",
+      "date": "2026-06-02",
+      "link": "http://arxiv.org/abs/2606.03476v1"
+    },
+    {
+      "title": "SplitAdapter: Load-Aware Humanoid Loco-Manipulation via Factorized Adaptation",
+      "summary": "### 现状痛点",
+      "date": "2026-06-02",
+      "link": "http://arxiv.org/abs/2606.03297v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla Gets A Rival To Its Robotics Business, As Sales In China Eye A Recovery - Investor's Business Daily",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0pKcjlvemtuNkNTbHlWWXUyeUlBS241U1FSbW",
-      "date": "2026-06-02",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa0pKcjlvemtuNkNTbHlWWXUyeUlBS241U1FSbWZ5ZmV2U1JaRmUyMWNXZ0loUEsyLWlvUTE1bmJSSWFDOGEyeUM0V0gxX0Z6bnREQ3ZQQ0xqclpOcTBJWGwtQUFCZi13ZkhhaHJXRjNYWnJHLTJfNlF6ZXUxZWJ1b2hieURJcnZZSlNEZ2RvWDdDXzYzVmVqclVnQV9rZDFzc2FOU3lNel9pV2xTSHNCeA?oc=5"
-    },
-    {
-      "title": "Hyundai to deploy Atlas humanoid robots in U.S. manufacturing push - Car Dealership Guy News",
-      "summary": "现代宣布将在美国工厂部署Boston Dynamics的Atlas人形机器人，标志着大型车企首次大规模采用人形机器人工业应用。这将加速人形机器人在制造业的落地进程，推动行业从研发向实际生产转型。",
-      "date": "2026-06-02",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQa3diVTdBRkJsbDQ4LURNSTI5N2c5MGUzMVg2eXFxQmg4eGtKOFBMWlNvU1Vva1NlVWtobFhEOFRPRDVOTWdINnJZempEYVFfRnkxV19hT3FHbFJxWG1rQy13UGFhbWwydy1xemxjSmpac3lCV1dsclBYWnl4clhmSnJkLWx4eWV5MHhQUHBOcFo2emxVdWNUaU9sNFR1ak0?oc=5"
-    },
-    {
-      "title": "Hyundai Campaign Features Atlas Humanoid Robot - AI Magazine",
-      "summary": "现代汽车在广告活动中展示Boston Dynamics的Atlas人形机器人，体现大型企业将人形机器人作为品牌创新象征，也预示人形机器人正加速走向公众视野，商业化应用进程加快。",
-      "date": "2026-06-02",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9FbVIwUzlpV1RsTkNobGd4Uy1IdERmWXhBUk5LdUxDaWJvVlc2Qk5ydjZzalQ2RFdHSHdRU1Q0TXNtd1g4VllEUWM4Z0VMcWU1Wk9Sa2EtQWt0WW1wYUlNYU1rdzNVdG9wYVF4ek5qcXY0cXlVeGZ0V2ZFSkk0T1E?oc=5"
-    },
-    {
-      "title": "Boston Dynamics and TRI showcase large behavioral models in humanoid robots. - A3 Association for Advancing Automation",
-      "summary": "Boston Dynamics与TRI合作展示大型行为模型在人形机器人中的应用，推动AI与运动控制的深度融合，标志着人形机器人向更智能自主行为能力发展的重要突破。",
-      "date": "2026-05-30",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQcWVfZklfZzFJU2pfYU9XVk5rMGxvdXBjQVdaZXVraDZDZ3Y3T2M2VFZtNlM5cnctTlJDNGs3X3dNbjNsUlRzaFF2QmxTeHNyMUM3aWNLY0NlZGlEN2RvUmkxdVRVZWI0b3RTQjNqUVhLeW1kbjZWeDktLVVfVkdnbkYtNnl0LS1ZMXdJcjFWa3F5V2Nmc2xnTVdoMnVsZTZOWmliUmNfUVlhbHFyTHZ1LUxHeUNuUmJ2Yno4WENQV2RVMUpXUkZEcjVLVTNtY0tk?oc=5"
-    },
-    {
-      "title": "Figure Humanoid Robots Get Jobs With JCPenney, Aéropostale, Brooks Brothers - Forbes",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnlUUG52REw1X002cVBXVXV3THFZUDR6d3VEU0",
+      "title": "Tesla’s Optimus robot plan hits major snag - thestreet.com",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTczUHJtM21zVzB3emUtcll6MHEwYTNueWotdW",
       "date": "2026-05-27",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnlUUG52REw1X002cVBXVXV3THFZUDR6d3VEU0tyclNxaVJ0RFJBZlBRMlRRSHVIZXRSR05LNmNlelRpYUQ1QkRyd1dzYVdCX0RGNTU5V0xHY1hnTUlmVVNxTzBHaXFzZEJTY0Z6X21TZk5uYU9Jb25tYmVISGp4NVk3MFVHWl9hdGhWdXliRlJEM1BiakJUaHowLWU0NGF2dW92bHFrSm5iTTluMEItVHh5ZHl6UU5UX2JsVERDbkozSDhM?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPNTczUHJtM21zVzB3emUtcll6MHEwYTNueWotdWQ4V00wSnF6N21sSmVwRk5oZ3hsWnFhZi1jSDNjTUtPaTkwdWk0eE15Nm1MV1dUbFdPQWhlejRZdXZXU05oWGF6bjA0TWNzMjdWMGROTkRIdnNMT3cxdUc0NWg3bzhJZ1Q?oc=5"
+    },
+    {
+      "title": "Nvidia Has a Robot Partner. It Isn’t Tesla. - Barron's",
+      "summary": "Nvidia宣布与一家非特斯拉的机器人公司达成合作，进军人形机器人领域。这表明科技巨头正在加速布局该赛道，竞争格局趋于多元化。",
+      "date": "2026-06-01",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9rcVg0UHZfS1FHQzFwbG1FSkc1b00zN19EbDRzNWF3M3hoOHljSkE2WHdvV0tDZEt4bXpQN0tMSnphV2FGQ29MN3dGdU14TENGb3J5ajdzckliSlE4Tm1uLXJKQ3hXejlIWkd3ZW1tc1REeHpGZFNhcQ?oc=5"
+    },
+    {
+      "title": "Elon Musk's New Competition: How Nvidia Is Taking On Tesla In The Humanoid Robot Race - Benzinga",
+      "summary": "Nvidia正进军人形机器人领域，与Tesla形成竞争格局，反映AI芯片巨头加速向硬件延伸，有望推动行业技术迭代与商业化进程。",
+      "date": "2026-06-02",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaTRkbFdRbVNtTi1uQ1Jud3FITEVkOEZLZnVfSFczMXBsNmN5ZlZSelJCYTdCcFBzUGtUWVIzYlgwNWZkTTNkTVJDNnFSbzFuUDV3b2NzMUJUS011cFpsazBkSHlpNG11TnZoQlBSUTV4VlhzeS12bXgzRGdoTkpIMmFfYUhXaV9QLUxEaktjbTE3WWhrXzU1U1VNenRqWjRRUV9fYUJySG1UT0IxcG14VU1Td0JtOEM2aWxVX3g5cFlsTi1wNm5ZM3ZoYUdxMEl3QTJQMEZGS0syeXhNejNEYUlfck0?oc=5"
+    },
+    {
+      "title": "TSLA Stock Weakens As Elon Musk’s Optimus Faces New Challengers - Stocktwits",
+      "summary": "TSLA股票因Optimus人形机器人面临新竞争者而走弱，显示特斯拉在机器人领域优势受挑战，行业竞争加剧将推动技术进步和市场加速。",
+      "date": "2026-06-02",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGwzZHM5WHFIWlIxbk0yNG9GRU9peXN6cFRJSWNnWjNGSDlkcG45MVNWSUV2Um5lU2ZyTnRyT3F4Q01YV1JHT1F1QV9FS1l2cFFnT1B1Y2Q2TFh1ZVFZWEwzeDVsN2pUOWM4NTFKU3pnbExSZUt2dWRYdHMwZ2o5RUhMb1F1emp1TlBrUEVhT19RR0llV2lKUS1LbVMxT2dZQV9lOGRlMkc2YnUxY3JjLV9UeUxnbVhUNklsRmZwWWxUNmc?oc=5"
+    },
+    {
+      "title": "Tesla stock drops. OpenAI is coming for one line of its business. - MSN",
+      "summary": "Tesla股价因OpenAI入局竞争而承压，反映AI技术正加速渗透自动驾驶与人形机器人赛道，行业竞争格局面临重塑。",
+      "date": "2026-06-01",
+      "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNcTBfdWRBWUtpa0cza2M3T1JXcllabV84MHprT1FBXzJweVdYYWhsVDllRFJFQmVudVZBSU51OTdnR09sVTc0QXBteWhFV2J2WXlycVdvZ3VZZXk1SkNVVmhqanVvTTZtVHh5UC1XVk1SSGVOcW9QdUs1a1c0eHpoMWdTQTh1b2dzNDBDdHRkakpxOF9VaW9mRXNMdTV0Ynh6aUZmUGt6cERpYUxRaVhMcm50VmIzMkxESGhLblpJVWVIeWpxM0tGeEE0cWJYT05RdUNfQTVva3RXUXpTRGx2VWNETFpOVVk?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-06-02T16:44:13.835073"
+  "updated_at": "2026-06-03T04:18:19.880530"
 }
