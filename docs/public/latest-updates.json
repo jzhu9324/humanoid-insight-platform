@@ -1,68 +1,68 @@
 {
   "papers": [
     {
-      "title": "HANDOFF: Humanoid Agentic Task-Space Whole-Body Control via Distilled Complementary Teachers",
-      "summary": "本文提出HANDOFF人形机器人全身控制器，通过多教师KL蒸馏和上下文门控混合专家机制，从运动跟踪、Locomotion和跌倒恢复三类专家中提取知识，实现紧凑直观的命令接口，在Unitree G1上实现高性能鲁棒操作。",
-      "date": "2026-06-04",
-      "link": "http://arxiv.org/abs/2606.06493v1"
-    },
-    {
-      "title": "MotionDisco: Motion Discovery for Extreme Humanoid Loco-Manipulation",
+      "title": "EM-Fall: Embodied mmWave Sensing for Day-and-Night Fall Detection on Humanoid Robots",
       "summary": "### 现状痛点",
-      "date": "2026-06-04",
-      "link": "http://arxiv.org/abs/2606.06139v1"
+      "date": "2026-06-09",
+      "link": "http://arxiv.org/abs/2606.11109v1"
     },
     {
-      "title": "TAGA: Terrain-aware Active Gaze Learning for Generalizable Agile Humanoid Locomotion",
-      "summary": "TAGA提出一种地形感知的主动注视学习框架，通过强化学习使人形机器人自主涌现类似人类的注视行为，从高度扫描中有选择性地关注信息丰富区域，在有限计算资源下实现精细化感知 locomotion。",
-      "date": "2026-06-04",
-      "link": "http://arxiv.org/abs/2606.05880v1"
+      "title": "A Spiking Neural Architecture for Coordinating Arm and Locomotor Control",
+      "summary": "首次提出基于NEF和SPA的尖峰神经网络架构，在仿真人形机器人中实现手臂力控制与双足行走的协调控制，并通过基底神经节实现运动模式切换。",
+      "date": "2026-06-09",
+      "link": "http://arxiv.org/abs/2606.11034v1"
     },
     {
-      "title": "LadderMan: Learning Humanoid Perceptive Ladder Climbing",
+      "title": "GuideWalk: Learning Unified Autonomous Navigation and Locomotion for Humanoid Robots across Versatile Terrains",
+      "summary": "GuideWalk提出统一端到端框架，融合可穿越性感知导航指导与地形自适应运动教学器，通过组合教师蒸馏与强化学习微调，实现类人机器人在多样地形下的稳定导航与运动。",
+      "date": "2026-06-09",
+      "link": "http://arxiv.org/abs/2606.10449v1"
+    },
+    {
+      "title": "OMG: Omni-Modal Motion Generation for Generalist Humanoid Control",
+      "summary": "论文提出OMG框架，通过扩散模型结合语言、音频和人体参考动作等多模态输入实现通用型人形机器人全身控制，在数据管道和模型架构上取得突破。",
+      "date": "2026-06-09",
+      "link": "http://arxiv.org/abs/2606.10340v1"
+    },
+    {
+      "title": "MARCH: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds",
       "summary": "### 现状痛点",
-      "date": "2026-06-04",
-      "link": "http://arxiv.org/abs/2606.05873v1"
-    },
-    {
-      "title": "Accelerating and Scaling MPC-Guided Reinforcement Learning for Humanoid Locomotion and Manipulation",
-      "summary": "论文提出MPC-RL框架，通过质心动力学MPC奖励引导，结合π^nMPC并行求解器实现大规模并行训练中的高效MPC引导，显著提升人形机器人运动与操作技能的学习效率。",
-      "date": "2026-06-04",
-      "link": "http://arxiv.org/abs/2606.05687v1"
+      "date": "2026-06-09",
+      "link": "http://arxiv.org/abs/2606.10288v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla Optimus Gen 2 Review: Specs, Price, Factory Use [2026] - Robozaps",
-      "summary": "Tesla发布Optimus Gen 2人形机器人，公布具体规格、价格及工厂应用场景，标志着其 humanoid robot 商用化进程加速，可能引领工业场景自动化新趋势。",
+      "title": "Tesla Is Turning Its Model S Line Into an Optimus Robot Factory：Gen 3 Targets a 2026 Production Start - Tech Times",
+      "summary": "Tesla将Model S生产线改造为Optimus机器人制造工厂，第三代目标2026年投产。此举标志着Tesla正式将汽车制造优势延伸至人形机器人领域，将加速行业商业化进程。",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekRjb01yQ2dndzRuQkdQZ3FfZ2RUZXhjX2hwTUtVWVFUdVkySTRkM3pkMzNxc0gzdVNtZ0VuSmd0NldMZ3NtdWhNakRsRE9TdHliamk4QkN3TkVlMGZGMnh5M1ZPWjVFUnVNOWJ4Vlozb2lpdjJOLVlUb0VlQ2o3U0dyM0NLTlhZa0xMaHRscmVGOXg5OGQyUmVLN0hnWVNzcEpiR25Hc0pacGVHYlFrRmJxc0tHanVqN0Z2ZWFPVmczT3ZQVDZCT1p6d0VCbVJkNU9MUE9QcFJZQQ?oc=5"
+    },
+    {
+      "title": "Tesla Optimus Production: Model S Ends, Humanoid Robots Begin [2026 Analysis] - Robozaps",
+      "summary": "Tesla计划2026年停产Model S并转型生产Optimus人形机器人，标志其正式从电动汽车制造商迈入人形机器人行业，开启智能制造新篇章。",
       "date": "2026-06-06",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1CNmY1S0hqMUk1WVN2S2lOR0dKSWY0WUwwd1NOOVlqcWRNMXpXa1NDU3hQRUFuZWhBSmVtUmlnY1RtU0tycW43OXF5cFZrZWJnZFNEdWtZM2JOZk5uX1ZGSXY4elA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekR3SC0xQVFPR3FYUGszaXM0aHFybjJMa1lkeThjcFpkZFdzSXpXVmpmQXB1Nm9ueGxYZl94ZWpURUloUjMwWTBwUVkyVXEzX2VWVm80aG01ZXI2UXRvcFhZQ2RVbW9JT2NfejRpQ3JEMXpyTlZQOVNvanpnSk0?oc=5"
     },
     {
-      "title": "Wall Street Pounds the Table: Tesla’s Future Is Not in Cars — It’s Robotics - Yahoo Finance",
-      "summary": "华尔街认为Tesla未来增长点在机器人而非汽车业务，公司正加速向人形机器人领域转型，这将重塑行业竞争格局。",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPeTIxemRaQ1E1bTN5aUtrU1ZVN0Vhckp4Q0FVc3ZpQW5RUHZmaFpNNWFHbEx4TGlHellZSV91R0haeVNlTFNFbUo3OExSTU50X0Y1U2Q1M0c3dWN1TEs0TnJBT0d3a2kwcXVXLUNMVlNYY29IR3BsR1ppaE9vVnRQS3lwQ1VIc2gtS2UtckdmZElzNFFIRm5WQklWczBMTVBx?oc=5"
+      "title": "China’s EV giants challenge Tesla in race to commercialise humanoid robots - South China Morning Post",
+      "summary": "中国EV巨头加速布局人形机器人领域，与Tesla展开商业化竞争，推动行业从技术研发进入产业化落地阶段。",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEw4U1h2RnUwMXNGTEhmQkV1QURaNkUzLVdtbFFHc3dma21LWUNaTmZSYWlBWnJHQmtVbmU1bXRIN2VDbWk3UlpNVWl4MzBBbnZLR2d0MmVrcnVtR0Y4WVUxa1cxZzFpd2huSlVLT1RteVpQZDRxYkRHTlA4NFRKdGRhc0V6S0pCUjRFWUl2NlluVmtkZmFZdW5QeTNKZkN2anJ5Z2gtVGZ1T002U2YtVW1HNTFkdGpMOWRuWFYzVk5XQm4zWXBJ0gHHAUFVX3lxTE9kWlFBX09NZ0dFMFVXTzBrOThkQlJfam0tZWw1TWp0aEFpaDBkSnBTa2Q0aDk4WVp0bE9uQ0swb0haR3BRby1HLUwweTZma1drdzZBb1R3N1Q2TklhMDZoeGdzWldySEJxbmFIRDNoRW1aUUptYXg0UkxmZHNHWmFiQ0ZHdk9iZkY0eXgwYmo1VEZDMTNZZlhTbF8zQ2Y2TXJ3a1NRdUtkTU44V3VfdndrVFZfdXFfN3Mtb1k5V3lUekRIUF9RcVE?oc=5"
     },
     {
-      "title": "Wall Street Pounds the Table: Tesla’s Future Is Not in Cars — It’s Robotics - 24/7 Wall St.",
-      "summary": "华尔街认为特斯拉未来发展重心将转向机器人领域而非汽车，凸显人形机器人市场的巨大潜力。",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNY3NXOHlIT2o2Mjk2Q1hYWkJKUGt1N056ZFdNZG1QVmN2R3djMU8xNENjOFcwVjlfU3dldHd1TFg3aGhTbHZjeFFEa0ZsQ1ZzYjE1a2U4ajNnUU9PLWZJVUpTajBqc3AtMEpZSEc3YXNaaFJwdWxfN3V6SFMwUTNLMHZsc2N2U3E3bFZGSklGTjR4eHQyUEZ2aWF3MXkwT3lFaEVmR0R1dDRxR2F0MUVFLVRVeEY?oc=5"
-    },
-    {
-      "title": "Musk discusses details and cost of Optimus robot, working prototype this year - Not a Tesla App",
-      "summary": "Musk透露Optimus机器人成本目标并计划今年推出工作原型，标志着特斯拉正式进军人形机器人领域，有望加速行业商业化进程。",
+      "title": "Tesla Robotaxis, FSD Scrutiny And Robotics Rivals Reframe Growth Outlook - simplywall.st",
+      "summary": "Tesla推进Robotaxi但FSD技术受监管审查，机器人竞争对手崛起重塑行业增长预期，反映自动驾驶商业化仍面临技术和监管挑战。",
       "date": "2026-06-06",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOSENoOUpPNnBtQVFkb3ZsRnlaTEZ0ZGZYREtCa0ttZkhid3BudUNvY282N1A3UzhlU1cxV0NldkExeHh0TzdFbXFBb2VEV0xpVGM5MnNIR1R4bTFXLXoyN05xTjA5WFluQjNHR2hvU1c3b2lkQ3VfZkxpbWxKNHRTTGFRblBOWW5WOFV3bEdNVUtUTXNBSkQ3bnpVUWVxUUxleGQ3ejAySjh0QzREMVNBei1qb1BEcVRhRWJYOG5RRE8?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQUDZQTWF4Y2JlSlI2S0NnOFJYWHRzSlJITF82Wm5jVWRweWhKaS1PNWpfYjZYRHQxRmNjeHp3OVRxRnBCZkI0c09jdVkzWE1MYTNPelo2azRpUW9VaEcwQ2FxN0VNd1dFVzhZZ2xZN3VuSUlWb3FRT2ZmVWlqWVhwWE9USHlCTktjcV9ucWlhdnNLYkh6N0tDZk1yaFN3RkVRV0tqYk1LQmx2XzVNU2Z2UHZ5T0VlU1ZhUXFhd3hSVUZLdnM0TGfSAcsBQVVfeXFMT3pHNWl6enZld1M4c3JoVjRsc256TXdtem1mVkJTekJnTDJZVWU2YXZrOVdjQ00tcEh2QmdoQVFOeXlnVV9rRUNNTEFLazJWb2NmNDltWDl4NFB5X2ZMY3Z1dldZZWVrZ25pS1drMDhrRG9ZTmlKU1JfQjlpVjFRR1RDeXRJNXNVNU10UF9oR21BbGtydVBSdlFPSm5rM3FiUlVKRGw5U2dMMVNjNkhPYmpwZDlCZU5DNkk3alpweW1zdHZFdHE0MllRVG8?oc=5"
     },
     {
-      "title": "Boston Dynamics’ Atlas Joins FIFA World Cup 2026 and it Actually Learned Football - Indian Television Dot Com",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzBFbTgxRml6ZkFFMV81bFAzU3ZycWNOTnpubF",
-      "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVzBFbTgxRml6ZkFFMV81bFAzU3ZycWNOTnpubF90aXE1d3lpd3dzVlpYWmt5aG1WYTlwRE9Oc3hwWjhSVjNhTVVoeWtCVEswSWgxQ21HVWdtMEEtQ2NQVnBabkVPWEVIYUtjYjRhY3BqbVZ3YzgxWEpVRHJjLWdEdFVmY3ZzbzRaXzJkdjFROGNBZFU2akVMbHhrOFNvcGRPM2dpM3BEZVBCZXRzaVpwb3Nyems?oc=5"
+      "title": "Is OpenAI coming for Tesla's robotics business? - Yahoo Finance",
+      "summary": "OpenAI可能进军机器人领域，与Tesla形成竞争，推动人形机器人行业进入AI大模型驱动的新阶段。",
+      "date": "2026-06-04",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcHF2c1FwVWwzc2N1UnN2V185VDE4TjZGV3U0a09ac2FRcEFvbWFKVkhJdFFVQmgyUDFFSXU3MThhVnVXbE52c09LaFV6alplSUdpaEJ0UmY5blFJY2pYR3VacGZLMktpRzBsYm1xYXR1RkwxVHk2WkxFQWZBa1ZnaEN5bi1TcUJuU2VmRmdn?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-06-09T15:17:17.762369"
+  "updated_at": "2026-06-10T04:09:13.790272"
 }
