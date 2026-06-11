@@ -1,68 +1,68 @@
 {
   "papers": [
     {
+      "title": "Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation",
+      "summary": "该论文首次系统对比了双critic与统一critic架构在双足机器人locomanipulation任务中的性能差异，证实双critic架构在目标达成速度、吞吐量和成功率上均显著优于统一critic。",
+      "date": "2026-06-10",
+      "link": "http://arxiv.org/abs/2606.11891v1"
+    },
+    {
       "title": "EM-Fall: Embodied mmWave Sensing for Day-and-Night Fall Detection on Humanoid Robots",
-      "summary": "### 现状痛点",
+      "summary": "论文提出EM-Fall框架，通过将毫米波传感集成到移动人形机器人上，实现主动式跌倒检测，突破传统固定传感的视角限制。",
       "date": "2026-06-09",
       "link": "http://arxiv.org/abs/2606.11109v1"
     },
     {
       "title": "A Spiking Neural Architecture for Coordinating Arm and Locomotor Control",
-      "summary": "首次提出基于NEF和SPA的尖峰神经网络架构，在仿真人形机器人中实现手臂力控制与双足行走的协调控制，并通过基底神经节实现运动模式切换。",
+      "summary": "### 现状痛点",
       "date": "2026-06-09",
       "link": "http://arxiv.org/abs/2606.11034v1"
     },
     {
       "title": "GuideWalk: Learning Unified Autonomous Navigation and Locomotion for Humanoid Robots across Versatile Terrains",
-      "summary": "GuideWalk提出统一端到端框架，融合可穿越性感知导航指导与地形自适应运动教学器，通过组合教师蒸馏与强化学习微调，实现类人机器人在多样地形下的稳定导航与运动。",
+      "summary": "GuideWalk提出了一个统一的端到端框架，通过可穿越性感知导航模块与地形适应性运动教师相结合，实现人形机器人在多变地形上的稳定导航与运动控制。",
       "date": "2026-06-09",
       "link": "http://arxiv.org/abs/2606.10449v1"
     },
     {
       "title": "OMG: Omni-Modal Motion Generation for Generalist Humanoid Control",
-      "summary": "论文提出OMG框架，通过扩散模型结合语言、音频和人体参考动作等多模态输入实现通用型人形机器人全身控制，在数据管道和模型架构上取得突破。",
+      "summary": "论文提出OMG框架，通过结合分层认知脑与小脑结构，采用扩散模型实现语言、音频、人体参考动作等多模态输入的通用人形机器人全身运动生成。",
       "date": "2026-06-09",
       "link": "http://arxiv.org/abs/2606.10340v1"
-    },
-    {
-      "title": "MARCH: Model-Assisted Reinforcement Learning for the Perceptive Control of Humanoids over Sparse Footholds",
-      "summary": "### 现状痛点",
-      "date": "2026-06-09",
-      "link": "http://arxiv.org/abs/2606.10288v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla's Optimus Could Drive Huge Revenue Upside, Analyst Says - Benzinga",
-      "summary": "分析师称特斯拉Optimus人形机器人有望带来巨大营收增长，表明特斯拉在仿人机器人商业化方面潜力显著。",
+      "title": "With The SpaceX IPO Imminent, Nvidia And Tesla Accelerate The Race For Physical AI - Forbes",
+      "summary": "SpaceX IPO在即，Nvidia与Tesla加速Physical AI竞争，推动人形机器人感知与交互物理世界的能力，或将加速行业技术突破与商业化进程。",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZGc0RnBXVHFvMmpvallyRTUtOFp1UVhUYUtLd2NRbE1tT3R4N0gzVTVDZF9NbnVZME5Sa1ptYVZfelFDSmUzdnJrR3FjVUpHSEF6ZTlmVjIxQUdaa0RaSjU5SVZBZlBXRHV5Z2l5M2pxUmhxUzZrdWkzVmF5ZV9Qbkt5M0VxcF9MZ3Z5V05ZeVRUMmVTY1FobndaNFRUaU5NN0E0VkxTZVJEN2Z5QXcxUDhUSkM3LWl5T0RKWWFaT1Z4MFIxYjRQOXZlOE5PM2o4VVZScFhEMA?oc=5"
+    },
+    {
+      "title": "Google DeepMind Partner Posts Video of Fake Humanoid Robot - Futurism",
+      "summary": "Google DeepMind发布假人型机器人视频，展示AI在机器人领域的概念验证能力，预示科技巨头加速布局人形机器人市场。",
       "date": "2026-06-10",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOQlNzdUpsSDE3T1ZZQ2JjbEJaYXRhcThia2lxTkxOSnNMcmljMGt5bW5PLWl1MXRuT2dVNlk0UzhZcUdVTlAyVDdNUExKTHV5SHNHNF9kNjQza0RVN0lDZTBjaUhVcXR2WGxMZHFQYUNTNkpUamQ2VFQ5OXVSRTBvVE54M0VGeE9SLXBCVGdFcU40NVhOWG5yb0lUR2pnZTFVTUJTWlRUb3RxM3dyZDVQZEh6YXg1TWExb0I0WXhSc2puUDVpMHFJVEdTTzlNbVhY?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUtyZnBkcW9KOHloM1VSUFVsTXIzMzBjeEoxWXJleUl3R016alVxWEV2akxaQkU3WXFZWFQ0WFdTejYzR0l4OFV1TVdicGN3Z0s0UnZfVjRzdXNvMnVpWlEyZVhLblptWWVvOEE5bE9YemtoaWZuN2s0ZXZHVS1nS2NFVkh6N0dBUHFROHI1ZkFUbjNi?oc=5"
     },
     {
-      "title": "Tesla’s humanoid robot costs $55K to build, with $21K just for the legs - Crypto Briefing",
-      "summary": "Tesla人形机器人制造成本约55K美元，其中腿部占21K美元，反映运动系统的高成本和技术挑战，对行业商业化定价具有参考意义。",
-      "date": "2026-06-06",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XYXB6WDBqSzJIMHViaUJmVlpBN2tzN0N5U0NWNE1kR0JEUWdsTF9rNS1kMTNwcjBlLW8zUnpEclFNU2V1OUJxaF9VOHNERTVKb0RmY3dMeE1EdUVmMzZyZWtfOE51UlpIbjh6UFoyd0xDQjZydm0w?oc=5"
+      "title": "Everything we know about Optimus, the Tesla Robot - Not a Tesla App",
+      "summary": "特斯拉发布Optimus人形机器人最新进展，展示其在自动驾驶技术积累基础上向通用人形机器人领域的扩展，这标志着科技巨头加速布局人形机器人行业，竞争将更加激烈。",
+      "date": "2026-06-07",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNX2xMMDRaM0RDMU1aMWNBdmJlR014N29kWEdqOVBSTGN1WWdjSzdqWm4wS2lnNS1rTmdZUDRHbTlMRmVuZ3A2R3Z4QUNTbFoxLWZqZVplbVM4MEdTWldUdDM5bUgxVFdSWUlTano1a2lqOXd5SE9uYnZDSF8yUFUwSVZ5MUJmNlpDZW5oaw?oc=5"
     },
     {
-      "title": "Pitch perfect? Humanoid robots train to take on future World Cup champions - Institution of Mechanical Engineers - IMechE",
-      "summary": "人形机器人正在通过训练挑战类似人类世界杯冠军级别的运动能力，展示技术从实验室向实际应用的发展。",
-      "date": "2026-06-10",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVUYyR1ZmOVNmcEpFeU1kZXozQ1FoeVNoaEJyTzlRNVEzUDluYUhoeFZXY0pBckJMZFo5cE5LaktqSXIwOERvOWpIMDJWUG1jWEVjb2hMUmpZX1VZdVhpYU5yWDdaQzh4dC1DWXhsVjZoQ0ZZQnJJTHZ2S1RfbUttdzRnUUg0S1ItWkpwa2ppOTNEeUt0V2MtdGlWQUNjM19IWW51dUs2VmIyTHdtTDFqWlR3djM?oc=5"
+      "title": "Tesla Is Turning Its Model S Line Into an Optimus Robot Factory：Gen 3 Targets a 2026 Production Start - Tech Times",
+      "summary": "Tesla将Model S生产线改造为Optimus机器人工厂，第三代目标2026年投产，标志其人形机器人从研发转向规模化制造，加速行业商业化进程。",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekRjb01yQ2dndzRuQkdQZ3FfZ2RUZXhjX2hwTUtVWVFUdVkySTRkM3pkMzNxc0gzdVNtZ0VuSmd0NldMZ3NtdWhNakRsRE9TdHliamk4QkN3TkVlMGZGMnh5M1ZPWjVFUnVNOWJ4Vlozb2lpdjJOLVlUb0VlQ2o3U0dyM0NLTlhZa0xMaHRscmVGOXg5OGQyUmVLN0hnWVNzcEpiR25Hc0pacGVHYlFrRmJxc0tHanVqN0Z2ZWFPVmczT3ZQVDZCT1p6d0VCbVJkNU9MUE9QcFJZQQ?oc=5"
     },
     {
-      "title": "IBK Securities lifts Hyundai Motor target as Korea bets on Atlas robot demand - CHOSUNBIZ - Chosunbiz",
-      "summary": "IBK证券上调现代汽车目标价，因韩国押注波士顿动力Atlas人形机器人需求，行业迎重大机遇。",
+      "title": "China’s EV giants challenge Tesla in race to commercialise humanoid robots - South China Morning Post",
+      "summary": "中国电动车企业加速布局人形机器人领域，与特斯拉形成竞争格局，推动行业商业化进程加速。",
       "date": "2026-06-08",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOX0htS01YLVJQZ1Z4cWwtRlJaLVZ2SmVRdUUySXozTGwzemNIOEJ1X0VmTWNwUW9vMVRObGR2Q0R6SFRsbnRjOFV3VFNHdVZrcUNSdHFaTEJvMXBaLVc4OUtxc3hoS1pLYllaanIwQUdMX3FNTmpTUjVUNnpxcUthbNIBlAFBVV95cUxOU0pjS2ZBcUw1Ml8zWDlNLTNaMVNTLVhCQUlidTFzVkhEVmhGcDFDUkpaM21RVEZxd2JWMGtVY25UYm5VZTVlb0VMdFAzVUtfWTZNSTBQWUVUOEZFaEpnOURJdFZwS2o0bzY0Wld3aXBpcWZQTmNsb05OMGZ5Ml9NLUVZbmllMXZXb082UzdSUTdialVw?oc=5"
-    },
-    {
-      "title": "Oregon’s physical AI ecosystem takes flight - fDi Intelligence",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWNrZEtMc0k5QTFCWUZDcWpoQWdBMnRpQ3Zmd0",
-      "date": "2026-06-08",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVWNrZEtMc0k5QTFCWUZDcWpoQWdBMnRpQ3Zmd09oRk15QVBXQ09EVnpOUnFxN0V4aHZVVm9HaGs0U0NZTUEtZ1YzMmxfNmJPaU9McGRLUk5RM25pZXlfNENCNERtN0kzVXdFX2NlemhkTGt3UThwSXhzS3RDbjRGeUVR?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEw4U1h2RnUwMXNGTEhmQkV1QURaNkUzLVdtbFFHc3dma21LWUNaTmZSYWlBWnJHQmtVbmU1bXRIN2VDbWk3UlpNVWl4MzBBbnZLR2d0MmVrcnVtR0Y4WVUxa1cxZzFpd2huSlVLT1RteVpQZDRxYkRHTlA4NFRKdGRhc0V6S0pCUjRFWUl2NlluVmtkZmFZdW5QeTNKZkN2anJ5Z2gtVGZ1T002U2YtVW1HNTFkdGpMOWRuWFYzVk5XQm4zWXBJ0gHHAUFVX3lxTE9kWlFBX09NZ0dFMFVXTzBrOThkQlJfam0tZWw1TWp0aEFpaDBkSnBTa2Q0aDk4WVp0bE9uQ0swb0haR3BRby1HLUwweTZma1drdzZBb1R3N1Q2TklhMDZoeGdzWldySEJxbmFIRDNoRW1aUUptYXg0UkxmZHNHWmFiQ0ZHdk9iZkY0eXgwYmo1VEZDMTNZZlhTbF8zQ2Y2TXJ3a1NRdUtkTU44V3VfdndrVFZfdXFfN3Mtb1k5V3lUekRIUF9RcVE?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-06-10T15:53:37.357291"
+  "updated_at": "2026-06-11T04:17:35.047680"
 }
