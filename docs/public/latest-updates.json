@@ -1,68 +1,68 @@
 {
   "papers": [
     {
+      "title": "WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning",
+      "summary": "### 现状痛点",
+      "date": "2026-06-11",
+      "link": "http://arxiv.org/abs/2606.13232v1"
+    },
+    {
+      "title": "Proprioceptive-visual correspondence enables self-other distinction in humanoid robots",
+      "summary": "论文提出通过本体感觉-视觉对应学习实现人形机器人自我-他者区分，无需身份标签或运动学模型即可建立预测性自我模型，实现三维身体占据感知。",
+      "date": "2026-06-11",
+      "link": "http://arxiv.org/abs/2606.13222v1"
+    },
+    {
+      "title": "GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training",
+      "summary": "GenHOI提出一种零样本人形机器人-物体交互框架，通过生成视频结合接触感知和几何约束优化，无需任务特定训练即可实现多样化的物体交互任务。",
+      "date": "2026-06-11",
+      "link": "http://arxiv.org/abs/2606.12995v1"
+    },
+    {
       "title": "Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation",
-      "summary": "该论文首次系统对比了双critic与统一critic架构在双足机器人locomanipulation任务中的性能差异，证实双critic架构在目标达成速度、吞吐量和成功率上均显著优于统一critic。",
+      "summary": "论文通过在Unitree G1人形机器人上的对照实验，首次系统证明双评论家架构在多目标强化学习中显著优于统一评论家，目标达成速度提升3.5倍。",
       "date": "2026-06-10",
       "link": "http://arxiv.org/abs/2606.11891v1"
     },
     {
       "title": "EM-Fall: Embodied mmWave Sensing for Day-and-Night Fall Detection on Humanoid Robots",
-      "summary": "论文提出EM-Fall框架，通过将毫米波传感集成到移动人形机器人上，实现主动式跌倒检测，突破传统固定传感的视角限制。",
+      "summary": "本文提出EM-Fall框架，通过将毫米波传感集成到移动人形机器人中，实现主动调整感知视角的 embodied 跌倒检测，解决传统方案在遮挡和低光照环境下性能下降的问题。",
       "date": "2026-06-09",
       "link": "http://arxiv.org/abs/2606.11109v1"
-    },
-    {
-      "title": "A Spiking Neural Architecture for Coordinating Arm and Locomotor Control",
-      "summary": "### 现状痛点",
-      "date": "2026-06-09",
-      "link": "http://arxiv.org/abs/2606.11034v1"
-    },
-    {
-      "title": "GuideWalk: Learning Unified Autonomous Navigation and Locomotion for Humanoid Robots across Versatile Terrains",
-      "summary": "GuideWalk提出了一个统一的端到端框架，通过可穿越性感知导航模块与地形适应性运动教师相结合，实现人形机器人在多变地形上的稳定导航与运动控制。",
-      "date": "2026-06-09",
-      "link": "http://arxiv.org/abs/2606.10449v1"
-    },
-    {
-      "title": "OMG: Omni-Modal Motion Generation for Generalist Humanoid Control",
-      "summary": "论文提出OMG框架，通过结合分层认知脑与小脑结构，采用扩散模型实现语言、音频、人体参考动作等多模态输入的通用人形机器人全身运动生成。",
-      "date": "2026-06-09",
-      "link": "http://arxiv.org/abs/2606.10340v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Taiwan firms eye robot vision market as Tesla moves toward humanoid production - Taiwan News",
-      "summary": "特斯拉推进人形机器人生产，台湾企业瞄准机器人视觉市场机遇，显示视觉技术将成为人形机器人产业链的关键竞争领域。",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE1mZTN4YktSOE5TTUtKMm9tNmtVY01TWFc0RVFPMVF3T2pZVktQSVI0Sk1ySFZ3WEFZWDRZVmdvNjh1MkVSSlF0OG1IT2xUWk92QUpLRDhYakU?oc=5"
+      "title": "Tesla's Optimus robot ambitions come into focus in Austin - Austin American-Statesman",
+      "summary": "Tesla在奥斯汀推进Optimus人形机器人项目，展示商业化野心，加速行业竞争格局。",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHQzSzV5VVltc19qa2p6Rnl0aDJjdGctal9DdTZEVERfbmtxbnJHSkNSWF9iOC1NS0MwX0hCYjRjNE9mRE5sdUZEVUFoVDJpNG5qSnI5YkpsUl9oa3RzWnY4SjQ5M1BzR2JIWjVYWEs3WEpNdFpBQ2FLYUhkekFUcVprWERJYWxkV1pyc3g0QjlOamFjcDh3d1V4Yw?oc=5"
     },
     {
-      "title": "The Beautiful Game: How Hyundai Motor and Boston Dynamics Taught a Robot to Play Football - Hyundai",
-      "summary": "现代汽车与波士顿动力合作，成功训练机器人完成踢足球动作，展示人形机器人在复杂运动控制和平衡能力方面的技术",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5NVFNueUNWYzhWNjVOdkJtd3VScUF2a2UzUGtDdnJ3VHJsVFRVLXRpQjhZVzFGeWxDaVZWX0txVVVwVDhJRFpsOVp0TUZsMzRIdVU0d184QXlXbzFsSnNRdGV6UlNwSDFuMk9Dd1l3blE?oc=5"
+      "title": "With The SpaceX IPO Imminent, Nvidia And Tesla Accelerate The Race For Physical AI - Forbes",
+      "summary": "SpaceX即将IPO，Nvidia与Tesla加速Physical AI竞争。科技巨头争相布局，驱动人形机器人技术迭代与商业落地。",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZGc0RnBXVHFvMmpvallyRTUtOFp1UVhUYUtLd2NRbE1tT3R4N0gzVTVDZF9NbnVZME5Sa1ptYVZfelFDSmUzdnJrR3FjVUpHSEF6ZTlmVjIxQUdaa0RaSjU5SVZBZlBXRHV5Z2l5M2pxUmhxUzZrdWkzVmF5ZV9Qbkt5M0VxcF9MZ3Z5V05ZeVRUMmVTY1FobndaNFRUaU5NN0E0VkxTZVJEN2Z5QXcxUDhUSkM3LWl5T0RKWWFaT1Z4MFIxYjRQOXZlOE5PM2o4VVZScFhEMA?oc=5"
     },
     {
-      "title": "The Beautiful Game: How Hyundai Motor and Boston Dynamics Taught a Robot to Play Football - Hyundai",
-      "summary": "现代汽车与波士顿动力合作展示机器人踢足球的能力，体现双足机器人在动态平衡和协调控制方面的技术进步，为人机交互和运动应用场景提供示范。",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5MdEJuRDFTblhmekVQR19jM0xaaGlxVVNOWHpQZHJrUHdiOTVKUENoMzRIcHJKTGV3VVVwMFNkcnRwUGdHZ05KYl8wTmlwOERRMVB2VDNLN25ITUZ0ZVVMdVZBSGxZTDBheEMtZWZsVXc?oc=5"
+      "title": "Tesla Is Turning Its Model S Line Into an Optimus Robot Factory：Gen 3 Targets a 2026 Production Start - Tech Times",
+      "summary": "Tesla将Model S生产线改造为Optimus机器人工厂，第三代目标2026年投产。此举标志着Tesla加速人形机器人商业化，可能引领行业进入规模化生产阶段。",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekRjb01yQ2dndzRuQkdQZ3FfZ2RUZXhjX2hwTUtVWVFUdVkySTRkM3pkMzNxc0gzdVNtZ0VuSmd0NldMZ3NtdWhNakRsRE9TdHliamk4QkN3TkVlMGZGMnh5M1ZPWjVFUnVNOWJ4Vlozb2lpdjJOLVlUb0VlQ2o3U0dyM0NLTlhZa0xMaHRscmVGOXg5OGQyUmVLN0hnWVNzcEpiR25Hc0pacGVHYlFrRmJxc0tHanVqN0Z2ZWFPVmczT3ZQVDZCT1p6d0VCbVJkNU9MUE9QcFJZQQ?oc=5"
     },
     {
-      "title": "Boston Dynamics highlights diverse strategies in humanoid robotics amid Nvidia-Unitree collab - digitimes",
-      "summary": "Boston Dynamics在Nvidia与Unitree合作背景下展示多元化策略，反映人形机器人行业竞争加剧，各大厂商正通过差异化路径抢占",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQ25DMG5KSVg0TjRfRmFmWUx1Vm1vZTVBYW9HcFhDNlJ5OUxBZEVNRjVFWkZNbTNlREdFYXBtVXc4T01nTnJTUEtmX2lTeEwtMWg2MWdEMURJb3FFajY5T2MxWXI5cHpBbHRMX1NIaExsX0JMdnl5ZGlHM3EydWdVdENYME1YU19lU01KeWdUQWFxYVE1MUVJcGIwcw?oc=5"
+      "title": "Tesla Optimus Production: Model S Ends, Humanoid Robots Begin [2026 Analysis] - Robozaps",
+      "summary": "特斯拉或将于2026年停产Model S，全面转向Optimus人形机器人生产，标志其从汽车制造商向机器人公司转型，加速行业竞争与商业化进程。",
+      "date": "2026-06-06",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFA4ekR3SC0xQVFPR3FYUGszaXM0aHFybjJMa1lkeThjcFpkZFdzSXpXVmpmQXB1Nm9ueGxYZl94ZWpURUloUjMwWTBwUVkyVXEzX2VWVm80aG01ZXI2UXRvcFhZQ2RVbW9JT2NfejRpQ3JEMXpyTlZQOVNvanpnSk0?oc=5"
     },
     {
-      "title": "Analysis: Taiwan suppliers pivot to physical AI as humanoid robots draw attention - digitimes",
-      "summary": "台湾供应商加速转向物理AI领域，为人形机器人提供核心零部件与技术支撑，反映供应链积极布局具身智能赛道，推动行业商业化落地。",
-      "date": "2026-06-10",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbzJ5ZUhzNFBnaGJaSjFrZjZ6Umk4bUt3a29ZeVpJOWZlNmgwamp6NEh4YWRvZFFyT1drOEtsZE1uTzhzcnFpcWxfOFdpYk5sUjl2SVRTUEhrWWJkNGRpWEc1TW9FVS01ZUFiRWM0eTNlTFRlcXNwaWN1SUJxZ0huMGhkRQ?oc=5"
+      "title": "Tesla Optimus Is Working a Shift at the Tesla Diner Today - BASENOR - Tesla Accessories",
+      "summary": "Tesla Optimus机器人在Tesla Diner实际工作，展示人形机器人在服务业的商业化应用前景。",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdUQWNrUm95d204UVhwbXlRZFRKN0lKSFllTWNDZXVmMHRWdGxkYUg0SzRNalVmNEEycWFvYW9SQUp4WGZ2VXkycDlodmZHLVR3OE1ZS0kxSkNtdV9mcF9BR1VNNFd3TXpUbXNNdHMteDVNTVpvNnBjaUxKaTR3M3RHT3JJeWxLUGpXcHNSY3I3bnFkY3Bv?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-06-12T15:27:15.609385"
+  "updated_at": "2026-06-13T03:56:19.092588"
 }
