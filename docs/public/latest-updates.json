@@ -1,68 +1,62 @@
 {
   "papers": [
     {
-      "title": "WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning",
+      "title": "Whole-Body Impedance Model Predictive Control for Safe Physical Human--Robot Interaction on Floating-Base Platforms",
       "summary": "### 现状痛点",
+      "date": "2026-06-12",
+      "link": "http://arxiv.org/abs/2606.14617v1"
+    },
+    {
+      "title": "WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning",
+      "summary": "WT-UMI是一种可穿戴全身触觉接口，通过力监督规划实现人形机器人的全身操作，能够在人体演示和远程操作两种模式下获取触觉图像、接触力和末端姿态数据。",
       "date": "2026-06-11",
       "link": "http://arxiv.org/abs/2606.13232v1"
     },
     {
       "title": "Proprioceptive-visual correspondence enables self-other distinction in humanoid robots",
-      "summary": "论文提出通过本体感觉-视觉对应学习实现人形机器人自我-他者区分，无需身份标签或运动学模型即可建立预测性自我模型，实现三维身体占据感知。",
+      "summary": "本文提出通过本体感-视觉Correspondence无需身份标签或运动模型即可让人形机器人学会自我-他者区分，并基于此构建从关节配置到三维肌体占据的预测自我模型。",
       "date": "2026-06-11",
       "link": "http://arxiv.org/abs/2606.13222v1"
     },
     {
       "title": "GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training",
-      "summary": "GenHOI提出一种零样本人形机器人-物体交互框架，通过生成视频结合接触感知和几何约束优化，无需任务特定训练即可实现多样化的物体交互任务。",
+      "summary": "GenHOI提出通过生成视频引导人形机器人实现zero-shot物体交互的新范式，无需任务特定训练即可完成多样化的接触式操作任务。",
       "date": "2026-06-11",
       "link": "http://arxiv.org/abs/2606.12995v1"
-    },
-    {
-      "title": "Critic Architecture Matters: Dual vs. Unified Critics for Humanoid Loco-Manipulation",
-      "summary": "论文通过在Unitree G1人形机器人上的对照实验，首次系统证明双评论家架构在多目标强化学习中显著优于统一评论家，目标达成速度提升3.5倍。",
-      "date": "2026-06-10",
-      "link": "http://arxiv.org/abs/2606.11891v1"
-    },
-    {
-      "title": "EM-Fall: Embodied mmWave Sensing for Day-and-Night Fall Detection on Humanoid Robots",
-      "summary": "本文提出EM-Fall框架，通过将毫米波传感集成到移动人形机器人中，实现主动调整感知视角的 embodied 跌倒检测，解决传统方案在遮挡和低光照环境下性能下降的问题。",
-      "date": "2026-06-09",
-      "link": "http://arxiv.org/abs/2606.11109v1"
     }
   ],
   "companyNews": [
     {
-      "title": "OpenAI Robotics Expansion: Could It Challenge Tesla's Optimus? - News and Statistics - IndexBox",
-      "summary": "OpenAI可能进入人形机器人领域，与Tesla的Optimus形成竞争，这将加剧行业竞争，推动技术加速发展。",
-      "date": "2026-06-14",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOeDJJNFppMG5yQmRLSWJIYV9DRnFidGVxTGxLcExuZk5aTGhMcGVvOU1jaUNRY2VrSzZOcURLNkNkTEJfRlZlUmlOOHFvRm9YRTVSZVhERVZpS1prNVVZUWx4MDRvX0RvbnhnQ1UzVDE3aTd3WDY0TGhoLUZJRVpNbFB6Wl9vR2ROUVNiY1hoUWd0VzExQ21KVDdn?oc=5"
+      "title": "Tesla's Optimus robot ambitions come into focus in Austin - Austin American-Statesman",
+      "summary": "特斯拉正在奥斯汀推进Optimus人形机器人项目，显示其",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHQzSzV5VVltc19qa2p6Rnl0aDJjdGctal9DdTZEVERfbmtxbnJHSkNSWF9iOC1NS0MwX0hCYjRjNE9mRE5sdUZEVUFoVDJpNG5qSnI5YkpsUl9oa3RzWnY4SjQ5M1BzR2JIWjVYWEs3WEpNdFpBQ2FLYUhkekFUcVprWERJYWxkV1pyc3g0QjlOamFjcDh3d1V4Yw?oc=5"
     },
     {
-      "title": "Tesla Is Turning Its Model S Line Into an Optimus Robot Factory：Gen 3 Targets a 2026 Production Start - Tech Times",
-      "summary": "Tesla将Model S生产线改造为Optimus机器人制造工厂，Gen 3计划2026年投产，标志其人形机器人进入产业化阶段，将加速行业竞争与发展。",
+      "title": "With The SpaceX IPO Imminent, Nvidia And Tesla Accelerate The Race For Physical AI - Forbes",
+      "summary": "Nvidia与Tesla加速布局Physical AI领域，预示着人形机器人核心技术竞争加剧，将推动运动控制、感知交互等关键技术快速迭代。",
       "date": "2026-06-09",
-      "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPekRjb01yQ2dndzRuQkdQZ3FfZ2RUZXhjX2hwTUtVWVFUdVkySTRkM3pkMzNxc0gzdVNtZ0VuSmd0NldMZ3NtdWhNakRsRE9TdHliamk4QkN3TkVlMGZGMnh5M1ZPWjVFUnVNOWJ4Vlozb2lpdjJOLVlUb0VlQ2o3U0dyM0NLTlhZa0xMaHRscmVGOXg5OGQyUmVLN0hnWVNzcEpiR25Hc0pacGVHYlFrRmJxc0tHanVqN0Z2ZWFPVmczT3ZQVDZCT1p6d0VCbVJkNU9MUE9QcFJZQQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZGc0RnBXVHFvMmpvallyRTUtOFp1UVhUYUtLd2NRbE1tT3R4N0gzVTVDZF9NbnVZME5Sa1ptYVZfelFDSmUzdnJrR3FjVUpHSEF6ZTlmVjIxQUdaa0RaSjU5SVZBZlBXRHV5Z2l5M2pxUmhxUzZrdWkzVmF5ZV9Qbkt5M0VxcF9MZ3Z5V05ZeVRUMmVTY1FobndaNFRUaU5NN0E0VkxTZVJEN2Z5QXcxUDhUSkM3LWl5T0RKWWFaT1Z4MFIxYjRQOXZlOE5PM2o4VVZScFhEMA?oc=5"
     },
     {
-      "title": "Boston Dynamics and TRI showcase large behavioral models in humanoid robots. - A3 Association for Advancing Automation",
-      "summary": "Boston Dynamics与丰田研究院合作，在人形机器人上展示大型行为模型，推动AI驱动的运动控制技术发展，为机器人更灵活、更智能的自主行为奠定基础。",
-      "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPdTJ3WDVXQlhOeVhEcEFmZmlRdDNyTi11bzNNNmI3bGJUd1BOMllJd2Z5Y2IwY1JkRTVyRDgxYjRmRENxZGxJdlF0WDRaZGZOM084cXRwQTNFSEl1bjZZLXA4UjR2ZGQ2SHYyeTZzcnh2YTQtbmhIU0Z4RVhYSkQyZnNjS0M2bXJ4RFA3YUFMRHQyc0xxVzN0VjdIaVM5QldLRjZHeFlUTWhZV3M1VHJMS0owblFuVzhSd0h6dVJFRzMwWFdWYlhzOE44WEhNY3hSTDhVcmVn?oc=5"
+      "title": "Tesla Optimus Is Working a Shift at the Tesla Diner Today - BASENOR - Tesla Accessories",
+      "summary": "特斯拉Optimus机器人在特斯拉餐厅实际工作，展示人形机器人在服务业的商业化应用进展，对行业具有技术落地示范意义。",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdUQWNrUm95d204UVhwbXlRZFRKN0lKSFllTWNDZXVmMHRWdGxkYUg0SzRNalVmNEEycWFvYW9SQUp4WGZ2VXkycDlodmZHLVR3OE1ZS0kxSkNtdV9mcF9BR1VNNFd3TXpUbXNNdHMteDVNTVpvNnBjaUxKaTR3M3RHT3JJeWxLUGpXcHNSY3I3bnFkY3Bv?oc=5"
     },
     {
-      "title": "34 Best Humanoid Robots [2026 Ranked] - Robozaps",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CVGNZYVhwTFk4TTdoWVhjREQwM2lieVJxUUIxUW",
+      "title": "Google DeepMind Partner Posts Video of Fake Humanoid Robot - Futurism",
+      "summary": "谷歌DeepMind合作伙伴发布fake人形机器人视频，展示AI模拟技术。对行业而言，此举表明科技巨头加速布局人形机器人领域，AI与机器人融合趋势加剧。",
       "date": "2026-06-10",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CVGNZYVhwTFk4TTdoWVhjREQwM2lieVJxUUIxUWh0OHkyNVBFTUxXbmZnOEhNY1pKV1lUalhGVUwtUndRT1J2SzFxU1cxOW11V2hCZXh3SFotSmZE?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQdUtyZnBkcW9KOHloM1VSUFVsTXIzMzBjeEoxWXJleUl3R016alVxWEV2akxaQkU3WXFZWFQ0WFdTejYzR0l4OFV1TVdicGN3Z0s0UnZfVjRzdXNvMnVpWlEyZVhLblptWWVvOEE5bE9YemtoaWZuN2s0ZXZHVS1nS2NFVkh6N0dBUHFROHI1ZkFUbjNi?oc=5"
     },
     {
-      "title": "34 Best Humanoid Robots [2026 Ranked] - Robozaps",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CVGNZYVhwTFk4TTdoWVhjREQwM2lieVJxUUIxUW",
-      "date": "2026-06-10",
-      "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9CVGNZYVhwTFk4TTdoWVhjREQwM2lieVJxUUIxUWh0OHkyNVBFTUxXbmZnOEhNY1pKV1lUalhGVUwtUndRT1J2SzFxU1cxOW11V2hCZXh3SFotSmZE?oc=5"
+      "title": "China’s EV giants challenge Tesla in race to commercialise humanoid robots - South China Morning Post",
+      "summary": "中国电动车企业（蔚来、小鹏、理想等）正与特斯拉竞争商业化人形机器人，预示行业竞争加剧，中国市场将成为人形机器人商业化主战场。",
+      "date": "2026-06-08",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNMEw4U1h2RnUwMXNGTEhmQkV1QURaNkUzLVdtbFFHc3dma21LWUNaTmZSYWlBWnJHQmtVbmU1bXRIN2VDbWk3UlpNVWl4MzBBbnZLR2d0MmVrcnVtR0Y4WVUxa1cxZzFpd2huSlVLT1RteVpQZDRxYkRHTlA4NFRKdGRhc0V6S0pCUjRFWUl2NlluVmtkZmFZdW5QeTNKZkN2anJ5Z2gtVGZ1T002U2YtVW1HNTFkdGpMOWRuWFYzVk5XQm4zWXBJ0gHHAUFVX3lxTE9kWlFBX09NZ0dFMFVXTzBrOThkQlJfam0tZWw1TWp0aEFpaDBkSnBTa2Q0aDk4WVp0bE9uQ0swb0haR3BRby1HLUwweTZma1drdzZBb1R3N1Q2TklhMDZoeGdzWldySEJxbmFIRDNoRW1aUUptYXg0UkxmZHNHWmFiQ0ZHdk9iZkY0eXgwYmo1VEZDMTNZZlhTbF8zQ2Y2TXJ3a1NRdUtkTU44V3VfdndrVFZfdXFfN3Mtb1k5V3lUekRIUF9RcVE?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-06-14T14:14:05.918718"
+  "updated_at": "2026-06-15T04:26:33.470534"
 }
