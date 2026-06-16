@@ -1,62 +1,68 @@
 {
   "papers": [
     {
-      "title": "Whole-Body Impedance Model Predictive Control for Safe Physical Human--Robot Interaction on Floating-Base Platforms",
+      "title": "ROVE: Unlocking Human Interventions for Humanoid Manipulation via Reinforcement Learning",
       "summary": "### 现状痛点",
-      "date": "2026-06-12",
-      "link": "http://arxiv.org/abs/2606.14617v1"
+      "date": "2026-06-15",
+      "link": "http://arxiv.org/abs/2606.17011v1"
     },
     {
-      "title": "WT-UMI: Tactile-based Whole-Body Manipulation via Force-Supervised Contact-Aware Planning",
-      "summary": "WT-UMI是一种可穿戴全身触觉接口，通过力监督规划实现人形机器人的全身操作，能够在人体演示和远程操作两种模式下获取触觉图像、接触力和末端姿态数据。",
-      "date": "2026-06-11",
-      "link": "http://arxiv.org/abs/2606.13232v1"
+      "title": "VENOM: Versatile Embodied Network for Omni-bodied Motion tracking",
+      "summary": "提出VENOM，一个基于GPT的跨 embodiment 全身运动追踪模型，实现多 humanoid 统一追踪无需解耦上下半身控制。",
+      "date": "2026-06-15",
+      "link": "http://arxiv.org/abs/2606.16696v1"
     },
     {
-      "title": "Proprioceptive-visual correspondence enables self-other distinction in humanoid robots",
-      "summary": "本文提出通过本体感-视觉Correspondence无需身份标签或运动模型即可让人形机器人学会自我-他者区分，并基于此构建从关节配置到三维肌体占据的预测自我模型。",
-      "date": "2026-06-11",
-      "link": "http://arxiv.org/abs/2606.13222v1"
+      "title": "WaveSync: Constrained Wavefront Optimization for Synchronized Co-Speech Gestures in Humanoid Robots",
+      "summary": "WaveSync提出一种混合框架，利用LLM将对话分解为语义模式并生成语义重要性波，结合动态运动原语和波前优化实现人形机器人与语音同步的表现性手势生成，同时满足运动学和动力学约束。",
+      "date": "2026-06-15",
+      "link": "http://arxiv.org/abs/2606.16600v1"
     },
     {
-      "title": "GenHOI: Contact-Aware Humanoid-Object Interaction by Imitating Generated Videos without Task-Specific Training",
-      "summary": "GenHOI提出通过生成视频引导人形机器人实现zero-shot物体交互的新范式，无需任务特定训练即可完成多样化的接触式操作任务。",
-      "date": "2026-06-11",
-      "link": "http://arxiv.org/abs/2606.12995v1"
+      "title": "ADAPT: Analytical Disturbance-Aware Policy Training for Humanoid Locomotion",
+      "summary": "### 现状痛点",
+      "date": "2026-06-15",
+      "link": "http://arxiv.org/abs/2606.16542v1"
+    },
+    {
+      "title": "$λ$-Reachability: Geometric-Horizon Safety Bellman Equations for Humanoid Safety",
+      "summary": "提出了λ-可达性方法，通过几何分布的随机rollout horizon和概率δ控制的终端值，实现高维人形机器人系统的可扩展Hamilton-Jacobi安全分析，在局部更新和长 horizon目标间取得平衡。",
+      "date": "2026-06-14",
+      "link": "http://arxiv.org/abs/2606.16022v1"
     }
   ],
   "companyNews": [
     {
-      "title": "Tesla faces new robotics rival as Optimus production nears - MSN",
-      "summary": "特斯拉Optimus人形机器人即将投产，面临新竞争对手入场，行业竞争加剧将加速技术迭代与成本下降。",
+      "title": "Tesla's Optimus robot ambitions come into focus in Austin - Austin American-Statesman",
+      "summary": "Tesla在Austin推进Optimus人形机器人项目，展现其商业化野心，将加速行业竞争与技术进步。",
       "date": "2026-06-11",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxQM0lHVk5SSlFRNTg2VjZJZFBDM1dUVFlSZVAzUVdnOUF2ZWZ5RmpNc1JtWWhMa21CcDY4aGlxaE5CTGYxOGl5WUlQajVVeGNUZEh0UUVpN3pVV3hZUHZLamQ0Y0ZBb3BwRExSYy1rSk15aW1iR0dWSEVNZTdTLWo1c0VQX2pwc1lZTlpJN0FXeXUtbllwWnl2cklGWnhQSm1sRW1QMHM1RVNhVk5VVU1TaEY0Q3pYOXdzX19XbDBhWmJfYXBsUkU3SVg2bEZMZWdQZGhWc1M3Z2M4eDhIUWUzYjdPbHFVT3ZJRC1VNEQ4aHhIZw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPSHQzSzV5VVltc19qa2p6Rnl0aDJjdGctal9DdTZEVERfbmtxbnJHSkNSWF9iOC1NS0MwX0hCYjRjNE9mRE5sdUZEVUFoVDJpNG5qSnI5YkpsUl9oa3RzWnY4SjQ5M1BzR2JIWjVYWEs3WEpNdFpBQ2FLYUhkekFUcVprWERJYWxkV1pyc3g0QjlOamFjcDh3d1V4Yw?oc=5"
     },
     {
-      "title": "Will AI-powered humanoid robots someday work alongside us? | 60 Minutes - CBS News",
-      "summary": "CBS报道Boston Dynamics探讨AI驱动的人形机器人未来与人类协同工作的可能性，反映行业正从",
-      "date": "2026-06-14",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPTWxETmxZQWpyTWx6bnFPZm5EX1dFTnVpUEoxUGpuNlpBMk4wVUR6cW04VUVzdHdqa1RHQmpsTm9wVENvZnlZYVJvX2Q1U1l3NXdGd3NwaDh3UVl5d2Vodjd6NlJ0WW1BbFNoNTk3aHZjN2x4TExCSkl1bG94UkVxblJRU3NvVllsT1I3bXJB?oc=5"
-    },
-    {
-      "title": "Atlas moves closer to real-world autonomy, KB says - The Korea Herald",
-      "summary": "Atlas在真实世界自主性方面取得进展，朝实际应用更近一步，表明人形机器人技术正向商业化落地迈进。",
+      "title": "Tesla's Optimus Could Drive Huge Revenue Upside, Analyst Says - Yahoo Finance",
+      "summary": "分析师认为Tesla的Optimus人形机器人可创造巨大收入，体现科技巨头对行业商业化前景的信心。",
       "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFB5QzVyU2R1NW9rdlRUOVFPbjR1WkpOS1E3TjlzSmJpRjhLQkNxQTVlczR6VU4tc2s2TkZVN3ZRM1RNVWhSWDhzajJ1Q0FjeGZPQkhpQnJGMA?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm9uSnU1Zk41Z3RBanJmS3prdk5JbGI5NUhVWlE5ekVMdXEtTFN0ZF9QRUlZRHFyZFdVakl1dUR3d00wRTZBTmJ2RHktRXJ6RWh4OF9uSU5BdTFLb21tTFlyWEEzQTFtWU1Pc2tzRTZjeG9SZkVMd0ZCSHl3Snp3ZmFxWFlRSnRlWW5oc3FHS2prbGlhd19sUWNQYi1yZTBMSWc?oc=5"
     },
     {
-      "title": "Boston Dynamics' humanoid robot Atlas has started \"working\" and can do more than just backflips. - PANews",
-      "summary": "Atlas开始从事实际工作，不再局限于后空翻等表演动作，标志人形机器人从技术展示向商业应用迈出关键一步。",
-      "date": "2026-06-14",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RVlNUTWN6bmp1YUhRcjRBQmQ2MjFyS1VQUWZzcWxxM1dKZlAzSWlPQmVBQVBKYldZT1M3a0RjWVZCQlJXdHh5ZzRsSzNKWTB3dmRaUk1FRkZ1UTVfT2gzTjJNUzRsVXcxcGc1QlhheVVobkhRZy1hTzNiZkRnVk0?oc=5"
+      "title": "With The SpaceX IPO Imminent, Nvidia And Tesla Accelerate The Race For Physical AI - Forbes",
+      "summary": "SpaceX即将IPO，Tesla与Nvidia加速竞争物理AI领域，推动人形机器人核心技术发展，行业竞争格局生变。",
+      "date": "2026-06-09",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPZGc0RnBXVHFvMmpvallyRTUtOFp1UVhUYUtLd2NRbE1tT3R4N0gzVTVDZF9NbnVZME5Sa1ptYVZfelFDSmUzdnJrR3FjVUpHSEF6ZTlmVjIxQUdaa0RaSjU5SVZBZlBXRHV5Z2l5M2pxUmhxUzZrdWkzVmF5ZV9Qbkt5M0VxcF9MZ3Z5V05ZeVRUMmVTY1FobndaNFRUaU5NN0E0VkxTZVJEN2Z5QXcxUDhUSkM3LWl5T0RKWWFaT1Z4MFIxYjRQOXZlOE5PM2o4VVZScFhEMA?oc=5"
     },
     {
-      "title": "Robotics Summit panel explores the state of humanoid robot design - The Robot Report",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVU0ZmpDM3lUc2NCdjdSQ1dsdF9tZE1Bc0Z3dW",
+      "title": "Tesla Optimus Is Working a Shift at the Tesla Diner Today - BASENOR - Tesla Accessories",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdUQWNrUm95d204UVhwbXlRZFRKN0lKSFllTW",
+      "date": "2026-06-11",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUWdUQWNrUm95d204UVhwbXlRZFRKN0lKSFllTWNDZXVmMHRWdGxkYUg0SzRNalVmNEEycWFvYW9SQUp4WGZ2VXkycDlodmZHLVR3OE1ZS0kxSkNtdV9mcF9BR1VNNFd3TXpUbXNNdHMteDVNTVpvNnBjaUxKaTR3M3RHT3JJeWxLUGpXcHNSY3I3bnFkY3Bv?oc=5"
+    },
+    {
+      "title": "Inside Elon Musk’s AI Ecosystem: How xAI, Tesla, X, Neuralink, and SpaceX Are Converging - TechRepublic",
+      "summary": "Elon Musk旗下xAI、Tesla、X等公司形成AI生态协同，其中Tesla人形机器人Optimus可获xAI大模型能力，加速行业技术整合与商业化进程。",
       "date": "2026-06-12",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOaVU0ZmpDM3lUc2NCdjdSQ1dsdF9tZE1Bc0Z3dWcwWEt5QkVHb1RvSmFrY2t4LWpQaFpFc0NwZmlDQjFHQVVSbDh1eHQwVkRJOEt1LVMta3RncGtPQXdNbHZ5WklybldlVmlJR3I1eEI0ckdKMkVyVFRyeXoycGcyNnpkNHBjWXdPZjN2eFd6ekV5YkZH?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPb2Q3QXlRbnIwV2FMUDFSQTlENElsVm14bDRkaTlqNjlhTmktTWdBRE5HTEJ4bkRmNGl2Q3FFUElXdHJyUW1xSzdKT0RBd2ZfckdZVWtocEZnNGhRbWU3TGhnUmdia21ZMGtfYTRCOHF3RFpYTUdZTWd6QV9MLXotUHN5RU1yM3pqd051ektqZm41NURrUC1J?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-06-15T17:22:11.722316"
+  "updated_at": "2026-06-16T04:18:24.866776"
 }
