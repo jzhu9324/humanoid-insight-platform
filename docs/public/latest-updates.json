@@ -2,67 +2,43 @@
   "papers": [
     {
       "title": "PhysDrift: Bridging the Embodiment Gap in Humanoid Co-Speech Motion Generation",
-      "summary": "PhysDrift通过构建机器人原生运动数据集IK-EER，并在此基础上提出直接根据语音预测可执行人体机器人关节轨迹的框架，消除了传统两段式人体-机器人运动生成中的本体差距，实现了本体感知且物理可行的共手势生成。",
-      "date": "2026-06-18",
-      "link": "http://arxiv.org/abs/2606.19935v1"
-    },
-    {
-      "title": "Data Standards for Humanoid Robotics: The Missing Infrastructure for Physical AI",
       "summary": "### 现状痛点",
       "date": "2026-06-18",
-      "link": "http://arxiv.org/abs/2606.19769v1"
-    },
-    {
-      "title": "Bidirectional Tutoring for Developmental Motor Learning in Robots: Co-Developed Interaction Dynamics Support Stable Learning",
-      "summary": "论文提出双向辅导框架，使机器人通过与导师的动态互动而非被动接收演示来学习运动技能，实验证明该方法能产生一致的行为模式并支持阶段性泛化。",
-      "date": "2026-06-18",
-      "link": "http://arxiv.org/abs/2606.19728v1"
-    },
-    {
-      "title": "Comparative Study on Agility, Efficiency, and Impact Absorption of Bipedal Robots with Active Toes",
-      "summary": "论文提出了一种14自由度仿人脚趾双足机器人，通过高保真仿真和强化学习训练，系统验证了主动脚趾在敏捷性、能效和冲击吸收方面的显著提升，CoT降低17.5%，路径偏差减少34%。",
-      "date": "2026-06-18",
-      "link": "http://arxiv.org/abs/2606.19699v1"
-    },
-    {
-      "title": "Proprioceptive Invariant State Estimation for Humanoid Robots on Non-Inertial Ground",
-      "summary": "该论文提出Invariant Extended Kalman Filtering (InEKF)方法，实现仅用本体感知传感器估计人形机器人在非惯性地面上的相对位置和速度，无需外部传感器或地面运动先验知识。",
-      "date": "2026-06-17",
-      "link": "http://arxiv.org/abs/2606.19512v1"
+      "link": "http://arxiv.org/abs/2606.19935v1"
     }
   ],
   "companyNews": [
     {
-      "title": "US Robotics Stocks to Watch in the Second Half of 2026 - TradingKey",
-      "summary": "Tesla被列入2026年下半年美国机器人行业重点关注的股票名单，反映资本市场对人形机器人领域的持续看好，有助于推动行业技术研发与商业化进程。",
+      "title": "Elon Musk predicts a future where robots make money less important - WION",
+      "summary": "Elon Musk预测未来由机器人创造财富将使金钱不再重要，这为人形机器人行业带来巨大机遇，预示着人机共生的新型社会经济模式。",
       "date": "2026-06-21",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOUXU2REtXUkxuVHhsRVpkQWQxVTVvZzdWVXZHUkNtdjE0ZThzM0p0OXFUY1prajliU3FDeW5GeDUzMnhyX3R4VWtIRVN3enBLdlEyY0dzZ2RiTC0tREVHVFd3Z3JZMVRFZkFSbVBkRmJsdVFSX1lEU1FxMmtsaTVrSHlhOHVEMWlfMnVSVmZ1WQ?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcW1JUl9CcnJubXRSNXk4WHhsT3R2Q3pUbExhaFpORWtYRXBiTmpidzFWbV9wWlNkcU5Bb29ISGJIR2dzM1NsVm9URjFudE53aWt4NE44MU84a0JkVkVPUkZEYXc4OHBXYkQ0bHlzVTM2TlhJSlRTZW8zazlGLThFUkNYV1BWazk4UUJTVnZCN1A2Y0VEWGp2aERicTRlWmZTS2xuWlZqZ0cyd204YWpXSnN5eGJNZ9IBuwFBVV95cUxQei1BbTZId3Qwd1R5TnlOLXB0QnFVRUg1RWlETE1ZRHhNY0IzWXBEMS1ncGZITXpiSklDdXE3Ym9nMUc4ZE5vNk95N2hIcUxhUlREVmlTS1pRaFNKT0QzQzBJU2JXS2RJSFBsSGI0YllnN3JJLXZOZk1jRTMxYnE1cmtOWnUyZUMydkcwRUJiTXZhN0RCd2hreHpOQWxFaTdnOUs3Njl3anpydVNXVjdjX3B5UUJVeFJDaHBR?oc=5"
     },
     {
-      "title": "SoftBank Walks Away From Boston Dynamics for $325 Million, Hands Hyundai The Keys - Gadget Review",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWFRb2FlVUpoZ2M4WE9NWGxEMVNGVkF0T19nZV",
-      "date": "2026-06-19",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYWFRb2FlVUpoZ2M4WE9NWGxEMVNGVkF0T19nZVpxdWVvOGVYZkVUaDJoS2k0WExfZXBCZFlRT2M3NWMxTFM1RnpjVXM4dFRFT2xZMnJlODR2ZnlnWkZNcnV5X2ZrZG1Za2wxOTl2SzZfX2xsUmRNWGxsVGF3NngxYnFuZVlpUGtEcEJsNWZERTJCY3BSRW5oc1QxUm1aNHJZbDBzYjZpNVBmd2ky?oc=5"
-    },
-    {
-      "title": "Watch Hyundai’s Atlas Humanoid Robot Pull Soccer Moves Like A Pro - Autoblog",
-      "summary": "Hyundai的Atlas人形机器人展示足球技巧，体现了双足",
+      "title": "Musk Urges Patience on Optimus and Robotaxi - Let's Data Science",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFNLQThRRFYxcks2MENOajJmVFZxT3drYldZQT",
       "date": "2026-06-20",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPT3VwWURYQkhWXzNOVUtjODhKeUQtOEhwOElORG9VQk1ucHVsZW5Wc3Z5Z1gzRDd2Q2wwNnVJSFRWT1dKLXFud3V3MkZ6azRjQmhQR01kRURHOTNzUldqSDJCc2xobGNvU29uUllxUXdLV3RfUkVGWk16SmdieFctOWhSTGRLQlRFUk1yWXdwZmtKSGFoZWxYQ29B?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdFNLQThRRFYxcks2MENOajJmVFZxT3drYldZQTMxQmduMDlOcUJiZzFnaDlSX0R6YmFkZVpvWEJyZGJfQ2dvSUQ4ODFIS09ubFd1MkxmdThzZkVZanJFcGlGdnNvQmdrSUd6TFU1WjlCWW9oNjRnWTlkRG5WcER2dDJ5TGxkQUJFNnRtX0h3?oc=5"
     },
     {
-      "title": "Atlas demonstrates general intelligence needed for industrial tasks - Interesting Engineering",
-      "summary": "Atlas展示工业任务通用智能，标志着人形机器人在实际工业应用领域的重要突破，为自动化和智能制造开辟新可能。",
+      "title": "Tesla's Optimus Could Drive Huge Revenue Upside, Analyst Says - Yahoo Finance",
+      "summary": "分析师称Tesla Optimus人形机器人",
       "date": "2026-06-15",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWVpldWFSN01kQXhlLXE3N1EydGoxRzcyVkFnaXhlWVJZUmVuZjM2ZTBaTEppZkFlU1JCWVQ4XzAwT3hvakxJMktna1RYV0RCOVZaR0IydEE3a0xndlBrUTljZWRLQm9iaWpoYnZZQUloYzB4U1NwSWFzRHJkeWZCSW9ybXE0MExHNGFZb1J1ZTM0cFJTNk5kRWRmRXo5OExRenZwX1lNeEJkTFFaSEFJY3ZJaWpwRVhfSXV4bUh0bGF3SGNBQjNtWFVFV2Vtdw?oc=5"
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdm9uSnU1Zk41Z3RBanJmS3prdk5JbGI5NUhVWlE5ekVMdXEtTFN0ZF9QRUlZRHFyZFdVakl1dUR3d00wRTZBTmJ2RHktRXJ6RWh4OF9uSU5BdTFLb21tTFlyWEEzQTFtWU1Pc2tzRTZjeG9SZkVMd0ZCSHl3Snp3ZmFxWFlRSnRlWW5oc3FHS2prbGlhd19sUWNQYi1yZTBMSWc?oc=5"
     },
     {
-      "title": "How Boston Dynamics upgraded the Atlas robot - AOL.com",
-      "summary": "波士顿动力升级了其Atlas人形机器人，提升了运动性能和智能化水平，巩固了行业领先地位，推动人形机器人技术向实用化再进一步。",
-      "date": "2026-06-21",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWWFpZ0pIbjFRa0xVV19xSXBrUlIySlNkTUFsUEpKRWZnN3ZiejJSVTlucEx5Q2FQT0dLT1luLWdyMXFyaU82ektMU3lRdGRBYlR6TFhVRnNCdnd4WldIU2MydDJuN3ByQ0dZc2tLRWljUGx2bTBscGxYYWlfLWhvbG0yakxiQXc?oc=5"
+      "title": "Tesla Breaks Ground on 10M/Year Optimus Factory at Giga Texas - BASENOR - Tesla Accessories",
+      "summary": "Tesla在Giga Texas开建年产1000万台Optimus机器人工厂，标志着人形机器人正式进入规模化量产时代，将加速行业技术进步与成本",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV2N2dnlMeWs1ejBEZjVKZGJ2UTJpekQtWGJjOWVxem5sVnNyZE9GSjRFV3FydEtmNXhLLW1ZbVpCbXo4SkZlNXZIWHFITzFRNkZZQkt3SE1rS3RwdFR1eUc2RWNtWDA0SG45RWEtakF2bURUSml6Wk1ZbUFxdE1BbXZuZ2szMU9jZTRLQVNxMXJYVFBkZy1zNUVhLWk?oc=5"
+    },
+    {
+      "title": "Cortex 2.0 at Giga Texas: Inside Tesla's Massive AI Training Build - BASENOR - Tesla Accessories",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxObnNNZzk4bDR5TXhrYTNYNkJtNWQ1QldZTUhkbE",
+      "date": "2026-06-19",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxObnNNZzk4bDR5TXhrYTNYNkJtNWQ1QldZTUhkbEJsZW1fUlVyd2xZWXBYMklEaXk1TER6MnBjMlFmM1pyT3RGRHlrbGpFN2xmRm1lVm1LcWZqV1pUYmJYdHdCb2NhUjBfNkJHd2ZTVUFCczYyTDRPT1JETGtpSVBZNEhfMWVrb0JTNU1UZXZtbjVtS1hDRGc3Vk5oM1o3ZjV3?oc=5"
     }
   ],
   "wechat": [],
-  "updated_at": "2026-06-21T14:22:10.939165"
+  "updated_at": "2026-06-22T04:21:34.016484"
 }
