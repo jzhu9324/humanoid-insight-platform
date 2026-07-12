@@ -1,0 +1,319 @@
+---
+title: 人形机器人行业日报 - 2026-07-12
+date: 2026-07-12
+type: report
+---
+
+# 人形机器人行业日报
+## 2026-07-12
+
+---
+
+## 📊 数据概览
+
+本期共收录:
+- **学术论文**: 0 篇
+- **公司动态**: 148 条
+- **行业资讯**: 0 篇
+
+---
+
+## 🎯 核心摘要
+
+本周收集了人形机器人领域的最新研究论文、公司动态和行业资讯。
+
+---
+
+## 📈 趋势分析
+
+- 人形机器人技术持续发展
+- 多家公司发布产品更新
+- 学术界持续探索新方向
+
+---
+
+## 📚 学术前沿
+
+本期收录 0 篇高质量论文：
+
+## 🏢 产业动态
+
+本期收录 148 条公司动态：
+
+
+### 1X Technologies
+
+**NEO’s Hands | An API to the Physical World - 1X | Home Robots**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPRTI1VDBzU19qMkZwcl9ZTGZJbU1XYlFLYTdHazQyNEp5ZWx2V1Qta2V4ak5ESnZ3WndJM3Z2cFFZYWJFcGdtaU1xaXB5dG5C?oc=5](https://news.google.com/rss/articles/CBMiUEFVX3lxTFBPRTI1VDBzU19qMkZwcl9ZTGZJbU1XYlFLYTdHazQyNEp5ZWx2V1Qta2V4ak5ESnZ3WndJM3Z2cFFZYWJFcGdtaU1xaXB5dG5C?oc=5)
+- 简介: 
+
+**Human-Level Hands? 1X Just Gave Humanoid Robot Neo Something Close - Forbes**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDhHbzRZbl8zVkdnZVFFdk54LWxVVHdDaXVuVVpRR1FCVmFQeEpCM3VQa0lyLWVsdWY1clhwNkdSUVBaUkFzOE53RDM1TmJHd2NJZ3VkUHZMNkozelJXb0VMemZIYW5LUWRodnNJMzdFS2RlWjV3cG1FVlBJdWpRVUVPUTU1dmRPbjJwSUVJMU1lYnRCanlRYlIxbmJTeFY5NzE4c1pWODh6UTVlWFBHRklzQmNOMjhVNGQ0?oc=5](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDhHbzRZbl8zVkdnZVFFdk54LWxVVHdDaXVuVVpRR1FCVmFQeEpCM3VQa0lyLWVsdWY1clhwNkdSUVBaUkFzOE53RDM1TmJHd2NJZ3VkUHZMNkozelJXb0VMemZIYW5LUWRodnNJMzdFS2RlWjV3cG1FVlBJdWpRVUVPUTU1dmRPbjJwSUVJMU1lYnRCanlRYlIxbmJTeFY5NzE4c1pWODh6UTVlWFBHRklzQmNOMjhVNGQ0?oc=5)
+- 简介: 
+
+**The 1X Neo Robot Has Freaky Fast Fingers - WIRED**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMieEFVX3lxTE5SNEFLd1Y5Rm1Sb21RVUwyLUNQQ19adEVWd2tndjFjWXA5ZmtXWTktWXAtdTVDdUhiMmlGTDVLY2NXODhFZFJMR2ZUVUd1NEN1NGNxLU1LNG9YOU4wb1R2aGZQWWlEd0pMeEVOZHVzSWVsdGJnNUo3cg?oc=5](https://news.google.com/rss/articles/CBMieEFVX3lxTE5SNEFLd1Y5Rm1Sb21RVUwyLUNQQ19adEVWd2tndjFjWXA5ZmtXWTktWXAtdTVDdUhiMmlGTDVLY2NXODhFZFJMR2ZUVUd1NEN1NGNxLU1LNG9YOU4wb1R2aGZQWWlEd0pMeEVOZHVzSWVsdGJnNUo3cg?oc=5)
+- 简介: 
+
+**1X Unveils New Dexterous Tendon-driven Hand for its Neo Humanoid Robots - AI Insider**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVNmcG42QzhMb0NLUXBEYUZ2dFNGU3VqMHYtZF9MNzNTVFlNQWRyd3FFSUk1c1lwRXFHMmtqWTZYOWhjUnlueDU5M052MXViZ0RvUkVPT0xjSFdfS1haOFRKUFY2YmtqU0dyYTZxU3VSTG5jcFpoeWtOZUc1VnRNZVROQzNkUmQ1TjJXakNqRXphOVJQMWphR3JYNW9oaVlrNWg4d3c2X2NMVDR3MVE?oc=5](https://news.google.com/rss/articles/CBMirgFBVV95cUxPWVNmcG42QzhMb0NLUXBEYUZ2dFNGU3VqMHYtZF9MNzNTVFlNQWRyd3FFSUk1c1lwRXFHMmtqWTZYOWhjUnlueDU5M052MXViZ0RvUkVPT0xjSFdfS1haOFRKUFY2YmtqU0dyYTZxU3VSTG5jcFpoeWtOZUc1VnRNZVROQzNkUmQ1TjJXakNqRXphOVJQMWphR3JYNW9oaVlrNWg4d3c2X2NMVDR3MVE?oc=5)
+- 简介: 
+
+**1X Robotics and the Neo Robot's Dexterous Hands Signal a Structural Shift in Humanoid Labor Economics - FourWeekMBA**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMie0FVX3lxTE9UT2RaZnJVV1Brc3phU1FpX2Npb096azN0RERTa0h6N2ZQYjNUQmItZlYza0JSRURlV2ZLbHQ3NjZTTnZqS0cxZHBoek9GbW1BMlUzcnltLXVoY2wyV0hkeTF3UXF1bUlfenppc3BLdWt2emstNVEzSzJadw?oc=5](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UT2RaZnJVV1Brc3phU1FpX2Npb096azN0RERTa0h6N2ZQYjNUQmItZlYza0JSRURlV2ZLbHQ3NjZTTnZqS0cxZHBoek9GbW1BMlUzcnltLXVoY2wyV0hkeTF3UXF1bUlfenppc3BLdWt2emstNVEzSzJadw?oc=5)
+- 简介: 
+
+
+### Agility Robotics
+
+**Agility Robotics Nears Public Debut: Safety Cert, S-4, and a 34x Valuation - Tech Times**
+- 发布时间: 2026-07-12
+- 链接: [https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5](https://news.google.com/rss/articles/CBMivAFBVV95cUxOc1haWldjNWQ2S3U4UWQ3YlRGNHlLcE5IZWZNbXJmSGVqVWs3a0V5R1FJdVpxdUdfeFJfSzZVYWdXYWtYSnBzRmZWRDRneklpYTRPQTJIdFNKN0NCR2hlWjJ1S2xsNDV1SEFDTFJWLUNMYzU0Q2tJVC1rNnJpSVluS0ZRSzh3MlBiXzM3RmxmS1ZXUkZOUnpvY2ZqcHhabmdFUzcwRXdKejZpc2x4d1ZCdTU0SnFaRU92VndvXw?oc=5)
+- 简介: 
+
+**$Churchill Capital Corp XI (CCXI.US)$ Why Churchill Capital (CCCM) Is Betting Big on Agility Robotics - Moomoo**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkU2TEtLcWQ5cWQ0eTdMUDZtRy1jQXdKNXNTM2lHNkUtMHV5OUFoc3h0dmg0NFpHSjducHpsOEVBM1hiNTVsc2pHVXdpaHFZc0RaX1hWaGMydkNtYl9IZWZiSUkwMjJsNUh3Q3E3V3ZzU3B4ZGFrQjVRQnViSUdrZWozS1ktRmktenFDN3JERTFCQ3Jhd0FXMTlGYmVGTjZndG5oQ1JuQUZlZEpyVlNOVlo0YmI?oc=5](https://news.google.com/rss/articles/CBMitAFBVV95cUxPRkU2TEtLcWQ5cWQ0eTdMUDZtRy1jQXdKNXNTM2lHNkUtMHV5OUFoc3h0dmg0NFpHSjducHpsOEVBM1hiNTVsc2pHVXdpaHFZc0RaX1hWaGMydkNtYl9IZWZiSUkwMjJsNUh3Q3E3V3ZzU3B4ZGFrQjVRQnViSUdrZWozS1ktRmktenFDN3JERTFCQ3Jhd0FXMTlGYmVGTjZndG5oQ1JuQUZlZEpyVlNOVlo0YmI?oc=5)
+- 简介: 
+
+**This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon - TechCrunch**
+- 发布时间: 2026-07-06
+- 链接: [https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5)
+- 简介: 
+
+**Agility’s $2.5B Wall Street Pitch Tests Whether Warehouse Humanoids Are Ready for Real Work - ERP Today**
+- 发布时间: 2026-07-08
+- 链接: [https://news.google.com/rss/articles/CBMifEFVX3lxTE1JdWc5b0VxNHRUSVo2Mm1ubEJMY0YzLTk3U2U2ZkxPNXFRV243MVl5V1ZidXplTVR2UllnUy1aTUlIWVZ1YUpGNkJwWndwVV9ZREw1aHBneUxoWmZLR2o4WW44aGItMk1iNDBCY3JZVjR5WFhZbzR0UmFyNW0?oc=5](https://news.google.com/rss/articles/CBMifEFVX3lxTE1JdWc5b0VxNHRUSVo2Mm1ubEJMY0YzLTk3U2U2ZkxPNXFRV243MVl5V1ZidXplTVR2UllnUy1aTUlIWVZ1YUpGNkJwWndwVV9ZREw1aHBneUxoWmZLR2o4WW44aGItMk1iNDBCY3JZVjR5WFhZbzR0UmFyNW0?oc=5)
+- 简介: 
+
+**Why CCXI gives direct exposure to Agility Robotics - Milk Road**
+- 发布时间: 2026-07-06
+- 链接: [https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFB3dXBHVTdMVnU3S3YzNU9jcGhnUkJSWVdSa0dQbWY3SnhUZnh5TGZyLS10UGluR1gyYjdWd3JxZFpVUGRGOVkyc1FhMWtqaF9hQmxCM2Ztc09zQjFoZWxjUms4RTI4cGxjbnNoeGpVdEdZNC0wRDJaZ0RCNjFpZ254dw?oc=5](https://news.google.com/rss/articles/CBMigwFBVV95cUxNTFB3dXBHVTdMVnU3S3YzNU9jcGhnUkJSWVdSa0dQbWY3SnhUZnh5TGZyLS10UGluR1gyYjdWd3JxZFpVUGRGOVkyc1FhMWtqaF9hQmxCM2Ztc09zQjFoZWxjUms4RTI4cGxjbnNoeGpVdEdZNC0wRDJaZ0RCNjFpZ254dw?oc=5)
+- 简介: 
+
+
+### Boston Dynamics
+
+**Meet the soccer-playing humanoid robot that just delivered the game ball at the Brazil v. Norway FIFA World Cup match - Fortune**
+- 发布时间: 2026-07-05
+- 链接: [https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmJSVTFlZnhFM0h6Tm5YbXBrSDVETnN3b090aFIyam9QX3p4eFhUNVkzdHhpWVR0TVRYM2lGS3QzMUNFV01yS0U4WHdBY2ZCZlNCVkR2WktKWXkwOUFZSTRxNUlITXNrakY1VXhuamhuVHR6Q3BFaEo2SVpreXdFd2xUY1VMamIxTTdyMEZzRGFHbVR1MjBwZ0ozcTJ2M2w0ekdNS2V5RkFNd1NDVS1HVi1jOUI3bk4yTExodjRaUUN6SXM?oc=5](https://news.google.com/rss/articles/CBMiwwFBVV95cUxObmJSVTFlZnhFM0h6Tm5YbXBrSDVETnN3b090aFIyam9QX3p4eFhUNVkzdHhpWVR0TVRYM2lGS3QzMUNFV01yS0U4WHdBY2ZCZlNCVkR2WktKWXkwOUFZSTRxNUlITXNrakY1VXhuamhuVHR6Q3BFaEo2SVpreXdFd2xUY1VMamIxTTdyMEZzRGFHbVR1MjBwZ0ozcTJ2M2w0ekdNS2V5RkFNd1NDVS1HVi1jOUI3bk4yTExodjRaUUN6SXM?oc=5)
+- 简介: 
+
+**Atlas, the humanoid robot, delivers match ball at World Cup - Reuters**
+- 发布时间: 2026-07-06
+- 链接: [https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVMyeHgtTGpoYnN3R1NlSldlTkxBRDF6V3FXZm1lMExZWWRIcm8yb1lRLXNTRDRFZ2pHM1p6V1BEUW1BdUg2TlA2OFJsSk4ta3R2cVpyd2FYRkZkSlBNQ2xFNzhJWFd1YW1aV2wxZ0o3S25VS2tSTnZkZ3Vjdnd1TmtNNGo0aHJoVk5veXBBVU1RdkxPY080M0Y1Y2hVa0tVNXc?oc=5](https://news.google.com/rss/articles/CBMiogFBVV95cUxQSVMyeHgtTGpoYnN3R1NlSldlTkxBRDF6V3FXZm1lMExZWWRIcm8yb1lRLXNTRDRFZ2pHM1p6V1BEUW1BdUg2TlA2OFJsSk4ta3R2cVpyd2FYRkZkSlBNQ2xFNzhJWFd1YW1aV2wxZ0o3S25VS2tSTnZkZ3Vjdnd1TmtNNGo0aHJoVk5veXBBVU1RdkxPY080M0Y1Y2hVa0tVNXc?oc=5)
+- 简介: 
+
+**What’s ‘Next’ for Hyundai: Driving Innovation through Robotics - hyundai.com**
+- 发布时间: 2026-07-12
+- 链接: [https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWMxNmNhRXV6NmQtZDdRWUZiODRoXzh4bU1uZHR6ZG53U29tMlJpTG9sRUhjNGlOVHZ0VXlaT0dVaWhUOHlqbjNuQ0VUdzRJcTdTenpuY1lCWFVIOUltVXRETU8zNDdoTF9aUnVBbHQ3U3hHQURONWF6NUEwZy0tMUtqSFEtbUVzalNjcUJn?oc=5](https://news.google.com/rss/articles/CBMijgFBVV95cUxQUWMxNmNhRXV6NmQtZDdRWUZiODRoXzh4bU1uZHR6ZG53U29tMlJpTG9sRUhjNGlOVHZ0VXlaT0dVaWhUOHlqbjNuQ0VUdzRJcTdTenpuY1lCWFVIOUltVXRETU8zNDdoTF9aUnVBbHQ3U3hHQURONWF6NUEwZy0tMUtqSFEtbUVzalNjcUJn?oc=5)
+- 简介: 
+
+**Hyundai Upgrades World Cup Stunts With First Robot-Powered Halftime Activation - ADWEEK**
+- 发布时间: 2026-07-05
+- 链接: [https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVpJREU3WjNVeHU0QTNkc1BrX19VeWQ2UGVRdmczZHdteF84TXlhZ1RSemd5d0dJbTFMdnVTUnBMa0VlZm9VeWpXWVdlc0Z5M1h0QVY3ai1nejBSNnpkaW1aOWhLalhGWHRWbGI0d3RsNWliQm03Wkp3U3dkT3FSXzJkSjV5MF9u?oc=5](https://news.google.com/rss/articles/CBMiiAFBVV95cUxORVpJREU3WjNVeHU0QTNkc1BrX19VeWQ2UGVRdmczZHdteF84TXlhZ1RSemd5d0dJbTFMdnVTUnBMa0VlZm9VeWpXWVdlc0Z5M1h0QVY3ai1nejBSNnpkaW1aOWhLalhGWHRWbGI0d3RsNWliQm03Wkp3U3dkT3FSXzJkSjV5MF9u?oc=5)
+- 简介: 
+
+**AI Takes The Field At The World Cup As Boston Dynamics' Atlas Robot Imitates Player Movements - AfroTech**
+- 发布时间: 2026-07-07
+- 链接: [https://news.google.com/rss/articles/CBMickFVX3lxTFBneG9FZXlLTjJUUkZuM3VucGJRT3ZkeWdfZ181c0Q0bDdTY2dWZlNSc1pweV9Bb21QZ1VUUHRacXJlRXMydmNVNm1lZXdYMDQ0SVM4NFBwVi1jeTIzT3hoNUtFbldja09UTmRxYnJJNTY0dw?oc=5](https://news.google.com/rss/articles/CBMickFVX3lxTFBneG9FZXlLTjJUUkZuM3VucGJRT3ZkeWdfZ181c0Q0bDdTY2dWZlNSc1pweV9Bb21QZ1VUUHRacXJlRXMydmNVNm1lZXdYMDQ0SVM4NFBwVi1jeTIzT3hoNUtFbldja09UTmRxYnJJNTY0dw?oc=5)
+- 简介: 
+
+
+### Figure AI
+
+**1X Robotics and the Neo Robot's Dexterous Hands Signal a Structural Shift in Humanoid Labor Economics - FourWeekMBA**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMie0FVX3lxTE9UT2RaZnJVV1Brc3phU1FpX2Npb096azN0RERTa0h6N2ZQYjNUQmItZlYza0JSRURlV2ZLbHQ3NjZTTnZqS0cxZHBoek9GbW1BMlUzcnltLXVoY2wyV0hkeTF3UXF1bUlfenppc3BLdWt2emstNVEzSzJadw?oc=5](https://news.google.com/rss/articles/CBMie0FVX3lxTE9UT2RaZnJVV1Brc3phU1FpX2Npb096azN0RERTa0h6N2ZQYjNUQmItZlYza0JSRURlV2ZLbHQ3NjZTTnZqS0cxZHBoek9GbW1BMlUzcnltLXVoY2wyV0hkeTF3UXF1bUlfenppc3BLdWt2emstNVEzSzJadw?oc=5)
+- 简介: 
+
+**This humanoid robotics company is going public, but its CEO isn't promising a robot in your home anytime soon - TechCrunch**
+- 发布时间: 2026-07-06
+- 链接: [https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5](https://news.google.com/rss/articles/CBMi2gFBVV95cUxQVnZ0b1ZINm9iN2hoTlNxQzFOcVF4Ym0wT2ZKcWRENzVNeGdkZXVPVjB6Q1VXT3NMU3NITG94aDhZM2loNC0zZ3JtN1RNbHMwLUg1Ui1US3daRkRxQk1oZjItNndsWjhES1h2UG1RS0s2WnpBT29KcTlkWkFnVU5LR1NBeUdsend2SG5kWWUxT19GNi1sQklITGY0MmRhc3VTdkpjQ2hOQ1d2WDMwaGZQTWNzLV9sZEVRNWlXaE52NHlaVEhXZk83X2pHUE5ZZUk5Sm9pYm5LVWZ0Zw?oc=5)
+- 简介: 
+
+**BMW Group deploys Figure 03 humanoid after tests with previous version - Moomoo**
+- 发布时间: 2026-07-07
+- 链接: [https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkl2SVFTQXE1ZHdSdkNvSV9QU2J3R1Q4LTlEYVkzV2hEQmZ0V1R5c0N6WWk2QTdXQVdGVHdYalVSS2JNM2Z1cVBMRlotU3R0LWZYVEVWdGl4bWNtVktuUTE3SmszNHduWm1nek05eWdBbXZuN0FDMWI3VGFlZ0pEcGI3MWZGcE1UcExwNU5fZ0NtMzRHaGdBSTFKczdCbkZHdE5OOUJsd3Z2dFNvWnhjaFFqOUlmalE?oc=5](https://news.google.com/rss/articles/CBMitwFBVV95cUxNZkl2SVFTQXE1ZHdSdkNvSV9QU2J3R1Q4LTlEYVkzV2hEQmZ0V1R5c0N6WWk2QTdXQVdGVHdYalVSS2JNM2Z1cVBMRlotU3R0LWZYVEVWdGl4bWNtVktuUTE3SmszNHduWm1nek05eWdBbXZuN0FDMWI3VGFlZ0pEcGI3MWZGcE1UcExwNU5fZ0NtMzRHaGdBSTFKczdCbkZHdE5OOUJsd3Z2dFNvWnhjaFFqOUlmalE?oc=5)
+- 简介: 
+
+**Ukraine Launches First Defense-Exclusive Humanoid Program: Trenches, Not Factory Floors - Tech Times**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFM2OG1ROURRSFBwTlU2VUotWnFwVG1DTk0tQlNHSHdYRGZfN2JoV2NwNU84ZGI1cjhtcDY5OTV5aHIxdXo4N3NWWEI2TGVKY183eVVCVExjeWxTMnNiMVFFalpBWWdQWkFvLTdIWEhvOS1TTmNTSUZJcG16V2xfdWZZY3FPYThLS1ZlcW5TajVwU3AtUE1ORDgxeWF2S3VrZVc3RVNSUkFKWjRYX05zeksxN0syWTM5amcwNmNIellaNkNFSjNXMXJDRTM4eS1TN0hqLUpGTQ?oc=5](https://news.google.com/rss/articles/CBMi1wFBVV95cUxQdFM2OG1ROURRSFBwTlU2VUotWnFwVG1DTk0tQlNHSHdYRGZfN2JoV2NwNU84ZGI1cjhtcDY5OTV5aHIxdXo4N3NWWEI2TGVKY183eVVCVExjeWxTMnNiMVFFalpBWWdQWkFvLTdIWEhvOS1TTmNTSUZJcG16V2xfdWZZY3FPYThLS1ZlcW5TajVwU3AtUE1ORDgxeWF2S3VrZVc3RVNSUkFKWjRYX05zeksxN0syWTM5amcwNmNIellaNkNFSjNXMXJDRTM4eS1TN0hqLUpGTQ?oc=5)
+- 简介: 
+
+**Meet the first commercial human-like robot - Fast Company South Africa**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMijgFBVV95cUxNZE5UbFplMENCWXVXZUhvMmE4UVU0QmxMb212V210ODRRbUdrZS1FeFZabm5vSFdOWTQ3Tk1SUUl0dmc3NTByaVZGUjNPYk05bWVLMjQybmRFQ2J2ZnRfdUk5QzZJQzBHajR4YVo0Zm1PWHVyTnFYbjhGcVlGaTlPYWlwRllTd0tDWDZwYzdB?oc=5](https://news.google.com/rss/articles/CBMijgFBVV95cUxNZE5UbFplMENCWXVXZUhvMmE4UVU0QmxMb212V210ODRRbUdrZS1FeFZabm5vSFdOWTQ3Tk1SUUl0dmc3NTByaVZGUjNPYk05bWVLMjQybmRFQ2J2ZnRfdUk5QzZJQzBHajR4YVo0Zm1PWHVyTnFYbjhGcVlGaTlPYWlwRllTd0tDWDZwYzdB?oc=5)
+- 简介: 
+
+
+### Industry News
+
+**Video Friday: A World Cup for Robots**
+- 发布时间: 2026-07-10
+- 链接: [https://spectrum.ieee.org/video-friday-robot-world-cup](https://spectrum.ieee.org/video-friday-robot-world-cup)
+- 简介: 
+
+**Tiny robot boats build floating structures**
+- 发布时间: 2026-07-09
+- 链接: [https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709](https://news.mit.edu/2026/tiny-robot-boats-build-floating-structures-0709)
+- 简介: 
+
+**The 1X Neo Robot Has Freaky Fast Fingers**
+- 发布时间: 2026-07-09
+- 链接: [https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/](https://www.wired.com/story/the-1x-neo-robot-has-freaky-fast-fingers/)
+- 简介: 
+
+**Are suppliers ready for new robot safety standards?**
+- 发布时间: 2026-07-11
+- 链接: [https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/](https://www.therobotreport.com/are-suppliers-ready-for-new-robot-safety-standards/)
+- 简介: 
+
+**How Path Robotics uses AI to optimize robotic welding**
+- 发布时间: 2026-07-10
+- 链接: [https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/](https://www.therobotreport.com/how-path-robotics-uses-ai-optimize-robotic-welding/)
+- 简介: 
+
+
+### Sanctuary AI
+
+**Human-Level Hands? 1X Just Gave Humanoid Robot Neo Something Close - Forbes**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDhHbzRZbl8zVkdnZVFFdk54LWxVVHdDaXVuVVpRR1FCVmFQeEpCM3VQa0lyLWVsdWY1clhwNkdSUVBaUkFzOE53RDM1TmJHd2NJZ3VkUHZMNkozelJXb0VMemZIYW5LUWRodnNJMzdFS2RlWjV3cG1FVlBJdWpRVUVPUTU1dmRPbjJwSUVJMU1lYnRCanlRYlIxbmJTeFY5NzE4c1pWODh6UTVlWFBHRklzQmNOMjhVNGQ0?oc=5](https://news.google.com/rss/articles/CBMiuwFBVV95cUxNaDhHbzRZbl8zVkdnZVFFdk54LWxVVHdDaXVuVVpRR1FCVmFQeEpCM3VQa0lyLWVsdWY1clhwNkdSUVBaUkFzOE53RDM1TmJHd2NJZ3VkUHZMNkozelJXb0VMemZIYW5LUWRodnNJMzdFS2RlWjV3cG1FVlBJdWpRVUVPUTU1dmRPbjJwSUVJMU1lYnRCanlRYlIxbmJTeFY5NzE4c1pWODh6UTVlWFBHRklzQmNOMjhVNGQ0?oc=5)
+- 简介: 
+
+
+### Tesla
+
+**Tesla Optimus: 5 Details That Matter Behind Elluswamy's Confidence - BASENOR - Tesla Accessories**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVVkcFc4a3psNjVLQjRJdG85cWJPWGdMRkV4ZHdkX0U0YkpFR0ZVYVRLWTd2Vm9GRDdhb3NhLWFHb00td21KeVNIMnBIc21rejZwRDg4b0dJN1diRERpTHhCU1luRF83RDVlQWQ3Ylk3b3lqYzdaZ1RVdm5QbWNjcnVoNFZHcUY5VkpXTTlvZEZHU0VMNWFmQnhOQ3JvVHFJ?oc=5](https://news.google.com/rss/articles/CBMioAFBVV95cUxQMVVkcFc4a3psNjVLQjRJdG85cWJPWGdMRkV4ZHdkX0U0YkpFR0ZVYVRLWTd2Vm9GRDdhb3NhLWFHb00td21KeVNIMnBIc21rejZwRDg4b0dJN1diRERpTHhCU1luRF83RDVlQWQ3Ylk3b3lqYzdaZ1RVdm5QbWNjcnVoNFZHcUY5VkpXTTlvZEZHU0VMNWFmQnhOQ3JvVHFJ?oc=5)
+- 简介: 
+
+**Ex-Tesla Optimus scientist unveils European humanoid robot startup - Electrek**
+- 发布时间: 2026-07-07
+- 链接: [https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRmhsR3htamdMNjB2ZG4xQmZHdUJmcTJKTnJSV0NaRmtNSUQ0UHA2OVBXUkhnTzZrMnJXbXI0eGNINzRVR3dOa1RwaDRqcXFnSWpjUmdYMWE1djR1NXRwRnV5NDF2M0h1NU1mNEIwYngtTnk0QXBxQ0tHWUZ6aU0?oc=5](https://news.google.com/rss/articles/CBMif0FVX3lxTE1mRmhsR3htamdMNjB2ZG4xQmZHdUJmcTJKTnJSV0NaRmtNSUQ0UHA2OVBXUkhnTzZrMnJXbXI0eGNINzRVR3dOa1RwaDRqcXFnSWpjUmdYMWE1djR1NXRwRnV5NDF2M0h1NU1mNEIwYngtTnk0QXBxQ0tHWUZ6aU0?oc=5)
+- 简介: 
+
+**Tesla shows rapid teardown of Model S and X lines, paving the way for Optimus at Fremont - Teslarati**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGpEaUQ4b1pub2h0UDRkVFZzY01fazdTMmtuMmtUQlpRMU1hU0taNXBGc0FzMDhBUEV2WU50NFZxWTNOenVDQzRpSXRWNFhBRzJLY3JqUHdtRWxROWZYT2pyZjZXZndDUk1Vd19fZkg5REJmZFBUZk5RRXFlQTNQSHRTd2d3UlBpZU11U2ljUmNyYXpiU3NpenVRNkxYR1VfSUE?oc=5](https://news.google.com/rss/articles/CBMiogFBVV95cUxQbGpEaUQ4b1pub2h0UDRkVFZzY01fazdTMmtuMmtUQlpRMU1hU0taNXBGc0FzMDhBUEV2WU50NFZxWTNOenVDQzRpSXRWNFhBRzJLY3JqUHdtRWxROWZYT2pyZjZXZndDUk1Vd19fZkg5REJmZFBUZk5RRXFlQTNQSHRTd2d3UlBpZU11U2ljUmNyYXpiU3NpenVRNkxYR1VfSUE?oc=5)
+- 简介: 
+
+**Why Tesla's 'Immense' Opportunity In AI Will Disappoint Investors … For Now - Investor's Business Daily**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ00tYzlfZS1HQ1Nxbm94XzlzVXhVX3NNWGFSOXNuYmNwUGROUUNTUk1mdlBxV3YyVFpRUGU2LVhnRGlUU3JDZmJSQzl3bXBYRzZLLW82NnE4RDZSdnFFODRrWEUzem50Q29jYml6cnd6TnVocTFjb2pxR1A2dXdzR0dtSmZEZkhDUGpnMThtNHctZ2duVWFCbWZBSEsxdE0?oc=5](https://news.google.com/rss/articles/CBMinwFBVV95cUxNZ00tYzlfZS1HQ1Nxbm94XzlzVXhVX3NNWGFSOXNuYmNwUGROUUNTUk1mdlBxV3YyVFpRUGU2LVhnRGlUU3JDZmJSQzl3bXBYRzZLLW82NnE4RDZSdnFFODRrWEUzem50Q29jYml6cnd6TnVocTFjb2pxR1A2dXdzR0dtSmZEZkhDUGpnMThtNHctZ2duVWFCbWZBSEsxdE0?oc=5)
+- 简介: 
+
+**Elon Musk’s plans to colonize space launches this year, and Tesla robots will be the first residents - New York Post**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYU1DVlRGN2ppQ0V0WU5sdlZzNk1qaEtJZ3JINDVJcXZOTWl5Q2JQV2J4ZFR1Z01iR056QnBZczNlNmU1Wm50TWNIR09YMExsVld0eU9GcERjckdNOFV4eVVZTjNXeV85aTFSeUlNVWtxVjZIMGYwTEdRREc3TFI4a29VVndEZXdTbnJRY1E2Um1PWjBnQVowVWxsQUd1U09paTliR3cwS3l2QUhRLUllUG9uZ0dpUDRJSDdvU0Z1bDc0cmRENmR3bDJ5TzJzNXQ0STZIeA?oc=5](https://news.google.com/rss/articles/CBMi1AFBVV95cUxPYU1DVlRGN2ppQ0V0WU5sdlZzNk1qaEtJZ3JINDVJcXZOTWl5Q2JQV2J4ZFR1Z01iR056QnBZczNlNmU1Wm50TWNIR09YMExsVld0eU9GcERjckdNOFV4eVVZTjNXeV85aTFSeUlNVWtxVjZIMGYwTEdRREc3TFI4a29VVndEZXdTbnJRY1E2Um1PWjBnQVowVWxsQUd1U09paTliR3cwS3l2QUhRLUllUG9uZ0dpUDRJSDdvU0Z1bDc0cmRENmR3bDJ5TzJzNXQ0STZIeA?oc=5)
+- 简介: 
+
+
+### Unitree Robotics
+
+**Robot Boom Meets Earnings Reality: Unitree Profits Halved, Optimus Not for Sale - Tech Times**
+- 发布时间: 2026-07-12
+- 链接: [https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2pzRlV0RHVha01qZ3FRQlpaRHNNVHhMUk92RENvRUVmdUo4dGxzQmMyakw4aUFzcGdBaGl1c004RDhKb1FDSXpRcXliVy1ORHY2OTBFblR2QzhjUjZfM3MwLW5welZzaEJ4QmFiUEo2eXl1WlJPOEdicWE0VkZTWk8zZzFRd1JNd1FUd3pQaXlJeHE4LWlrTUIxR2xhOWdzQnRtcXU3ZUZRbzJCV3hyVGJQSU52ZlRFUjNmU0psX1NIMzY2U1U4?oc=5](https://news.google.com/rss/articles/CBMixwFBVV95cUxNb2pzRlV0RHVha01qZ3FRQlpaRHNNVHhMUk92RENvRUVmdUo4dGxzQmMyakw4aUFzcGdBaGl1c004RDhKb1FDSXpRcXliVy1ORHY2OTBFblR2QzhjUjZfM3MwLW5welZzaEJ4QmFiUEo2eXl1WlJPOEdicWE0VkZTWk8zZzFRd1JNd1FUd3pQaXlJeHE4LWlrTUIxR2xhOWdzQnRtcXU3ZUZRbzJCV3hyVGJQSU52ZlRFUjNmU0psX1NIMzY2U1U4?oc=5)
+- 简介: 
+
+**Surgeons Use Teleoperated Humanoid Robots to Perform Live Surgery – a World First - UC San Diego Today**
+- 发布时间: 2026-07-08
+- 链接: [https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5](https://news.google.com/rss/articles/CBMirAFBVV95cUxOcXMtRnNmOE1XRjJLRTF2eEpwOGpYT0VhdUozZFBqR1IzR3YzM3l1M3FDS3lCRExwSmxsV2U4WTlHenM5bXVUd1p2YnB6WXlCZnJRazBOQnh1R0g2a3ByV2xwR1pCYjlyd2Z5eHpWSzkwa1FNS1pPdGlUcUJ1eGFTOHpQR29XQW82VXl4WWFtUDVVNVRCaFFral8zQkQyMmdkaV9qNTZ6TlFFeC1o?oc=5)
+- 简介: 
+
+**Humanoid Robots Just Performed Live Surgery For The First Time Ever - Forbes**
+- 发布时间: 2026-07-10
+- 链接: [https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5](https://news.google.com/rss/articles/CBMivgFBVV95cUxNU0N3SWJTZ1BqbzlibXVsR2RIOHAwa1F5bmJISkhqR2NzcTIzT2t2S2FmSkxJQjJTdm9JWVIwaWM3d05ieGpFYUxBbzdQMWlQVnFjNnBkbk12M2hhMlA4OFlUZ0I4UWVfMXk0bXIydGM4V1YwT1Zzb2FxNksxYjZYMlFkOVZZUjFjSmtpRWlKd3lDeThlRWFrVjFQaXFHZjBXVVl6MmVaUmFtV0o5QWthVXhxeExHNG8tUlp0ZTN3?oc=5)
+- 简介: 
+
+**The Unitree G1 robot helped perform a unique surgery - Root-Nation.com**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMif0FVX3lxTE50eTU2UzhJNi1sdzdKd2V6NERtV0RJY2VwNHM2emNwRFdrN191MzhQc25BODh4YUF0R0RCRGRwSmtrQmQtV2pwWXMzYVZUZjRicm51VFBnMTlVZFdCN29rNGRYZEstWmVPaG9La3Y1SW5wNkZ0eHBxYUZfbHlVUVk?oc=5](https://news.google.com/rss/articles/CBMif0FVX3lxTE50eTU2UzhJNi1sdzdKd2V6NERtV0RJY2VwNHM2emNwRFdrN191MzhQc25BODh4YUF0R0RCRGRwSmtrQmQtV2pwWXMzYVZUZjRicm51VFBnMTlVZFdCN29rNGRYZEstWmVPaG9La3Y1SW5wNkZ0eHBxYUZfbHlVUVk?oc=5)
+- 简介: 
+
+**Unitree & UBTECH: 2026 Breakthroughs of Chinese Humanoid Robots in Real-World Commercialization - 36 Kr**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pQU94VTlodkI1czNlTXc5X2g5UlBEZ3dwTmNyS3lPX3RDYVp2VU5MbTdXS1lHeldIcXhJSVBYMVlUYWZpQVRQb1lhU3lnYkRjNmFv?oc=5](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9pQU94VTlodkI1czNlTXc5X2g5UlBEZ3dwTmNyS3lPX3RDYVp2VU5MbTdXS1lHeldIcXhJSVBYMVlUYWZpQVRQb1lhU3lnYkRjNmFv?oc=5)
+- 简介: 
+
+
+### 优必选
+
+**Humanoid Robots Enter German Warehouses as Tougher EU Safety Rules Approach - ad-hoc-news.de**
+- 发布时间: 2026-07-07
+- 链接: [https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWJIWl96eEF1Mlp6QjZkYU5ublBxYnYwWTVzRFZsOUxBQnNoSWJhQVY3X2ZFbEJYalp0VXpOSFRGUEtoZktBeTE5Yk9qVEdESU0zQ2lJdDVpcFNXZGlNTXE0VkcxM2c4eVlaVkJzck5jcW9FSzVSaFFyOW9uU3pUaXNENGJKNTYyS2hNYklndnAtMXlsWHhUV1p6WnF4N1lNc1UwdUNMbHJ1Y0FTWnhOdTYtY2VKcVpNcWFtMWlZZGN0Znc?oc=5](https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRWJIWl96eEF1Mlp6QjZkYU5ublBxYnYwWTVzRFZsOUxBQnNoSWJhQVY3X2ZFbEJYalp0VXpOSFRGUEtoZktBeTE5Yk9qVEdESU0zQ2lJdDVpcFNXZGlNTXE0VkcxM2c4eVlaVkJzck5jcW9FSzVSaFFyOW9uU3pUaXNENGJKNTYyS2hNYklndnAtMXlsWHhUV1p6WnF4N1lNc1UwdUNMbHJ1Y0FTWnhOdTYtY2VKcVpNcWFtMWlZZGN0Znc?oc=5)
+- 简介: 
+
+**优必选回应：全尺寸人形机器人续航基本上都在2至4小时，定位不是伴侣 - thepaper.cn**
+- 发布时间: 2026-07-08
+- 链接: [https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DX2FRVlBMUkpSUE9QbDlPREx2ZEFocFRxTkZadU1tWnR2MExsTDNIVzRRVnFIMDdZb0xlUnRZS1V5ZTQ3cWRDWVdwUGZPWUhRdzc4VXBBckV6Wnhwb1E?oc=5](https://news.google.com/rss/articles/CBMiXkFVX3lxTE5DX2FRVlBMUkpSUE9QbDlPREx2ZEFocFRxTkZadU1tWnR2MExsTDNIVzRRVnFIMDdZb0xlUnRZS1V5ZTQ3cWRDWVdwUGZPWUhRdzc4VXBBckV6Wnhwb1E?oc=5)
+- 简介: 
+
+**宇树和优必选：2026年，中国人形机器人的两场商业化实验 - 36 Kr**
+- 发布时间: 2026-07-08
+- 链接: [https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wQUt4bzFlQVNXS0J2MkljR3MtRE5UTENscXpTLWVTQ3pHTGQ1bUNIeWJCV0dEdEpoMjVkanBpYXRyMWlzQXRENm42UHBoUnMz?oc=5](https://news.google.com/rss/articles/CBMiUEFVX3lxTE9wQUt4bzFlQVNXS0J2MkljR3MtRE5UTENscXpTLWVTQ3pHTGQ1bUNIeWJCV0dEdEpoMjVkanBpYXRyMWlzQXRENm42UHBoUnMz?oc=5)
+- 简介: 
+
+**优必选闯C端，万台订单待考 - 新浪财经**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMikgVBVV95cUxOUGF4MW9uQnpqYy1xMG9PTmlFQklCSE5zNGFKXy13YnVaQi01WXhvV29Yd2NTY2d2eUxPbHVZSE1xN1ZXbVdLUGVLRk5GamhmYmZuNmgwdndWNWpwZHVmSWthaS1iNmFVcVVISDB3a1pTZXpKZV9KblgxVGdYZGI5Mm9WaEVwcFdDQ1FrM2dYc296ODczZDVnb09qVUJSZUt2WlBWVkk0T3ZYQzBSeTRuS2t0VE9za0hpOElhMm9uOE5PTDlxUVBYQnRDOUJOQUxvMWUxM01RRmlNTnV6eW9vd0tQZ3NvazRwM3JqMUFVbDFCVlZfNF9qc0V6ZVRUcDlNbUQ1Ql92ZFJBOVlmQzVERjhHTzVEVjZYZF9EenlPX1FjWFJNSGZKX3pwdW9vTmY2cFdBNDRPcVB4dVlfcmt6Nk5tVXI1Z045ZnhTWFlaRHZObENtX0dHWGVFV0Vrd2pkeWFWaVdTQTJUcnV0SlJiSm5vTTYtMjJBaERfdGxrazVMQWhUYlE2U1Y3QkxzTTRZQzBSaFJJTzA1ZUg1aVJubzJHQ09LVi1ROVZGY21ILUVjejlfUkVoNlNpV29CekpGalpFZThrSjZMQzlHV2l1Qjc3RVVqc2YxMGlzRzEwM1lNZVBJRmV5X3BscGRmOURwZWRTeHVfaU1oVWtLbFBwM01UX1QtTWxnN3FHbTRLamlRaXpIOUd5a3NNQVZXS3FNdENHX3R5STdpSnAtSVljaHZJaUtYYmJ1d3ZKaUZKX0dJQ2lQSzQ5TG9wTVBETVU1Z0ZtUGE4YmcyNnhyX1UxWW93eUlUaEVDRFZ6VVFVMXpfb3EtblZfdk9oWDUwYU1HXzdMemF5TmtXLWVZOC1vczFB?oc=5](https://news.google.com/rss/articles/CBMikgVBVV95cUxOUGF4MW9uQnpqYy1xMG9PTmlFQklCSE5zNGFKXy13YnVaQi01WXhvV29Yd2NTY2d2eUxPbHVZSE1xN1ZXbVdLUGVLRk5GamhmYmZuNmgwdndWNWpwZHVmSWthaS1iNmFVcVVISDB3a1pTZXpKZV9KblgxVGdYZGI5Mm9WaEVwcFdDQ1FrM2dYc296ODczZDVnb09qVUJSZUt2WlBWVkk0T3ZYQzBSeTRuS2t0VE9za0hpOElhMm9uOE5PTDlxUVBYQnRDOUJOQUxvMWUxM01RRmlNTnV6eW9vd0tQZ3NvazRwM3JqMUFVbDFCVlZfNF9qc0V6ZVRUcDlNbUQ1Ql92ZFJBOVlmQzVERjhHTzVEVjZYZF9EenlPX1FjWFJNSGZKX3pwdW9vTmY2cFdBNDRPcVB4dVlfcmt6Nk5tVXI1Z045ZnhTWFlaRHZObENtX0dHWGVFV0Vrd2pkeWFWaVdTQTJUcnV0SlJiSm5vTTYtMjJBaERfdGxrazVMQWhUYlE2U1Y3QkxzTTRZQzBSaFJJTzA1ZUg1aVJubzJHQ09LVi1ROVZGY21ILUVjejlfUkVoNlNpV29CekpGalpFZThrSjZMQzlHV2l1Qjc3RVVqc2YxMGlzRzEwM1lNZVBJRmV5X3BscGRmOURwZWRTeHVfaU1oVWtLbFBwM01UX1QtTWxnN3FHbTRLamlRaXpIOUd5a3NNQVZXS3FNdENHX3R5STdpSnAtSVljaHZJaUtYYmJ1d3ZKaUZKX0dJQ2lQSzQ5TG9wTVBETVU1Z0ZtUGE4YmcyNnhyX1UxWW93eUlUaEVDRFZ6VVFVMXpfb3EtblZfdk9oWDUwYU1HXzdMemF5TmtXLWVZOC1vczFB?oc=5)
+- 简介: 
+
+**优必选与申昊科技签署战略合作协议，人形机器人加速落地电力行业优必选科技 - 新浪财经**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMieEFVX3lxTE9WQmxjbEhXZGRVR3JCdzZsVUtFdDhnOXZLU3dnNThGWW5jT2UteXh3cjktWFhKakhJRkxmLVJveE5wbzRzZUs1VjF4WW9Xa0ZRN0xReUVUY2I1bUhMZ0F1ekx1bmF2RFZwTE5xbUxfZmVlWW1SbldJVQ?oc=5](https://news.google.com/rss/articles/CBMieEFVX3lxTE9WQmxjbEhXZGRVR3JCdzZsVUtFdDhnOXZLU3dnNThGWW5jT2UteXh3cjktWFhKakhJRkxmLVJveE5wbzRzZUs1VjF4WW9Xa0ZRN0xReUVUY2I1bUhMZ0F1ekx1bmF2RFZwTE5xbUxfZmVlWW1SbldJVQ?oc=5)
+- 简介: 
+
+
+### 小米机器人
+
+**CyberOne入驻小米汽车产线 精密链节输送线适配76秒高速生产节拍 - 新浪网**
+- 发布时间: 2026-07-12
+- 链接: [https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUzlENHp3QjJSRnVNWWFEdUpqN3I3U2RtXzRIU3lUUVZ5R0NvTDNTazJqdkJEUkVvNGZ2VW91dTZ4MVZ1X1h5bjVDUk5ySEViR0dxUWF5YXcxYjVWcjlVM2tGZ3lENE85X1FoWlcyV0haNVNJdE1ybFUzeUNKdVU?oc=5](https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUzlENHp3QjJSRnVNWWFEdUpqN3I3U2RtXzRIU3lUUVZ5R0NvTDNTazJqdkJEUkVvNGZ2VW91dTZ4MVZ1X1h5bjVDUk5ySEViR0dxUWF5YXcxYjVWcjlVM2tGZ3lENE85X1FoWlcyV0haNVNJdE1ybFUzeUNKdVU?oc=5)
+- 简介: 
+
+**手机长出“手脚”？机器人扔掉遥控器！ - 新浪网**
+- 发布时间: 2026-07-11
+- 链接: [https://news.google.com/rss/articles/CBMiqgxBVV95cUxPcFpIUjliMWZ3SmdZRE1RMU1McDRBRGd1Ry1pRU13ckVRb01GSm84eFNjbExqMHY0NDN0UUs1QlR4RnNDTEdiWXdYM3RYakNNc3c4eEJIUXloTkNva21MMHNScTlmLW1TQnhUcDQ2X05YeVU3YjBIb0k3amotSXVNNVhyUWFBbWhNdzNwTU9wOTNvcmFMbV81NGN3LWduNTc5UDYxVE5XVjc4eXVOTkR5YWxiQ3hlZFcxcWgyQm9OTXhhZWhZbnZMckljbDhfZGRERGpSNFRKSXZrdlUxLXIzZlRZMmhDOWdmWnJJckduR2lhMmFSQS05M2pfbThtTUJWZjJWM2d5RW8tZVhUVWRlbEhzUEpONHNHWm9nOHhWTlQ5cHlzSlJSX2o1cDhjZS1CQktxcDZtSUZVM1JIaGd0dnhwNkhZRE1ET0NKYzRQVWhmenBBXzJfMlVhdGNoVVdvR1VLYmVISzN0OTdmX05GYkVsRDJtMHJmYjg4UHN1TmJBRV91Z1VCbWlFTTZzcnNycHp3cHZTQ25feS1hN1VzdmVia0VXQk1ScHNFN1FHWWtHam82Y3ZRa0VoZGxBbkt6U2cxNkUybHVmOVZJODllUFlsNWFnS0ppcXRUVGhpSjcyYXRPekVYRmlYUlFGUEo5SWR6dllmNDZwN1MwYzFvZlNpRnJWbjk5bUM0bWZxQ1k3NkRCNmxOajZXYnNkc29qR2N6RjFzdEFoVmUzc0NZLUstV29XSTZqQ1ZNeW9pNGVJbHctQW9ra3M3QXFPY3o1d0xQZEdMdVNjZ0NCWkxnQV9DZDRVdWw4QUpMakhTMXJWUV9YNnpxSDVpOW0xRWYzTm1uNUZpQ3AwdmlRMUFmZXRqdk93SkJMLWlDR3lxVG4zX2tiNkM0OXNyaHZSOF9Hc0pZU2lKVGs5djVOcEdudWJCLWR3bHJLa3hDSTRPVi1kbTFTZm1PQVVINWpfRXhtSjlqOEhZWWVHMUMwTkZ6U2Rpd1NqZTR1X21FMS1aWmlHQnlYbkFEbFA2RjFTd3ktX2RScnBWVlZDN094V3FYek1YQjY4S0RPbWxpR2FqRGNwby1WekJiTl9pZ3ltWGxwZ3JtNkxtOEYwWm1LYUFDaURnMXJ5dkdxb2N5bDJsOEM1Qi1GeEQ2R3pKZkhMZUp5SjNZcWpHTE9YamRhYlFuSE0zQm5SQVFwNlk0YV91TzB0QndKRC11X3RyMm1FeG03MGFmUVBiOExaTzluT25PMGhxc0xrZjhwQzhhUHFibU1HSC1EVmxOZkZUaTZNYm5zeHZWd2JHcDhWYTBlR1I1cEpyelFpaGRvQW1zekk4ZkVlbTR1S0hLNEI5Z2NFUFRBVHJnSEtET2tlVW1wWmVkZTlJdjE4bFhwSDNYY3ZjQ2dUbTJMcWR4c1RlV0JRTWRNYnQzRHd3WmRBcldNb2s0cmJjX2FnTWtlNUdzb1NkOExnUjBaeXV1UlFULVZXd3V2b0tJWFhqN1BQVDloejJzcGdRcjg5YzJnUnFzWDBPRFUwQURKWXpEcVBNbklsRGJ1OWRPcFdHcGlYNFJuNWVCc3hKaVFyay1HT3cwbkxiUnQ3OFVMVnhZcEdsdEozZHZXdjh0Nnc2UEh1UG5LOUVaXzVYN1M3Z1h0R2JESjIxU3VyRTctR3dPQVBTaGU2b1FKOFNkajVNanZlOS1SREdIVHhXNWJDOWFDWlU0RU4zRmxwaUFmVFhUbUNPeDJ1N0pZT1ZJbk5ObTdFT09PNWdXa3BVNFdLZ0NWNURCUWdtU1BKZGJYN29NdzFKd3JKVUJoYXVtUFEyRThwNkJKVi1RYlBJQVNhZ0NhRjBUaFJ2dzhHR1ZOVXFlaGNhcHNBdzJhOE1acDRyeXFMQkp5ZGw1STZ4Nm5HTmV0RXZBckVGX29HNldRbU5VRHFpdWUtVFd1ZXBUbzhEQktENDlhWVk4V1lOYVZkRTZnNllwbDVZTkNfeVF2bUlaaktsVU1UMmZtRUpYWkZJZlcxSEdEWlVJYU5ITVBqUWhQMFZ3enB3aDVUUEpuVHU5R0VvOHg2R3FMWFNQdGN2MTYyS09scFc0eFhQaEh3MUZ2Y1E?oc=5](https://news.google.com/rss/articles/CBMiqgxBVV95cUxPcFpIUjliMWZ3SmdZRE1RMU1McDRBRGd1Ry1pRU13ckVRb01GSm84eFNjbExqMHY0NDN0UUs1QlR4RnNDTEdiWXdYM3RYakNNc3c4eEJIUXloTkNva21MMHNScTlmLW1TQnhUcDQ2X05YeVU3YjBIb0k3amotSXVNNVhyUWFBbWhNdzNwTU9wOTNvcmFMbV81NGN3LWduNTc5UDYxVE5XVjc4eXVOTkR5YWxiQ3hlZFcxcWgyQm9OTXhhZWhZbnZMckljbDhfZGRERGpSNFRKSXZrdlUxLXIzZlRZMmhDOWdmWnJJckduR2lhMmFSQS05M2pfbThtTUJWZjJWM2d5RW8tZVhUVWRlbEhzUEpONHNHWm9nOHhWTlQ5cHlzSlJSX2o1cDhjZS1CQktxcDZtSUZVM1JIaGd0dnhwNkhZRE1ET0NKYzRQVWhmenBBXzJfMlVhdGNoVVdvR1VLYmVISzN0OTdmX05GYkVsRDJtMHJmYjg4UHN1TmJBRV91Z1VCbWlFTTZzcnNycHp3cHZTQ25feS1hN1VzdmVia0VXQk1ScHNFN1FHWWtHam82Y3ZRa0VoZGxBbkt6U2cxNkUybHVmOVZJODllUFlsNWFnS0ppcXRUVGhpSjcyYXRPekVYRmlYUlFGUEo5SWR6dllmNDZwN1MwYzFvZlNpRnJWbjk5bUM0bWZxQ1k3NkRCNmxOajZXYnNkc29qR2N6RjFzdEFoVmUzc0NZLUstV29XSTZqQ1ZNeW9pNGVJbHctQW9ra3M3QXFPY3o1d0xQZEdMdVNjZ0NCWkxnQV9DZDRVdWw4QUpMakhTMXJWUV9YNnpxSDVpOW0xRWYzTm1uNUZpQ3AwdmlRMUFmZXRqdk93SkJMLWlDR3lxVG4zX2tiNkM0OXNyaHZSOF9Hc0pZU2lKVGs5djVOcEdudWJCLWR3bHJLa3hDSTRPVi1kbTFTZm1PQVVINWpfRXhtSjlqOEhZWWVHMUMwTkZ6U2Rpd1NqZTR1X21FMS1aWmlHQnlYbkFEbFA2RjFTd3ktX2RScnBWVlZDN094V3FYek1YQjY4S0RPbWxpR2FqRGNwby1WekJiTl9pZ3ltWGxwZ3JtNkxtOEYwWm1LYUFDaURnMXJ5dkdxb2N5bDJsOEM1Qi1GeEQ2R3pKZkhMZUp5SjNZcWpHTE9YamRhYlFuSE0zQm5SQVFwNlk0YV91TzB0QndKRC11X3RyMm1FeG03MGFmUVBiOExaTzluT25PMGhxc0xrZjhwQzhhUHFibU1HSC1EVmxOZkZUaTZNYm5zeHZWd2JHcDhWYTBlR1I1cEpyelFpaGRvQW1zekk4ZkVlbTR1S0hLNEI5Z2NFUFRBVHJnSEtET2tlVW1wWmVkZTlJdjE4bFhwSDNYY3ZjQ2dUbTJMcWR4c1RlV0JRTWRNYnQzRHd3WmRBcldNb2s0cmJjX2FnTWtlNUdzb1NkOExnUjBaeXV1UlFULVZXd3V2b0tJWFhqN1BQVDloejJzcGdRcjg5YzJnUnFzWDBPRFUwQURKWXpEcVBNbklsRGJ1OWRPcFdHcGlYNFJuNWVCc3hKaVFyay1HT3cwbkxiUnQ3OFVMVnhZcEdsdEozZHZXdjh0Nnc2UEh1UG5LOUVaXzVYN1M3Z1h0R2JESjIxU3VyRTctR3dPQVBTaGU2b1FKOFNkajVNanZlOS1SREdIVHhXNWJDOWFDWlU0RU4zRmxwaUFmVFhUbUNPeDJ1N0pZT1ZJbk5ObTdFT09PNWdXa3BVNFdLZ0NWNURCUWdtU1BKZGJYN29NdzFKd3JKVUJoYXVtUFEyRThwNkJKVi1RYlBJQVNhZ0NhRjBUaFJ2dzhHR1ZOVXFlaGNhcHNBdzJhOE1acDRyeXFMQkp5ZGw1STZ4Nm5HTmV0RXZBckVGX29HNldRbU5VRHFpdWUtVFd1ZXBUbzhEQktENDlhWVk4V1lOYVZkRTZnNllwbDVZTkNfeVF2bUlaaktsVU1UMmZtRUpYWkZJZlcxSEdEWlVJYU5ITVBqUWhQMFZ3enB3aDVUUEpuVHU5R0VvOHg2R3FMWFNQdGN2MTYyS09scFc0eFhQaEh3MUZ2Y1E?oc=5)
+- 简介: 
+
+**雷军实锤！小米机器人已通过实操验证，大规模进厂倒计时 - 腾讯新闻**
+- 发布时间: 2026-07-09
+- 链接: [https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vanBQalh1cTRFUy1nSTB4WEtsQ2hQcmdrdU1sTFJiNDJ2MzB3T1M0LW5MNTNLejgwei1tNEY3RG9QQkE3ZXYwbFdqOHlIdGp1S2tmMWZn?oc=5](https://news.google.com/rss/articles/CBMiVkFVX3lxTE1vanBQalh1cTRFUy1nSTB4WEtsQ2hQcmdrdU1sTFJiNDJ2MzB3T1M0LW5MNTNLejgwei1tNEY3RG9QQkE3ZXYwbFdqOHlIdGp1S2tmMWZn?oc=5)
+- 简介: 
+
+**智能扫地机器人全解析:科沃斯与小米等品牌核心功能详解 - 新浪财经**
+- 发布时间: 2026-07-07
+- 链接: [https://news.google.com/rss/articles/CBMickFVX3lxTE5pSUpBZzV2RlJqWnpmZjlnWjZOTmhzSE9BQWVhbklObVlVcGxjdnp4SzZwejVBR3lTcW5QWG8yX2phYlpmckZfZ3U2eTRPLWlVYVpUM1hMWGZBNlVNMWlVRS1iRElrcXVMaDAtR1huTTNkQQ?oc=5](https://news.google.com/rss/articles/CBMickFVX3lxTE5pSUpBZzV2RlJqWnpmZjlnWjZOTmhzSE9BQWVhbklObVlVcGxjdnp4SzZwejVBR3lTcW5QWG8yX2phYlpmckZfZ3U2eTRPLWlVYVpUM1hMWGZBNlVNMWlVRS1iRElrcXVMaDAtR1huTTNkQQ?oc=5)
+- 简介: 
+
+**小米米家扫拖机器人 5 开售：7.9cm 机身、23000Pa 吸力，首发价 2679.1 元起 - 新浪财经**
+- 发布时间: 2026-07-08
+- 链接: [https://news.google.com/rss/articles/CBMickFVX3lxTE1rdXQ3eHJEbmh1cEd2UGF1MGN3b0taa3Q1SkRTNXBld2FsSU1YbjM0ZU4zdmQ1NXkzczl0SEdSQUZqVHA3MDJqbDB1d2RManpRaDhITmtCTzNvLVB3Tndadk9HVFBVelRtTk1mdlMwdkdfUQ?oc=5](https://news.google.com/rss/articles/CBMickFVX3lxTE1rdXQ3eHJEbmh1cEd2UGF1MGN3b0taa3Q1SkRTNXBld2FsSU1YbjM0ZU4zdmQ1NXkzczl0SEdSQUZqVHA3MDJqbDB1d2RManpRaDhITmtCTzNvLVB3Tndadk9HVFBVelRtTk1mdlMwdkdfUQ?oc=5)
+- 简介: 
+
+
+---
+
+## 📌 关于本报告
+
+本报告由 **Humanoid Insight Platform** 自动生成，基于 Claude AI 的深度分析能力，汇总人形机器人领域的最新学术研究、产业动态和行业资讯。
+
+**数据来源**:
+- 学术论文: arXiv
+- 公司动态: 官方网站和 RSS 订阅
+- 行业资讯: 微信公众号
+
+**生成时间**: 2026-07-12 02:51:03
+
+---
+
+*由 Claude AI 驱动 | [GitHub](https://github.com/yourusername/humanoid-insight-platform)*
