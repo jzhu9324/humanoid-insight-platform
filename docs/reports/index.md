@@ -9,6 +9,7 @@ AI 自动生成的日报，提供趋势分析和行业洞察。
 ## 最新报告
 
 - [2024-03-07 周报](/reports/weekly-report-2024-03-07)
+- [2026-08-05 日报](/reports/daily-report-2026-08-05)
 - [2026-08-04 日报](/reports/daily-report-2026-08-04)
 - [2026-08-03 日报](/reports/daily-report-2026-08-03)
 - [2026-08-02 日报](/reports/daily-report-2026-08-02)
