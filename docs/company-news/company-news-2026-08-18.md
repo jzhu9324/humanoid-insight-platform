@@ -6,1047 +6,393 @@ type: company-news
 
 # 人形机器人公司动态 - 2026-08-18
 
-本期收录 9 家公司的 114 条动态。
+本期收录 6 家公司的 42 条动态。
 
 ## Tesla
 
-### Giga Texas Optimus Factory Grows as Main Building Gets Major Modification - BASENOR - Tesla Accessories
+### Don't Overestimate Automakers' Humanoid Robot Development Capabilities: Key Realities & Industry Insights - 36Kr
 
 **发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnRiRUQ5VkdYUGN4NTV6R1lGMDdDa1RmU0c2MG53Z2RnMXZrWFpFUURrbzJTelVxVW9tcy1xSGIybjRBTm1FMGZaNUVYX01XSEZiaGdURlVCYkNSS0xGNFBzYXItVHlXazkzM2tHeTVVWE5FdzAyRzVOdFhyX3BGaTR5NUZyUS1nNDIxX0tDNDJNS0JmZHA1RTFLaVRHS1FmaEJaOHhMc2pKOHRX?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SVXYyTjNjSmJuQ09PTXlQWGp2OFhwWm5jRUJKTjRBR2NoUFFGY3hCWDUwMXJFU1p3Snk1VVprdTlkd2VfNXZ5X3pSSXA4OE1ZbGpn?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPVnRiRUQ5VkdYUGN4NTV6R1lGMDdDa1RmU0c2MG53Z2RnMXZrWFpFUURrbzJTelVxVW9tcy1xSGIybjRBTm1FMGZaNUVYX01XSEZiaGdURlVCYkNSS0xGNFBzYXItVHlXazkzM2tHeT
-
----
-
-### Elon Musk Says Optimus Will Be a $10 Trillion Business. Here Are 2 Industrial Stocks That Could Actually Cash In - finance.yahoo.com
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0lUUU1BRFZ4XzYxM05MSDI1N0tROFdITjRjbldpcUlxNXVoM1kwYWp2c0NhZU8tcG1tSzFrMDZZWUFiZ1lzSFJKbkF2dWxiejlPYmQ5dGs3eE13bVQ3LWU0Rkg1RnNGSFJoNU9PN3loVk5uVHdrWkV0ME04UjdRaTJvcHhJWktFaXhMZjFFaw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOR0lUUU1BRFZ4XzYxM05MSDI1N0tROFdITjRjbldpcUlxNXVoM1kwYWp2c0NhZU8tcG1tSzFrMDZZWUFiZ1lzSFJKbkF2dWxiejlPYmQ5dGs3eE13bVQ3LWU0Rkg1RnNGSFJoNU9PN3
+<a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9SVXYyTjNjSmJuQ09PTXlQWGp2OFhwWm5jRUJKTjRBR2NoUFFGY3hCWDUwMXJFU1p3Snk1VVprdTlkd2VfNXZ5X3pSSXA4OE1ZbGpn?oc=5" target="_blank">Don't Overestim
 
 ---
 
-### Tesla Stock's Fragile Recovery Continues After Diving On Robotaxis, Optimus Delays - Investor's Business Daily
+### Gigafactory from above: Tesla's Texas compound is more than meets the eye - Austin American-Statesman
 
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjlBT0daZEhBNEt5YnVVaG9kV2J6Y1kxbUdKcFROMVA3ajJpbTgtNGpZVWZLdG1BX1ZCR0ZJQ0d1WkVlQUdCM2picVRKa3MxSFZBd0JKTGNQZER1aVVVV0VxSDNlWXFKSnd6alJJS1hobFE4ZTlzd2JUN01WcXhTeXpVVmRkZDljeUJGSnRQbw?oc=5)
+**发布日期**: 2026-08-17
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMidEFVX3lxTE1OdTRvamJkY1pBUkQ5d1dqWVgtUWdYSnRKSmF3NXlKOGJWZ1BMcjhuOXZzeTZHWUZIbVRneW1XX2RoMTduN2VmZzFTS29zT0JMYy1kam9FQngwN3ZIanNtcklWa3d6eXB3X2V0TVhka1lONzR0?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOZjlBT0daZEhBNEt5YnVVaG9kV2J6Y1kxbUdKcFROMVA3ajJpbTgtNGpZVWZLdG1BX1ZCR0ZJQ0d1WkVlQUdCM2picVRKa3MxSFZBd0JKTGNQZER1aVVVV0VxSDNlWXFKSnd6alJJS1
-
----
-
-### A popcorn prank on Tesla's Optimus in Los Angeles doubles as a real-world robot test - The Cool Down
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVpnaFVtUFh4a19YTGxsNGZESWpTZng2U0RJY0Vub2oxN21EUWFwVWpBZjVNcTNLWnN5TDIxMlJrZVhiY184UTdYT3ZkVjBtNE13cGpoc1h1OVNoUTZyY2V5U3JhUk5kTVBfenR4VGNMRzJ3OG4tdHEwdHpLNUJnUTRoaTJWOFJz?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQVpnaFVtUFh4a19YTGxsNGZESWpTZng2U0RJY0Vub2oxN21EUWFwVWpBZjVNcTNLWnN5TDIxMlJrZVhiY184UTdYT3ZkVjBtNE13cGpoc1h1OVNoUTZyY2V5U3JhUk5kTVBfenR4VG
-
----
-
-## Boston Dynamics
-
-### Robots are prompting hard questions before they arrive - prweek.com
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUtzNFhNeENXNllTbmpSVThuOFNSbk5ud1M4T3hiTWV2ZEJZVVNYNmtna0JRZjZBRnN4SmhkOVp5YUtwRFBMUldyWUlHd2IwZ3AzajliVG9TVFRldWF0UkdhbE0xNncycklWSjhLdGlRTlp6YXJkNjZrOVIwYlBYYVpjaw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPdUtzNFhNeENXNllTbmpSVThuOFNSbk5ud1M4T3hiTWV2ZEJZVVNYNmtna0JRZjZBRnN4SmhkOVp5YUtwRFBMUldyWUlHd2IwZ3AzajliVG9TVFRldWF0UkdhbE0xNncycklWSjhLdG
-
----
-
-### Humanoids learn complex movements using motion capture, animation - Interesting Engineering
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmJJRkczYTlNUDg0SWszWGhoQVBvejZlcVU5TVRRNWZvcmNoV0xHRFIyTzVMWGNXU09hMmlWNzhhVUhZYnlmUVRNbFlyUGhyTkFreTR2dS10eTFfenRwR2xGTmRPRHlsb2VJMVFRT0V3SGs4Vmp2X3FZMmZHUEVFaTRHdEQzVDJGRmtPcDRxSQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOcmJJRkczYTlNUDg0SWszWGhoQVBvejZlcVU5TVRRNWZvcmNoV0xHRFIyTzVMWGNXU09hMmlWNzhhVUhZYnlmUVRNbFlyUGhyTkFreTR2dS10eTFfenRwR2xGTmRPRHlsb2VJMVFRT0
-
----
-
-### Samsung Batteries Likely for Boston Dynamics' Atlas Humanoid - Seoul Economic Daily
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMingFBVV95cUxOcHUyOGZYSnRBN1RkX2Z2WHRFaVJpNnRLckVLRkhaeGN4VW1tWWdTOWNKX3d6czhYRUxYVGc1ZjNNMDVReVhEal9ySDBpMkw4MnNpazNvdUdTeXZ3dEtyQi1meHo5SExyMFdEaks2VmpnRjFqUmRmQWJBSV9wd2lRWndTV2N0emZnQjRHREo1RjlUdzRzenQteExycHFUQQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOcHUyOGZYSnRBN1RkX2Z2WHRFaVJpNnRLckVLRkhaeGN4VW1tWWdTOWNKX3d6czhYRUxYVGc1ZjNNMDVReVhEal9ySDBpMkw4MnNpazNvdUdTeXZ3dEtyQi1meHo5SExyMFdEaks2Vm
+<a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE1OdTRvamJkY1pBUkQ5d1dqWVgtUWdYSnRKSmF3NXlKOGJWZ1BMcjhuOXZzeTZHWUZIbVRneW1XX2RoMTduN2VmZzFTS29zT0JMYy1kam9FQngwN3ZIanNtcklWa3d6eXB3X2V0TVhka1
 
 ---
 
 ## Figure AI
 
-### Asteria invests $1 million in Figure AI, BMW robot supplier - International Business Times
+### Unitree's IPO places a bright spotlight on the humanoid robot sector (ROBO:NYSEARCA) - Seeking Alpha
 
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1BfZUtSWWw1WEg5aklYS1drRkVEY2F6UzljTW9hTE5rSm1aLU15R0o5QTlNUDNvUGZGWGwxU0RFQjFlTU1fWG5DNlQtWENYM25QbS1ETDVCNk9ORmVPWWRtaGhBYXVoMElSZGw3bHJzNTRDUXBWV3pGdFRCR1o1N25aY2N5WjAwc0RZZg?oc=5)
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1JfUXNIeW5uTG9JMFBxVnZGNTZ4RV9OaW9veDk3T1dvMm42cThRU3J3Z0Jvc2FzMExBOVlUMjBFZm5xZlMyd3NVaGRxci0xWS1EOXZIci1JRWRfVDNkSUlpNnhiUTN0RzNmREpqbXpYU3R4aF96NVgwT1dzRDVoTDdYelYyMjFnWHJ2S2VmVG10NEJYTzBjdzVLMHFvWEFpY1QxWVZqQW0?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPc1BfZUtSWWw1WEg5aklYS1drRkVEY2F6UzljTW9hTE5rSm1aLU15R0o5QTlNUDNvUGZGWGwxU0RFQjFlTU1fWG5DNlQtWENYM25QbS1ETDVCNk9ORmVPWWRtaGhBYXVoMElSZGw3bH
-
----
-
-### Brett Adcock: Phones and Computers Are 'Complete Rubbish for AI' — His Two Companies Aim to Replace Them - finance.biggo.com
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMVhxNTFxM191ZEg2Ny1OWUpLcVZCbVBOV2JpV1hzSnUxZjJjaVFCbVVkblFIZ3Baa0JPQXdabDJqUHNhWmd1SGlMbXR3ejVQYkZFNFZyb21QaDg?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1YMVhxNTFxM191ZEg2Ny1OWUpLcVZCbVBOV2JpV1hzSnUxZjJjaVFCbVVkblFIZ3Baa0JPQXdabDJqUHNhWmd1SGlMbXR3ejVQYkZFNFZyb21QaDg?oc=5" target="_blank">Bret
+<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxNX1JfUXNIeW5uTG9JMFBxVnZGNTZ4RV9OaW9veDk3T1dvMm42cThRU3J3Z0Jvc2FzMExBOVlUMjBFZm5xZlMyd3NVaGRxci0xWS1EOXZIci1JRWRfVDNkSUlpNnhiUTN0RzNmREpqbX
 
 ---
 
-## Agility Robotics
+### BMW Manufacturing Deploys Figure 03 Humanoid for Logistics Sequencing (Video) - Thomasnet
 
-### Robots on Wall Street: Non-traditional paths to public markets for robotics companies - The Robot Report
+**发布日期**: 2026-08-17
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFp6enMzNWlObGxueDBuOXUzMC0xZWVNY1Vzb1BmWEYxVU9ONjVJT0wwVXFFRi0zZ0JmTFZfQTBXOExob09qRmVoLWJEV2hIY09QNzRGNng0NDFoV29YdHV0ZlBpdW1VYmZhVVRMUnEtRVpmZ1lpcXRGZFZlLWtObUV5a09mSnJwMWM4NU5B?oc=5)
 
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNd1llQ05PLWxJeWducTlyUUVCbDhTUWFCak5ac29LdHdTRkZMNnljajhFeC1LYXhnM2V6bUxyZUtBbmVHblVydEhVUE8tcHdBLUE?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiUkFVX3lxTFBNd1llQ05PLWxJeWducTlyUUVCbDhTUWFCak5ac29LdHdTRkZMNnljajhFeC1LYXhnM2V6bUxyZUtBbmVHblVydEhVUE8tcHdBLUE?oc=5" target="_blank">Robots on Wall S
+<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxQMFp6enMzNWlObGxueDBuOXUzMC0xZWVNY1Vzb1BmWEYxVU9ONjVJT0wwVXFFRi0zZ0JmTFZfQTBXOExob09qRmVoLWJEV2hIY09QNzRGNng0NDFoV29YdHV0ZlBpdW1VYmZhVVRMUn
 
 ---
 
-### Churchill Capital Stock Rises as Sponsor Financing Adds Fuel to Agility Robotics Merger Plans - TradingView
+### Humanoid cleaning service slashes costs to fuel robot data race in Korea, US, China - CHOSUNBIZ - Chosunbiz
 
-**发布日期**: 2026-08-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiaEFVX3lxTE11TUZOemJ5T2g4bGVVTzN3UkIzc0VOTU1KdkhQZkxENERvQVVIc1FaT2o0dkE1alFWNjlyTmp4QmpyYzhrMG5uSDdIZUlKc045TjhTbWdleDZNXzdWVmV4U1BZTEFRUmJy?oc=5)
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmpjX094R0VKbGI4aE56U0M5MTNMM0tIZlp4N0padHloSHl4QTVvSWVUSFpWV2pZNDZqVVEtM0VNdmNSLUJCNTJJc19malFXTWViNWpmV1RhZVFkRHJEUTJvajNhaW0xR05vMEdRRFZmR0VXaTRBaWFpUnNsTHNRSE130gGWAUFVX3lxTE9jUXdocDdrYURIR3JWRTUySGFGY0VsTjNic1dnNUhrOFRkdWxIRkVBMVlDTmdJUVYtdzBLMjhVQkpPRXQzZllaYVRCQlFJMGxxelQ4MjZCaWh4czg2OHV5RkRkb3AtXzBCdFVubHZRektzSVJ4ZlFxaVpUX0ROYk03YUhaQkxZbk1wTUFpLW1rYkxvMk9vQQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE11TUZOemJ5T2g4bGVVTzN3UkIzc0VOTU1KdkhQZkxENERvQVVIc1FaT2o0dkE1alFWNjlyTmp4QmpyYzhrMG5uSDdIZUlKc045TjhTbWdleDZNXzdWVmV4U1BZTEFRUmJy?oc=5" tar
+<a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxQcmpjX094R0VKbGI4aE56U0M5MTNMM0tIZlp4N0padHloSHl4QTVvSWVUSFpWV2pZNDZqVVEtM0VNdmNSLUJCNTJJc19malFXTWViNWpmV1RhZVFkRHJEUTJvajNhaW0xR05vMEdRRF
 
 ---
 
 ## Unitree Robotics
 
-### The Next Big Influencer Is This 4-Foot-Tall Robot From China - WIRED
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMie0FVX3lxTE16cjVkazc5NWEwSHA2UzJLNUl5UC1ZV1lFWDN2Sm1rY2dPaHBHMDBrN2dPQlFTZk1pQ3QwUHZjeUlMWEV6SUVZRUhBZVczaEJEb01VMkxVRmZmb0ZwZVc3UWphd21yV1ZxQ1I2bURBYlBGN3BFeG9BUlhESQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMie0FVX3lxTE16cjVkazc5NWEwSHA2UzJLNUl5UC1ZV1lFWDN2Sm1rY2dPaHBHMDBrN2dPQlFTZk1pQ3QwUHZjeUlMWEV6SUVZRUhBZVczaEJEb01VMkxVRmZmb0ZwZVc3UWphd21yV1ZxQ1I2bURBYl
-
----
-
-### Unitree’s new humanoid robot just claimed a speed Usain Bolt never hit - Interesting Engineering
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXM0Wjl6bWRBbmlHWENoTmNJN2RuRFprSmhOTnNpZ2hUNFZkZzVQcE9saThyWTBRazBLVTh5Y1pYWHpJWncxMlE4WGIwb2VfWnpxdXlXcWtEaXNyLTJKTE1lVGxuelRKZ0Z6ZXZJNWladFZQTW9aZ3pkVVpnb2RZdTdhU1l5ZkFmSUxMd2U5TnVobmhidXFhU3NHNDR1bFpDNUxFZk9kQW5SZlREUmtMTA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxPZXM0Wjl6bWRBbmlHWENoTmNJN2RuRFprSmhOTnNpZ2hUNFZkZzVQcE9saThyWTBRazBLVTh5Y1pYWHpJWncxMlE4WGIwb2VfWnpxdXlXcWtEaXNyLTJKTE1lVGxuelRKZ0Z6ZXZJNW
-
----
-
-### Unitree, China’s humanoid robot champion, lists in Shanghai on 19 August after record demand - The Next Web
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFAxS0oxVzJCOVVQQ0hLcVNOV2hfSW11ZWtfNW1mQ29qSWRzR1pMSU00T0NjTHp4Y29Fa3lraEhmVzdUM192dlZha1NqSk4wbzBqaHRBTkU4bHA3Sy1ydm1mUmExbFdqTENXbHZCSTkyRm4?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFAxS0oxVzJCOVVQQ0hLcVNOV2hfSW11ZWtfNW1mQ29qSWRzR1pMSU00T0NjTHp4Y29Fa3lraEhmVzdUM192dlZha1NqSk4wbzBqaHRBTkU4bHA3Sy1ydm1mUmExbFdqTENXbHZCSTkyRm
-
----
-
-### Chinese humanoid robot maker Unitree to list in Shanghai on August 19 - Yahoo Finance UK
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijgFBVV95cUxObVZTajZTNjQybnRncnY5WUFMWko4c19rVWFRRnBUSTdwUFhHc091OHRBTmdZMXNwTHBrZzRNck5xd1BCOGJ1NTlZbVgxLVNwVkVBLUlzZnhXUUMtLWZsb2MwVFVjUkdBRVVYaG5EcHBmRTdVemdqNXlTR2VvZ2tsbHVyTmxVSHZFWG1aOUFB?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijgFBVV95cUxObVZTajZTNjQybnRncnY5WUFMWko4c19rVWFRRnBUSTdwUFhHc091OHRBTmdZMXNwTHBrZzRNck5xd1BCOGJ1NTlZbVgxLVNwVkVBLUlzZnhXUUMtLWZsb2MwVFVjUkdBRVVYaG5EcH
-
----
-
-### It’s Official: No Man Can Outrun Our Robot Overlords - Gizmodo
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWhSMU5hVU9NZlpobDVBeHN1OVZRZmxXeEl4WEN1RFVMVU4zOU14amI3UTM1QjhDX2c3cXlMM0lBRm9aRUx0MXhlVWdLaWNoTEJVR2RBbXpGSGVJTXZLUEtQSTkyQzlvTzdoMmhKMmp3Z1pZZGNaUUkwVmxZRmNrNVYtblVWZkpH?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcWhSMU5hVU9NZlpobDVBeHN1OVZRZmxXeEl4WEN1RFVMVU4zOU14amI3UTM1QjhDX2c3cXlMM0lBRm9aRUx0MXhlVWdLaWNoTEJVR2RBbXpGSGVJTXZLUEtQSTkyQzlvTzdoMmhKMm
-
----
-
-### Unitree Robotics August 19 Listing: 6.1B Yuan Raising, Backed by Liang Wenfeng & Tencent – First Humanoid Robot Stock on Sci-Tech Innovation Board - 36Kr
+### How U.S. military funding propelled China’s robot dogs - Yahoo
 
 **发布日期**: 2026-08-18
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QWGhjS3l3MXNsZll5VTdzSmlSTmxvLWhScFA3eFZBOHhrTGJSdFZKbWczakRVVlVMZ2hLb1FnMTJZVy1WZGV4czJWQlJCM21BMmxN?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGxwM3VQWnQ2eE9fTGxPM3dJS3IzNHJ4ZU4yNEJ3SXhTeTJEdkY2UUsxYzhZZlJUMTRuTlhadUVnSElWWFc3MldLdFFhZVExZVRtU2JDSnlCazVwcWVaZEhlcXRmNGNJVjNkcG5qRVBpXzRoOWRYTjZqMXF1Sk1CbmtmUVJid2l5LUxyQlhodFhkdw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9QWGhjS3l3MXNsZll5VTdzSmlSTmxvLWhScFA3eFZBOHhrTGJSdFZKbWczakRVVlVMZ2hLb1FnMTJZVy1WZGV4czJWQlJCM21BMmxN?oc=5" target="_blank">Unitree Robotic
-
----
-
-### Unitree vs. Shein: How August’s big China IPOs show how AI hype is leaving e-commerce giants behind - Fortune
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxPaTBqaE1sSnVRNGtDeWkwSEdtT0ZBN21qakxxRTI1TlFKUGVKRHVrWFp5WmFMUmN2Qm1UUElFNzV4N3RoMS1ETWRxcDN1a2ZNMkRBdFhZRWV3dlZaQ2pTNFFucUJVVlNEYzVadEU5TGl4TUVQWjlQYlE0NDhOS19SamtnU2Q2QjVYWC1wUHpxVUtZV09WZFpSMG1LRDlOakgzWVBOODhtV1o4V1E0cGlVb0hmMlVxRmczQ0c0ZXZZMGx4N3lOTXcw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPaTBqaE1sSnVRNGtDeWkwSEdtT0ZBN21qakxxRTI1TlFKUGVKRHVrWFp5WmFMUmN2Qm1UUElFNzV4N3RoMS1ETWRxcDN1a2ZNMkRBdFhZRWV3dlZaQ2pTNFFucUJVVlNEYzVadEU5TG
+<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxNbGxwM3VQWnQ2eE9fTGxPM3dJS3IzNHJ4ZU4yNEJ3SXhTeTJEdkY2UUsxYzhZZlJUMTRuTlhadUVnSElWWFc3MldLdFFhZVExZVRtU2JDSnlCazVwcWVaZEhlcXRmNGNJVjNkcG5qRV
 
 ---
 
-### Unitree Says Its New Superman Robot Just Outran Usain Bolt - startupfortune.com
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmhsXzNWQnlGV3RfbjlWc0E2YkJpQWVQS0I3UmwxOGhFLWhCTmsyS3gxUU1QWnVlVFN6b0p3N0lMOG5oS2UwZ2FaZ0FFTzRUM3NwajJZa01JdHYyaDNVTUJOVWItTFRVZWRVYkEtMmFmVE5yYUVqa0lnYzRVTW5adVN4UzBnUlRjNEEtY1JHcw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmhsXzNWQnlGV3RfbjlWc0E2YkJpQWVQS0I3UmwxOGhFLWhCTmsyS3gxUU1QWnVlVFN6b0p3N0lMOG5oS2UwZ2FaZ0FFTzRUM3NwajJZa01JdHYyaDNVTUJOVWItTFRVZWRVYkEtMm
-
----
-
-### Chinese humanoid maker Unitree to debut on Shanghai exchange on August 19 - Investing.com
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWZHanBNN0NxaEJnWHRWQ1otWnlwamdfbldDWDliako3STUyWkhyUDBYZzBmbDdoajBkb3dOZlFWX0NLc3JGSFBWQ3JSRDBNcmM2ZnNPXzNkdl85MzFUU0pzbFo0VS01WGdRMjV2aGNFRWRDWk0wTFZVYi1lOURXRndqc2E1R2l0VWZ3RDMtRGhXcWQ4Mkl3V3cydnJWcjJkWXFvc2lTUW0xdmZzYVkwRUVpLWc1RXZETnVILS1IVTZkWVY1TnNBUUNZVjljR0Np?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxPaWZHanBNN0NxaEJnWHRWQ1otWnlwamdfbldDWDliako3STUyWkhyUDBYZzBmbDdoajBkb3dOZlFWX0NLc3JGSFBWQ3JSRDBNcmM2ZnNPXzNkdl85MzFUU0pzbFo0VS01WGdRMjV2aG
-
----
-
-### Chinese humanoid robot maker Unitree to list in Shanghai on August 19 - thestandard.com.hk
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNEd0WWZ5Wjg3czJaSno3N0dkMFJYQ1FsdElVVlJlUmxxRDVkdUVJd1VFX3FKNjVqLU5BRXU1MWYwVXRiYzhUczloSzkxNm5tbDlBeFNOMVpkdzNsRDJfRU9FeTNPVFVGaXlFdmgyaEdYb1dkQWJRc2EwQ2l2QXRUZ3hhTm16ZEljNzhoaVhPcnlEaUNHY0ZNNkp3Y1duM1BrZENnTkpwSm9DQXBhbUpPWTVFelZvS2xzRW5NMTBNVHA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNEd0WWZ5Wjg3czJaSno3N0dkMFJYQ1FsdElVVlJlUmxxRDVkdUVJd1VFX3FKNjVqLU5BRXU1MWYwVXRiYzhUczloSzkxNm5tbDlBeFNOMVpkdzNsRDJfRU9FeTNPVFVGaXlFdmgyaE
-
----
-
-### Unitree Robotics Unveils Superman Robot That Jumps Two Metres - Межа. Новини України.
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMib0FVX3lxTFAxSHZ5VXZTaGNhWi1LS081NjNPQjlwMkZuV01RbVdtT1F1ZDZIY1dLcG1tV2hJX2NjQVlOVlF3czZBeTU5TF8wdjVwQ0dzd2ROZk1qYlBhVWk5VzBnc2hMSnhjY1JFNkNkakdWWFVxMA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMib0FVX3lxTFAxSHZ5VXZTaGNhWi1LS081NjNPQjlwMkZuV01RbVdtT1F1ZDZIY1dLcG1tV2hJX2NjQVlOVlF3czZBeTU5TF8wdjVwQ0dzd2ROZk1qYlBhVWk5VzBnc2hMSnhjY1JFNkNkakdWWFVxMA
-
----
-
-### Unitree unveils humanoid robot capable of 2-meter jump - Ecns.cn
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiekFVX3lxTE51RjVwTURORlNnSmRxRzNuVnd1UG1tUW5xLW9PcURzTHlNVy1tSGJWbm5ETDRZNDRyc21EUlJlU1BScmJId0tPQmxWdUNlNHVkdkRUd3lwbER6dTJCMHBBTFFFV0QtOFBoMUFWNlZRcmdTVDZlajNDLXhn?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiekFVX3lxTE51RjVwTURORlNnSmRxRzNuVnd1UG1tUW5xLW9PcURzTHlNVy1tSGJWbm5ETDRZNDRyc21EUlJlU1BScmJId0tPQmxWdUNlNHVkdkRUd3lwbER6dTJCMHBBTFFFV0QtOFBoMUFWNlZRcm
-
----
-
-### Unitree set for STAR Market listing on August 19 - Global Times
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xZmhMS3c5NUo2dlVhR21UWFV2THREdUNoWmk0Q1BRYTdzbEpUMXQ5ZmRCVHF5UURkWUJBQ0MwS21panB4VzduVVBQSGpkMjNFMnN4Qk50QkJRUXUtakg4eUFn?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE0xZmhMS3c5NUo2dlVhR21UWFV2THREdUNoWmk0Q1BRYTdzbEpUMXQ5ZmRCVHF5UURkWUJBQ0MwS21panB4VzduVVBQSGpkMjNFMnN4Qk50QkJRUXUtakg4eUFn?oc=5" target="_bl
-
----
-
-### Chinese humanoid robot maker Unitree to list in Shanghai on August 19 - TradingView
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWhBejRHdjNveGd6VzJTdzZZV2Eya3Rpa1ZhT2JnT3ZQZGx6bG5uczdwZmlrTUdQMEozbVUzYnBrc2JFaUFxajNpQmdEa0R2QUJOWHhDWU1PLUNJLXlZUV93bnRSdFZiM1U1VGFBRXZsYzNSX1N3dlVOZXc5VE53WTlrS2Y4aWxpUFFFNTlkajJlQy15ZEMtTXktVGR5cndMbnUzRnhUUGJHd2I2bDBlM3d6MVZnWHM3bGpXMWI5XzY5XzBYblNhTy1BUkJjcDRMbWpuMG5R?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxNQWhBejRHdjNveGd6VzJTdzZZV2Eya3Rpa1ZhT2JnT3ZQZGx6bG5uczdwZmlrTUdQMEozbVUzYnBrc2JFaUFxajNpQmdEa0R2QUJOWHhDWU1PLUNJLXlZUV93bnRSdFZiM1U1VGFBRX
-
----
-
-### Unitree Debuts A High-Speed Humanoid Robot Ahead Of IPO - Finimize
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPMG1nQkpNVHIyZXFTVTZ6OHpnaTAtd3VTMzNvX203bThITzZLb0pDQmljQXJUdl9TbmtacXJ5M3BHSmVzTWxQdFg5NjRaZTVpd1o0QkV1T3p4X0pzaWdDYnhSRGluNDV6TDVwcWc1akJqWGJmSXJUZjA5b1FVX2g1QkpwOXBQYXAtUXhQWA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPMG1nQkpNVHIyZXFTVTZ6OHpnaTAtd3VTMzNvX203bThITzZLb0pDQmljQXJUdl9TbmtacXJ5M3BHSmVzTWxQdFg5NjRaZTVpd1o0QkV1T3p4X0pzaWdDYnhSRGluNDV6TDVwcWc1ak
-
----
-
-### Humanoid Robots Face the "Year of Delivery" Reckoning: Behind the 272% Surge in Shipments, the Real Ledger on the Factory Floor - finance.biggo.com
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTFBFVWlhWmdSSkdOUVhUWFFxOC1GeU5Yb2F5TDNjNV9QR3FMY1c1ZnowMVpXNjlwczl2X29WOGFQb3prVEFyeHlLMmo2WmQxV1JkdGlBOVNsWGZvNmJEYnRjMXNtTU04b0xDYjVXek0zN3U2bHE3ZkE?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTFBFVWlhWmdSSkdOUVhUWFFxOC1GeU5Yb2F5TDNjNV9QR3FMY1c1ZnowMVpXNjlwczl2X29WOGFQb3prVEFyeHlLMmo2WmQxV1JkdGlBOVNsWGZvNmJEYnRjMXNtTU04b0xDYjVXek0zN3
-
----
-
-### Watch: Chinese company unveils ‘Superman’ robot that it says is faster than Usain Bolt - SMH.com.au
+### DW News. . Meet "Superman" - a new high-speed robot from China's Unitree. The reveal comes just days before the company makes history as the first general-purpose robotics firm to list on mainland China's stock market. #dwnews - facebook.com
 
 **发布日期**: 2026-08-18
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVW5TZGJ2NlAwemlQTm83N2tzVzdONklQS0x4a3daSGdlT0NVeXB5eHpJLWJid0lWQi1kczl3cUlqSnBuZG5tWnBPS1N2dmxPWFNzUC0xTXVzNUdCT2F3d1dQTXcyQXRqVFRDV2lnTnJJbS0yYjVwcmFYSXYxZmtnWVM2dGtlcXlwRDU1MXZkM1J0dDM3NmxMc0I0NkJEYm0waUpVaC1WY1NYdFNLaVNZMDNkd3kxUldOV2hhVjJzYTJkWFg5VzI3ZzhkUWFMOUVBb25waw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWtTMXlmR2lQOFd5MElqVUJBVjU5dWdhUDJZTjVPMktOU2FyRnREanVwM1g1UjdOZjNlX0p2NDVRYTNQVjFOMnlLbW43NzdjNU15U3N3M1ZaTnVPbG1YaEJhNWpTa25HdHV1RU53dHg4S1BxZ181VGZsN3hFN1hhRWxvRWFjMW1fdFRPYk9pcC1BZEdWQXBuUnhnUkdsN0JyVlB1dzUzQmlFVjhXVnBTUnBUcVZmX2RBdFpEdEpMcXE1X05ubXZ0V2xZdktnVzdfY2J2RHlydmJYNEFOS2xvYw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMi1AFBVV95cUxQVW5TZGJ2NlAwemlQTm83N2tzVzdONklQS0x4a3daSGdlT0NVeXB5eHpJLWJid0lWQi1kczl3cUlqSnBuZG5tWnBPS1N2dmxPWFNzUC0xTXVzNUdCT2F3d1dQTXcyQXRqVFRDV2lnTn
+<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOYWtTMXlmR2lQOFd5MElqVUJBVjU5dWdhUDJZTjVPMktOU2FyRnREanVwM1g1UjdOZjNlX0p2NDVRYTNQVjFOMnlLbW43NzdjNU15U3N3M1ZaTnVPbG1YaEJhNWpTa25HdHV1RU53dH
 
 ---
 
-### China's Unitree unveils 'Superman' robot as fervour builds ahead of Shanghai debut - tribune.com.pk
+### Unitree IPO Could Mark New Era for China’s Robotics Sector - WSJ
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDE1TzFCOTBnVkZzQ0Z6RXFacFVEYTZnYmhJLTh3cGRZblNiVDNnSERSS0kxd0R0Wl9qZGczYUxDMGV0RkRWOGl5UURKUV94UmdIOERZWFN3Um5CNUZqMnhmU2Nid20yc0lEekFDWmZPdC1QOWpOOW43cHQ2OFRXZ2JtSnFvYXl5MUVuS1ZqcU0zV3JlWlpjTFR3?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxQUDE1TzFCOTBnVkZzQ0Z6RXFacFVEYTZnYmhJLTh3cGRZblNiVDNnSERSS0kxd0R0Wl9qZGczYUxDMGV0RkRWOGl5UURKUV94UmdIOERZWFN3Um5CNUZqMnhmU2Nid20yc0lEekFDWm
+
+---
+
+### A Complete Guide To Unitree Robotics’ 2026 IPO, Why It Matters For STAR Market ETF KSTR & Humanoid Robotics ETF KOID - KraneShares
 
 **发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMitwFBVV95cUxPVW80dzFwUUxmRlhobEZtbHhKNFRJWS1LZ0VXeWVNb01CMFhURkhnYjVhaThjYkFvT1dPWVcyRzl2dG51YnBUM0N2cEVwMnhFZld3LW8tS2twcVo2U2xoYTFxSXBIbmFMYzhsbEY1cDA2V2loRlZCTXllVUFxRElVTDZxMDhUUkdxRURLTm5ldTNpenNIVmExaElVZmY3ZnVkT2toWWxFNTE4WXA0NzlSV0haRk9XY1k?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdElMZWxzU2RQeU5iYk9iajNrRUxHd3FZX1hXVzN5MzF1akY5bjdxNFBqT2UtODh3NHJ3WkVRLTNsbE1SX1NOTnUySFc5RnRHaU1vSTFjUWdwVGJrSFk1MThWNGRwdkJ5SVp4RjNR?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMitwFBVV95cUxPVW80dzFwUUxmRlhobEZtbHhKNFRJWS1LZ0VXeWVNb01CMFhURkhnYjVhaThjYkFvT1dPWVcyRzl2dG51YnBUM0N2cEVwMnhFZld3LW8tS2twcVo2U2xoYTFxSXBIbmFMYzhsbEY1cD
-
----
-
-### Research Insight: Unitree IPO reveals humanoid robot commercialization still in early innings - digitimes
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVNJemt1SE1WRmxBb2thNFJZVWNBbWZKcm9lWjJtYWM3UUh5VUc2MGlxdlRLSTZQOUlHcGVGOFZyWkdlM0IxUmxjcDNIbnJMMFg4NWhYSUx1eGxyRi12ZnB4OW5sdGxLN3RoUFdkai16WjliZ0pocWRKRXhwcnJwVUlaQ1lZVV9iWE5RUTBkSEx5ZFJ6?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVNJemt1SE1WRmxBb2thNFJZVWNBbWZKcm9lWjJtYWM3UUh5VUc2MGlxdlRLSTZQOUlHcGVGOFZyWkdlM0IxUmxjcDNIbnJMMFg4NWhYSUx1eGxyRi12ZnB4OW5sdGxLN3RoUFdkai
+<a href="https://news.google.com/rss/articles/CBMi0wFBVV95cUxOS3dYb3NzZTFhbHJGZ2pQb1NYMXBfcERxTXlsanhNa1g1aFRHREZiSUVtUkw0YTBMa0ZrVUlNLWtkYS1YMTlzRVFWQ1pHRVhmaFdSVHc3TWJKWkdYV3ZqeUpRTG5HZ25ZMWRNOWtkdE
 
 ---
 
-### Chinese humanoid robot maker Unitree to list in Shanghai on August 19 - The Economic Times
+### Expectations high for Unitree Robotics IPO - China Daily
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE5zRUdIdUZOYVBnaU9kWEhuZWNNZnZRanlqUmlYelRyekpvcG1RdXNHdFFhVldZVG1lWjRyUC1PVV9ROXR4NFdhQ1VtT3RNaVJCQklLREpzRHB1UlBfLTAtbTVRdzFwXzM4N3phVjdIdnRMdDhfSnlIenI4RnNPdw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE5zRUdIdUZOYVBnaU9kWEhuZWNNZnZRanlqUmlYelRyekpvcG1RdXNHdFFhVldZVG1lWjRyUC1PVV9ROXR4NFdhQ1VtT3RNaVJCQklLREpzRHB1UlBfLTAtbTVRdzFwXzM4N3phVjdIdn
+
+---
+
+### Unitree set for STAR Market debut Wednesday, may reshape humanoid robot valuations as DeepSeek participates in strategic placement - Global Times
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xRXVJbUxlT29WdzVhaDFtMVVkZkR2ZVlaT0dEUWFCSF9WZFZrdm5KalVTM0g0M3FLSTNUMjlpZWJrbmtzalhYNFhxa1E5TkZwSE9jdFA0aXZuM1loREJBcXpB?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5xRXVJbUxlT29WdzVhaDFtMVVkZkR2ZVlaT0dEUWFCSF9WZFZrdm5KalVTM0g0M3FLSTNUMjlpZWJrbmtzalhYNFhxa1E5TkZwSE9jdFA0aXZuM1loREJBcXpB?oc=5" target="_bl
+
+---
+
+### Shares in humanoids on sale tomorrow - Electronics Weekly
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFotZGNtSV83S0NJSks3RTF0bXRZWDFad0VVVE1ieXNuX3RuSFdYX0JZNnBwTXg5UDlMdVdrRHptSEtDZlk2c2ZwSXJZWTd5SVVRQk9kNm5Rel94Nm0zWmo1VDNWTGdpd1VrU2paVUtpNTREXzQ1b2dhUWt1TzNWYkk3WDFXTC1qckZ0aS1NNENTY19IZ29NMGdQektlU2JH?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxPTFotZGNtSV83S0NJSks3RTF0bXRZWDFad0VVVE1ieXNuX3RuSFdYX0JZNnBwTXg5UDlMdVdrRHptSEtDZlk2c2ZwSXJZWTd5SVVRQk9kNm5Rel94Nm0zWmo1VDNWTGdpd1VrU2paVU
+
+---
+
+### Unitree Crypto Futures Indicate More Than 300% Debut Pop - Bloomberg.com
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTBWaG40V1FyajFzdVlXRmhZS29sT0R0TWFJMk9OWDBkQWJxelZIZThmeU1hT2RVWnI2UHpPcVQ4TkRsVUotZjQ3eDFoc2VfUGRjU0d2QlBBVWFyWm1nWXMtRWtZZWpVNzZpYV9WOGRLeFlOeGo1bWEzTEZ0dzZLSE5BVW4taEN4RG1MUDJfaHI1RkU3WDY2NG9vdmlpaFVva3hncFVLcnA2QQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxNZTBWaG40V1FyajFzdVlXRmhZS29sT0R0TWFJMk9OWDBkQWJxelZIZThmeU1hT2RVWnI2UHpPcVQ4TkRsVUotZjQ3eDFoc2VfUGRjU0d2QlBBVWFyWm1nWXMtRWtZZWpVNzZpYV9WOG
+
+---
+
+### Unitree Raises $905 Million in Oversubscribed IPO as China Bets on Humanoid Robots - Межа. Новини України.
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUXlDdmVHVTBXZVlwR3BMRWJ0M0FkRUNvQXBxNDFfMjhKVndNRWZvdjZJbWZEMC0xWFBDeG44bkxwak1PTXhmVDMxQmJhQjhSaVJ6b0g3clNGLTNtRm9FVHllYUlrZGFM?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiaEFVX3lxTE5hUXlDdmVHVTBXZVlwR3BMRWJ0M0FkRUNvQXBxNDFfMjhKVndNRWZvdjZJbWZEMC0xWFBDeG44bkxwak1PTXhmVDMxQmJhQjhSaVJ6b0g3clNGLTNtRm9FVHllYUlrZGFM?oc=5" tar
+
+---
+
+### Unitree Robotics to debut on STAR market, focusing on humanoid and quadruped robots - China Daily Global Edition
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxOVktKV0xpNUVBOXRXZ1NCbE1tVWFqSHl4eTRXOXBJWjBvREdTM1pCZkNrUUxRM1N6WWFxSHNBZHUxUnBqRG1JcWZOVmtQNjFYWWxsSkkwajlNbFRMRnhnNHg2bkc4SnM0dE1pRnVfWEQyM1plQUVrNjhEZU5JMktuTHZR?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOVktKV0xpNUVBOXRXZ1NCbE1tVWFqSHl4eTRXOXBJWjBvREdTM1pCZkNrUUxRM1N6WWFxSHNBZHUxUnBqRG1JcWZOVmtQNjFYWWxsSkkwajlNbFRMRnhnNHg2bkc4SnM0dE1pRnVfWE
+
+---
+
+### Newly launched Unitree robot can run faster than Usain Bolt: Here’s what makes it different - WION
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS3V0TDJXaFBRdWxkNjF1SHZnX0hGYjc1MlFnZ0J5X05rdWdTQmhkQ2J5R1BXaEtsWjFHX05XdXd6cllLNXMxbkNzV1hxT3NodnJzdG9USXFRTkpHX05yeWNSOVFGamMzRGZybVRpa2twLWpkQjVNd0w3dVVuNndKMHoyUlNjRDdtczdtaG5yN2dxZEV4UzhCUU9vT3RQZm4tZDUtRGU1bTdjM0t1d25Zc1dlTDJ0YWxSbjh5ZlpJaWhxY2FVLVZjakhJd1JWbGhpTTRXWjNn0gHbAUFVX3lxTE5DQkR3M0pPV1Fqa2l0VHkwRmhRT2oteU5qNGpCZjZIQ1dnTHFzTWY5TUNmQkEzWm5vMzY4aUxHVG80SXlsQnJoLTU0OWFlOHgwVFdBSDZoZlMxUnBLN29rWWoxdkVaUzl6VFVQZmk5aVIwQmp0ODg1eXBDOXhtRGpneFM4a1FzWE1tcVc0RHlFbngzVUdadGxjX1VzbHhiaGd0UW9CVWJCekppeGRpTzNCSzBqaFlTazlicXdDNkpqeHJPMl9hVWpOdFBzNXNxUGpnaWpUMC1scVZlcw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMi1gFBVV95cUxOS3V0TDJXaFBRdWxkNjF1SHZnX0hGYjc1MlFnZ0J5X05rdWdTQmhkQ2J5R1BXaEtsWjFHX05XdXd6cllLNXMxbkNzV1hxT3NodnJzdG9USXFRTkpHX05yeWNSOVFGamMzRGZybVRpa2
+
+---
+
+### Unitree says its new humanoid reaches 12.66 m/s and jumps 2 meters - TechNode
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEg5dnZMY1FrSFlaYzVIX2pJcE5peWo3THc4QklzbXB4OXR5MmN2RXJPTXRaVHBsbnF0VnNENEU4R0pKYlpiclliSFdyZkFZejFmNkJmVEk2eWZ1bmdtNDhiUzZLRnRrOHduMVg1aU5HUTFscUItUmduWVk1QjV0UlE3TGZhYjBYdXdxQkFVQnd0Q0lzZ0dJcElIX1h5ZmxR?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOdEg5dnZMY1FrSFlaYzVIX2pJcE5peWo3THc4QklzbXB4OXR5MmN2RXJPTXRaVHBsbnF0VnNENEU4R0pKYlpiclliSFdyZkFZejFmNkJmVEk2eWZ1bmdtNDhiUzZLRnRrOHduMVg1aU
+
+---
+
+### Unitree Robotics Confirmed STAR Market Listing on Qixi Festival - Official Announcement Details - 36Kr
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE83aDdWX3YwODJPQl9LN1pBXzRZYmptcUdHWW5QYkExTFowUVdsYU9QTUFEQU1MTmVZYk9qSUd2WVIxX0p3cE40SzRYNnd0ZTA5SGE0?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE83aDdWX3YwODJPQl9LN1pBXzRZYmptcUdHWW5QYkExTFowUVdsYU9QTUFEQU1MTmVZYk9qSUd2WVIxX0p3cE40SzRYNnd0ZTA5SGE0?oc=5" target="_blank">Unitree Robotic
+
+---
+
+### Faster than Usain Bolt? China’s Unitree unveils ‘Superman’ robot - AFR
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFgtQlRzNXA5c1FicHhrZVlhTWFTVVdFZ0NLaUpIU01OaGx0c3RiVzk1NnlINGdmR3EtaTNoVU56a1RoUGRlZTNDV3JYWGgxSGxDNXJUaE4xOFltU29pc1B1ZUZVZ3RvRFEwdFV4RXFHcjhmbGdVdjVMb3lkOHRrWXJzV1JBU2k5N3NQY3F3bmxEZ1lBelU0TzJsODRROTZVYWl5WVczOTdCM2tG?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxPbFgtQlRzNXA5c1FicHhrZVlhTWFTVVdFZ0NLaUpIU01OaGx0c3RiVzk1NnlINGdmR3EtaTNoVU56a1RoUGRlZTNDV3JYWGgxSGxDNXJUaE4xOFltU29pc1B1ZUZVZ3RvRFEwdFV4RX
+
+---
+
+### Unitree shows off its new Superman robot that it says can outrun Usain Bolt and jump 6.5 feet - TechSpot
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXdjSDFPS3JoXzlWWHdMRDJQV0FEVjFfSHo2aFIyTDhHNGtzUVo0ejBwdldQZkt1SnY5M1QtRUZSMzR0ckJrelNhVzNZeWZEajlwQVVRNEJDMWtJbENPRXE3M2VmQUMzcGVhZVVTbUVtOUI3dGVTcmptYWhRSmRaa0J1SzNQbG41aUMxQU5zSXk2YW8?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxOVXdjSDFPS3JoXzlWWHdMRDJQV0FEVjFfSHo2aFIyTDhHNGtzUVo0ejBwdldQZkt1SnY5M1QtRUZSMzR0ckJrelNhVzNZeWZEajlwQVVRNEJDMWtJbENPRXE3M2VmQUMzcGVhZVVTbU
+
+---
+
+### Robot maker Unitree sets date for Shanghai listing - Mobile World Live
 
 **发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi0AJBVV95cUxPWi1xbXlReHBUNl84ZEJheG1OVGNHZ2NCZF8yN0QwdWoxYWl4dXFoMkE5ZndXMzAwdVpiWXNvcHFEWkhHNC13RmNZVm9tS2pVUXBzMFhXc2l5QWZjVGtCRWMwLTBXLWx6R2dYWFNwS0NfaDBwS1oxTTZGSXN6amwtT3VSRmN2Ym1KS3JaVUUwRUxrTUE2TEY0WGdMR2MySllJMXRVeXoteDI1SUlHYXZGdENqZXZsZkM1b3hHWDd5TU83dG02cS1YN3RkajhrQnhSZVpvZEpmTjZfODYwUlg1bVFrVkhCUU1MMnBRYmpfU095cVdMVWZnSXowWUNEZm9mS2tIRjBzNk5lSWVkSXE4WmxCcDY3bDItekg4SlJaWFk3RmRKenNLNGhJNDAzS25oaldTUnN4ZHJrNzhaQnl1eUZQUXVqWnRfZTlFekEtdUvSAewBQVVfeXFMT0FoanVFcWVjYjYzVTFocDJCdmRRem55d2wwa0cxc3g4V0hYS2xpZk9zeEFkWXlwcnVhMDU4S1pnYzF0ZkRHUHQ3Q1UwM3EtVkJ0QmdSOVc2SER0cWgtWnNmLWc5X2lnbkNRNHJsMHhRLTVRUUM2R3V2M3RFMEVsdjlSaU9FSVhuZEhnU1pHaXpuVzBCUXFQS2V0TFZnYkMxVWRKTHFtWGlLbHBZLWdXU3NTTVFaR2otZVVoenFrcGxvdFNtWGl0RjVheDJtQ19uV29SLVd0eFQ2T0dBdTFYNXhSclNTLW01czFZWng?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMingFBVV95cUxObnU0Y05OVG9TRTBmQkQzRzdCRDdSWFBMQ25aSzJGLWk2QUFhQ2c2WF9GWkhCaU5STThIMGwtVUpOQzhtd1ZJUWpyOTlJZkZzaVQzTWNpQTlnazNwcFJlT0FLNmx3c1liMm5ENmtrWFM0YURLYWdHTk5lUzNHVEtJSXBMNGVhRGY0d0JlMFZuX0JQbnZxTnlZVlRrLVl0Zw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMi0AJBVV95cUxPWi1xbXlReHBUNl84ZEJheG1OVGNHZ2NCZF8yN0QwdWoxYWl4dXFoMkE5ZndXMzAwdVpiWXNvcHFEWkhHNC13RmNZVm9tS2pVUXBzMFhXc2l5QWZjVGtCRWMwLTBXLWx6R2dYWFNwS0
-
----
-
-### Unitree IPO: crypto derivatives traders on Hyperliquid price 4x upside on debut - CoinDesk
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTM2aUgycHotSkI2ZlN3Uk5kSEpLT2xuZlVCaFplLURFLVZaWG4zTy15clBaWTF2dmxERFNzeHp5eG9tdzhTcUphS0pETGhSYnFpTTJxa2dUbkV6NmJLMzA0NWo4ZmQ3SFJzbVJuazU2dVVLNzNzdmxMRFFPT19HRlV1aXNxX2NPRFk4WmJoR0dzOUxkMGFsdUZsOVczVmNIOC14TWo1Njg2MHpocFhOZDU4T0dUeGR0T3FMekhHbFVfV2VhS09J?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxQdTM2aUgycHotSkI2ZlN3Uk5kSEpLT2xuZlVCaFplLURFLVZaWG4zTy15clBaWTF2dmxERFNzeHp5eG9tdzhTcUphS0pETGhSYnFpTTJxa2dUbkV6NmJLMzA0NWo4ZmQ3SFJzbVJuaz
+<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxObnU0Y05OVG9TRTBmQkQzRzdCRDdSWFBMQ25aSzJGLWk2QUFhQ2c2WF9GWkhCaU5STThIMGwtVUpOQzhtd1ZJUWpyOTlJZkZzaVQzTWNpQTlnazNwcFJlT0FLNmx3c1liMm5ENmtrWF
 
 ---
 
-### Unitree's Superman robot claims 45.6 km/h speed — faster than Usain Bolt, unverified - Gagadget.com
+### Unitree swings to profit of 274m yuan in H1 - The Standard (HK)
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMingFBVV95cUxOVkpRdGxNc1p0aHhUejk0WERPUVFrZHJiVC0zMUk4MFNVcVVPNWlCa3VvUEJSMXVCVERlOGstNmp2d3FuM3VST1pFNURZd3dKcjZpbGZmMXJERE56eEpPV0dZZUVXTGRaN2lnVkZ1U2p4c3E2eFhzQ2ktOXQ4b1VRd2tjVFlNSHd2ZlVfUnpQTDNpZXgzNTZJeEZEOEJrUQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMingFBVV95cUxOVkpRdGxNc1p0aHhUejk0WERPUVFrZHJiVC0zMUk4MFNVcVVPNWlCa3VvUEJSMXVCVERlOGstNmp2d3FuM3VST1pFNURZd3dKcjZpbGZmMXJERE56eEpPV0dZZUVXTGRaN2lnVkZ1U2
+
+---
+
+### Chinese Robot Maker Unitree to Get Listed in Shanghai’s STAR Market Tomorrow - Electronics For You BUSINESS
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFVqbFFUajlreV9QdWFpaEFWb0xQRS1ONEo2UDVTWndYZ0o3MjlLM0dDdEE4YlZIeFc1MDRNYVpvb3p6TEQzLV9vM2V6ZGg5QnA2RkhzUUIyOFZCWlFSc2NEVzBJMmExR1FsZ3NpWWhBR1RWd1YxTDlGcFlfNWlHb3gxbGhtcmRqeWY5bHlBcVVnMm9ZdW5PZnRLOXM2NVA1SFIzMUJ0ei1xRXBCSVM0YklhTUhWQjljY3I4bkFjV1c3QQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxObFVqbFFUajlreV9QdWFpaEFWb0xQRS1ONEo2UDVTWndYZ0o3MjlLM0dDdEE4YlZIeFc1MDRNYVpvb3p6TEQzLV9vM2V6ZGg5QnA2RkhzUUIyOFZCWlFSc2NEVzBJMmExR1FsZ3NpWW
+
+---
+
+### Unitree Unveiled a Humanoid Robot Capable of Jumping 2 Meters - UA.NEWS
 
 **发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHhTWmd0X0FoTjFkN2V4ZlFZaDBjclRkaTRiU21abEoxb3poeUFuNV90aTJkTmlSaUIwQTJOZGtkdC12SU9OR0RMc0VhN0NOUnNQVDFnMzdqWkJrVk9vQTAwaTAyQmd5ZVZJWkY4a1AtZTVfRjNOeW5PaTlQLVRmaUtncnZFWGg1RllMWDhROEtpYnV4NmloQmVEa3NPQ0xDcFlqMER5SUjSAa4BQVVfeXFMT1l3eU9vWFpUN3VRZ1IzTkJSNmNUV3U0cFF4RjdkcFN0eWlBQkhhU1RWNFZaY3RKUUU5aXNZTG1BWFNXbzFZVmVFd080SXZKaXFaWTg1YmUxU1oySFg5WWp6cDlyUExCYk13VjNiZUt5SDJ5RVh5czNvTWpMb21jLUxJWEhJNkl0RC1yZmtHQzRoZkw1emFBaG5EQTlOb1JpZ0h0MzFHa2JrMkFQM2RB?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWhoY2Jtbk5jbmZPT2hTTU1mdEVid1U1NS1fWXRmbUdhMFgteUxnVDJYenk1ZmFZNGJDbnYwcnlNYm01bF9Cdm9KNk5qb0wwRFgwX2psX3ZjOGluald6d0Z2d1FIQXdPUEFhWDVUZTlsVWx2QURfZW9SYzFKalJtRUNxakdSaDI5ZmFZSzF0NFFWSmI1eXRidXRCQ296RzdHT19WcDBBaXhwZw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiqAFBVV95cUxQRHhTWmd0X0FoTjFkN2V4ZlFZaDBjclRkaTRiU21abEoxb3poeUFuNV90aTJkTmlSaUIwQTJOZGtkdC12SU9OR0RMc0VhN0NOUnNQVDFnMzdqWkJrVk9vQTAwaTAyQmd5ZVZJWkY4a1
-
----
-
-### AgiBot overtakes Unitree as China expands its lead in humanoid robots - digitimes
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDQzOG5zdWNFa1U4c0lDNzJZUmFndnQ0VU4zVU12azdIdV9jOV91Nld4RklJQS1ieXNpdDFJaS1XaFd1TmVkWnhLQlVjMGZKdHBkNHdFYTFVaktnVlJJLWJMYWhpU21acDd3LTgwMi1hYjZCMVFDbWZsbzRBNkNleDRVSmkzbUNueElN?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdDQzOG5zdWNFa1U4c0lDNzJZUmFndnQ0VU4zVU12azdIdV9jOV91Nld4RklJQS1ieXNpdDFJaS1XaFd1TmVkWnhLQlVjMGZKdHBkNHdFYTFVaktnVlJJLWJMYWhpU21acDd3LTgwMi
+<a href="https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNWhoY2Jtbk5jbmZPT2hTTU1mdEVid1U1NS1fWXRmbUdhMFgteUxnVDJYenk1ZmFZNGJDbnYwcnlNYm01bF9Cdm9KNk5qb0wwRFgwX2psX3ZjOGluald6d0Z2d1FIQXdPUEFhWDVUZT
 
 ---
 
-### Retail robots - Taipei Times
+### China built robots that can do backflips – but can they make money? - CNBC Africa
 
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE1pclI0Tk9OVWlKYUxVckMyQzBqbkM0RjgtTmZyeFJwZ0pfZkxKLUtuWWo4WHc2bVhaSllOeGNVNE5IM3o0OHhvaVhoM09VcTdZSm0xZVpLZ09qNkxTVGJ0c1pRTnZQUktLdUhmXzZWbWMzUzJRMEE?oc=5)
+**发布日期**: 2026-08-14
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHo3bk1uckdocGZud3FJT0c5eWxUY3NsdHQtYmlkc3l0X29oODdVTkVvVTA0NG1sdzkzVHhZcHNjU0l3Wkh3YmU3YkszWllnc0tkbHNDcV9GQWlTOFZRYllfN2ZVQU1xVTViM2F2SzZsVzA4OFN1ZXlVc0dZd1p1ZVJuMVkxVG9mRTg1X0l0X1J4YTNwNms4OEhXZE4?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1pclI0Tk9OVWlKYUxVckMyQzBqbkM0RjgtTmZyeFJwZ0pfZkxKLUtuWWo4WHc2bVhaSllOeGNVNE5IM3o0OHhvaVhoM09VcTdZSm0xZVpLZ09qNkxTVGJ0c1pRTnZQUktLdUhmXzZWbW
-
----
-
-### Unitree set to debut on the Shanghai Stock Exchange: China's humanoid robot IPO draws record demand - firstonline.info
-
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaVRIU2wySFRXQUpYWGNkZ1dnRXhwZ05IaEo5YnhTN25RZmo1clNMMkdsNWFfSEFWbnpXQ1RYX01pbThEUy1mVGpjbG5EU2Z3ZFBjU0h2QUtoVWdyOS13UmtDc3NHbzNHR0NDNnVHdXhKSWFLMjFucWlVa1M5VUt4NVBSNU5LZjhmX2YycGVPQXRlbE91Q3FBWDdrTTJYZ0RISGd4dFBGVkE4T0x0S3pRSk5VQzEweEROUDB0MUZaUEM5ZlFjUU9ueTg4bmpUVUh3YnllM0JtQ0YzRVJyV2JrLQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi4AFBVV95cUxOaVRIU2wySFRXQUpYWGNkZ1dnRXhwZ05IaEo5YnhTN25RZmo1clNMMkdsNWFfSEFWbnpXQ1RYX01pbThEUy1mVGpjbG5EU2Z3ZFBjU0h2QUtoVWdyOS13UmtDc3NHbzNHR0NDNnVHdX
+<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxQOHo3bk1uckdocGZud3FJT0c5eWxUY3NsdHQtYmlkc3l0X29oODdVTkVvVTA0NG1sdzkzVHhZcHNjU0l3Wkh3YmU3YkszWllnc0tkbHNDcV9GQWlTOFZRYllfN2ZVQU1xVTViM2F2Sz
 
 ---
 
-### Unitree Technology is set to go public in two days! - 富途牛牛
+### Unitree Robotics IPO Set for August 19 as Retail Demand Tops 8,000 Times - Markets.com
 
 **发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0VDWGNGTlVXeFR2X2gtZ3Q3cWFDUUF1QlF4WmcxTHJrbGJON0luaTVDZW0ybXk0ZnJEaFhuaVpLXzhma3Z5ZGwxbDJWMzMxeXRXWEVJZmtfa19hZURQZXBXa0lacnFuNS1LejgwcmRSMkd3UG5IcUxFa2xNZlIzZDdXc0tfUUcxM3ZNSVV4d1U0T3hIVFE?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMickFVX3lxTE9EN0tsdzlvT3FreXE0VHdpWGlCamtONHRvYktfSS1pcEQ5ZjhraExucjVhdXlLVTloeGdjU0xPWGRxRks2Nm9SVXR3OGFJNUJjM01LaVl4OGR6eG8xcFRnaHhnQ0hhQ2RkQjg0TTcxYjg4QQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxQc0VDWGNGTlVXeFR2X2gtZ3Q3cWFDUUF1QlF4WmcxTHJrbGJON0luaTVDZW0ybXk0ZnJEaFhuaVpLXzhma3Z5ZGwxbDJWMzMxeXRXWEVJZmtfa19hZURQZXBXa0lacnFuNS1Lejgwcm
-
----
-
-### Unitree Robotics Eyes Shanghai IPO as Hyperliquid Traders Price in Considerable Potential Upside - crowdfundinsider.com
-
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi3gFBVV95cUxQelltOGZ4MmlTZG81cFRuQXVJaXlLVW5BbHduNlpMSGctYUt1bldOcHgxeVFqMHI1VWVEb0tQbHI3N2lfTXl4X1J1Vm1hdW1yNTlyZzdFSktFOHVhRlVhTkJ0RUgta3gwNTM5SlFWMThJMXR4QmNzXzV5UVRwUVJnSWJmLTl6R2dRTHd3YkhscXFmMk9oMkVkeEd5VHMwek9DcUpqdUE5Rno1Tkh0OF9NVU42dGhFbmM2TGdMdXo2Mzl0YXEzeWZwQjdnS2ZfNFhvZkJ5SWdKcVpmbHhHUWc?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi3gFBVV95cUxQelltOGZ4MmlTZG81cFRuQXVJaXlLVW5BbHduNlpMSGctYUt1bldOcHgxeVFqMHI1VWVEb0tQbHI3N2lfTXl4X1J1Vm1hdW1yNTlyZzdFSktFOHVhRlVhTkJ0RUgta3gwNTM5SlFWMT
+<a href="https://news.google.com/rss/articles/CBMickFVX3lxTE9EN0tsdzlvT3FreXE0VHdpWGlCamtONHRvYktfSS1pcEQ5ZjhraExucjVhdXlLVTloeGdjU0xPWGRxRks2Nm9SVXR3OGFJNUJjM01LaVl4OGR6eG8xcFRnaHhnQ0hhQ2RkQjg0TTcxYj
 
 ---
 
-### Unitree’s IPO: Is 219 times earnings too high for a humanoid maker? - Disruption Banking
+### China’s Unitree unveils ‘Superman’ robot - Kuwait Times
 
-**发布日期**: 2026-08-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVNleHB2RlBxUzk5SVBhOXdCWnh5UU1BTmNORzViZUw3eFliV2pHcU1rT1pMaGtvd1FXMndjM0REREkzQ0dfVEFUeDlHVWNIYWxDb3cwS1JGaktvZ0pabUNueFIyQ3ZseFJDSE5pRmlJQVJ5MWk5VjM1b1A4aksyQ1RFdkNmQkJaalVRbFU1ZzBfTW54MzhjcEcwZjJnYVBodVNldVNxZ0xQNjc2Z2Zj?oc=5)
+**发布日期**: 2026-08-17
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMikgFBVV95cUxObTZWM1R2SmZlcU1Pd2VXQ1Q5TERDZURVMDA1VHdXS3N6SWtlbzVrTVo5dzMyR0I5MDlfZ2hUN0UwbEVRXzJDM2tEcGtFdldUa1pYcm9JVGU5Uks2Zk9tXzJ1TElrbHBCOTlETnF2QUpzZmNyNGZiRnpvSU9mRHhNSjZGMjZ5U2VtVlk1ckNfLUpoUdIBkgFBVV95cUxObTZWM1R2SmZlcU1Pd2VXQ1Q5TERDZURVMDA1VHdXS3N6SWtlbzVrTVo5dzMyR0I5MDlfZ2hUN0UwbEVRXzJDM2tEcGtFdldUa1pYcm9JVGU5Uks2Zk9tXzJ1TElrbHBCOTlETnF2QUpzZmNyNGZiRnpvSU9mRHhNSjZGMjZ5U2VtVlk1ckNfLUpoUQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMirwFBVV95cUxPNVNleHB2RlBxUzk5SVBhOXdCWnh5UU1BTmNORzViZUw3eFliV2pHcU1rT1pMaGtvd1FXMndjM0REREkzQ0dfVEFUeDlHVWNIYWxDb3cwS1JGaktvZ0pabUNueFIyQ3ZseFJDSE5pRm
-
----
-
-### Robotics Stocks Rally as Unitree's 8000X Oversubscribed IPO Draws Frenzied Demand: Ouster, Symbotic, and Teradyne in Focus - 24/7 Wall St.
-
-**发布日期**: 2026-08-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMUZQbVI5QVlFOWlZY25USWoxbVRWRFY5NzdSZFBLX3AzYmQwdnl1SXlhY1FkY2tGbEE0bHpMNHFvZy1sZjVCUkVUYUoyVExwV1cwNW1tb2F5NXJnUkVLNGl4SThGTTVaTEVDY1NnUUx5U3N4RUR6Mmo3MWZaOTQxYkVFakt3UlQtdTNINWhyVmtsM25rVkNWZkM4OGdKUm9QUjk5T2FNV1FlVXEySGs3Y0tJYlZDdmJmTEJTclZlM1BhOUxWaTA5MUMyOHZobWRWVE80RWFLNG1IU0pNOV9sYS0zNUI1cWN0QzdnSFV3em01OGVB?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMUZQbVI5QVlFOWlZY25USWoxbVRWRFY5NzdSZFBLX3AzYmQwdnl1SXlhY1FkY2tGbEE0bHpMNHFvZy1sZjVCUkVUYUoyVExwV1cwNW1tb2F5NXJnUkVLNGl4SThGTTVaTEVDY1NnUU
+<a href="https://news.google.com/rss/articles/CBMikgFBVV95cUxObTZWM1R2SmZlcU1Pd2VXQ1Q5TERDZURVMDA1VHdXS3N6SWtlbzVrTVo5dzMyR0I5MDlfZ2hUN0UwbEVRXzJDM2tEcGtFdldUa1pYcm9JVGU5Uks2Zk9tXzJ1TElrbHBCOTlETnF2QU
 
 ---
 
-### Unitree Shanghai listing tells tale of China's humanoid robots drive | Daily Sabah - Daily Sabah
+### Unitree Hits 18,000 Humanoids, Leading China's Bipedal Race: AgiBot at 7,000, UBTECH 3,000, Galbot 1,000 - Pandaily
 
-**发布日期**: 2026-08-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkZZNWtRb3g1NUdMbUVuSlBqQTk2ak5OMTFGbC1uNGViaGFyQmsxRi1icm5mcHd0Skw0c1BnSnlBTWJfS0EzV0VnT3JnQXVtdHNqWk01d1V0UGNzUlFWVmJBRXBCbjBHbk5JTjZweTJPS2lYY2J6RmtwYmpkRUNRcXhHeFBjM19ETkhvMFNfWWVSSDNOSTc2YjN4U1BjRGg5R0tyYjVBeGRvdmhY0gGyAUFVX3lxTFBmay0zaGwzWmt2MWRQMG40akExakpmR3Z2TW1Jb2l0QzE2TU16RFFQbzN2aVZrQWhEaFJObkdEYWlsV00wTU5MeHFhMGNvYzJOQWVHY0pwdlZwRUpGelFBaG5Gb202d3hfYU9CX2VNdWc1ZjVMb2J5dHJDRjdqSzFOdlRqdHJmT05WWU41NlV1RkRtVFhZZzBTVWFSSjFDWERicUxCSTlHanNWRTAyR1diVkE?oc=5)
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMioAFBVV95cUxOTENuOUJiUDc1eDQ4RUZZMW5SOXpOYmVpUmdXc2lXcTRaZXRYWnJCQlFZZzNmXzlUQUFZeUNkZWFmZU5nOTNNR2Z4ajh0YU5veU43MVhabEZEZGF5eFhMcVRkS0RHQzE3emlpV1hvc3FkcjNwekpoejltNkxpZEhsaVJXNld2Y2lSb3lpM09DZDAtZnd1Z3Y3X2I5SXFxaFMt?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMirAFBVV95cUxNbkZZNWtRb3g1NUdMbUVuSlBqQTk2ak5OMTFGbC1uNGViaGFyQmsxRi1icm5mcHd0Skw0c1BnSnlBTWJfS0EzV0VnT3JnQXVtdHNqWk01d1V0UGNzUlFWVmJBRXBCbjBHbk5JTjZweT
-
----
-
-### Unitree prices Shanghai IPO at roughly 60.9 billion yuan valuation - MLQ.ai
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEtYWmtXLU5Ka0MyTERicFprdjVwYlVvRDhveEdMaXpYVFY5c0Z0aWdnWkhlYVVKYlVLLUd5XzdjTDdaRm9XaFJuWHFxRU1aOGplX3d2QTVIRVNQNlh0b2Z1bVhDbkhUdXY3WmxEVFZDTkhwZ2tla0ZuTmpkZkdGSnYxSk1OUEpINFZHRG9kNA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPSEtYWmtXLU5Ka0MyTERicFprdjVwYlVvRDhveEdMaXpYVFY5c0Z0aWdnWkhlYVVKYlVLLUd5XzdjTDdaRm9XaFJuWHFxRU1aOGplX3d2QTVIRVNQNlh0b2Z1bVhDbkhUdXY3WmxEVF
-
----
-
-### 2,056 Humanoid Robots From 16 Countries Head to Beijing for World Robot Games - eWeek
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3B3RkhsMFRfUXJoaUlneFNVcVFqVURWdDg4ZDNKVERIYUhPQ1FZZndwV3hDbEc1ZER1a2ZiaE9QWjk4UFVkY3BOM2xtSFNCWjVTcVlwVFczQmxCWDlReGowV2t6Wk1rSlFpdGpWdzk5TVhSUGFmcU42d1BQQU9NU2dQZERSUQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMihgFBVV95cUxQd3B3RkhsMFRfUXJoaUlneFNVcVFqVURWdDg4ZDNKVERIYUhPQ1FZZndwV3hDbEc1ZER1a2ZiaE9QWjk4UFVkY3BOM2xtSFNCWjVTcVlwVFczQmxCWDlReGowV2t6Wk1rSlFpdGpWdz
-
----
-
-### Earn 350,000 Yuan From One Single IPO Share Allotment? Behind Unitree Robotics' IPO Frenzy: Wang Xingxing Faces "Are You a Remote-Controlled Toy Company?" Question - 36Kr
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUjZBY3A3bEszSHVYSy1ZcU0zYW9BTjM1ZFJqX29BQ25HRFdnWmNCTi1Qc20zN05neTREZS1Ncy1hbEEzN2NLc1lvU1ZSRHBFaEFz?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE9qUjZBY3A3bEszSHVYSy1ZcU0zYW9BTjM1ZFJqX29BQ25HRFdnWmNCTi1Qc20zN05neTREZS1Ncy1hbEEzN2NLc1lvU1ZSRHBFaEFz?oc=5" target="_blank">Earn 350,000 Yu
-
----
-
-### Agibot Overtakes Unitree as Global Humanoid Robot Leader - moomoo.com
-
-**发布日期**: 2026-08-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMizgFBVV95cUxPSHh0UnBmUzN5WkVHcExYZnBUaV9ZdmRsejZ3ZF83bzFRTjAwakFkbWN3THRZYmkyakNOS2xVZ0ZPZGFaZXY5aXdNZXlfNFdacmVUOFNKME9YMFd1dS1ablI4STVzR1J5R0FTUzN3c0tkeUxkamVnS083ZXVpNU1WM0E0aGNRU0liX0dycGFTcDFvZFNGUmdRVmIzbU4wU0JWX3huLVJuSXJyeHJKU3VFZmtwaXM0U05tMGY5T3UxRFlVTGJEZHJtUWdzczB5UQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMizgFBVV95cUxPSHh0UnBmUzN5WkVHcExYZnBUaV9ZdmRsejZ3ZF83bzFRTjAwakFkbWN3THRZYmkyakNOS2xVZ0ZPZGFaZXY5aXdNZXlfNFdacmVUOFNKME9YMFd1dS1ablI4STVzR1J5R0FTUzN3c0
-
----
-
-### Unitree IPO: China’s humanoid robot starset for potentially explosive Shanghai debut - The Economic Times
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi8AFBVV95cUxNemxQeER4NUYwSkk5Wmw0ZVZWQUI4UlpvdmtvbDdTMlJrMWd6R0pPbElGSnM1bGJwUTUxaHB2dVZsMXpHQTYtSmlDMFRVbFhRbUkxeDQtMktWb0N0WGdNQ0VJc1pndlc1cDU0RXVhSnd0T0RfWHp5SkFNTXRRNHF0TWV6alNUV0NEQy01OEI1VjVaSmphYnZvVWZzNFhmRU9UbkUzcVo0bDg2a3JWOEhKQVIzT2hxcENmYjNsTlJidXZkd045VllvVzN5VjV4YkN4VDJJVDRKRUp0N1VKdlctWnZaeUkyNFBNQ182c2cta1PSAfYBQVVfeXFMTThEWVJSaUhYR0RhdDBIZ2tEVmVMR29hTVhSMm1Vb3N2bEx5Zk5Mb3hnZHp3YkFWWDRTYlVUMDZLVDQwVTFpN3J1TXl4OGktWm5SczZmV2NTdE14b1FocF81UTdGOUVVWnhRbVhoMm5NTTZyWlhoWU9IaHducnBya0pGeTZFU1g1dXhYbVFDYURpQUlORUxLV2xsQU9zMDR5WDgwOFhQSlR4UUU1c2pndjlqMGgyS0haS2hCTmZNZFFvdXVIeDd6OFdaeGlGSjg5SmZReTNKMVAyUEdtZzIxM2RNTHBiVHJxbEtlX3JxSjdhME0xckV3?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi8AFBVV95cUxNemxQeER4NUYwSkk5Wmw0ZVZWQUI4UlpvdmtvbDdTMlJrMWd6R0pPbElGSnM1bGJwUTUxaHB2dVZsMXpHQTYtSmlDMFRVbFhRbUkxeDQtMktWb0N0WGdNQ0VJc1pndlc1cDU0RXVhSn
+<a href="https://news.google.com/rss/articles/CBMioAFBVV95cUxOTENuOUJiUDc1eDQ4RUZZMW5SOXpOYmVpUmdXc2lXcTRaZXRYWnJCQlFZZzNmXzlUQUFZeUNkZWFmZU5nOTNNR2Z4ajh0YU5veU43MVhabEZEZGF5eFhMcVRkS0RHQzE3emlpV1hvc3
 
 ---
 
 ## 优必选
 
-### 押注情感陪伴路线？优必选张钜：人形机器人一定会成为家庭成员之一 - finance.sina.com.cn
+### 押注情感陪伴路线？优必选张钜：人形机器人一定会成为家庭成员之一 - 新浪财经
 
 **发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi8gJBVV95cUxORUt3dllENmFmbm96a3phTllwbnN1cWRoalBEY1FTS3pCdEwxN1d5X3MxT3h5X0RCZGZuVVhrVm5zM243YjBmR0hPSkNkUERTeVQwaXdUTmEzTnJCMll1WFdPZG9LSWVZaDcxbmhzLVd3enhaQnU1T0w3dHA3aGtCazVZR0ZPR0xjeVNGdEoxaURoYUQyaDdvV1QzUVplZ243cFlQX2FzYVhSNlFkbXZQY1o3aWF2UXozemVYSk5ZQURESms4SWtHT1luRGhfR18yQjZXaVdibE1FbTk2ZnVKSDIzelp6a09VVG5jYkl4YVF4dld2UjcxQjZDc1BhVE5MUzFacUdOb2N2N09MNXJiMmVrNFFhR0xYbEVYMTRlaV9FcUNNYTVLUy14eGl3TWpWZE0yaFJwZmJTTFhKaGN6QlFMZmNrbmkxMUQtLTlrQUUwQ3JCSmI1ZFlkVlluUlo0T2VUTDhSa3ltbzhvWTZNUUpn?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMikwRBVV95cUxNOVRiYVk3Z3N3ek9KOTJOVlNWWnBzU251YTJRNXQ3SGVBN185VncyLXFHY3ZzeldIR1pyazQ0bkZ3Slk1YjY3ZEtBeV9taUx1VUdJN1NRcE5NLVFRbWFaY2QyQms2WURvLW5BNzVUcXl2RUZMWnhoQlcxdnVmbzZrUFFHcXNSSWdKZHd5U044UEJCZ1pOVENSVnpueWNVWTM4UXoxLVlRRmhIUWNPaU9id2JuRXI3RjVnX3BENWRWSkJXcllvQmw5SlJwTWszV0l1SjJrOGRjSHhvbUYwbzMwcWhTUjZ4dDZJVjJ2T0VPa3duMWg3LXhVaDZROVZzV3J2bm91RzE3akpMNXg0cHEydU9RalB1aUh0WjJUdS0zaDFrRjN6N1VyZmx3WG9MQ2hNVThwOTdrenhVTGpLTTRac2F6Tlk3eDctWmxpY3pwZ25UdFlSLVFNRjM0TDl1d1owUm5DaUR0eTRzMllySkx3c1dMNWdndU9GVnZMdnV2OGhPYlpJVVJuYkNVV1Z3TnJyQnpoUWVfT2N4MDdBZDhSQ2NGejZCUkhHWnh2blR5dFNrZE0tcE1zanpmV0NtVGhxblZuU1NyNFBKbm1LWVNzeklFNTBNWDRVaTFpXzFJampRbFBGQnpCMTBMWDM4ZmwzbkhOaU5OLWhfbUY3bkJKZERJY0E3SnNLZ25zbUZ4MGtGd2c?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMi8gJBVV95cUxORUt3dllENmFmbm96a3phTllwbnN1cWRoalBEY1FTS3pCdEwxN1d5X3MxT3h5X0RCZGZuVVhrVm5zM243YjBmR0hPSkNkUERTeVQwaXdUTmEzTnJCMll1WFdPZG9LSWVZaDcxbmhzLV
-
----
-
-### 2026 世界机器人大会展位图揭晓：宇树优必选等参展 - 搜狐网
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjVxekpLU1hFRWxUaDNOejF6ZER0Y2ktSXlZWUZybGN1NFR6bDl3c3JkYXFCbjRIZVB4OUxMS29KeFlkSm5pOVlWRW81Wm8yeWhqQVFETEpKRFNsTWZpMHotbC1JRkg4SUh5U0w0MEE2QVpwWVJIY1JVbGp6NU1rWXhNRWhRU1IwR0FVeA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPZjVxekpLU1hFRWxUaDNOejF6ZER0Y2ktSXlZWUZybGN1NFR6bDl3c3JkYXFCbjRIZVB4OUxMS29KeFlkSm5pOVlWRW81Wm8yeWhqQVFETEpKRFNsTWZpMHotbC1JRkg4SUh5U0w0ME
+<a href="https://news.google.com/rss/articles/CBMikwRBVV95cUxNOVRiYVk3Z3N3ek9KOTJOVlNWWnBzU251YTJRNXQ3SGVBN185VncyLXFHY3ZzeldIR1pyazQ0bkZ3Slk1YjY3ZEtBeV9taUx1VUdJN1NRcE5NLVFRbWFaY2QyQms2WURvLW5BNzVUcX
 
 ---
 
-### 优必选午后涨超13% 优世界U1订单全渠道已突破万台 - finance.sina.com.cn
+### 优必选午后涨超13% 优世界U1订单全渠道已突破万台 - 新浪财经
 
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMikANBVV95cUxNRU9QWjVmQnRYNDdCVmxsZm52STZQWlNrZ0Z1QWhfNXFpTC15QzZYM3Y1MG54Q1FQdjFiSXlMaVdtdHl4UGIzZUhGQ0dQSWt2NGx6TTZlLURQbXlVbHc4MmJRZmdHS0tGaWVud2llNjB0OW1jX0dCd2VNTkQ3OXR6YXNHNmlaOWo5Q2oxeFdwTV9DNENDVGRvZmtpXzVRRDJXN25BbVJwOGVHYUJtblE4SWYxOThTLW5MT3RzdTNxUmw1TzIxUjdCZDhzVFR0VUk0OGEwTjcwSDl2ZzlLVjM3WnFDdGtxVWhmZVVkeEhGWGZhTXhZb2dUaTA5UHJ2dVVhMGlveVVwR2NlT2gyVnc5X0ZOVE9KazUwLWNzcTFtZ1puUkJYbkFFWkE2bkFTcU1iS25BMU4tZFV3UTloU3VwQ1E5VDFVNHZSaV82ZTFyTm9YUkxYSTJVMnI5YzVtcDBVLWQ2My1OSHFoTGNUZTJ3N0lfeXhDSF9hc0NXM3pmTnlIRWtTWjBWTlN6d0MyYUxH?oc=5)
+**发布日期**: 2026-08-16
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi5gRBVV95cUxONXlYWTdOSmctdmhMV1BWbXZ4SWVMUlJySE84NXBaQWFiOGdKRkFWY1RFTlF5MXR0WFg5NE12VEZuVS0wMmVFd0QxZEUwU2RJdHhpdElaQUVVMXBRVzRqSXZPYmhTdWJNSmN5WVREMndqYXZ0X1plZ3NGLUhOUk1tajdjR2Y2RjJjOTVQNWJ2Z1pmRFJ5akY3bmI2cGZHTGsyQkhRN1U4UHBFTUM3QXhlckNJZi1abGt1aF93eEkxRjNIaXR0N2xGZzNyajhNamdEZjNPbF9hd01JclZDV0JpT0Rhb09nZlNHd3ZRSEJjel8yNEt1VjJ3bE5lUW10aE5GWUZ2cERMa3owUmNVRko2cS1ISjdpMHRXUkxYYnBpRUs5WEVodkFLZGJkMmREblBOWGhLSWlQWXdVX0dMLUxZeE1lNGhuSDUtX2JZYXNqUjd1TnA1WEJTcXdpVE1DSUJNYXI3SUtWUGh2T1F2N0NHX3NSc2xxZHJnRlJBRi0tWklmVzhQZ09XZU1VOVlwRjNLNE95Q0VWOVhqUHYyd3NReVpvN3ZzWTg2OG1kWTQxUVJOVGtIeFNzNWJqbGlhSXdUZE9DSjhwUXBSYWFBci0wWW1iRzJKZkNvZlFlRzFKbVplRUhKdHlKaWhCYW5scFI3MWlTTkVzSkxockFXZFZPU1phNEkxSmtvcEFpX2xJaXlxbk9FbnF2eWF6WVV3WF8zdUtrcFFoNDRkM0RRQVcweFNiU0FoZzQ2S01ndS1GM29oN3I2TXBHbjBXVHEybUJjUVl1czVydWRYTXN3emVGRXpuTy1HUQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMikANBVV95cUxNRU9QWjVmQnRYNDdCVmxsZm52STZQWlNrZ0Z1QWhfNXFpTC15QzZYM3Y1MG54Q1FQdjFiSXlMaVdtdHl4UGIzZUhGQ0dQSWt2NGx6TTZlLURQbXlVbHc4MmJRZmdHS0tGaWVud2llNj
-
----
-
-### 人形机器人，前店后厂 - finance.sina.com.cn
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE1MS3hjZ2RaS1lUNlN1TjM5cDNUSUc0d3c1ZERBMlc3UnVybzg3S1dUNTVxQTVTU1Y0ZlhWNmRHaFQ0RXpCeGt1N295bDlmcmQyTUZFVDFjcTZfTnZrQ3JVR21pT3RUMkJNM1pUcDRpMUpuMEJ5YmthMQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE1MS3hjZ2RaS1lUNlN1TjM5cDNUSUc0d3c1ZERBMlc3UnVybzg3S1dUNTVxQTVTU1Y0ZlhWNmRHaFQ0RXpCeGt1N295bDlmcmQyTUZFVDFjcTZfTnZrQ3JVR21pT3RUMkJNM1pUcDRpMU
-
----
-
-### 2026上半年人形机器人TOP5：国产厂商包揽前五，智元、宇树形成双寡头 - 搜狐网
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkQtMUhuUHJpUTlpVUFiMl9wSFFDTTdEOE9LWTdVOTdTX0hSNmpsbkU4QXRjSTJpWmhYMVA0MEMxM0dma0pWS2dSYU9iX0paSG8xUE5LYUFSQ0NvVVlINU1ZamJoZmlJNmEyR1c2aVF3UmIydGdIa3ZhdndTMTJrU091ckJDMjBqSFQ0ag?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkQtMUhuUHJpUTlpVUFiMl9wSFFDTTdEOE9LWTdVOTdTX0hSNmpsbkU4QXRjSTJpWmhYMVA0MEMxM0dma0pWS2dSYU9iX0paSG8xUE5LYUFSQ0NvVVlINU1ZamJoZmlJNmEyR1c2aV
+<a href="https://news.google.com/rss/articles/CBMi5gRBVV95cUxONXlYWTdOSmctdmhMV1BWbXZ4SWVMUlJySE84NXBaQWFiOGdKRkFWY1RFTlF5MXR0WFg5NE12VEZuVS0wMmVFd0QxZEUwU2RJdHhpdElaQUVVMXBRVzRqSXZPYmhTdWJNSmN5WVREMn
 
 ---
 
 ## 小米机器人
 
-### Seeds | 配套智元、小米机器人等，蓝点触控获数亿元融资| 盖世汽车 - en.gasgoo.com
+### 小米MiMo-V2.5周调用量登顶OpenRouter 达10.5万亿Token - 观点网
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ueWJIQWpOdE1KYVFlNXc1TUVTTTRUdE12RnVxMVVpUTB2cWRobG5udTU4TWtzdFNxb0g1RWc3X29sNGllM1pEUjdTb0pEdw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiTkFVX3lxTE1ueWJIQWpOdE1KYVFlNXc1TUVTTTRUdE12RnVxMVVpUTB2cWRobG5udTU4TWtzdFNxb0g1RWc3X29sNGllM1pEUjdTb0pEdw?oc=5" target="_blank">小米MiMo-V2.5周调用量登顶Open
+
+---
+
+### 小米业绩公布：单季营收1089亿，汽车销量增长28% - 证券时报
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yTjY3MDM1R0FCR2hibklqalRsNUFJLUl6bWFCRjQwVFBtVU1mbXBnVml0TjNTZ3hFemRnOGhLRXRFc2NWYVdFb2d0dnhMUjNyN01KWFc5TDdvUmtv?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE8yTjY3MDM1R0FCR2hibklqalRsNUFJLUl6bWFCRjQwVFBtVU1mbXBnVml0TjNTZ3hFemRnOGhLRXRFc2NWYVdFb2d0dnhMUjNyN01KWFc5TDdvUmtv?oc=5" target="_blank">小米业
+
+---
+
+### 小米AI业务首次贡献10亿元收入，未来会如何增长？ - 手机新浪网
+
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNGhLclZQZm83b2F5MEFGV0MxejhrLWgwZmN4aWE1U1FMdUE4ZXBMWlFmUEgtV0NyTU1ZYTJsRmpDLVpjMS03Vm9ieW0zaElVY09fVkNfdUsxdFlTalRsdHp2bkkyZUdZRlRyOWJaYXg4S214OFJKQ1U5bllBYm8?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNGhLclZQZm83b2F5MEFGV0MxejhrLWgwZmN4aWE1U1FMdUE4ZXBMWlFmUEgtV0NyTU1ZYTJsRmpDLVpjMS03Vm9ieW0zaElVY09fVkNfdUsxdFlTalRsdHp2bkkyZUdZRlRyOWJaYX
+
+---
+
+### 小米扫地机器人怎么选？从5C到6 Max价格参数全拆解+FAQ - 新浪财经
 
 **发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR0p2UFJXbnpSOGVFOHlFZ0JJZnlqNi1yVms4d0FpZnZLSmx6RXBCZEhCTHU4UnBlMDYzYThoSnZaYUZlWHYtczNFeGhXSlZfSDdsX0dFXzZJY3N2VEhnbk9PRXd1cUI0MzYteUlaTGVJRG1YZk1ROXhOU1g0V1BreGNoazFrakVVNDZqXzBvQ2xLNmpRVnJJWno3UndOSVVmUGh6REtoWUZ4d1k5YUZJLUhLNEpiYkdnZkFvQW0wR3RCcUkwRXNjVXN1MG82UGJpNjgxRDU0bnI?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDc4djE1U0QwS21PTl9DeFNxMGFXaDFBa25MREdzSzI0ZW1WcHlMYTVvaG1WcnNTaHNYNHl4UzJjQ29xMkZQR240WXNGZm9ETXFFYVN0MEk1OFdHQmVzQUNVa1RhSmluLVNQMUhaNHZCcDVWbVVnbW93VE9sR2hhQ0haWmg?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMi2AFBVV95cUxNR0p2UFJXbnpSOGVFOHlFZ0JJZnlqNi1yVms4d0FpZnZLSmx6RXBCZEhCTHU4UnBlMDYzYThoSnZaYUZlWHYtczNFeGhXSlZfSDdsX0dFXzZJY3N2VEhnbk9PRXd1cUI0MzYteUlaTG
-
----
-
-### 雷军挖走字节一员大将|字节跳动|小米科技|周受资|张一鸣|小米_手机新浪网 - finance.sina.com.cn
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2VmYk9iVHQwaUJUbnVhLThRak1Pd1RnX0tZc29QVGhJbWlmaUxZZzhyWjlIVjVhRW5xalo3aGJfbmtaSmhwbzNIcHVXelotQ2FzTll0ZEEzWXR5MXhVMEhOMktxdzRVb211OTRoVFZ2cmhuSk0tcElvemszaTRXRVozUmxvc0ZnNWgyLXZPeEhPb2FybW9XclFGajNndUc4dlkzSDZnNmd2eU1ST3NGaUJTTGpZN3lYU3dtWi0tYmtuVHBRbVZFSms3ZzYyVERmY2JYeFZrc2NhQzZIdHNlR2JoZDU?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi5AFBVV95cUxOc2VmYk9iVHQwaUJUbnVhLThRak1Pd1RnX0tZc29QVGhJbWlmaUxZZzhyWjlIVjVhRW5xalo3aGJfbmtaSmhwbzNIcHVXelotQ2FzTll0ZEEzWXR5MXhVMEhOMktxdzRVb211OTRoVF
+<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNUDc4djE1U0QwS21PTl9DeFNxMGFXaDFBa25MREdzSzI0ZW1WcHlMYTVvaG1WcnNTaHNYNHl4UzJjQ29xMkZQR240WXNGZm9ETXFFYVN0MEk1OFdHQmVzQUNVa1RhSmluLVNQMUhaNH
 
 ---
 
-### 小米扫地机器人怎么选？从5C到6 Max价格参数全拆解+FAQ - cj.sina.com.cn
+### 小米SU7销量创新高，荣耀机器人手机秒没，vivo要发新机 - 搜狐网
 
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGphYTN2NkFsZUw4YUNEczEtZUdsNEhaNEY5X3FueEZYWjQ5VGxfZmg0RERYeGI5ODdrUXh5Tm9aVlBCck94dXVrZ1Z2cXZpQTJjR3RjanJiMzZvZ0h4WW96bjJnc2IxMFNOTDJPRnBIUncxZl9ORzFyVm15bFZ5RWlSSQ?oc=5)
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3N4TEFzZFN6M2k5TF8wOHBzNmJGUlhKRTdYeHRDakp6WF9Vejdmb05ISFRBOVN5TzdvR1BsaTA2Z0tNQU1qdUttZUZ5LXJMa2lIQWFxb1VCa0JkaXVQcWlxcHlQdHdybGk1bkFPTGNMSUZfYmxRNkJMWHRQbFBMNlNyVE5fV29QeDZvaw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPaGphYTN2NkFsZUw4YUNEczEtZUdsNEhaNEY5X3FueEZYWjQ5VGxfZmg0RERYeGI5ODdrUXh5Tm9aVlBCck94dXVrZ1Z2cXZpQTJjR3RjanJiMzZvZ0h4WW96bjJnc2IxMFNOTDJPRn
-
----
-
-### 早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷军晒小米机器人进厂打工成绩 - 爱范儿
-
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9CUnQxcnVUbGVaWURzQmY2Wkh3ZF9ONXZfem1tOFAxYVNMRE9odE9oS2NINV83NFIxWU9XVkdBX2xxWWc?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiQ0FVX3lxTE9CUnQxcnVUbGVaWURzQmY2Wkh3ZF9ONXZfem1tOFAxYVNMRE9odE9oS2NINV83NFIxWU9XVkdBX2xxWWc?oc=5" target="_blank">早报｜OpenAI首款硬件曝光/享界G9获批北京L3自动驾驶路测牌照/雷
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPT3N4TEFzZFN6M2k5TF8wOHBzNmJGUlhKRTdYeHRDakp6WF9Vejdmb05ISFRBOVN5TzdvR1BsaTA2Z0tNQU1qdUttZUZ5LXJMa2lIQWFxb1VCa0JkaXVQcWlxcHlQdHdybGk1bkFPTG
 
 ---
 
-### 重磅！字节机器人01号员工跳槽小米 - 电子工程专辑
+### #小米二季度营收1089亿元#【小米集团2026年Q2业绩】- 总营收1089亿元，经调整净利润62亿元，总体业绩稳健向前。- 坚定投资未来。单季研发投入92亿元，同比增长18.9%，半年累计研发投入182亿元。Xiaomi MiMo-V2.5大模型登顶OpenRouter全球调用量周榜、月 - 手机新浪网
 
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE14bUd5WDNhZUZodXFadzRZVS0xZUMtWnhNS1lWQzdaenFpdjYycXczNWQwUmZtNTNzUXdJbFAxVDJEMjB3Vmd0NXBmRGJUWjloSHQ0?oc=5)
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CcHpsak9LQmxXSURDTkVhTGpSb2ZOQXk2WXFucWlkdEdGN1NCRkdfREZOWFYyMjhtTDNHR2ZCVmZqS0ItTjlRNGpHLTFjVXZXVDVFblE0WFVvMXdESW9KY0l2QQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE14bUd5WDNhZUZodXFadzRZVS0xZUMtWnhNS1lWQzdaenFpdjYycXczNWQwUmZtNTNzUXdJbFAxVDJEMjB3Vmd0NXBmRGJUWjloSHQ0?oc=5" target="_blank">重磅！字节机器人01号员工跳槽
-
----
-
-### 2.海关总署：前7个月集成电路累计出口金额达2160亿美元； - 集微网
-
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpQy1NTFIwcVVUU184MFg2NG9EVHNJc0VVbEQwTEdpOGYyLTgzcnVBcHU0T1NiM1FJV1pMdl9SUzktMnNaZWZJM013?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiSkFVX3lxTFBpQy1NTFIwcVVUU184MFg2NG9EVHNJc0VVbEQwTEdpOGYyLTgzcnVBcHU0T1NiM1FJV1pMdl9SUzktMnNaZWZJM013?oc=5" target="_blank">2.海关总署：前7个月集成电路累计出口金额达2160亿
+<a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE9CcHpsak9LQmxXSURDTkVhTGpSb2ZOQXk2WXFucWlkdEdGN1NCRkdfREZOWFYyMjhtTDNHR2ZCVmZqS0ItTjlRNGpHLTFjVXZXVDVFblE0WFVvMXdESW9KY0l2QQ?oc=5" target="_
 
 ---
 
-### BET9登录地址APP_游戏资讯_雷军晒视频小米工厂白色机器人工位干活黑色机器人在旁边摸鱼监工 - womenofchina.com
+### 小米扫地机器人怎么选？从1869元到4999元，一文看懂全系差异+FAQ - 新浪财经
 
 **发布日期**: 2026-08-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vVzcxUTBtV296aXhVdWRoaHhEM2p2QU1EVjVLSDk2VnFla2FRVkNRczZ3VU5VOWdSQ3ZUdEd6cEtRX1dmbVhqbS1UTmxwNlB4dEN1Wk0tRDBhc3pBLUhHMWhWZw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE4xVzFkOEgtZzBaTFpMckVfTEhLTHhXd21VNVYySFV4NHpydTllRHVhSGlLSXF0LW0yZGw2QmFRMXZvMUZtV2RpTEVFWXVQa2g5WkJlTi1Sb1Rsc2lJbjZLbjY1aGVOaDFYeC1IZUxqZGZlMDQ3YlhaeFhfQUF2Zw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE5vVzcxUTBtV296aXhVdWRoaHhEM2p2QU1EVjVLSDk2VnFla2FRVkNRczZ3VU5VOWdSQ3ZUdEd6cEtRX1dmbVhqbS1UTmxwNlB4dEN1Wk0tRDBhc3pBLUhHMWhWZw?oc=5" target="_
-
----
-
-### 至尊亚洲平台网站_游戏资讯_雷军晒视频小米工厂白色机器人工位干活黑色机器人在旁边摸鱼监工 - womenofchina.com
-
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Eb254Zk5ITm1WOHE3NWRPQ0RpZUxPaWhQeG04S1VmRzUwdzMwVVVpblRCUWY4QmRsX0JLRS1aeHdpOEVIR3BnMGktUzRwZWlEUzNIWGJRdTJiR3Vqc01YVg?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1Eb254Zk5ITm1WOHE3NWRPQ0RpZUxPaWhQeG04S1VmRzUwdzMwVVVpblRCUWY4QmRsX0JLRS1aeHdpOEVIR3BnMGktUzRwZWlEUzNIWGJRdTJiR3Vqc01YVg?oc=5" target="_blan
+<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE4xVzFkOEgtZzBaTFpMckVfTEhLTHhXd21VNVYySFV4NHpydTllRHVhSGlLSXF0LW0yZGw2QmFRMXZvMUZtV2RpTEVFWXVQa2g5WkJlTi1Sb1Rsc2lJbjZLbjY1aGVOaDFYeC1IZUxqZG
 
 ---
 
-### 小米扫地机器人值得买吗？扫拖6 Pro/M40横评，2000元档彻底解放双手+FAQ - cj.sina.cn
+### 小米AI大模型全球第一有何影响？ - 手机新浪网
 
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFJCMlIycU02bTcta3FCdTBhNDlxZlZ6Wk5rWW9jdGdHVFdPd29GRkpzV1RLTGpTX1hEOHVYOE83U195LWIwbUJIZkZWUkFTTEMzWWE1cWF2bVBjLUtldVhmTy0wVzkxbEY3T1I1akZ3OUpoR1QwbGExN295N0U3bXBPSEg?oc=5)
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE16NjBOZmJJUVdwRDV5UXZiRDlWaVNZMXRIUkdTejJNeVhqMEtDODM3ZHQ2c3M2WFhaZjQ5UFZ5a2hlN3o3bFVJTVlCR0x0b1oxNkpNTmdvWV9WV2M1R1VKZ2JJbkpVWmp5bTZJODJLUGpnTnFBMFZJNGp0V1VHWTA?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxNWFJCMlIycU02bTcta3FCdTBhNDlxZlZ6Wk5rWW9jdGdHVFdPd29GRkpzV1RLTGpTX1hEOHVYOE83U195LWIwbUJIZkZWUkFTTEMzWWE1cWF2bVBjLUtldVhmTy0wVzkxbEY3T1I1ak
-
----
-
-### 小米扫地机器人怎么选？6 Max成2026旗舰答案，3个维度讲透+FAQ - cj.sina.cn
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTFBsRVlyS3hYRXJHeWZhdFp1ZDJUX1lKRVRzLUhtZDJ2VTZqNXNQT0hnWnhPVW9vSGtJYWNGTnJKd2twbHdrdU1lNkFoblZ6X1BGMFpJSkFGMGxoQWRfY1drazBXQmhRd0hCODQydW5zVFJxVF8waDdrSkRqTmpZZw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTFBsRVlyS3hYRXJHeWZhdFp1ZDJUX1lKRVRzLUhtZDJ2VTZqNXNQT0hnWnhPVW9vSGtJYWNGTnJKd2twbHdrdU1lNkFoblZ6X1BGMFpJSkFGMGxoQWRfY1drazBXQmhRd0hCODQydW5zVF
+<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE16NjBOZmJJUVdwRDV5UXZiRDlWaVNZMXRIUkdTejJNeVhqMEtDODM3ZHQ2c3M2WFhaZjQ5UFZ5a2hlN3o3bFVJTVlCR0x0b1oxNkpNTmdvWV9WV2M1R1VKZ2JJbkpVWmp5bTZJODJLUG
 
 ---
 
-### NBA竞猜官网_游戏资讯_雷军晒视频 小米工厂白色机器人工位干活 黑色机器人在旁边摸鱼监工 - womenofchina.com
+### 早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持手机远程操作电脑 - 爱范儿
 
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Od1VacWJ4UEQyN1FENUJfVEdPa3hiX0dDX3RkeE8zUFBnUTZ3a1lCN3dmYjZmWFlPRFNHalJKSXpHb2ZKbUhoNm5JLXdNRGpQQ0FWdmhqX2FWc0U?oc=5)
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5YcWtPM0cxNHB6OVpIXzJZb2xJUGd3c1JuUlpJNFVpTEtXSEU5MmFYVXFCd3NaN0U1RG9RTXM5TDBKV1k?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE9Od1VacWJ4UEQyN1FENUJfVEdPa3hiX0dDX3RkeE8zUFBnUTZ3a1lCN3dmYjZmWFlPRFNHalJKSXpHb2ZKbUhoNm5JLXdNRGpQQ0FWdmhqX2FWc0U?oc=5" target="_blank">NBA竞
-
----
-
-### 小米扫地机器人2026怎么选？6 Max/M40s横评+FAQ - 手机新浪网
-
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5LVcxVDU1X200VlpCaFkxNERyNUJmWVpIN29hNFQteUVXQUFlc1JxR0dHWjFKbHkyRnJvTVRsWkFoNkxfd1JUV2NEVnRjZVpQMkY2cmdNR1ludU1CN1c0?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFA5LVcxVDU1X200VlpCaFkxNERyNUJmWVpIN29hNFQteUVXQUFlc1JxR0dHWjFKbHkyRnJvTVRsWkFoNkxfd1JUV2NEVnRjZVpQMkY2cmdNR1ludU1CN1c0?oc=5" target="_blank"
+<a href="https://news.google.com/rss/articles/CBMiQ0FVX3lxTE5YcWtPM0cxNHB6OVpIXzJZb2xJUGd3c1JuUlpJNFVpTEtXSEU5MmFYVXFCd3NaN0U1RG9RTXM5TDBKV1k?oc=5" target="_blank">早报｜宇树「超人」原地跳高2米/小米SU7系列交付突破50万台/豆包支持
 
 ---
 
-### 追觅S60 Pro登顶！2026扫拖一体机器人怎么选？3大核心维度拆解+FAQ - 新浪网
+### 合乐HL_游戏资讯_雷军晒小米机器人工作视频：白机器人埋头干活 黑色督工机器人对镜头比耶 - womenofchina.com
 
 **发布日期**: 2026-08-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMFhMTUpoSHZnWExmOExDNHlxZExiZ29jYURaTl80NWQ4R05kNG5SOFl2LXl3Q0xGeG9TTWJrTEpPcWZtc0IzVjVoeWFlVExvQUZrM2hac2Mtb3hRN3lGSUJIQzR0VHVBenYyVkdUU2RwR2xxZVY4dlBVWmtZaUE?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE84Z1MzZ2ptNHdhLXJRZUcxclZQbkJhTkhMMXVqMDhlZE4zRmRGN3plY0szUTR1QVVOXzdlWVNwQS1UUU1lMG5vWFliMnVLSmZFRTJxMHRB?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMFhMTUpoSHZnWExmOExDNHlxZExiZ29jYURaTl80NWQ4R05kNG5SOFl2LXl3Q0xGeG9TTWJrTEpPcWZtc0IzVjVoeWFlVExvQUZrM2hac2Mtb3hRN3lGSUJIQzR0VHVBenYyVkdUU2
-
----
-
-### 小米扫地机器人6系列将在韩上市 最高可越6厘米门槛 - 凤凰网
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTE42V0xjaHN6RVJtVC01MUh3NlFvLWhRVGxYMGo2VnpManYzSlhYV3k2b0xzci14V1hRTnFyMy1rdUVTSHNCcmR0Sw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE42V0xjaHN6RVJtVC01MUh3NlFvLWhRVGxYMGo2VnpManYzSlhYV3k2b0xzci14V1hRTnFyMy1rdUVTSHNCcmR0Sw?oc=5" target="_blank">小米扫地机器人6系列将在韩上市 最高可越6厘米门槛</a>
-
----
-
-### 原字节跳动高管孔涛携团队加盟小米，执掌机器人基座模型研发 - finance.sina.com.cn
-
-**发布日期**: 2026-08-11
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMinAJBVV95cUxPdDVOMVRvNE9xcGJTSUc0OFJfQ3pqbEExc0FFTk91SkVxUlNCSS0xMWFXT3R6eVJuTmt3aTFVU3RUQzd2S015T3JhTHlLRnNwNmZ3djB5Y3BaWnNVaG1lUXpYMVhnTGtUdHNrZkJuanBiQlZmbmIzUWNNYWxOdmFzV3lpb2RKQk1SMkNONGtIcFN2OW9EQW0xUWY4T1V6dzg0UGp3aU1JZk1TVDdRc1o4Z3c3M2JrSE9uM1ZReVUzdUJVUXVyQlF6c2xlV0FMc2Z6SHlrOUxFcGY3cWNqTV8wMDNOM0JZcTdSSFNxdXRrZFF3VnNza2NYQmsycjVZVTBpZk53R3dhNFRPdmtxZWhTRXhBZTUyNWo1OXdvUg?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMinAJBVV95cUxPdDVOMVRvNE9xcGJTSUc0OFJfQ3pqbEExc0FFTk91SkVxUlNCSS0xMWFXT3R6eVJuTmt3aTFVU3RUQzd2S015T3JhTHlLRnNwNmZ3djB5Y3BaWnNVaG1lUXpYMVhnTGtUdHNrZkJuan
-
----
-
-### 小米宇树锁死全球半年传感器产能，机器人量产加速 - cj.sina.cn
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE13akc2ckh3NGJObnZOTXFzeDFpRWRxZWpOX3F1Z0ZfMW9qUnVWc1RRSktLM3RELU9fTG5NRTNXNUVYWjl0VkM4c0NLN3Jjdy13S2M1bHFENlQwLUYzYXJURHBPY2Q3LWZXVW1wa19vV3Z0MVB6bmYwVUVQVFJ0QQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE13akc2ckh3NGJObnZOTXFzeDFpRWRxZWpOX3F1Z0ZfMW9qUnVWc1RRSktLM3RELU9fTG5NRTNXNUVYWjl0VkM4c0NLN3Jjdy13S2M1bHFENlQwLUYzYXJURHBPY2Q3LWZXVW1wa19vV3
-
----
-
-### 哪些手机品牌在机器人技术回流手机方面布局较早？ - cj.sina.cn
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMifkFVX3lxTE52LTdJenVpblFDTVp5UUE4cllWaEN0aTYwcTZIQ1NaSE9IT1dxNXRRYTUtbktLSG1GNTJTNGozaVZCMjBVdHZKeUpIZklHeEg4cWVWNGo5elpuODNtOWRSMjNrNGdtWkhzMm5EdFZQRGdzU01hV2gxQ3VDbjJNUQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMifkFVX3lxTE52LTdJenVpblFDTVp5UUE4cllWaEN0aTYwcTZIQ1NaSE9IT1dxNXRRYTUtbktLSG1GNTJTNGozaVZCMjBVdHZKeUpIZklHeEg4cWVWNGo5elpuODNtOWRSMjNrNGdtWkhzMm5EdFZQRG
-
----
-
-### 小米扫地机器人2026年怎么选？5款热门机型横评，从2000到5000一步到位+FAQ - 手机新浪网
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEeGg1SEpXZTNzekJXaFJiN2RLTEZGRVhQUFdDTUVSYWZ3d2FmOW9icTF6dkhUaHBrSTFIdmpfQ1pETFhSWFVxNGdsaEhIUVd4Qjd3dkpnZmtucVN4NnU4?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTFBEeGg1SEpXZTNzekJXaFJiN2RLTEZGRVhQUFdDTUVSYWZ3d2FmOW9icTF6dkhUaHBrSTFIdmpfQ1pETFhSWFVxNGdsaEhIUVd4Qjd3dkpnZmtucVN4NnU4?oc=5" target="_blank"
-
----
-
-### 小米扫地机器人值得买吗？3个维度说清+FAQ - 手机新浪网
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iT2dRVUYxT1BpSF9KSXFTZnFuQzFNZnJvWEdpamU5ckVwMlNmb29YTXY4MXo5WXlYaWNFVHp0Yk5kMkxuVTBsR3R6OXoybFpCeUhVWXZ6a0FlbEFGR3BJ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1iT2dRVUYxT1BpSF9KSXFTZnFuQzFNZnJvWEdpamU5ckVwMlNmb29YTXY4MXo5WXlYaWNFVHp0Yk5kMkxuVTBsR3R6OXoybFpCeUhVWXZ6a0FlbEFGR3BJ?oc=5" target="_blank"
-
----
-
-### 新U娱乐_游戏资讯_雷军晒小米机器人工作视频：白机器人埋头干活 黑色督工机器人对镜头比耶 - womenofchina.com
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiVkFVX3lxTE14M1FJUEladjJubGFvODY5SzBSeXVJbDV5QmI4U0o2aHJjUXhqSmVHdEpSak1SOUEtUHNmSzFZWTFON2ZkeG9Nemw3R054WnBsOEk1aUlR?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE14M1FJUEladjJubGFvODY5SzBSeXVJbDV5QmI4U0o2aHJjUXhqSmVHdEpSak1SOUEtUHNmSzFZWTFON2ZkeG9Nemw3R054WnBsOEk1aUlR?oc=5" target="_blank">新U娱乐_游戏资讯_雷
-
----
-
-### 小米扫地机器人6系列携具备污渍检测功能的Pro型号进军全球市场 - Notebookcheck CN
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGekx0QlpGTnF3US10ZENWTkszYVlxVTZvNkREQUEwYWVaSE1sbjQwMXN6aGtFbTFXTEx3M19wdGl6NTVZb0c2bVBoZ19UM3RnMWU5aWR2YkNxTHhENXFoX0tRdw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTFBGekx0QlpGTnF3US10ZENWTkszYVlxVTZvNkREQUEwYWVaSE1sbjQwMXN6aGtFbTFXTEx3M19wdGl6NTVZb0c2bVBoZ19UM3RnMWU5aWR2YkNxTHhENXFoX0tRdw?oc=5" target="_
-
----
-
-## Sunday Robotics
-
-### Teams increase 138% as World Humanoid Robot Games expands scale and influence - Global Times
-
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSWt0M2g1VTVDeU0zaDlZY0h5Y2VlZmtCWFJjVUctLTd5YW9ra0hGMjgxSENoQ3p2ekQyTmdqdHdkaC1rT1dEc202UC1kT205c2JDSGdxT1A4VVpVX25KY1FB?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE4xSWt0M2g1VTVDeU0zaDlZY0h5Y2VlZmtCWFJjVUctLTd5YW9ra0hGMjgxSENoQ3p2ekQyTmdqdHdkaC1rT1dEc202UC1kT205c2JDSGdxT1A4VVpVX25KY1FB?oc=5" target="_bl
+<a href="https://news.google.com/rss/articles/CBMiVkFVX3lxTE84Z1MzZ2ptNHdhLXJRZUcxclZQbkJhTkhMMXVqMDhlZE4zRmRGN3plY0szUTR1QVVOXzdlWVNwQS1UUU1lMG5vWFliMnVLSmZFRTJxMHRB?oc=5" target="_blank">合乐HL_游戏资讯_雷
 
 ---
 
 ## Industry News
 
-### Is Shipyard Welding the Right First Job for Humanoid Robots?
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://spectrum.ieee.org/persona-ai-humanoid-robot-welding)
-
-
-
----
-
-### Video Friday: Lift Happens
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://spectrum.ieee.org/video-friday-darpa-heavy-lift-challenge)
-
-
-
----
-
-### The Next Big Influencer Is This 4-Foot-Tall Robot From China
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.wired.com/story/unitree-influencer-4-foot-robot-from-china/)
-
-
-
----
-
-### Five years of operation shape Diligent Robotics rollout of Moxi 2.0
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/)
-
-
-
----
-
-### Surgeons use da Vinci surgical robot to perform common cardiac surgery
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/)
-
-
-
----
-
-### How Generalist uses human demonstration data for robot learning
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/)
-
-
-
----
-
-### Gravis Robotics raises $200M for autonomous construction
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/)
-
-
-
----
-
-### How Protolabs turns CAD files into parts in under 24 hours
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/)
-
-
-
----
-
-### Neros Technologies raises $250M to deploy its defense drones by the end of 2026
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/)
-
-
-
----
-
-### Mobile manipulators and humanoids: The future of robotics
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://www.therobotreport.com/mobile-manipulators-and-humanoids/)
-
-
-
----
-
-### BioflexBot robot hand aims to replicate key human hand motions
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://www.therobotreport.com/bioflexbot-robot-hand-aims-to-replicate-key-human-hand-motions/)
-
-
-
----
-
-### SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://www.therobotreport.com/sew-eurodrive-adds-economy-series-planetary-servo-gear-unit-portfolio/)
-
-
-
----
-
-### Q2 2026 robotics demand increased across industries, reports A3
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/)
-
-
-
----
-
-### Five years of operation shape Diligent Robotics rollout of Moxi 2.0
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.therobotreport.com/five-years-operation-shape-diligent-robotics-rollout-moxi-2-0/)
-
-
-
----
-
-### Surgeons use da Vinci surgical robot to perform common cardiac surgery
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.therobotreport.com/surgeons-use-da-vinci-surgical-robot-perform-common-cardiac-surgery/)
-
-
-
----
-
-### How Generalist uses human demonstration data for robot learning
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.therobotreport.com/how-generalist-uses-human-demonstration-data-robot-learning/)
-
-
-
----
-
-### Gravis Robotics raises $200M for autonomous construction
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.therobotreport.com/gravis-robotics-raises-200m-autonomous-construction/)
-
-
-
----
-
-### How Protolabs turns CAD files into parts in under 24 hours
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.therobotreport.com/how-protolabs-turns-cad-files-into-parts-under-24-hours/)
-
-
-
----
-
-### Neros Technologies raises $250M to deploy its defense drones by the end of 2026
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.therobotreport.com/neros-technologies-raises-250m-to-deploy-its-defense-drones-by-the-end-of-2026/)
-
-
-
----
-
-### Mobile manipulators and humanoids: The future of robotics
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://www.therobotreport.com/mobile-manipulators-and-humanoids/)
-
-
-
----
-
-### BioflexBot robot hand aims to replicate key human hand motions
-
-**发布日期**: 2026-08-13
-**链接**: [查看原文](https://www.therobotreport.com/bioflexbot-robot-hand-aims-to-replicate-key-human-hand-motions/)
-
-
-
----
-
-### SEW-EURODRIVE adds economy series to its planetary servo gear unit portfolio
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://www.therobotreport.com/sew-eurodrive-adds-economy-series-planetary-servo-gear-unit-portfolio/)
-
-
-
----
-
-### Q2 2026 robotics demand increased across industries, reports A3
-
-**发布日期**: 2026-08-12
-**链接**: [查看原文](https://www.therobotreport.com/q2-2026-robotics-demand-increased-across-industries-reports-a3/)
-
-
-
----
-
-### Hexapod walking and leveling at the same time!
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vqxvcx/hexapod_walking_and_leveling_at_the_same_time/)
-
-
-
----
-
-### The robot is only the tip of the iceberg
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vqyb9x/the_robot_is_only_the_tip_of_the_iceberg/)
-
-
-
----
-
-### Voice and gestures are becoming part of the interface for home robots
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vqwy7f/voice_and_gestures_are_becoming_part_of_the/)
-
-
-
----
-
-### 4-servo quadruped robot walks upside down on a magnetic ceiling — passive magnets, no adhesion tech (open-source platform)
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vqyty5/4servo_quadruped_robot_walks_upside_down_on_a/)
-
-
-
----
-
-### Why do humanoid robots need human-looking faces?
+### What are the important skills needed for a robotics job
 
 **发布日期**: 2026-08-18
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vraora/why_do_humanoid_robots_need_humanlooking_faces/)
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vrngth/what_are_the_important_skills_needed_for_a/)
 
 
 
 ---
 
-### Modeling an Omni-directional Robot in Simscape
+### Why most companies rushing into humanoids? Are legs the inevitable endgame?
 
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vr2cdo/modeling_an_omnidirectional_robot_in_simscape/)
-
-
-
----
-
-### Building my first humanoid robot from scratch — the head now has local voice + vision
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vqt31b/building_my_first_humanoid_robot_from_scratch_the/)
-
-
-
----
-
-### Looking for help for a 3d printed part
-
-**发布日期**: 2026-08-16
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vqc4l7/looking_for_help_for_a_3d_printed_part/)
-
-
-
----
-
-### Built a small autonomous household robot that can complete tasks end to end
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vp27ra/built_a_small_autonomous_household_robot_that_can/)
-
-
-
----
-
-### Planned upgrades: * Raspberry Pi 5 — 16 GB RAM as the main controller * 🖥️ Add an onboard display/screen * 🗣️ Add an AI speaking and voice-interaction system * 🚶 Develop a walking system * 🛞 Add stronger wheels for improved movement and stability * ⚙️ Upgrade the mechanical system
-
-**发布日期**: 2026-08-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vqd45l/planned_upgrades_raspberry_pi_5_16_gb_ram_as_the/)
-
-
-
----
-
-### Day 2 of building an Iron Man helmet from scratch
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vpdxq5/day_2_of_building_an_iron_man_helmet_from_scratch/)
-
-
-
----
-
-### How do robots sense human-like touch?
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vpcrqq/how_do_robots_sense_humanlike_touch/)
-
-
-
----
-
-### Pluggybot: Multifunctional robot sim with automatic tool changing (MuJoCo sim)
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vp2w0d/pluggybot_multifunctional_robot_sim_with/)
-
-
-
----
-
-### Trained an end-to-end CNN to steer my RC car around a track, running on Raspberry Pi 5
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vok7za/trained_an_endtoend_cnn_to_steer_my_rc_car_around/)
-
-
-
----
-
-### Probando válvula pepepako con la voz y 2,5 bares de presión hidráulica
-
-**发布日期**: 2026-08-15
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vpbaf1/probando_válvula_pepepako_con_la_voz_y_25_bares/)
-
-
-
----
-
-### I turned my master's thesis on RL obstacle avoidance into an open-source manipulator toolkit — it's peer-reviewed now and just hit v1.4
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vok5xe/i_turned_my_masters_thesis_on_rl_obstacle/)
-
-
-
----
-
-### Construyendo válvulas proporcionales hidráulicas y/o neumaticas de 5 voltios
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vodtec/construyendo_válvulas_proporcionales_hidráulicas/)
-
-
-
----
-
-### Cubic Doggo Update: on Simulation!
-
-**发布日期**: 2026-08-14
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vomvme/cubic_doggo_update_on_simulation/)
+**发布日期**: 2026-08-18
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1vrc1em/why_most_companies_rushing_into_humanoids_are/)
 
 
 
