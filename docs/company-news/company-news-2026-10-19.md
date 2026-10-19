@@ -6,566 +6,467 @@ type: company-news
 
 # 人形机器人公司动态 - 2026-10-19
 
-本期收录 7 家公司的 61 条动态。
+本期收录 7 家公司的 50 条动态。
 
 ## Tesla
 
-### Tesla Optimus Hits 1,000/Week, Echoes 2018 Warning [2026] - https://tech-insider.org/
+### Tesla (TSLA) Casts Optimus And Cybercab As Its Next Growth Drivers - Simply Wall Street
 
 **发布日期**: 2026-10-19
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE1yQVZ0MV9xQ1RVWTZsVmlTUGVBb1V5NE9LVGFOYmM5V1JzTHc5TGc3RVdETEpldVVxY1g5YlNESnlWVUtmWmVUUGlPVDJSUUJyM0Z6X3FJX0hqRUNSYmxOclVrd0ZnS3UyNTJ0WUhBTmQ?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHFOWDZTUzZydFJjYmp1ZEFfV2dmaS0tbXpOaGo1U1BtRlNPeXhRYjZmSlZLUnd2eUZGWmhkTUY1OVNHMV9sd29hZ0FoSWdhbWxsbXcwMmFudXJhTDE0b0JPUl9MeTZ6eVU5YkhNNTBKX2JNQTA4dUJqSEY1ZGgwN3FqRDFwOUJhWGNMYmlQdG4wS1ZuYVJhM0k1UUVBXy1UOFlRM2dpQ3BldlJ3bERvX0xIWmw5aEFNTmdsaEVOVFBDSnhHTVHSAcsBQVVfeXFMT3lwdlJreGozQkV2MVBkVlhkTFJKTWd3QWQ0b2xCQ20wbjlRSzRnaGV2MjBkSG1Dd1J2d2RsMnl5Nmc3QlBGSzJ6U1FrYVVIaDhzZUYzRTAzaVotRVRQTGF1RXZ6R2tEZHBvYThNSGhFLXFJamt1TFhfbzhRSV9GQ3hDSWZtdXJuUFo1dW91MDBHTWpSb2JtclcwdjRKUHVtYm5SNTBmMWRKMkVJMXdpYUhrUWpPLV9ncmJZU0U2cEdKUUJDM19ic3J4VjQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE1yQVZ0MV9xQ1RVWTZsVmlTUGVBb1V5NE9LVGFOYmM5V1JzTHc5TGc3RVdETEpldVVxY1g5YlNESnlWVUtmWmVUUGlPVDJSUUJyM0Z6X3FJX0hqRUNSYmxOclVrd0ZnS3UyNTJ0WUhBTm
-
----
-
-### What Robotics Experts Think of Tesla’s Optimus Robot - IEEE Spectrum
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAJBVV95cUxOeTA4QS1xWHM0d3NGS2VEODREMV9fcXdBWU5VWVdxQkcyb0xqdFJETkRDVTRtSGJrbXVNRmxMUVMzRDhWeEphazFWQ0NscUFSNDdSdVdqQi14WFN1YjQtdDVQeTNTVmJRVmlfYVNEV1VaVDl2WWx6Zno5SXRHS2R6TTJ4dVc0WF9KX0ZFY05yVDRDM0dxd0lTTnpJNVhWQmlUMF9ESm1kdGdJU2hYMXY2OFFLOUlSbWZjQTRwbVVXTVRoa2FabkFJMzB3QlB3aFZNbXVvVnItNExoT1pmVDBpVWpGNU0tNlRTaTU0WmxDZVdiamVTSFdKcEFaZHgzMlVaY3RLbG11b1I3eDBW?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijAJBVV95cUxOeTA4QS1xWHM0d3NGS2VEODREMV9fcXdBWU5VWVdxQkcyb0xqdFJETkRDVTRtSGJrbXVNRmxMUVMzRDhWeEphazFWQ0NscUFSNDdSdVdqQi14WFN1YjQtdDVQeTNTVmJRVmlfYVNEV1
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxOeHFOWDZTUzZydFJjYmp1ZEFfV2dmaS0tbXpOaGo1U1BtRlNPeXhRYjZmSlZLUnd2eUZGWmhkTUY1OVNHMV9sd29hZ0FoSWdhbWxsbXcwMmFudXJhTDE0b0JPUl9MeTZ6eVU5YkhNNT
 
 ---
 
-### Why Elon Musk’s target date for buying an Optimus robot is harder than it sounds - Teslarati
+### Key facts: Tesla, Inc. Q3 deliveries & margins; robotaxi probe; 300+ cabs - TradingView
 
-**发布日期**: 2026-10-12
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMid0FVX3lxTE02dV9pUE1aTV9wdmFDUlA0c1NrOHp0V2U3eEI4dUJWZ1VBUC1KM2JlelJLeTZ1RVJPdjVnbXQzSUFrVVBLQ2tvYWZ4VWVuZlRESjBhMFFGWVhFZkNLNDJ3aDJKalltcGV3bGo5VVVzSC1DNXlKWUNv?oc=5)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHlJbG16WWh4V1oxcmpuazdMTTZmbjJGSENOZFdKQlN5ZFQzSUNyOWJiZVVWMXJERm9qaDVKOGhfUXd4YW1jODZaRkJQQmY4NndTZnNJdGR1UzIzUjYxNmJzQVV4X0xLdy1kSDVZTXlXQ1JGUEg0UXBsUVhVTzh2VlJrQ29SWHJ4OEk2UjU1aF9HeDlrU2NFLUdvVWh0TkdwT2xYWDZlLTk0aTA5QmVWMmN0Q21QRnpVMlBBT0FoaENhRUFUT3c?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMid0FVX3lxTE02dV9pUE1aTV9wdmFDUlA0c1NrOHp0V2U3eEI4dUJWZ1VBUC1KM2JlelJLeTZ1RVJPdjVnbXQzSUFrVVBLQ2tvYWZ4VWVuZlRESjBhMFFGWVhFZkNLNDJ3aDJKalltcGV3bGo5VVVzSC
-
----
-
-### Robots are proving to be a handful for Elon Musk - Business Insider
-
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUNmN21yWVRfR0plMnVTQjdVUExCSEZUTlFMSnpjSXJrTy0zNEpEQmM2MTRGNThka2ZkUG54cU1zWDRWVkcwWnVmLVJfcWZKczNnUVBSSklic0JaVmZxM2lPSFpoaDMwVlk3VUhEUi13aVE1OVczU3VqZGI5Y2F3cldwRHBWQ0Z4eVlQQk9JWElpRnptS0Jz?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxQWUNmN21yWVRfR0plMnVTQjdVUExCSEZUTlFMSnpjSXJrTy0zNEpEQmM2MTRGNThka2ZkUG54cU1zWDRWVkcwWnVmLVJfcWZKczNnUVBSSklic0JaVmZxM2lPSFpoaDMwVlk3VUhEUi
+<a href="https://news.google.com/rss/articles/CBMixgFBVV95cUxPbHlJbG16WWh4V1oxcmpuazdMTTZmbjJGSENOZFdKQlN5ZFQzSUNyOWJiZVVWMXJERm9qaDVKOGhfUXd4YW1jODZaRkJQQmY4NndTZnNJdGR1UzIzUjYxNmJzQVV4X0xLdy1kSDVZTX
 
 ---
 
-### China Unveils 13-Foot Robot, Elon Musk Teases Real-Life Optimus Prime - BeInCrypto
+### Musk Again Floats Flying Car and New Supercar Concepts; Tesla's Optimus Supply Chain Benefits First - BigGo Finance
 
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3RlhSa2JPUnlnSVpLaU9DNzZIc0czb1Z3Q24taEZEUXRhUnlJdVNYTDA0dGRUdGNwaXNTaWhpRGFJMm5OYUd2U19ESkRKVFBXcWJONk9CZVRHTkIxM1Q1YWtBUHE?oc=5)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE5IeGVFQmRLdjdVbEYwaEtITW5JVHVXZjQxNjlpNWcxNmdCLW9ySXR0OUFBNlF0UTZRYlFVbHlweGNORlZrQi1yQ0tOeHFKSnVENUFOOUxXWjF2Tk80dU53S0ZHMkFzSHFHNUFTdzFJZFRkb1NXbXc?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTFB3RlhSa2JPUnlnSVpLaU9DNzZIc0czb1Z3Q24taEZEUXRhUnlJdVNYTDA0dGRUdGNwaXNTaWhpRGFJMm5OYUd2U19ESkRKVFBXcWJONk9CZVRHTkIxM1Q1YWtBUHE?oc=5" target="
-
----
-
-### Tesla Q3 Preview: The Trillion-Dollar Robot Dream Hits A 2nm Silicon Bottleneck (TSLA) - Seeking Alpha
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUxvTjVzQU4wUGVQRXAzQXViNVNDaGRjWGlaVVJEaE9jWVpfYzZCUS11X245QUNLVW5RY0lnT3FONGR2aEdYekprQ01fNjA4QmtUdjdHQTJDQ21rb1ZCUzlmR1RZSGxNa0N0T2RKX09DWjlVdi1vcnc1T2hoaWF4U0NWY2RDYzliWmpMS3hvd1lBVTEzRWgtV1hpcmdGQ3Y0UE5nbHBTT0lvZ2U2MTlWY25GcUNMU0o3VzhV?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUxvTjVzQU4wUGVQRXAzQXViNVNDaGRjWGlaVVJEaE9jWVpfYzZCUS11X245QUNLVW5RY0lnT3FONGR2aEdYekprQ01fNjA4QmtUdjdHQTJDQ21rb1ZCUzlmR1RZSGxNa0N0T2RKX0
+<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE5IeGVFQmRLdjdVbEYwaEtITW5JVHVXZjQxNjlpNWcxNmdCLW9ySXR0OUFBNlF0UTZRYlFVbHlweGNORlZrQi1yQ0tOeHFKSnVENUFOOUxXWjF2Tk80dU53S0ZHMkFzSHFHNUFTdzFJZF
 
 ---
 
-### Flying Teslas, walking robots and other wild Elon Musk tech - USA Today
+### Tesla CEO Musk calls robot hand engineering 'shockingly difficult' - scanx.trade
 
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0ZyV3NJX0xqSGNZZmd0cXN2M2h3RFZMcFBKV1c5SmlERUdZWERhUU5ONnUyQ3d1V3JEVVVXci1IbkE1R1ZURksyeDR6VXdWbndpc2xfdDdVd0xVNGRpZ3ZIS0VQWE5kVlNVS09peEYxaUdMWHFGSHRjT1ZOaHl1WVhVcm1EbVAyX19zY0dWRnNhZlJWWEtuUUthTGMyLTQwRmRINFpfZjdGR1hUU2lOY1RJQ3J2eWlYSmxXeVNtcW0?oc=5)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnR1bktoU25TTjdyblBSQzNZWDJSaVNRTUF5akNHWHNMMDlhUHRxallkbDExTGg1S1lvSUwtckpFSFF6RUYtTzRjMkFKbnB4ZEFQRGFpbUxIWnBaNHZKa2RtUjJKMEJVdDVaeEZ4U2tLUHJfNDh3UG5vOUVNaDRxQzJPNzREWFN6LXZFOFFIZ3d3dERPa2c3RDk1b2FVaUN4OUQyTTBjRlY3Qk9EU0lwdU1tRmhSc1Jya3psamlNbw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiwAFBVV95cUxNR0ZyV3NJX0xqSGNZZmd0cXN2M2h3RFZMcFBKV1c5SmlERUdZWERhUU5ONnUyQ3d1V3JEVVVXci1IbkE1R1ZURksyeDR6VXdWbndpc2xfdDdVd0xVNGRpZ3ZIS0VQWE5kVlNVS09peE
-
----
-
-### Rivian’s Mind Robotics snags Doug Field, ex-Tesla and Ford EV chief - Electrek
-
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWJkNWRrZkJLVzZjaFZEemc5ODNkTmoxekhnZGo1LTAyRm9wNkN2dXdWTmxzRk51ZFV5dXFHNFgtdW5JQVNFUko3a0VSNHVmellFY0l2SlByYXc1Y1FiVzM0cEtoa1NsMmRybEtQenhyUlN6dTZtWEtJVXZKaVVZYmFvYnlGOXFfRlF3Yw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNWWJkNWRrZkJLVzZjaFZEemc5ODNkTmoxekhnZGo1LTAyRm9wNkN2dXdWTmxzRk51ZFV5dXFHNFgtdW5JQVNFUko3a0VSNHVmellFY0l2SlByYXc1Y1FiVzM0cEtoa1NsMmRybEtQen
-
----
-
-### Tesla Optimus Development Delayed by China’s Magnet Export Restrictions - Drive Tesla Canada
-
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFNWOTlaUnNNQWNVUFVBdG4xVDJIOHdSSk5pMU1wMldzVWF4VU93eG1ON1JrTXp2VERDb2FrVGhjX19IakhHSUlIYl90RV9SYWVBSl84cUtBNE5ISWVrOEVxY0FrYWtqam5NTF9YYnFYZUlRWGdpU0RmcnlhdElnR1dCNUpQcEZEZ2YtVTB0QQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxPVFNWOTlaUnNNQWNVUFVBdG4xVDJIOHdSSk5pMU1wMldzVWF4VU93eG1ON1JrTXp2VERDb2FrVGhjX19IakhHSUlIYl90RV9SYWVBSl84cUtBNE5ISWVrOEVxY0FrYWtqam5NTF9YYn
-
----
-
-### Tesla's Flying Roadster Is Just The Beginning. What Elon Musk Plans Next Could Be Bigger - NDTV
-
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTU5MMkEtaXNkcTl5czhYQXdwdmlpYmZpRGNuTVdTY2x0d3ZuWlVmdVBQNlhuNEtkcUowVklZMXJJd2RicnYwakNBSGhPck56S2d5ZTQ1Wk1LN1cyYWJFRTdzZjY4ZlN3ZWVoZG9STmR3NmtCNVp3MVBPZGxfRERGT0R4NWJJMFpKVmdBMHFGNzNfM1RDX1c4RHF4cG5zd2JkXzhybEl4QkRfU0JRY0d5dnZHa3ZXUGdrS0dMZWZRdlNod9IBygFBVV95cUxQa2pCOXFkeGJqeWxkRFFoN1ZjZFZOcEszeUJ6YW8wRDBSdURRM01tQTR0YjFCS0xXbFVaQ2xlTkl0ZzFVMGVwREFtYUtuTWxqMm9IQk5sbGRLUVJMR0hxRVdsYThxTkc3bk51c1JtblE2OHB2Yms1NkVUbEUzWFV3ZGg5OVZtWXNJZkMzbm93RlhINWcxT3cwMDE3NWRfXzNrbDFnXy1kS0Ixa3VkZXg3WncwUm1xMWpCWjR6MEpZczVYcWh1ZDZrbTFR?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxOTU5MMkEtaXNkcTl5czhYQXdwdmlpYmZpRGNuTVdTY2x0d3ZuWlVmdVBQNlhuNEtkcUowVklZMXJJd2RicnYwakNBSGhPck56S2d5ZTQ1Wk1LN1cyYWJFRTdzZjY4ZlN3ZWVoZG9STm
-
----
-
-### Tesla's Roadster reveal video was filled with intricate details you might have missed and this is every single one - Supercar Blondie
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMickFVX3lxTE9sNlNBRXk1NlMzTlpXWGNmTWR6U2psekRmeTlKdURuVkFGc0NzOW5mZHNsb0NNeXBLd00xQW5ldUdwd1h0MUQ0YjFxOVdjUmI3NHlwXzBqcWY0SzBLdUUyand6aUR0Qnk2aW05aERYZ01GQQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMickFVX3lxTE9sNlNBRXk1NlMzTlpXWGNmTWR6U2psekRmeTlKdURuVkFGc0NzOW5mZHNsb0NNeXBLd00xQW5ldUdwd1h0MUQ0YjFxOVdjUmI3NHlwXzBqcWY0SzBLdUUyand6aUR0Qnk2aW05aERYZ0
+<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQUnR1bktoU25TTjdyblBSQzNZWDJSaVNRTUF5akNHWHNMMDlhUHRxallkbDExTGg1S1lvSUwtckpFSFF6RUYtTzRjMkFKbnB4ZEFQRGFpbUxIWnBaNHZKa2RtUjJKMEJVdDVaeEZ4U2
 
 ---
 
 ## Boston Dynamics
 
-### Hyundai's Boston Dynamics faces China supply chain challenge - upi
+### How Boston Dynamics is turning robots into a real business - Fortune
 
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnQxWHduYUdqaS1ieEtUbUE1YXpEbjJsV0F6WG96OWx4eDFXc1d2RnlOS1lyZEszQUV4TkUtVnliMnl6YzF1cEM5TlVoYWxvQ2k5MGdIT0RteENxZUpyVEZWQjEtUmNDb3VENkFLOXQ4T05LdkUyVS11UTl2NEpHMFU2TEp3YmpkMDlmekc3M1dacDczUHVOQzBjS1NkMVJPanpYXzIyOEl6WmR0UXJnY3JMYUtKcDhBSkHSAb8BQVVfeXFMUFNIMnRIZ2toMDZNaGVQYWtyRkJPdmlKZU8tYkpkQVQ5bDFlTHVzbTBVX2QwcjFydFRneWg5SUJ4M01kcmZGM1JOZTM3LXJSNTdQaklYMHl1Mm5JU0F4NC14MUpCZHFxWFhITDFiNXA1V3ZkQ0M3SEVfVUxjOWNLNTVLLVdmZ3JoVXVLZ2tCeXgyTzVmV0k0UEY1UVdzdndPWmpEWkhpQ0ZKUWx4VUF5NzVObUhkdE1oZmVYOGZvMmM?oc=5)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnlfbktMSHoybGFxcDZxUFNXMWM3WmJrZmV2SWlfLW5Od29YcmR4X2Z3MTV5cXdUb1lzbkxFX3dJWTBPZjZ0aVY5RWhySUY2OU10SkxWMzlGVDN2ZXJRcUVGVUhQWkdXT01nanEtRlRCcmNuLThSdHpwLXFic3FRUHBNZmk1U2dpWEZlTTJaWDB2LVFxbGc?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiugFBVV95cUxOdnQxWHduYUdqaS1ieEtUbUE1YXpEbjJsV0F6WG96OWx4eDFXc1d2RnlOS1lyZEszQUV4TkUtVnliMnl6YzF1cEM5TlVoYWxvQ2k5MGdIT0RteENxZUpyVEZWQjEtUmNDb3VENkFLOX
-
----
-
-### Boston Dynamics Assembles a Complete Atlas Humanoid Robot From Custom Parts in One Day - TechEBlog -
-
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMieEFVX3lxTE5sRG5KVm8wb1JjUXpuazFGMVp3NkFaT0gwbmREZllIaHNtZHE3N3RCRTA0M1NwVFViYk91NFMzdFhLcUhEV1NISzkzUllmNnlwVTYyNnlxLTR1bVRPZGh1cFJRdjREOXFuUmh5OEppaXRzSmFBeFBKTg?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTE5sRG5KVm8wb1JjUXpuazFGMVp3NkFaT0gwbmREZllIaHNtZHE3N3RCRTA0M1NwVFViYk91NFMzdFhLcUhEV1NISzkzUllmNnlwVTYyNnlxLTR1bVRPZGh1cFJRdjREOXFuUmh5OEppaX
+<a href="https://news.google.com/rss/articles/CBMilgFBVV95cUxPSnlfbktMSHoybGFxcDZxUFNXMWM3WmJrZmV2SWlfLW5Od29YcmR4X2Z3MTV5cXdUb1lzbkxFX3dJWTBPZjZ0aVY5RWhySUY2OU10SkxWMzlGVDN2ZXJRcUVGVUhQWkdXT01nanEtRl
 
 ---
 
-### Industry Insights: Humanoids Hands Have Come a Long Way -- And Still Have Far to Go - A3 Association for Advancing Automation
+### Dynamic Creatures reveals first 'living character robot' for entertainment venues - The Business Journals
 
 **发布日期**: 2026-10-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMivgFBVV95cUxNUTh2aG9FU2huRzJ1ODR1bnpQQUFXblVqMXp6bjdxRlBibG5IV0J1RUc3M2pDVFVYZVplcjU0NjJuaEd5TTdNQmhpYXR1dk5YU1pqbjRpdVJ0SlpGVHQ2RjlfOWNoMDZjbEVSS0hmVF9zMlotd1VQQnpUZmNWcl8yZ29KbGNKcUlhUVVSY1lTb3R2X2c5ZUJMMHFST3JJeDlXNVRUR0p4UUx2WFFFMlNrbEdkZW42NjM4aDJfRGZB?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifEFVX3lxTE9yelRDUUtOaVFFS0ptRkplMEQ0OWtYM01zdW91TzBIbmxheHhnaFRpOUw0REM2a3pCam1CNWI4T0g3aGlhUDItWThSWk5zTl9renhVN1k2YmR6XzU1ZFB4a2ZHNEMyY0lKUnFoN1VSZ1hERGlSY0JYWGZYMmw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMivgFBVV95cUxNUTh2aG9FU2huRzJ1ODR1bnpQQUFXblVqMXp6bjdxRlBibG5IV0J1RUc3M2pDVFVYZVplcjU0NjJuaEd5TTdNQmhpYXR1dk5YU1pqbjRpdVJ0SlpGVHQ2RjlfOWNoMDZjbEVSS0hmVF
-
----
-
-### Dynamic Creatures Introduces Hugo the Furry Purple Robot Built for Theme Parks - TechEBlog -
-
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GZVNYVTBlMXE4Y0NZd1RmbzFaa3o0eG93RUdpc0ItTlpGeGRZQnduM0JKMlFyX2wyemNtRVRiSG5PRk9COEpGbEN4d1dxMW5jNHY4OWZ1TEdpTXJfTHR1V29QcUpGUQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE5GZVNYVTBlMXE4Y0NZd1RmbzFaa3o0eG93RUdpc0ItTlpGeGRZQnduM0JKMlFyX2wyemNtRVRiSG5PRk9COEpGbEN4d1dxMW5jNHY4OWZ1TEdpTXJfTHR1V29QcUpGUQ?oc=5" targe
-
----
-
-## Figure AI
-
-### Robots Take on Factory Tasks as Humanoid Rollouts Remain Limited - www.tokenpost.com
-
-**发布日期**: 2026-10-18
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Vlk3dHo3cFl1V3VIazlGcDEwVV81MlV5VjBnVGd6UjRNVUdlcWtVeFFtTnhrejBta19SYjZXY2FPN255M29DWkZVYTRyc2hUenJyTGNsUGt4S1E?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE00Vlk3dHo3cFl1V3VIazlGcDEwVV81MlV5VjBnVGd6UjRNVUdlcWtVeFFtTnhrejBta19SYjZXY2FPN255M29DWkZVYTRyc2hUenJyTGNsUGt4S1E?oc=5" target="_blank">Robo
-
----
-
-### Figure AI's former safety engineer says its home robot can fracture a skull - Startup Fortune
-
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjBGd1otWlhwZFZXMGY5S3BsM2JuN0J3N25vd1hBSU5DcGtod3ZoVkt1TkNlOUFsaUxBSnQ1bzdHZ3RCT0dxVExBRXY3ZEgyeE1YNEppQndKa0h1SUV5cG93UWw2M3dUdmQzdUM5c1hwUnhSNGRLdmdJX1N2X1Zxa3pQMXdUTVlDRnF4WTZlakR0RkNLTnlHS0pHTkx6V3Z1NDVsTg?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxNdjBGd1otWlhwZFZXMGY5S3BsM2JuN0J3N25vd1hBSU5DcGtod3ZoVkt1TkNlOUFsaUxBSnQ1bzdHZ3RCT0dxVExBRXY3ZEgyeE1YNEppQndKa0h1SUV5cG93UWw2M3dUdmQzdUM5c1
-
----
-
-### NVIDIA Reportedly Considers $1 Billion Investment in Humanoid Robotics Startup Figure AI - Konsulteer
-
-**发布日期**: 2026-10-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjUzdjREbUEtT3lUWWJRMzR5STJEWUNIZmNyczJLUDVXa2NGRy1JdEViOTRwd3dNRE1UQTVubE1PSnNDOEpEOWYyVWRRUXJyWVp3X3B4cjJTUUczNDhoYTU5bW9NbzVRdUFFSFBYaS1sajFQdG5iLXlDOE1hdWdNMjUtQmwxSjFIUUpMWERjYUpUUEJrbWMyaW5HamNvZk9maEVtcUIwdEFQSVBDMWx1Wld5QUVCUURLZjlWY2JrYw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMivwFBVV95cUxQMjUzdjREbUEtT3lUWWJRMzR5STJEWUNIZmNyczJLUDVXa2NGRy1JdEViOTRwd3dNRE1UQTVubE1PSnNDOEpEOWYyVWRRUXJyWVp3X3B4cjJTUUczNDhoYTU5bW9NbzVRdUFFSFBYaS
+<a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE9yelRDUUtOaVFFS0ptRkplMEQ0OWtYM01zdW91TzBIbmxheHhnaFRpOUw0REM2a3pCam1CNWI4T0g3aGlhUDItWThSWk5zTl9renhVN1k2YmR6XzU1ZFB4a2ZHNEMyY0lKUnFoN1VSZ1
 
 ---
 
 ## Agility Robotics
 
-### US humanoid robot Digit 5 targets 20-hour workdays with 9-minute charging - Interesting Engineering
-
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzJodUpxY3hidjU4ODk3NWVKQkdQNko0cExDX2kycmZQa0k4VzJhdzBDMElkTTdZMGMtcjhOdWl5MFBuV0Zxc0dIelJod0JKQ1llNnBPMzlRUURJaG9VLUJoU0d5Ui1wdkFXdHROSUJSbDJEa1VINDlZZDFCLTEyLXFheHQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOUzJodUpxY3hidjU4ODk3NWVKQkdQNko0cExDX2kycmZQa0k4VzJhdzBDMElkTTdZMGMtcjhOdWl5MFBuV0Zxc0dIelJod0JKQ1llNnBPMzlRUURJaG9VLUJoU0d5Ui1wdkFXdHROSU
-
----
-
-### In a Second Robotics Contract, Nyobolt Will Power Agility’s Latest Humanoid - The Information
+### The Robot I Didn’t Expect to Build - IEEE Spectrum
 
 **发布日期**: 2026-10-18
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTR0ZjJvQ0ZnMVFTYU9kaC1GUlRvUldaaVJqV2VrVmhTeEZRM190THhTWVdiaE41LXh1ejZwMFUxdkZVM3hKSUpBcjZ1MG0yRExPb3pON3ljdEk4SXBrV25hc1dWN1ZQclRUZ2lDUlRicGV1a1JuWnB1OXJnS2V6TTAzSXNEOE9fODduUFluUzlLb1Z4MHktNXh1VTJpaU01OVQ0blE1NEViWVdTVGN0eHRNMFd1UmFLYnRPUWRTUWEydw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y19oRWRwaE5wbmd2OFhPZUsxdUVyLU9yTm9lUDJLdEZkT1U5NWdjdWdYRG9oWF9TRVpHT1N3TzZQbjI3cDBIYjdBcXdlTWNLckkwYndTbkdLblpLN2xNNG80V01MaDBGVHhz?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTTR0ZjJvQ0ZnMVFTYU9kaC1GUlRvUldaaVJqV2VrVmhTeEZRM190THhTWVdiaE41LXh1ejZwMFUxdkZVM3hKSUpBcjZ1MG0yRExPb3pON3ljdEk4SXBrV25hc1dWN1ZQclRUZ2lDUl
-
----
-
-### Agility Robotics Selects Nyobolt as its Ultra-Fast Charging Battery Technology Partner for Digit 5 - PR Newswire
-
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX0x1dG1zbmJLUG04RnBiRjg0YkN1Z3YyS1EtdGt3aTdzWnktNjVGUXRDZ1hhbFlHU2ZYNjJidGZFaGFadms4b0pMbUFYNkRCZE9ULXZPWFhkU2thSzEzRVhIUVZKSWEwUmozc2t1Sk9EazMyWEFvTTBCV1BteUpkS1J5V2JOZ1hZbmtCVGxQWkY2LTN5QjlWcXlPa1dSWmlIT05MWDNrak5mN1RUSExtMnN2YVR3SzBQM2lUVWZDV203ZjEyV1d1ZUNYRG0zZjJQeXYxYXNrZksxeEZMVXUwVEVKeVBpbHVBS1E?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxPX0x1dG1zbmJLUG04RnBiRjg0YkN1Z3YyS1EtdGt3aTdzWnktNjVGUXRDZ1hhbFlHU2ZYNjJidGZFaGFadms4b0pMbUFYNkRCZE9ULXZPWFhkU2thSzEzRVhIUVZKSWEwUmozc2t1Sk
+<a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE90Y19oRWRwaE5wbmd2OFhPZUsxdUVyLU9yTm9lUDJLdEZkT1U5NWdjdWdYRG9oWF9TRVpHT1N3TzZQbjI3cDBIYjdBcXdlTWNLckkwYndTbkdLblpLN2xNNG80V01MaDBGVHhz?oc=5"
 
 ---
 
-### The First Pure-Play Humanoid Robot Stock Is About to Go Public. Here's What Investors Need to Know About Agility Robotics. - The Globe and Mail
+### Agility Robotics Announces Audit Committee Chair for Planned Public-Company Board - GlobeNewswire
 
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMirAJBVV95cUxPcUd4OXVWdldicERmM2tudkZLcDBqZU11UW95cE9NelphOVhXaUN0MEdaS3pDQ19Td3Ffd0pydzY1ZjFrWEJNbUhaWlM4NDFZbFNULWx5clk0TmpLbkxaa1BfaENMaFlWUkpzUWlON203b2djOC1Yb1dFUkMzZGItZHRQNG1fdWN5OHlvYWtZc3FuZkh3RXpaOWl4bjdDUUljZHhJLTZaVUlJVjNrenM1SEpncXVrWXpPNnFhMUU3SVpFN0JfUk5waDR4YzY2blZQaExGM29CelBMQzR1bjJtNUxXdmZ3TXhPVlFVUDZJMlcyWEViQ3ZRcWNreWppU19GM1lwckhTYWpZT2dvZjk0dnRQQ3RHTmNsZW5uZGV1YmczM0o3NUI4R0xTWEE?oc=5)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUFJWDR3M00yemN3c2Z1NDIzRFRtZXptNWNHenAxTmNCOXhvdnBNNkxCUUpBYzVXbG1hRl8wOGVSYXFDRHp5N2JIOTY5UDhrb3VCMFM5bHpPNVNHbmZJaGlsb1hxR0xGOWxiQmJKVDk3RzBZU0JPN09sVUM5dXJydUZMeWs4UXVNMGhiQW5zQWlrZWpQVkFnaE44T1ItYVU1NUIxQmptV0J1djBRMjZGckFCWjV4cV9aZ3YyMlZfVEtpVVFYWUIzTlpkaG9pMllaMlV5VmZjVTBkcWdTY3BoVmJialFWMXhO?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMirAJBVV95cUxPcUd4OXVWdldicERmM2tudkZLcDBqZU11UW95cE9NelphOVhXaUN0MEdaS3pDQ19Td3Ffd0pydzY1ZjFrWEJNbUhaWlM4NDFZbFNULWx5clk0TmpLbkxaa1BfaENMaFlWUkpzUWlON2
+<a href="https://news.google.com/rss/articles/CBMi6AFBVV95cUxNMUFJWDR3M00yemN3c2Z1NDIzRFRtZXptNWNHenAxTmNCOXhvdnBNNkxCUUpBYzVXbG1hRl8wOGVSYXFDRHp5N2JIOTY5UDhrb3VCMFM5bHpPNVNHbmZJaGlsb1hxR0xGOWxiQmJKVD
 
 ---
 
-### Agility Robotics selects Nyobolt as its battery technology partner for Digit 5 humanoid robot - www.machinery.co.uk
+### Nyobolt lands second robotics customer, cutting Digit 5's recharge to 9 minutes - Dealroom
 
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMizwFBVV95cUxNRi05NkRnZ1pncE9sdVc3Um5HUXpNdEZXQ0pfYWE1SEFNekdaeFVkbU5yZzNjbjFBcWtDQkc0SFYydUlwZ0ctaV9qb1VfcGlqdTBhRGIzQzhLaVA4WXllSVRXaDNCYlpVWktGOHRyR2JRWm5RRUVOTGc3VXZFT09rNnBmaGg4LXVSOUh6RGxNWHJuZDBLZXhlWDk3OVRGZzhMNGlPS0N0M1p6UkVqTVhZbFpMLXVTcTZrMU12dy0tMFdkd2FFOFJJOTViQTRhNDQ?oc=5)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDdwYVNPTDRxWWpzWWNJTTZhTWJYb29CSEVQM2RDNUNCdm5KbHFNaWxod2o5aktJR0FsZUZfdFBGZjJRNGFtTzdINElzWHBPOFdjdDRYVEdDVDlxaktOcVZBWHlfMkhvYWR1M1NxUGphYnNpZFZ4bEZXWWh1ZWZmdnRXVVhMNFZaaFdPbUtrSENua19xMERCZFJtaGFtR2YwQ2RycWpGM1FyTkZJNFVLS2FR?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMizwFBVV95cUxNRi05NkRnZ1pncE9sdVc3Um5HUXpNdEZXQ0pfYWE1SEFNekdaeFVkbU5yZzNjbjFBcWtDQkc0SFYydUlwZ0ctaV9qb1VfcGlqdTBhRGIzQzhLaVA4WXllSVRXaDNCYlpVWktGOHRyR2
+<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxNRDdwYVNPTDRxWWpzWWNJTTZhTWJYb29CSEVQM2RDNUNCdm5KbHFNaWxod2o5aktJR0FsZUZfdFBGZjJRNGFtTzdINElzWHBPOFdjdDRYVEdDVDlxaktOcVZBWHlfMkhvYWR1M1NxUG
+
+---
+
+### Nyobolt has become a partner of Agility Robotics for ultra-fast charging of robots - AKM.RU
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnliS1Q1X2V5d1dNejI4Ym5qbW5ERVBzVkRNTm85UGFmNFh3cGo2U054UldTZ25Fd1RJR0EyRmhzZVZKdF9FWkRmbDZxb2ZTM29IbXhuNHNaTmE1LTZmUkVpWDB5WmYwQnlLYk9uTDA2YVRENVViNEVxMEJjWHhrRFZmQURyX3VLbEkzVUlYTEF5WjJOOUdrclg0ZDFKU0hsVGJlYmNJd0dEYVhaWVRoNw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMisAFBVV95cUxOQnliS1Q1X2V5d1dNejI4Ym5qbW5ERVBzVkRNTm85UGFmNFh3cGo2U054UldTZ25Fd1RJR0EyRmhzZVZKdF9FWkRmbDZxb2ZTM29IbXhuNHNaTmE1LTZmUkVpWDB5WmYwQnlLYk9uTD
 
 ---
 
 ## Unitree Robotics
 
-### Robotics competition in Hangzhou - Global Times
+### Unitree's new system lets operators change robot dance moves with text - Interesting Engineering
 
-**发布日期**: 2026-10-18
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZcWhFTy0tSS1XbW9vRTNmSEhLb0FGVE1oZ25wbE9KV0M3blp3d1ZXZ2RGUzFUa3hrYnU0OUVuNko5ZU9Td05zUU9YS08xTFlzYkp4Yk1zUEp5enNkUm9DckJ3?oc=5)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGVMNVpEX1BDeE1ucmo1VERXOG1IOWlLNllOM012UXNURUJ0anJZeXJPSHV6Wkw3NHdzaGszWVJLd2ZFZkZVUVR0LWVMOFBzaHR0NFJjTVBIcHAxQl90cVdKUWtZTGZPYWJULWhYUkM1R2dVLWVadGJDNFdLUktWUWlTUHZObEcwejhFV2dsY0dENTR2cmpOX3RtOXpWQ0xONUE?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5ZcWhFTy0tSS1XbW9vRTNmSEhLb0FGVE1oZ25wbE9KV0M3blp3d1ZXZ2RGUzFUa3hrYnU0OUVuNko5ZU9Td05zUU9YS08xTFlzYkp4Yk1zUEp5enNkUm9DckJ3?oc=5" target="_bl
+<a href="https://news.google.com/rss/articles/CBMiogFBVV95cUxQUGVMNVpEX1BDeE1ucmo1VERXOG1IOWlLNllOM012UXNURUJ0anJZeXJPSHV6Wkw3NHdzaGszWVJLd2ZFZkZVUVR0LWVMOFBzaHR0NFJjTVBIcHAxQl90cVdKUWtZTGZPYWJULWhYUk
+
+---
+
+### Unitree shares surge 16.15%, market value tops 200b yuan amid China's robotics commercialization efforts - Global Times
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPOVpvWjhzSmlfcTkzTjB6aUVCdGltWWhjT3ZZWUNtNVZtclhsTXpUemtpMTNJbXM2ZEJtbDBlX3BxcGRxejR4bEFmck1ta2tTUHZWVzgwN2pjMXdSNVhLZEdR?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBPOVpvWjhzSmlfcTkzTjB6aUVCdGltWWhjT3ZZWUNtNVZtclhsTXpUemtpMTNJbXM2ZEJtbDBlX3BxcGRxejR4bEFmck1ta2tTUHZWVzgwN2pjMXdSNVhLZEdR?oc=5" target="_bl
+
+---
+
+### China's Nine Government Departments Back Embodied AI; Unitree Robotics Surges Over 11% Intraday as Market Cap Tops 190 Billion Yuan - BigGo Finance
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE4zTkI1eHBqcTl2aXV4OGdudVk4VlRfYXNRUnRaVlVWeGNPNG1kWGpmWE1wcWlWZWRJci1lSzBBR1c0VWpTS2ZJY0pwUEdsUnZ0dlZ6VUNEOFVfNURoQjYzWEpJUnExekVFYWd1VmhrYlFRbG9CNGc?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE4zTkI1eHBqcTl2aXV4OGdudVk4VlRfYXNRUnRaVlVWeGNPNG1kWGpmWE1wcWlWZWRJci1lSzBBR1c0VWpTS2ZJY0pwUEdsUnZ0dlZ6VUNEOFVfNURoQjYzWEpJUnExekVFYWd1VmhrYl
+
+---
+
+### Unitree GD01: 5 Bold Signs of a Smart Mecha Era - Global Brands Magazine
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HekZ1OXhsYjFHRHJuVHBzR1c1M2EyTlZDMWdqR2U5d1MtWmpGUVN3TXhCcUZwVXg5dmhjS3hHd1BfQk9VWVVWZlZsTzNncU9fd3hoZlo1ampST3FuVWdv?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9HekZ1OXhsYjFHRHJuVHBzR1c1M2EyTlZDMWdqR2U5d1MtWmpGUVN3TXhCcUZwVXg5dmhjS3hHd1BfQk9VWVVWZlZsTzNncU9fd3hoZlo1ampST3FuVWdv?oc=5" target="_blank"
+
+---
+
+### Unitree Releases UniUni Swarm Control Software, Free for Its Users, Starting With H2 and G1 - Pandaily
+
+**发布日期**: 2026-10-17
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0Q2d0l1SVRyTnllUmNOUzcwT0VmQWlaV2lfOHVRT1VXa0NzRHhFaC1pbkV5Y3NiN0R2TGZlRGFWbkF3Tm10OE1tVFd0VUdUUG10NmRFU0ZkcThsMDUweERSWVVwZTROQW11czdCSWItMkwtSDEwVDhhY3lUc1RIZWd3MnVPZl9KbnYxOVNOWmo5a0ZTVWNtbWU5TllkRF9NSENCbg?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxQX0Q2d0l1SVRyTnllUmNOUzcwT0VmQWlaV2lfOHVRT1VXa0NzRHhFaC1pbkV5Y3NiN0R2TGZlRGFWbkF3Tm10OE1tVFd0VUdUUG10NmRFU0ZkcThsMDUweERSWVVwZTROQW11czdCSW
 
 ---
 
 ## 优必选
 
-### 拉斯海玛政府与优必选科技签署战略合作备忘录， 共推人形机器人研发与气候适应性实测 - 美通社
+### Bitcoin Japan Signs Exclusive Agreement to Bring UBTECH Humanoid Robots to Japan - The Manila Times
 
 **发布日期**: 2026-10-19
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiV0FVX3lxTE54LS1XX2NIWjU3eWpqYTNwT09vRWJ0N2pEMmlJXzlMZ1U1b29HU0I5dkFrSDVoRm0tazBVWS1CY2JObGFoaE5rRWRVc1ljbW1teDZjcFd3VQ?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdjV4bmhmMVZ4YzNadXF2aDJHSmxhNXVlQ0JoUjZNdlIxRXpYeVdkRGY5UjIxVjBMM0htZ3JqVE1MYi1Wdi1TdkFkYXAtTG9jLVkzbkd4VEY0MDNCMWpzZE5Hb05jWWhlQ09MRVRXV3hQak9wY1JMRE5tTG4xejExMnlGTXBTU2dFQzdWTElVLWxERXdmcG9iT0lFX2FBUW9FX2ZrR2UweG9DdkdkSGZWY2NuLUJWQlBZbENVa05Ib19tRmk5M2RuQUwybUQwZnB5NkZHb3VsWWc3QVVUaFFSRUplMUJ2ZzJvWlHSAe8BQVVfeXFMTWRrb01sbWg2ZHM0ekVuVlM4R2ozdHcxb0R0QmwzdWlUa2gtclJ5c2VWbmZMamxZaTBJZHZNWURwQXNjbDQ0b2RzTE1xVUU2dWJSWjJoWHlyOUZ1OWttYzJkRU91WVBTNTY4MC1zYnVJajhYdEt6aEwzejFPZW1Zb2hjR0hxVi1sMDRHNENucjNvd2ZKUFVVeGRVdVBFVHRnZGlfWHl2bGMxc3M0QUYwWVJFdDV0ZkxYLUVzNHN6NXFHTWdpYnY5MHRMVjYyUkxfZFl6cmVKUlBfWjVXMHloYUNlR0VYX25PcmdWTkhNODQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiV0FVX3lxTE54LS1XX2NIWjU3eWpqYTNwT09vRWJ0N2pEMmlJXzlMZ1U1b29HU0I5dkFrSDVoRm0tazBVWS1CY2JObGFoaE5rRWRVc1ljbW1teDZjcFd3VQ?oc=5" target="_blank">拉斯海玛政府与优必
-
----
-
-### 全球人形机器人收入榜：深企优必选登顶，中企包揽前五|智元机器人|宇树科技|深圳市|广东省|销量 - 新浪财经
-
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMieEFVX3lxTFBFbGwySnBoVzB4cUhVRzVHdWFRMi1UTVdNLUQyMXdRT2xreU4xYWdhNDUtdjBiLUJkdDY2Ylc2cU4xM1N3UEZOSTZxUU1PTlJhMTVnOVp1amVIQklEQWJZZVozd3h3MTdTRG9Rc2VSVzQ5cjJaZHVwaw?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMieEFVX3lxTFBFbGwySnBoVzB4cUhVRzVHdWFRMi1UTVdNLUQyMXdRT2xreU4xYWdhNDUtdjBiLUJkdDY2Ylc2cU4xM1N3UEZOSTZxUU1PTlJhMTVnOVp1amVIQklEQWJZZVozd3h3MTdTRG9Rc2VSVz
+<a href="https://news.google.com/rss/articles/CBMi6gFBVV95cUxQdjV4bmhmMVZ4YzNadXF2aDJHSmxhNXVlQ0JoUjZNdlIxRXpYeVdkRGY5UjIxVjBMM0htZ3JqVE1MYi1Wdi1TdkFkYXAtTG9jLVkzbkd4VEY0MDNCMWpzZE5Hb05jWWhlQ09MRVRXV3
 
 ---
 
-### 【国内动态】优必选机器人再进车企：携手一汽-大众推进人形机器人在物流场景应用落地 - 搜狐
+### 首批六项人形机器人国家标准正式发布，优必选牵头起草及参编 - 搜狐
 
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnoyZXdpYWplREJ5MlhmRzN4OTByUnk3MFNyanR3S1RHdGhIRng4QUV0THNJdUF3N1lzVEFuYUhDUjVESEJNZ28wT24tRWF2UVE4WFFTWG5JNU9FRUtNSWxzLXJ1ZzZIbTVBLS1SSGtuQzNJOHNqMjl4VnpMcVpSRnRnMkVDWFdBb09lZA?oc=5)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPYVBPOXE3Q19uOTB5S19nVmFadzB4ZlRjTl9CZnFTZ1FyUFVVOVNMMjlCY21CY29BZnhtMlhCbExJRUV0d3R4N0RrSkFtbmxZUXAwWGk4X0NQclplc25kbzFBTXRSUGczdUZFV3hMdGF2Uy03U1RDQ0MwSzI0TGtEQnhSMHBfeFJDNlN6Vg?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNWnoyZXdpYWplREJ5MlhmRzN4OTByUnk3MFNyanR3S1RHdGhIRng4QUV0THNJdUF3N1lzVEFuYUhDUjVESEJNZ28wT24tRWF2UVE4WFFTWG5JNU9FRUtNSWxzLXJ1ZzZIbTVBLS1SSG
-
----
-
-### 优必选盘中涨超3% 柳州工业人形机器人超级智慧工厂正式投产|智能制造|具身智能|柳州市|成交额|广西壮族自治区 - finance.sina.com.cn
-
-**发布日期**: 2026-10-14
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiwARBVV95cUxQUXlxX0RPeXZXemZ2UnZKRmFydDZFQ296WGV2QjVVNmV2WXp5cUt2TG03R0x1WEVSR3hjRDFsRXRzS08zSzNWTmxpZm1xZl9VdFVYQjZ3ZWhOeFkwQ2NscDBWYl9PaXN4YkxtVEdVWmNIejlCT20xVFJHYngwbE4yRzdBTmwzbm1jYW9ETWZWSVA3X3oyN1RBemhTQkZhRmJVYXBYWkw3U0t0WElLNnFVcXcxZTMtSmVuYzRYY0haVUVSU0JQV2I2T005bHlNRU9CYWpjZnRsWF9BYmpZUFJJU25sS2Q2ZW5PX3JyT1g0SnJzdUN3d2NLaXVtUFRtRDFlN2t1a1RwWWlPOVM1eHdJUnJ4VUNaUC1UTFA3WE1hd25WUjZqcFNKNGlrQWFrYW9meGpwZW1QRW5hRXkzT3Raa19OQTk3cngyX3ViSkR4Z2l4QlNFLVVZVElQYmxycl9XQS0tT080WXV3ZENicTlaX0x6TXN5NHhpal9BbkltaFZxdXVnUjBiNUpvbVBVdVNmekNYYkpvblJJaTZQNnZqOWhwenBMa1REYU4yM1NuZXFVSDRfZmJMQjlrNjFMYjlCenh6WXRUMFlEQ2FXTGotTDZ6cVlHRExaTE1Mb0QtWXBycWJOdnA4d24xQmVXa3R2Y1V2bjJreHhITzVnamRaTzlkNGlQVDNuWEYzUzB2UGFuUlZOcHNfaUpDVkUyZG5fY1hyS1lsYXhCeWV4ak9VU1ExY1RuYnBWbWpqanJGWTE?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiwARBVV95cUxQUXlxX0RPeXZXemZ2UnZKRmFydDZFQ296WGV2QjVVNmV2WXp5cUt2TG03R0x1WEVSR3hjRDFsRXRzS08zSzNWTmxpZm1xZl9VdFVYQjZ3ZWhOeFkwQ2NscDBWYl9PaXN4YkxtVEdVWm
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPYVBPOXE3Q19uOTB5S19nVmFadzB4ZlRjTl9CZnFTZ1FyUFVVOVNMMjlCY21CY29BZnhtMlhCbExJRUV0d3R4N0RrSkFtbmxZUXAwWGk4X0NQclplc25kbzFBTXRSUGczdUZFV3hMdG
 
 ---
 
-### 【深圳特区报】优必选“三箭齐发”打通量产全链条 加快构建具身智能时代人形机器人生态平台 - 搜狐
+### 拉斯海玛政府与优必选科技签署战略合作备忘录，共推人形机器人研发与气候适应性实测 - 荣格工业传媒
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOUE1UjR1Y2ZPcEFFNXkwS294TklIQjhJNm1jRDAtdzVNSmNQMTlneU83VHQtVThTdF91cVVkSktMdzJkMldPalBhUklzNkNFeXhEZEhUZVN0QQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiWkFVX3lxTE8tOUE1UjR1Y2ZPcEFFNXkwS294TklIQjhJNm1jRDAtdzVNSmNQMTlneU83VHQtVThTdF91cVVkSktMdzJkMldPalBhUklzNkNFeXhEZEhUZVN0QQ?oc=5" target="_blank">拉斯海玛政
+
+---
+
+### 鄱阳湖畔 机器人走下产线 - 九江新闻网
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ESkxpbEIzeFNqZUZ2dGR3dThkdmNYQTVKc2RVTHNrVzFjZTlNU3hGOW8yQzJNUGxCWm5hMGxlYlltSF9vcXVqQ0FDanJCaWtQZUZGVC1WMmxqWTl3SGlF?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE9ESkxpbEIzeFNqZUZ2dGR3dThkdmNYQTVKc2RVTHNrVzFjZTlNU3hGOW8yQzJNUGxCWm5hMGxlYlltSF9vcXVqQ0FDanJCaWtQZUZGVC1WMmxqWTl3SGlF?oc=5" target="_blank"
+
+---
+
+### 与“机械臂”争夺剩下20%的工业场景？对话优必选：人形机器人已过概念验证，规模化仍面临量产、复购关 - finance.sina.com.cn
+
+**发布日期**: 2026-10-16
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3NCeFo5VkN2WGRfUkVvWjZqYlA5YWtCQ2JfWnVWb3FnZktDTmxLN3VGTmF4WmI1ektDMTdyakJuaWRnWnZlblgwMFdoMHZ2aG5wNUpmT0MyamRzRkNlaGU5d2dOU3lhT2pDX0k0R2ZSWjJfSWpCdjlLMzU4dmNuSDR5VHFpQ0E?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxQb3NCeFo5VkN2WGRfUkVvWjZqYlA5YWtCQ2JfWnVWb3FnZktDTmxLN3VGTmF4WmI1ektDMTdyakJuaWRnWnZlblgwMFdoMHZ2aG5wNUpmT0MyamRzRkNlaGU5d2dOU3lhT2pDX0k0R2
+
+---
+
+### 阿联酋哈伊马角与优必选将推进人形机器人研究。 - 手机新浪网
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiS0FVX3lxTE1INVBUa1g0azNEamZYTVJrellWRXF1dnhFNER4QUxrV2VNNlRkaEwwSEtGRjdOQ1lTREZzZFBBbktyTlZ5WWJjYzBxZw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE1INVBUa1g0azNEamZYTVJrellWRXF1dnhFNER4QUxrV2VNNlRkaEwwSEtGRjdOQ1lTREZzZFBBbktyTlZ5WWJjYzBxZw?oc=5" target="_blank">阿联酋哈伊马角与优必选将推进人形机器人研究。</a
+
+---
+
+### 拉斯海玛政府与优必选科技签署战略合作备忘录 - 搜狐
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmFWR2xuc01uc3dCblkwa19vOTFjUkFGeUR1cTJBYlFNdEdCNEVjRUhmajlrbUgyVXZ4WFJGeXB4TmRVUkhnMWc1V1JyMEw1RHhaNnVJdXNBUThwUWE2M05LVE5TYkZXYlpPWGpzYTVmamFBUGZYVGlNWlp2aU1iMmlJQnZQaDZvckhEQg?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxPZmFWR2xuc01uc3dCblkwa19vOTFjUkFGeUR1cTJBYlFNdEdCNEVjRUhmajlrbUgyVXZ4WFJGeXB4TmRVUkhnMWc1V1JyMEw1RHhaNnVJdXNBUThwUWE2M05LVE5TYkZXYlpPWGpzYT
+
+---
+
+## 小米机器人
+
+### ICRA 2026智元世界挑战赛落幕中国团队包揽全部赛道冠军|vivo|小米机器人|高德地图|赛事|机器人_手机新浪网 - 新浪财经
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwJBVV95cUxNMU54c01LbzBkTjk3RGxwV1JKYndmYUo2T2tIYklkbk5ZZ19ydktkb0ZYRndIT3F4VjBVbHNWOTYtcUJMUHpJU3JaZDhTWTBRZlUwRV9aVlpuQWRGM3Bqd3pVVW1rem1FVExueEVVOTRUdlZDcGh0X2N0LVVUVm5talg0bkpXWW9FOUNRejAyMFdEbHBFdDZaZGk2Q19LQTduM0JTV3VnV1dTcTdWOGJsR2d0bDZvRk5wOXktZENuY1RINzF6XzE0SjVHSmQzVGlOVDk1V1dnYmxRMmdHVWZuVDNoalhRMjU2TXp6MVdabURjdGpFMGRhX1BlSDRfZzZvWFpPNVB3cmZrZGQ2Q2VJ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMijwJBVV95cUxNMU54c01LbzBkTjk3RGxwV1JKYndmYUo2T2tIYklkbk5ZZ19ydktkb0ZYRndIT3F4VjBVbHNWOTYtcUJMUHpJU3JaZDhTWTBRZlUwRV9aVlpuQWRGM3Bqd3pVVW1rem1FVExueEVVOT
+
+---
+
+### 2026扫地机器人热销榜大变局：科沃斯守擂、石头猛追，3000元档闭眼选哪款？+FAQ - 新浪网
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkFNSEhwSHlrNE0wSC1mWGVGU2Z0Q29IS3drNmp5RW9DRVdFdXdqdHVoSUgtbmRIeWJMV3pERzdiSUNqWlFCdnFRNG5sWUE0bXM0UFpnenc4Z29UTC1UU2t2ZldrTFRPemc2b1h2ck9KMVBBMk9CaXl0ZlVMTkRZZQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMigAFBVV95cUxPdkFNSEhwSHlrNE0wSC1mWGVGU2Z0Q29IS3drNmp5RW9DRVdFdXdqdHVoSUgtbmRIeWJMV3pERzdiSUNqWlFCdnFRNG5sWUE0bXM0UFpnenc4Z29UTC1UU2t2ZldrTFRPemc2b1h2ck
+
+---
+
+### 雷军挖走字节一员大将|字节跳动|小米科技|周受资|张一鸣|小米 - finance.sina.com.cn
+
+**发布日期**: 2026-10-16
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUNtSDZSZGJtLU41X0dybEVuSWtpdXJBT3IwTjVnckZPd0VLTWtIT3JuRE9qU0dKZWpubzkwNVpMeWpHMl9tNHpybHFnNVRib2cydkwtLXpxbjNyMGl1Qng2RUFIWEtJY1JWSkNsdWNoRE1ZamNISUpsakZBTDVmQ0tIbUg2bEZ4N1VSQlU1RVV1elE?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMikwFBVV95cUxOeUNtSDZSZGJtLU41X0dybEVuSWtpdXJBT3IwTjVnckZPd0VLTWtIT3JuRE9qU0dKZWpubzkwNVpMeWpHMl9tNHpybHFnNVRib2cydkwtLXpxbjNyMGl1Qng2RUFIWEtJY1JWSkNsdW
+
+---
+
+### 手机长出“手脚”？机器人扔掉遥控器！ - 新浪网
+
+**发布日期**: 2026-10-17
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMikwJBVV95cUxOUUl3Z1o4SkV6N2FDRG5Cb1E3VzQ4TGZpWWFpSDN3ZXRMdXgxOUNsZnVJWXhsLUdqcWgzYUp6M2JGb1FVb1NCak5lakgxdmYwWnhxX0RlMFpaWGhDLTgzaXZkVVJqV085VFEyckttMmcyMU1RMTNRRGNrRjZpOTc5eE15ZExCMmVNTDZ0bXBnWWRHb3QtUVMwdmF2MU4tVTJ4WldfNWJYMnN0VnVmOTA0VEhXT2I5Q1AwOWdIZEx6SXk2Y05fMldnTFppeWtyT3g3c1pCNTRVYTBMT3Nfbm9fRUliMVhJSFJqekxFakdiTXFqbFZTUTJVUGNRNjVQMDhHQ1Q1VUptYndORE50dHQ4MHNOOA?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMikwJBVV95cUxOUUl3Z1o4SkV6N2FDRG5Cb1E3VzQ4TGZpWWFpSDN3ZXRMdXgxOUNsZnVJWXhsLUdqcWgzYUp6M2JGb1FVb1NCak5lakgxdmYwWnhxX0RlMFpaWGhDLTgzaXZkVVJqV085VFEyckttMm
+
+---
+
+### 雷军与王兴兴：营销之王与技术极客的双向奔赴|小米科技|宇树科技|哔哩哔哩|小米|机器人 - finance.sina.com.cn
+
+**发布日期**: 2026-10-17
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi5gRBVV95cUxNY0RzTDhPcWFWSmxUMVlFVnFTaFhCVGxJTVhGNnBOTUR2MWlNZnZmYjFxN2hFbFhDMHVqbkdQMmdwN2h0RF8zR2V5RkY1T0w3VXVsWUo2WGQ3SEtNdFZWVTVmcGNKZ1lEdjk5SjZEQ3QxMk54R1Zsbk9OeHg2QnB5bjd2WUNCcGdOREppTEw4b3Y1M2JSRFl5MURvRlZNaXJzMF9ZOGtkQWFwaG1SeTJaSlJmM0pXVUE1dWpjU0JscHBPUHFkNGRHMnYybzlUOWxtX0l3T0NqdVNhUmtDSTRmN29keDluUlF0VnY1M1ZFOW1PQmJqeXE4T2xReWdobWk3bE9lQWZVVTRNSGVGNHo1c1doU1ZWQ2Z3cmtVVzdMMXRlT1JKYVF6M1BCVl9Kd2NMaWZrR1kxWVVPbUtIOUVBM0FmTVg3ZHBHZnA1T0k0WGlmWXVITjFHZU9OdEo3UnkzbzJnMzZzVG1aWk9xZHdVUlhMbjlITTNCSlQ3N1ktdkVXV1NsUkJ2MDl6cW1NZXhIOUZBMW9oMjRhODNtbGI3RkZXd255YkxNS2JXNHdOamk5OUJjRV9tZEJ1NWlkU3E3VWhsOFdWNGNOOVBMNndFanBRVGJrcmE4SmtLc2tTWmxYbWpNY01hZC1Kc1cxc00zc3IwSHZlcWJFLUVaalhvYV9XSmZkWnNqd2U4LXNQbmdJUWpyVWVXeXdqZkt0VDdFQVBJS0h6V2tiSmlBUFBWaVR5Q1BDSzNlNF9NWlJhc0N2WTFFeExGbFpxb2FDaDZ3QlN6b21YeWRBWkthSDRXX2VWRXNuQQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMi5gRBVV95cUxNY0RzTDhPcWFWSmxUMVlFVnFTaFhCVGxJTVhGNnBOTUR2MWlNZnZmYjFxN2hFbFhDMHVqbkdQMmdwN2h0RF8zR2V5RkY1T0w3VXVsWUo2WGQ3SEtNdFZWVTVmcGNKZ1lEdjk5SjZEQ3
+
+---
+
+### 2026年小米扫地机器人哪款值得买？3个维度终结选择困难+FAQ - 手机新浪网
 
 **发布日期**: 2026-10-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUprQm4wYXFGZkJvd2FsbUJlUHZYS29zM1I2em1LVndXZmdGajBzdGtNc3FRTGFSdEh2dm9lNEZnUUxyRUx0NTVKcU1vclo2bjl6dzZ3YzM1b3kxSkVPX3pMR3J4YmtkZkZ3SWlVUTAyTHpzSlBYbHVOeHE1RXF3ZV9JTU9RXzd4T3hBTw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oYkJSSjlfTnEzdlJZRnNNS0hLbVFDQ3lyenVNY19hdFZJbmhjRDVMVGgtYm5QTHMwd1c4VkdsQ3d1NkxqTTdsUTlVb2dQWG9HdFVlVHE4bThrdU1hVWdV?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxOcUprQm4wYXFGZkJvd2FsbUJlUHZYS29zM1I2em1LVndXZmdGajBzdGtNc3FRTGFSdEh2dm9lNEZnUUxyRUx0NTVKcU1vclo2bjl6dzZ3YzM1b3kxSkVPX3pMR3J4YmtkZkZ3SWlVUT
-
----
-
-### 【国内动态】自己换电池、24小时不歇班！这个广东机器人，已在多家工厂上岗→ - 搜狐
-
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxObHZtbFg2WDN5UUlIaXdKdmwxMkFPdXBSemFOTVF5X1VDQi1zUkJVZEFxV0haV29ZOEdWM3g3dFpvVDlqblJjdzA2b25FNHhaTmF4cWttUDRmTUNSU21LbWVNRmdrMVZEX1ZsSlJld0RfZWpYSHliSE1ScXpRczVQcUdrUndoOFMzS3lVQQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxObHZtbFg2WDN5UUlIaXdKdmwxMkFPdXBSemFOTVF5X1VDQi1zUkJVZEFxV0haV29ZOEdWM3g3dFpvVDlqblJjdzA2b25FNHhaTmF4cWttUDRmTUNSU21LbWVNRmdrMVZEX1ZsSlJld0
+<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE1oYkJSSjlfTnEzdlJZRnNNS0hLbVFDQ3lyenVNY19hdFZJbmhjRDVMVGgtYm5QTHMwd1c4VkdsQ3d1NkxqTTdsUTlVb2dQWG9HdFVlVHE4bThrdU1hVWdV?oc=5" target="_blank"
 
 ---
 
-### 沸点科技：宇树科技与优必选深度对比 - finance.sina.com.cn
+### 2026小米扫地机器人哪款最值得买？3个维度终结选择困难+FAQ - 手机新浪网
 
 **发布日期**: 2026-10-13
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMibkFVX3lxTE9RMXRvNW1YRnBRbjdscnBvdmpJcFBGYUY5Q2s5ZDg1OV8yZkh5c2haOHRmZldOU1pxTE15LTI5TE1sQmF2cmF1dHlqOXNpMTlTWWdtWjY4c0FMV0lmRlJjNFhneEduek1nQlVfcm1n?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xVHNaSTlBRTZPNXNGSHdtWk1VTEJRdHlWWVNGRUh3c0xpRV9LOE41MEJVSVNVQlhGbGdta1BWZ0dkT2dNWjdTbXBENExBNy1tenVJUlJtbzg2MGh2Y0dB?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMibkFVX3lxTE9RMXRvNW1YRnBRbjdscnBvdmpJcFBGYUY5Q2s5ZDg1OV8yZkh5c2haOHRmZldOU1pxTE15LTI5TE1sQmF2cmF1dHlqOXNpMTlTWWdtWjY4c0FMV0lmRlJjNFhneEduek1nQlVfcm1n?o
+<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5xVHNaSTlBRTZPNXNGSHdtWk1VTEJRdHlWWVNGRUh3c0xpRV9LOE41MEJVSVNVQlhGbGdta1BWZ0dkT2dNWjdTbXBENExBNy1tenVJUlJtbzg2MGh2Y0dB?oc=5" target="_blank"
+
+---
+
+### 小米扫地机器人2026全系怎么选？6 Pro/6 Max/5C三档横评+FAQ - 手机新浪网
+
+**发布日期**: 2026-10-13
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE41ODZfdnp4anBlMGpDT05YLUp5V09XMUdUbmVmMTNERVFoSGVkeXpBTkYtVk5paVg5NHFhMDc0SS1rcVM3N21lWGpZTzNhb1pSOW1USHdncGt5RlhEcHdZ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE41ODZfdnp4anBlMGpDT05YLUp5V09XMUdUbmVmMTNERVFoSGVkeXpBTkYtVk5paVg5NHFhMDc0SS1rcVM3N21lWGpZTzNhb1pSOW1USHdncGt5RlhEcHdZ?oc=5" target="_blank"
 
 ---
 
 ## Industry News
 
-### An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/)
-
-
-
----
-
-### Video Friday: When Two Robots Become One
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://spectrum.ieee.org/video-friday-reconfigurable-robots)
-
-
-
----
-
-### ADI explains the race to make AI physical
-
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/)
-
-
-
----
-
-### Why opportunity charging is winning as robot fleets scale
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/)
-
-
-
----
-
-### MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/)
-
-
-
----
-
-### Stryker invests $400M into CMR Surgical
-
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://www.therobotreport.com/stryker-invests-400m-into-cmr-surgical/)
-
-
-
----
-
-### How ADI is helping robotics startups scale
-
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/)
-
-
-
----
-
-### NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors
-
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/)
-
-
-
----
-
-### Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness
-
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/)
-
-
-
----
-
-### ADI explains the race to make AI physical
-
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://www.therobotreport.com/adi-explains-the-race-to-make-ai-physical/)
-
-
-
----
-
-### Why opportunity charging is winning as robot fleets scale
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://www.therobotreport.com/why-opportunity-charging-is-winning-as-robot-fleets-scale/)
-
-
-
----
-
-### MassRobotics opens applications for Healthcare Robotics Startup Catalyst Program
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://www.therobotreport.com/massrobotics-opens-applications-healthcare-robotics-startup-catalyst-program/)
-
-
-
----
-
-### Stryker invests $400M into CMR Surgical
-
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://www.therobotreport.com/stryker-invests-400m-into-cmr-surgical/)
-
-
-
----
-
-### How ADI is helping robotics startups scale
-
-**发布日期**: 2026-10-15
-**链接**: [查看原文](https://www.therobotreport.com/how-adi-is-helping-robotics-startups-scale-2/)
-
-
-
----
-
-### NYSOFA expands partnership with Intuition Robotics to bring ElliQ to more seniors
-
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://www.therobotreport.com/nysofa-expands-partnership-intuition-robotics-bring-elliq-more-seniors/)
-
-
-
----
-
-### Hello Robot, A&K Robotics to discuss how robots navigate crowded indoor spaces at RoboBusiness
-
-**发布日期**: 2026-10-13
-**链接**: [查看原文](https://www.therobotreport.com/hello-robot-ak-robotics-discuss-how-robots-navigate-crowded-indoor-spaces-robobusiness/)
-
-
-
----
-
-### AI lab offers free plumbing and HVAC repairs across three cities to train AI robots
-
-**发布日期**: 2026-10-18
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9bqtf/ai_lab_offers_free_plumbing_and_hvac_repairs/)
-
-
-
----
-
-### 42 Simulation Worlds for Navigation, Exploration and SLAM workflows
-
-**发布日期**: 2026-10-18
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9hj5u/42_simulation_worlds_for_navigation_exploration/)
-
-
-
----
-
-### The Landscape of Humanoids - 2,351 products, 788 companies
-
-**发布日期**: 2026-10-18
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9c0ss/the_landscape_of_humanoids_2351_products_788/)
-
-
-
----
-
-### EMG-Driven Robot Control vs. Traditional Control
-
-**发布日期**: 2026-10-18
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9etob/emgdriven_robot_control_vs_traditional_control/)
-
-
-
----
-
-### Why Does This Robot Have Porcupine Spikes Instead of Wheels?
+### The Robot I Didn’t Expect to Build
 
 **发布日期**: 2026-10-19
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9mbom/why_does_this_robot_have_porcupine_spikes_instead/)
+**链接**: [查看原文](https://spectrum.ieee.org/agility-robotics-digit-5-redesign)
 
 
 
 ---
 
-### Help with Edison v3 scratch clap driving program
+### Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs
 
 **发布日期**: 2026-10-19
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9lsyc/help_with_edison_v3_scratch_clap_driving_program/)
+**链接**: [查看原文](https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/)
 
 
 
 ---
 
-### Collaboration Request: Space inspired robotics/rover for a show!
+### Daimon Robotics building the infrastructure layer for tactile intelligence
 
-**发布日期**: 2026-10-18
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9b6e8/collaboration_request_space_inspired/)
-
-
-
----
-
-### DIY robot arm that plays Nine Men's Morris
-
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x8lkji/diy_robot_arm_that_plays_nine_mens_morris/)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/)
 
 
 
 ---
 
-### Build a robot
+### Kodama raises $7M to bring robotics to forestry
 
-**发布日期**: 2026-10-18
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9dg0e/build_a_robot/)
-
-
-
----
-
-### My robot dog kept finding new ways to move across gravel
-
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x8h4ga/my_robot_dog_kept_finding_new_ways_to_move_across/)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/)
 
 
 
 ---
 
-### [Open-source] One-Class SGD (SONAR)
+### A guide to everything happening at RoboBusiness 2026
 
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x8nlbr/opensource_oneclass_sgd_sonar/)
-
-
-
----
-
-### We completely switched to frontier LLMs to control a robot
-
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x7omwo/we_completely_switched_to_frontier_llms_to/)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.therobotreport.com/a-guide-to-everything-happening-at-robobusiness-2026/)
 
 
 
 ---
 
-### I spent six months developing a Real-Time 4k60FPS CUDA-based underwater image enhancement system. Here's a 5-second comparison.
+### Unleash AI Innovation: The Power of NVIDIA RTX PRO 6000 Blackwell Workstation Edition Fueled by PNY-Supplied GPUs
 
-**发布日期**: 2026-10-16
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x7skpy/i_spent_six_months_developing_a_realtime_4k60fps/)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.therobotreport.com/unleash-ai-innovation-the-power-of-nvidia-rtx-pro-6000-blackwell-workstation-edition-fueled-by-pny-supplied-gpus/)
 
 
 
 ---
 
-### 2h robot dog simulation
+### Daimon Robotics building the infrastructure layer for tactile intelligence
 
-**发布日期**: 2026-10-17
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x7wemk/2h_robot_dog_simulation/)
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.therobotreport.com/daimon-robotics-building-the-infrastructure-layer-for-tactile-intelligence/)
+
+
+
+---
+
+### Kodama raises $7M to bring robotics to forestry
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.therobotreport.com/kodama-raises-7m-bring-robotics-forestry/)
+
+
+
+---
+
+### A guide to everything happening at RoboBusiness 2026
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.therobotreport.com/a-guide-to-everything-happening-at-robobusiness-2026/)
+
+
+
+---
+
+### Ukraine claims world’s first drone evacuation of wounded soldier
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9xeld/ukraine_claims_worlds_first_drone_evacuation_of/)
+
+
+
+---
+
+### If only I got money...would make this happen lmao
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9wt3g/if_only_i_got_moneywould_make_this_happen_lmao/)
+
+
+
+---
+
+### Can a Jetson run vision-language navigation locally? Here's my robot simulation dem
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9t96x/can_a_jetson_run_visionlanguage_navigation/)
+
+
+
+---
+
+### Actuator Following Ultrasonic Distance Sensor
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9zu8k/actuator_following_ultrasonic_distance_sensor/)
+
+
+
+---
+
+### These Thin Artificial Muscles Can Lift 200x Their Weight Without Motors 🤯
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xa3ufh/these_thin_artificial_muscles_can_lift_200x_their/)
+
+
+
+---
+
+### Unitree's new system lets operators change robot dance moves with text
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xa0ysz/unitrees_new_system_lets_operators_change_robot/)
+
+
+
+---
+
+### Éloi is having an Ophelia moment 🌸💀
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9mn07/éloi_is_having_an_ophelia_moment/)
+
+
+
+---
+
+### How do quarternions actually prevent gimbal lock?
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9wsg6/how_do_quarternions_actually_prevent_gimbal_lock/)
+
+
+
+---
+
+### [Event Recording] Compose your robotics data platform
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9t956/event_recording_compose_your_robotics_data/)
+
+
+
+---
+
+### Making "Cassie" in 2026
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9t4x8/making_cassie_in_2026/)
+
+
+
+---
+
+### What if the robot policy is a coding agent, not a VLA?
+
+**发布日期**: 2026-10-19
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1x9rjq3/what_if_the_robot_policy_is_a_coding_agent_not_a/)
 
 
 
