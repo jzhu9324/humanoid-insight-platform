@@ -6,433 +6,577 @@ type: company-news
 
 # 人形机器人公司动态 - 2026-11-04
 
-本期收录 8 家公司的 46 条动态。
+本期收录 8 家公司的 62 条动态。
 
 ## Tesla
 
-### Tesla is set to open reservations for Optimus robot later this year, says industry expert - The San Francisco Standard
+### Tesla Could Soon Start Taking Orders For Its Humanoid Robot - Motor1.com
 
-**发布日期**: 2026-10-30
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE9ydi14SkhhWXNPcUhScTJtc1ZiTzZrSy1mV1hLbEtTNUEycFlTTVYyNjNpXzNFQ3B3R3FQQmFLVUxFVTd2WkpLOTRKeExCaEhuRVJ3Qml3eVdITjdwanJnY2RKU1dXaUFSaHpTNGFoNGg?oc=5)
+**发布日期**: 2026-11-03
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFNRMThaWl9nQjdEaHVUbDVLWW9wd2xPM1RkVXpMdGJEdmRSbHRyUEhqYWZYQmRNQkVTQVM0STVnUnpLUVZWQmdaMi05endhalZCM0tQZmF0TEFqdUlHNWxEc0daaGlIWVVxQzdBOWFuWldnRExJaHYzTGF5bmhlMXZid29LT2Jq?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE9ydi14SkhhWXNPcUhScTJtc1ZiTzZrSy1mV1hLbEtTNUEycFlTTVYyNjNpXzNFQ3B3R3FQQmFLVUxFVTd2WkpLOTRKeExCaEhuRVJ3Qml3eVdITjdwanJnY2RKU1dXaUFSaHpTNGFoNG
-
----
-
-### Tesla Optimus Reservations Rumored for December: What We Know - BASENOR - Tesla Accessories
-
-**发布日期**: 2026-11-01
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxNblI1Y09jNVZZalRrNTl6Z3hVS1k1eFZ3ZGExR2hoQXRFQUhqdkd5dEpfNE83LV9QMEtLellKbF81R1ZQTWprMjRlQWlLR0phRGFnd0RZMkl2QURORFdwNTYtSWV6ZVVuQnR4YVVkRlF2bUU4VVBJMkhuWVBnb3o3WVhKTC1vZGhhNVpqNlVHVnU4VTlJaXhueDlLOA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNblI1Y09jNVZZalRrNTl6Z3hVS1k1eFZ3ZGExR2hoQXRFQUhqdkd5dEpfNE83LV9QMEtLellKbF81R1ZQTWprMjRlQWlLR0phRGFnd0RZMkl2QURORFdwNTYtSWV6ZVVuQnR4YVVkRl
+<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbFNRMThaWl9nQjdEaHVUbDVLWW9wd2xPM1RkVXpMdGJEdmRSbHRyUEhqYWZYQmRNQkVTQVM0STVnUnpLUVZWQmdaMi05endhalZCM0tQZmF0TEFqdUlHNWxEc0daaGlIWVVxQzdBOW
 
 ---
 
-### Tesla To Deploy Optimus Humanoid Robots To Plug In Driverless Cybercabs - DSF.my
+### Tesla Wants to Build 20,000 Optimus Robots a Week. Here's the Supplier That Gets Paid for Every Single One -- and It's Not Nvidia. - The Motley Fool
 
 **发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTBldkh6Y05ELTlmaDhicnB1XzhtdENNMVR4bmtVLVU5TTM0UGhoLVVObmVqQjd3YklIMlE1WjlKTlRZdTA0R2N1QjdKQkNKSk9WU3pCcU9SRk5fOGk1WEROSnNrMFk5ejMzT00yU2RIZVJCMnF6dFVfaGFzVE9RVmx1RG90eUJWUnJvVzZ5YXV6NDNTS1hVQW00dFY?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxORTY4aVJwMkdGcmJINEFwdnVITnlhWmZiNFRWX0hvcVN6ZHBBTHMtdDRlb2VleGM2QzYyMk5fWG1TZWQ2VEVpMWJEdkZtTHdpeHRtRFo5Q0s5Yk1icXZaZjlUdmxyTkVYRVJmeXo1amVNbUNtNTlkT2ZjZ3BfTXZmeEx5RGRUZVpXYUZFMjZ0VGgxR1pmbGVkcQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMinAFBVV95cUxNMTBldkh6Y05ELTlmaDhicnB1XzhtdENNMVR4bmtVLVU5TTM0UGhoLVVObmVqQjd3YklIMlE1WjlKTlRZdTA0R2N1QjdKQkNKSk9WU3pCcU9SRk5fOGk1WEROSnNrMFk5ejMzT00yU2
-
----
-
-## Boston Dynamics
-
-### Brian Donnelly of Boston Dynamics - DC Velocity
-
-**发布日期**: 2026-10-30
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVhBalNTWE1iMU5CTjRFUkx0M1FBbVF4bk9JVHVUMEZISmpfZklhd09LUy1TenFJNkhUM3o0SGMtd1B0QUVPMEtXemxMSld4bUx2QjRYQmRyUmVKWGpZdE8wYkVSSV9FUkJGY2ZFZllJOWVETkNtZS02WVlUZEZUVHNZd20?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxOZVhBalNTWE1iMU5CTjRFUkx0M1FBbVF4bk9JVHVUMEZISmpfZklhd09LUy1TenFJNkhUM3o0SGMtd1B0QUVPMEtXemxMSld4bUx2QjRYQmRyUmVKWGpZdE8wYkVSSV9FUkJGY2ZFZl
+<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxORTY4aVJwMkdGcmJINEFwdnVITnlhWmZiNFRWX0hvcVN6ZHBBTHMtdDRlb2VleGM2QzYyMk5fWG1TZWQ2VEVpMWJEdkZtTHdpeHRtRFo5Q0s5Yk1icXZaZjlUdmxyTkVYRVJmeXo1am
 
 ---
 
-### Hyundai Mobis to Begin Atlas Actuator Prototype Production Next Month - 조선일보
+### Xiaomi’s humanoid robots work a full 8-hour shift in its EV factory - Electrek
 
-**发布日期**: 2026-10-30
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUh6bGNBdlVQM1Z0ZXdTTEZ0UDV1ZW9GZGZvTjM3ZTh3cGtReDNDVWZUMXVkV0xLSFo5ZlJxbHZrVzNEZ0ZPX1NvT0ttMmJDaUM4QUZqbGhkaVpubmRwV0Z3REp6cE9CMzhkd3FfSzdndF82Z0hDZW1vMUZONzB2SnZPaTdTbDF2?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHlsVE02aUd1U3ozeUxFNi1BdFljTU1FOVNtbXNXd0dmYnRSYUZiYUFkQXlpc0ZtZG8xOTFjc3V6aEZ5aklYd3Y5d3ZYTnExR2RsbnpEU1pIbWluWC1IZDhIYWowaWtBM1dGa3FydkNkZUxTWURWaHV5ZHlhU2lkY0NXUQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOLUh6bGNBdlVQM1Z0ZXdTTEZ0UDV1ZW9GZGZvTjM3ZTh3cGtReDNDVWZUMXVkV0xLSFo5ZlJxbHZrVzNEZ0ZPX1NvT0ttMmJDaUM4QUZqbGhkaVpubmRwV0Z3REp6cE9CMzhkd3FfSz
+<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPRHlsVE02aUd1U3ozeUxFNi1BdFljTU1FOVNtbXNXd0dmYnRSYUZiYUFkQXlpc0ZtZG8xOTFjc3V6aEZ5aklYd3Y5d3ZYTnExR2RsbnpEU1pIbWluWC1IZDhIYWowaWtBM1dGa3Fydk
+
+---
+
+### Tesla Shares Slip Despite Solid Q3 Results as Robot Monetization Pushed to 2027 - BigGo Finance
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE1xbUNYMC1wRTVob3Zkajh5M1MxZVI3amdLSXMxTFF1QlZpcTZDVnJPQndWOEYzVURIZGNQQW4wNVQ4TVV2c29pWUplXzJpRkU1YTBBVHEySTdjemxjbjUwWGtwbzVkM2lhZTBZT3ZtVE5jSmdMSmc?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE1xbUNYMC1wRTVob3Zkajh5M1MxZVI3amdLSXMxTFF1QlZpcTZDVnJPQndWOEYzVURIZGNQQW4wNVQ4TVV2c29pWUplXzJpRkU1YTBBVHEySTdjemxjbjUwWGtwbzVkM2lhZTBZT3ZtVE
 
 ---
 
 ## Figure AI
 
-### Figure 03 humanoids walk out of a factory that’s still far from full - The Gadgeteer
+### Meta Built a Humanoid With Fourier in 3 Months [2026] - shattered.io
 
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMif0FVX3lxTFBBVDRvS0dNcVNWSjNNWS1mc2Z2b3JvYmJMOFAxdTZsNTNRVnBlTm82UW5sTkUzUkZkRUJ0aXJBMGE3aE0zZ3NRdjdXV3AyelplMnk2al9ZRktZNU1Za0lTZXJQbUtHMXFvX1hlNG1xdG1pVG1yc2hfWHVQejIzM1U?oc=5)
+**发布日期**: 2026-10-31
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMigwFBVV95cUxPeW82Qzdwem11LUxJRjFsVUFUelpBZUhsYVR6M3VCX29PdnJmMWhqaFI4WlAxWEdDaW40ZU9LNmdYZ0Z2dVRzbDRjdDU5bVN2Z1I0TjFBOHUybHY0WW9Pa3BSWV83WDJQNnpidlVvNFBxWmlMZk5Gby1pUlYwcjdUb0E3bw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMif0FVX3lxTFBBVDRvS0dNcVNWSjNNWS1mc2Z2b3JvYmJMOFAxdTZsNTNRVnBlTm82UW5sTkUzUkZkRUJ0aXJBMGE3aE0zZ3NRdjdXV3AyelplMnk2al9ZRktZNU1Za0lTZXJQbUtHMXFvX1hlNG1xdG
-
----
-
-### The Woman Breathing Life Into Next Generation Home-Help Robots - Bloomberg.com
-
-**发布日期**: 2026-10-29
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmxhX2V0cXpNU0NlOC0tcGhXNV9nRDlDSHJYa1ZzZmVoTkF1THExeHNwVkhvVm5tMFpKWjFnNFY1bVlGRFZraUk3U0dCUXdDRlRpSDNraXg5ZV9lc0hkTnowVnFRbXZqdGpRSHNHc2NsWHpMX0l5MXZRaGRrUklCYkNLQVdvLXVkaHBGSzZUMEZORFRYU2M2a1NPYUM3QTFidVBEVndSa09ZTjh4UG11VzR5bE1yQ1pkX0Z2dUJZV1V0a0pRS2JR?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMixwFBVV95cUxPVmxhX2V0cXpNU0NlOC0tcGhXNV9nRDlDSHJYa1ZzZmVoTkF1THExeHNwVkhvVm5tMFpKWjFnNFY1bVlGRFZraUk3U0dCUXdDRlRpSDNraXg5ZV9lc0hkTnowVnFRbXZqdGpRSHNHc2
+<a href="https://news.google.com/rss/articles/CBMigwFBVV95cUxPeW82Qzdwem11LUxJRjFsVUFUelpBZUhsYVR6M3VCX29PdnJmMWhqaFI4WlAxWEdDaW40ZU9LNmdYZ0Z2dVRzbDRjdDU5bVN2Z1I0TjFBOHUybHY0WW9Pa3BSWV83WDJQNnpidlVvNF
 
 ---
 
 ## Agility Robotics
 
-### Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC - The Robot Report
+### Agility Robotics Begins Trading On Nasdaq As AGLT After SPAC Vote - Startup Fortune
 
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjM5eEw4SlljbjZnSUJpdEdTVUNUcVpYSXN3WDZTVEd4aFVENFVYUllHeW94Rklkd1NyVTI1a3h5ZEs2X1BIQkVJNUE1cF9sY1dfRU5GOWdRWmVoWnJhZE5OVXZBZjNXV1RUb1VOSzBFLTJ5YmJ2NTJya3BJckpjYkZVZ1RnaTc2dm9PS3k2VzE?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnJ1OVVNazU0aGliU2tmMG83Um9RWTV5bmljQkhSOXNPSjVuUWtLMm9MaVg4VUR2dFZaRGVlZ1dhNFFHQnRSMDZvZXdJdmQxV2NiUUdmTmdHTXkzRlNwbUhmTW9QTzZ1Y2FJN2tqSFRxNnRpTW1oVXN1Qk05dlI4X3hBaVZJeW55V3pHbVptWFlHckZsR2JidA?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxOMjM5eEw4SlljbjZnSUJpdEdTVUNUcVpYSXN3WDZTVEd4aFVENFVYUllHeW94Rklkd1NyVTI1a3h5ZEs2X1BIQkVJNUE1cF9sY1dfRU5GOWdRWmVoWnJhZE5OVXZBZjNXV1RUb1VOSz
-
----
-
-### Agility Robotics, with plans to expand in Pittsburgh, is set to go public Thursday - The Business Journals
-
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHNiQXdRVEMwbW84Q3g5UlNIOUZnN1NBdHpjOC1PZERDZEt0bDJzWkZLVnlwQ0J2ZUprSURON2xTQnRORkM5Vlg1aFVibUdTSzlrdlNuNktGX0lTRC1FOFc3bTUzaEZOSHYxNXBvSi1nWm81OElaX2R6U0RISU1Kbjg2cHo5MTZ6Zm9xWnJhSjQwakRpLV9sOFBjYmViWklVUXR3QQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMipAFBVV95cUxPcHNiQXdRVEMwbW84Q3g5UlNIOUZnN1NBdHpjOC1PZERDZEt0bDJzWkZLVnlwQ0J2ZUprSURON2xTQnRORkM5Vlg1aFVibUdTSzlrdlNuNktGX0lTRC1FOFc3bTUzaEZOSHYxNXBvSi
+<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxQSnJ1OVVNazU0aGliU2tmMG83Um9RWTV5bmljQkhSOXNPSjVuUWtLMm9MaVg4VUR2dFZaRGVlZ1dhNFFHQnRSMDZvZXdJdmQxV2NiUUdmTmdHTXkzRlNwbUhmTW9QTzZ1Y2FJN2tqSF
 
 ---
 
-### Agility Robotics shares set to start trading Thursday - The Business Journals
+### GXO’s Humanoid Robots Are Getting More Warehouse Work - AIM Media House
 
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWEyVzc3NldXQTJPUWZjU0l5QkUwZTVlNHhRZ2J4d0NobHBJbGlscXIxeVBDX2lMUE5PY2NFRWU3Mkd4RG0tRmd5SjJyMW91cGJsQ29hMW90RE9NSkFnY1pNLTh6VHEyMDgteHV0OTU2TFFCb080YW1ZQU9wYkxuVGp3ZkdldGlWUlZRY1V0UE1WanRjVDh3TFdR?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMilwFBVV95cUxPRklMak9wMFpyNHJtUEpCZnFKSEVHUEFUd1ZRRXJreHktLUtiN1JkS1J0NnMyN0JJbV9JbWFKZzVWWFpyczExRnV0eEdocWc5Wm5FWVg1VDVhOThBbWM0bFNmS2FMc3dCcjNTZXozNHpxTmZCVWotTUJWUVVZRldXeVN4bTVZMTE3Z3NvYW1pd29TbWVnbXF3?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMimgFBVV95cUxPbWEyVzc3NldXQTJPUWZjU0l5QkUwZTVlNHhRZ2J4d0NobHBJbGlscXIxeVBDX2lMUE5PY2NFRWU3Mkd4RG0tRmd5SjJyMW91cGJsQ29hMW90RE9NSkFnY1pNLTh6VHEyMDgteHV0OT
+<a href="https://news.google.com/rss/articles/CBMilwFBVV95cUxPRklMak9wMFpyNHJtUEpCZnFKSEVHUEFUd1ZRRXJreHktLUtiN1JkS1J0NnMyN0JJbV9JbWFKZzVWWFpyczExRnV0eEdocWc5Wm5FWVg1VDVhOThBbWM0bFNmS2FMc3dCcjNTZXozNH
+
+---
+
+### Churchill Capital Corp XI Shareholders Approve Business Combination with Agility Robotics - The Manila Times
+
+**发布日期**: 2026-11-02
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTU0yblptT1M1cmw2SmlYazV3UFE1YU1DX2NXc1dWUmxRWi14WXprUDNlZVpwaXM3YVE0MC10RVVwTHdmSVFZT29KM3YzYk5NbjdEaGc3SmNqSkZNUXdGZ2RnUWpqeUJ2SDJCa3RoaGotbHY3VnQ4VlJ1VVBya3psZHhhbUVqREtJUXh1M3hiaHY3R1hDMVU1NG9DR2xsaEw5YmJSQ2FqazdESEJvWjZDNW1KcHRMZnNFdUk3MWliTS1mNHZxSVlYU0NtNGRUbW5ORDJJUTh3NXFTamdwZTRJSGtneWwwMDRycG1NMnNUczBIdDVTTmfSAfsBQVVfeXFMTVE0blFkdUo2WDM5NzVzYkVNV094dERrRi01WEdSUlBzR3JnclNoblZZdVZmZGloM1BQaU5FZGtORHpDeWM3bVN0cER6TTM4SlJ2dmJzcVoxRUt3Y0t1dE5hNWZSSm5WT252WVVQTDdaNFJjNHVlM1BHcTFkcHd5dmJvd2NCQ3NEQ1NKbU54ZFJnX0NRSV95U3RqUURYLWJYQ3Zzem82YlFkRFR3MG5PeUg5TE5hcGpwUGZQc1ZnV2NIaWVWODVISW5QUmM3elZRMXEtVmIwSko3YUhNdDd4MkRSQldtVDUyREJfcTg2czhwU04waHBDcW1PVk0?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMi9gFBVV95cUxPTU0yblptT1M1cmw2SmlYazV3UFE1YU1DX2NXc1dWUmxRWi14WXprUDNlZVpwaXM3YVE0MC10RVVwTHdmSVFZT29KM3YzYk5NbjdEaGc3SmNqSkZNUXdGZ2RnUWpqeUJ2SDJCa3RoaG
+
+---
+
+### Churchill Capital XI shareholders approve Agility Robotics merger with 84% vote - scanx.trade
+
+**发布日期**: 2026-11-02
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXhtbnNqd2oza0JCdWRMbkNHX24wSEQ0X2xOWXdXT3Q4TWt5UXZ1eHZsbVJoUDEtalZHcjF1NHJsYlhldmJIemlSc245UTNucV9VQ2dTS2IyUzg5a1FmdnlMYjkzajlaaVh4RV9GaEk4TWZtcHpXVGNzNjZ1am02TGQ1cGVDREV4dlRvV2Q2bGFTX1dsdHFUSEg0dHZkSEZKYVNyN2xacUJWTTZEMERqdHRLWGVnT29h?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiuAFBVV95cUxQdXhtbnNqd2oza0JCdWRMbkNHX24wSEQ0X2xOWXdXT3Q4TWt5UXZ1eHZsbVJoUDEtalZHcjF1NHJsYlhldmJIemlSc245UTNucV9VQ2dTS2IyUzg5a1FmdnlMYjkzajlaaVh4RV9GaE
 
 ---
 
 ## Unitree Robotics
 
-### China's robot makers have mastered the moves. Now comes the race for brains - ET Telecom
+### Unitree G1 robot’s ‘heatstroke’ during Mount Taishan race sparks debate over humanoid endurance - Global Times
 
-**发布日期**: 2026-11-02
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZqUHdLaHNUc1BfMnlyNDlaclVObG9PZmZYYUZUR2JfaE9aZkRyRENfNkFiX0kxYVVWYmVCazkzR2hMMlVldldvVW56VzE1SThFY01lcnN6WWgtbE1CTEVqQ1gzSVg4SS1DTXd5U05RMXRtOWNxRVFpeEZSdzl0cnFUaDZSU25neFVlY3IxelBZWG4tLXZoeS13ZGo1OXpyeG4zd1hUMkVvOHRjQ3kxZGxCY2FXRG81QzFXLU9ZeGxoZ0cxOXdxNTJuZElCNGozQm1oZGFfV1VqQQ?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vWTE5RlVHamRfcnJZTzVGYmt4MUlNc25XeFl3ZzExZjJFVHQ1bXQtNXEtRTQ3cnk1OEo0R2ZzdEotSHJBMjJwb1FzYkpaNy13Q1Q2S2tTTTZnYk5QTHNBc3JR?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWkZqUHdLaHNUc1BfMnlyNDlaclVObG9PZmZYYUZUR2JfaE9aZkRyRENfNkFiX0kxYVVWYmVCazkzR2hMMlVldldvVW56VzE1SThFY01lcnN6WWgtbE1CTEVqQ1gzSVg4SS1DTXd5U0
-
----
-
-### Toborlife AI Announces 2026 Sweepstakes Winner for Unitree RI Humanoid Robot - The National Law Review
-
-**发布日期**: 2026-10-29
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDQzN0FtX003aVZrQ0xVYUJ3X0VzLW1acnFQM3RSVUh5WHhNYnpEa01tS3c4LUlqa3l0THVPUkNfbzVLcWtGUTNSNF83MVQ0bzFBZXcySmw5bUtKbjJyWU5QdUROcFM3M1hLVThfSkxFZ19UV1pydW11WF9aMVN2NWt2MDQzMUNvUmNPSTMxbUQ3dXR2cWFTeGdlRkF4Zm9JMWxJY1JFNVdlNUdOT2p0RUV3?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMisgFBVV95cUxPcDQzN0FtX003aVZrQ0xVYUJ3X0VzLW1acnFQM3RSVUh5WHhNYnpEa01tS3c4LUlqa3l0THVPUkNfbzVLcWtGUTNSNF83MVQ0bzFBZXcySmw5bUtKbjJyWU5QdUROcFM3M1hLVThfSk
+<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTE5vWTE5RlVHamRfcnJZTzVGYmt4MUlNc25XeFl3ZzExZjJFVHQ1bXQtNXEtRTQ3cnk1OEo0R2ZzdEotSHJBMjJwb1FzYkpaNy13Q1Q2S2tTTTZnYk5QTHNBc3JR?oc=5" target="_bl
 
 ---
 
-### Meta Said to Build Humanoid With China’s Fourier in 3 Months - FourWeekMBA
+### ID Logistics to test a humanoid robot at a site in Germany within six months - Idéal Investisseur
 
-**发布日期**: 2026-10-31
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWdvLXBubFlyanU1a1h6OGVPZmF6aVZIN2FUOFp3a2NqSmx4d21BVk44ZVdJU3lfd01CWUZDZVFLaW1SQ0pHUVd3LS1pblBoSzVKcFBYUTRlQkQ3YW9ES011MXFZZmp3UTJSTXBnWWpoQ1hfeERsS182STc3YXBDMnY2bXNRcGxmbTB3M2Zaby0?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekJTam5YX1Nvek5NV182MS1POWRMSEdIYThPb1IwVGJCZVU0MkZnODNNam12dlo5MS1TVjlZNTVCMzBpSEl5YV8xN3N0dTNvcnlCVFBCdHdKT2w4WmlubUEzVmFVOEhGM2dJOUd4LWRtLXAzb1F2a3FoREJBbVlWWUFKN3NuY0huNWcyaFE5QVlOWmwtci01R1Q0UzFlVzFpYzFKR3oxUHcycTE0TC1QM0prQ0pHeTJ3alN4a0NmZnY1RzQtX1U5dVJTcnVlLVd0?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMikAFBVV95cUxNVWdvLXBubFlyanU1a1h6OGVPZmF6aVZIN2FUOFp3a2NqSmx4d21BVk44ZVdJU3lfd01CWUZDZVFLaW1SQ0pHUVd3LS1pblBoSzVKcFBYUTRlQkQ3YW9ES011MXFZZmp3UTJSTXBnWW
+<a href="https://news.google.com/rss/articles/CBMi0AFBVV95cUxQekJTam5YX1Nvek5NV182MS1POWRMSEdIYThPb1IwVGJCZVU0MkZnODNNam12dlo5MS1TVjlZNTVCMzBpSEl5YV8xN3N0dTNvcnlCVFBCdHdKT2w4WmlubUEzVmFVOEhGM2dJOUd4LW
 
 ---
 
-### AI and Robotics News : Anthropic IPO, Humanoid Robots and Nvidia’s European Push - Eurasia Business News
+### China's Most Famous Robot Was Carried Down Mount Tai on a Stretcher - Trending on Weibo
 
-**发布日期**: 2026-10-28
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMivAFBVV95cUxONndUOWQzNDQyUEQ0dzgyN1RtaVBQT0lhVWZSdHAzX2J5N1puZ3NyMllCQjhta0xoZFhTTjhlNjZoTHBRbWJmQnpyaEFqMGJ2aUdHa21XOG04c1M0aUQ0MENXaTF1eTA5UTNXMG1ROGFZc2VsSTZ6a0hON05mUVNzNHRfQnJhU0dyLW4ycTA1ek1LZ2xXQTIydTNiNG8yWFRGQ18tRVF1MlNIT2l3M0d6S0NlMGloSFFqTG5wSQ?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDNja29mV1ROUi1YaFBoWDN6RUZzQ1BLeElXVWd5eHNyMF9KYjVwMk1aYUR2SUhuM09Lc0VSd2ZGckZ4WFJ6WTlrZjRMbFJOZ1doTG5laVNBT05zcmRkR0xuMXZiR2ZNWmZjcFRmR0JMb3BPWEM4WFEwcnVvaUx6cjB1c2dNbEE?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMivAFBVV95cUxONndUOWQzNDQyUEQ0dzgyN1RtaVBQT0lhVWZSdHAzX2J5N1puZ3NyMllCQjhta0xoZFhTTjhlNjZoTHBRbWJmQnpyaEFqMGJ2aUdHa21XOG04c1M0aUQ0MENXaTF1eTA5UTNXMG1ROG
+<a href="https://news.google.com/rss/articles/CBMihwFBVV95cUxPNDNja29mV1ROUi1YaFBoWDN6RUZzQ1BLeElXVWd5eHNyMF9KYjVwMk1aYUR2SUhuM09Lc0VSd2ZGckZ4WFJ6WTlrZjRMbFJOZ1doTG5laVNBT05zcmRkR0xuMXZiR2ZNWmZjcFRmR0
 
 ---
 
 ## 优必选
 
-### South Korea's Polaris AI to Debut UBTECH's Humanoid 'U1' Domestically at Robot World - BigGo Finance
+### 优必选执行总裁兼具身智能与人形机器人研究院院长焦继超发表主旨演讲 - 中国日报网
 
-**发布日期**: 2026-11-02
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE53YlRwVTl4VktNNGdfa3hzN2M1azN1eHpSa1ptYnRFdkcyTDJOeS1qa0FRcGJ3RlVhaDlrQmNOSmZkellwZXY5X1ZQb1lQMVZsQmR0Szc5SlB6TFdPY3ZmbUl2TlFDUWJUWnNZSEtrMS1IQWQteVE?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifEFVX3lxTFBLUDk0RHZBdmp4b0FSRndVMzBlaW5XTFVzZENhSEdlRTZOa2dJWXBHWGpvLXd5Zzhzb3JzLTZFRlltaTk5WUlkNUFTQnFuX0R1MnpKcU8xLWF2MVRMY0FPWXBuUjJhQmRfbVdrV3JYWC1jRG5EMlFZYUNHamE?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE53YlRwVTl4VktNNGdfa3hzN2M1azN1eHpSa1ptYnRFdkcyTDJOeS1qa0FRcGJ3RlVhaDlrQmNOSmZkellwZXY5X1ZQb1lQMVZsQmR0Szc5SlB6TFdPY3ZmbUl2TlFDUWJUWnNZSEtrMS
+<a href="https://news.google.com/rss/articles/CBMifEFVX3lxTFBLUDk0RHZBdmp4b0FSRndVMzBlaW5XTFVzZENhSEdlRTZOa2dJWXBHWGpvLXd5Zzhzb3JzLTZFRlltaTk5WUlkNUFTQnFuX0R1MnpKcU8xLWF2MVRMY0FPWXBuUjJhQmRfbVdrV3JYWC
 
 ---
 
-### 产业数字化指数连续3年全省第一！九江新质生产力跑出“加速度” - 凤凰网
+### 优必选焦继超乌镇重申人形机器人价值：唯一能复刻人类全场景劳动能力，更具通用性 - https://www.caiwennews.com/
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiXEFVX3lxTE02N2t2MTZXYWU3cXI4cVpMckp4LTloWTdYQ284WXNxUEs0MlZoTlpNMldlZ2VYem1zd2tjRkhBR1RyekJNVzJOUW11a2pUYlBxSUZ2OXYweXRtQ0hS?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiXEFVX3lxTE02N2t2MTZXYWU3cXI4cVpMckp4LTloWTdYQ284WXNxUEs0MlZoTlpNMldlZ2VYem1zd2tjRkhBR1RyekJNVzJOUW11a2pUYlBxSUZ2OXYweXRtQ0hS?oc=5" target="_blank">优必选
+
+---
+
+### 优必选联合项目拿下广东省科技进步一等奖，瞄准高危、高精度机器人协同作业 - 星岛环球网
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WN1hPekVGSDB1R0xOeExIa0M0b2h0NFMtRFNiOS1UZkhOT1JFaWx5WGltM2pMMzl3TEZOaDkxVXdrUkoxeWNzN2JRbWwtTHk4dFFmR3ZZOGowUFNJa1lhNVVUcWo?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiZEFVX3lxTE5WN1hPekVGSDB1R0xOeExIa0M0b2h0NFMtRFNiOS1UZkhOT1JFaWx5WGltM2pMMzl3TEZOaDkxVXdrUkoxeWNzN2JRbWwtTHk4dFFmR3ZZOGowUFNJa1lhNVVUcWo?oc=5" target="
+
+---
+
+### 优必选、锋龙股份合资公司发布机器人关节产品矩阵 - www.gasgoo.com
 
 **发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiSkFVX3lxTE96WjAzdldXQXV0bG93QkZSRVh4ckRWS203Q3ZKZW5UQjRuVHBDVVlnY29QczFKc3YwVkZBYUpzZWtiOHBJNmQ0b3pR?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMi4AJBVV95cUxNQ1poZ1dfdlZZTTZPcE00TGRTSG1JSHhKaTNFczF4SzNzbm16bkNTZlRxMjFDaVE3T1ExdU5wTGpoV1JZenZRazlCRG9LUjJlQTJsV2JicUZOTTYwSkh5UTctRFppWGptUEU3SHYzRjgzeDFRelFtblZrd3hwLWtjQUxRb2NmTUlZYVJjamFqS1RubFFiZDlIZWk1Mk5MS05NdFN4SmtwS1A1b0Y4ZGxmUmNLeWszYUxiOWdhMHZuSXVWWklBS2RZSjY2cGtDNm5hM0xZbHRadWFRRGloc0FjMGRWUkdOSURmbXl0d3hvVkxuSEdTWVZsYUhJbVl6eDVwSmxiWnJxZXgtMXVIaWlPM1NoQ3RYQzBfSmpHbFlGck8xRERIUVozN1J1aXVyTFpQSU5NTFpRTTVEUlhNdnE5RmRKLXJJWFAwS3hlTTJINDNpNFpPM1M3VzVlWjRQLURf?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiSkFVX3lxTE96WjAzdldXQXV0bG93QkZSRVh4ckRWS203Q3ZKZW5UQjRuVHBDVVlnY29QczFKc3YwVkZBYUpzZWtiOHBJNmQ0b3pR?oc=5" target="_blank">产业数字化指数连续3年全省第一！九江新质生产力跑出“加
+<a href="https://news.google.com/rss/articles/CBMi4AJBVV95cUxNQ1poZ1dfdlZZTTZPcE00TGRTSG1JSHhKaTNFczF4SzNzbm16bkNTZlRxMjFDaVE3T1ExdU5wTGpoV1JZenZRazlCRG9LUjJlQTJsV2JicUZOTTYwSkh5UTctRFppWGptUEU3SHYzRj
 
 ---
 
-### 乌镇之光|家庭陪伴、商用服务、工业作业，优必选展示人形机器人多场景应用 - 金融界
+### 新锋龙推出四大系列关节产品，推动机器人核心零部件国产化 - 具身之家
 
-**发布日期**: 2026-11-02
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMidEFVX3lxTE5PNjZJdl9GWFJVVmdBQ1phTUxTR2duemJKNm9Ea3hfUEdtVXU2XzhJWGljZ2RoSDZvcmNYYjVUMDl2bXRERmExeURxaGQ0X2pyQjhqeUtLUHRhZnNZSndLZjM4WWhDOTlKQVB6cVQ5NVR0Rl93?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LVXdLSFlMcjB5bHMxYkRtdEU3YWpxczlvNFB0RUV4QnQ5Rm9ySGs3MXlHUDRlNEdfYzl3ODh1SWtubXdHUjl3WHl0MnRrVVFYX3N3YU1rcEs?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMidEFVX3lxTE5PNjZJdl9GWFJVVmdBQ1phTUxTR2duemJKNm9Ea3hfUEdtVXU2XzhJWGljZ2RoSDZvcmNYYjVUMDl2bXRERmExeURxaGQ0X2pyQjhqeUtLUHRhZnNZSndLZjM4WWhDOTlKQVB6cVQ5NV
+<a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1LVXdLSFlMcjB5bHMxYkRtdEU3YWpxczlvNFB0RUV4QnQ5Rm9ySGs3MXlHUDRlNEdfYzl3ODh1SWtubXdHUjl3WHl0MnRrVVFYX3N3YU1rcEs?oc=5" target="_blank">新锋龙推出四大系
 
 ---
 
 ## 小米机器人
 
-### 雷军发视频晒小米机器人：首次在汽车工厂挑战8小时作业，可满足全天生产需求 - 凤凰网
+### Xiaomi Robot Achieves New Milestone: Eight-Hour Non-Stop Shift at Automotive Plant Validates Production-Line Operational Capabilities - 富途牛牛
 
 **发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3UWgwdVFEbDU5U19VcEE4WDN3cVd1ZjZIRVVNN1BSSUFnSkRUX1RmM1pocUdhaEpPa0hNamQ3aGVhb0wxa3Zqdg?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWQ2ZFNUNGJuOGJGNXhKUGJ0NUUtaXZYS2FNMVpIQW01TTNFOHRodHlKZGsyYV9nMVZQdmNkOVliSGI1OGJNRjlEVTNTVXYtZTRCWEdoRXRsRWdQMFRyZ1dwWlNLVkRGSXBXTlhUeUFEZm5hd0Y0dnAyRzF5WDltU185NjN0V0IxTGQ3QjR5REIzX0Z5LVdHRVUxaWZIVUt6OXEybmxHZw?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTFB3UWgwdVFEbDU5U19VcEE4WDN3cVd1ZjZIRVVNN1BSSUFnSkRUX1RmM1pocUdhaEpPa0hNamQ3aGVhb0wxa3Zqdg?oc=5" target="_blank">雷军发视频晒小米机器人：首次在汽车工厂挑战8小时作业，可满
+<a href="https://news.google.com/rss/articles/CBMipwFBVV95cUxQMWQ2ZFNUNGJuOGJGNXhKUGJ0NUUtaXZYS2FNMVpIQW01TTNFOHRodHlKZGsyYV9nMVZQdmNkOVliSGI1OGJNRjlEVTNTVXYtZTRCWEdoRXRsRWdQMFRyZ1dwWlNLVkRGSXBXTlhUeU
 
 ---
 
-### 雷军：小米机器人8小时稳定运行 已经是行业最领先的水平之一 - 驱动之家
+### Xiaomi's humanoid robot completes first full 8-hour shift on China production line as CyberOne 02 passes auto factory "internship" - BigGo Finance
 
 **发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTE96RXN5T3R6ay1Eb0F3UGVOcEp5UGQxTklPc0FkZjdZdmZmRWdTd3ljTjlGMGc0WkNKX201UGZDQ3JPc2d5SER0aVkzOTlwdG9Sa2RUcUFaNjg?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMidkFVX3lxTE9oc19pVnc4TzR1VWx6UkppWUpVSWx5UjBITUZETF9OT0ZxMGVGMmZuUnRvSGZKVEpPdEZKeG9jNm1jc19paEJ1WEZLc1JoeGZfaGVaNC11YVFQOEVlQVU3X1NGRnhlYzJjYU00NlBaaS1SazJvaGc?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE96RXN5T3R6ay1Eb0F3UGVOcEp5UGQxTklPc0FkZjdZdmZmRWdTd3ljTjlGMGc0WkNKX201UGZDQ3JPc2d5SER0aVkzOTlwdG9Sa2RUcUFaNjg?oc=5" target="_blank">雷军：小米机器人
+<a href="https://news.google.com/rss/articles/CBMidkFVX3lxTE9oc19pVnc4TzR1VWx6UkppWUpVSWx5UjBITUZETF9OT0ZxMGVGMmZuUnRvSGZKVEpPdEZKeG9jNm1jc19paEJ1WEZLc1JoeGZfaGVaNC11YVFQOEVlQVU3X1NGRnhlYzJjYU00NlBaaS
 
 ---
 
-### AI早报 | 蔡崇信：只有开源才能推动AI普及；小米披露机器人业务两项最新落地进展 - Jiemian.com
+### Video: Xiaomi’s humanoid robots sort car parts for eight hours in factory demonstration - Interesting Engineering
 
 **发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTFBycm1PcGpjX25OdHJoUU1HMHRwUDZLa0k1MGpqdHI2YlYxQTNYMWc3eW8tMzhyNWpBZERwZjZFQmdXVkVuR3RLbmlMRERmMVpCQWo0U1RQTTY?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDhac0lOVHNSN3BzR1hGQ21hcThRaC14cnJTUTk0Y2taSHhXazlFdGRUbkY2ckJLeDJNQ19xNWF3X1hpOXl5YTBIdXB0aV95TlZzODkzUlZVMW5FQWtHbnZEWFowSnJ4aWxhWERfZWF5MnZJOHZKZEI1UWNiYnowME1XbFQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTFBycm1PcGpjX25OdHJoUU1HMHRwUDZLa0k1MGpqdHI2YlYxQTNYMWc3eW8tMzhyNWpBZERwZjZFQmdXVkVuR3RLbmlMRERmMVpCQWo0U1RQTTY?oc=5" target="_blank">AI早报 | 蔡
-
----
-
-### 扫地机器人小米2026年怎么选？3个维度拆解全系对比+FAQ - 新浪网
-
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE42TmNQeC04bDJjOE5CLXRJYWhra1NyZTBaV1k4ZDFndGNyVTN2ekFiTEdtUDVSX3V4SVBnTGRDUkdrTm95bXdwS1NlSGpoNFhPOUpoREhQc0dSUjV2UGZv?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE42TmNQeC04bDJjOE5CLXRJYWhra1NyZTBaV1k4ZDFndGNyVTN2ekFiTEdtUDVSX3V4SVBnTGRDUkdrTm95bXdwS1NlSGpoNFhPOUpoREhQc0dSUjV2UGZv?oc=5" target="_blank"
+<a href="https://news.google.com/rss/articles/CBMihAFBVV95cUxPMDhac0lOVHNSN3BzR1hGQ21hcThRaC14cnJTUTk0Y2taSHhXazlFdGRUbkY2ckJLeDJNQ19xNWF3X1hpOXl5YTBIdXB0aV95TlZzODkzUlZVMW5FQWtHbnZEWFowSnJ4aWxhWERfZW
 
 ---
 
-### 小米机器人，最新进展 - 手机新浪网
-
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiggFBVV95cUxOanZyX0VMUk0yTFJmLVJqVFB6QXc4YzZlNGx3R0gxUzVaY3VFdkpkREsyZTM0dzZmWHlxNWY1b1RJX00wY2NvNnNVbndSLUYxc2JqYTNBQ1hRN3hMVGJyVFhvQ0hVaTR5SkE5QkdHeEdMenpxMmp1d2UwMWhQaU5VSmlB?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiggFBVV95cUxOanZyX0VMUk0yTFJmLVJqVFB6QXc4YzZlNGx3R0gxUzVaY3VFdkpkREsyZTM0dzZmWHlxNWY1b1RJX00wY2NvNnNVbndSLUYxc2JqYTNBQ1hRN3hMVGJyVFhvQ0hVaTR5SkE5QkdHeE
-
----
-
-### 雷军晒出小米机器人在汽车工厂“实习”：可适应各种岗位 - 汽车之家
+### Xiaomi humanoid robot works its first 8-hour shift in an EV factory - Pasquale Pillitteri
 
 **发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMia0FVX3lxTE8zSFpGTHJoQ25WT0kxQUNRT21xaU5VckdxVmthdGMyWElTSjB1YVZqSDhyek1SdHQwbG1qd1VWTGEtbHdpLTNMMnhMcUV4aExGajZHRXdtLVhNMnFZVEFoV2I0MXlqcy05REZB?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXhkMXVwaGJ3QkotdDIwU2Ywcm5kS1hZdDBhUmpISVlySHBnUVNFeW5TUzRJQXB0ZDdhRnBINy1lR0RJTlJ5SjdFV3JORkJzRXZ2UmpkXzdpT1BYNFkwZXJreDJfMENZV0d3T1VTSHdUcWVVUjRhQTNPMnBpclB6S0pXUWp0XzNpdWhMekpTQlFLOGdVR0F5Y3VqRQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMia0FVX3lxTE8zSFpGTHJoQ25WT0kxQUNRT21xaU5VckdxVmthdGMyWElTSjB1YVZqSDhyek1SdHQwbG1qd1VWTGEtbHdpLTNMMnhMcUV4aExGajZHRXdtLVhNMnFZVEFoV2I0MXlqcy05REZB?oc=5"
-
----
-
-### 小米首次斩获世界互联网大会双料大奖！机器人核心技术获奖 - 驱动之家
-
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tb2xETjlxNXJYazItSVVIcGtRMHBQV3BIUTk5NXU5NWRVRUZtd2xtTTdUa214UHpCQjJId0dkXzB2LXN4Yk4xeUloamZYdnFidno4aDgzczk?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1tb2xETjlxNXJYazItSVVIcGtRMHBQV3BIUTk5NXU5NWRVRUZtd2xtTTdUa214UHpCQjJId0dkXzB2LXN4Yk4xeUloamZYdnFidno4aDgzczk?oc=5" target="_blank">小米首次斩获世界
+<a href="https://news.google.com/rss/articles/CBMimwFBVV95cUxNWXhkMXVwaGJ3QkotdDIwU2Ywcm5kS1hZdDBhUmpISVlySHBnUVNFeW5TUzRJQXB0ZDdhRnBINy1lR0RJTlJ5SjdFV3JORkJzRXZ2UmpkXzdpT1BYNFkwZXJreDJfMENZV0d3T1VTSH
 
 ---
 
-### 小米机器人新进展：进厂打工8小时，回家干50项家务 - 搜狐网
-
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcGJQem9RMVhDNzVZd3I3S2JmNjg1YTgwTDVXQlBrQ0Q2TzkxNnJHa0dkbnloOHJTTUlHdXBaYnpUZDFpWUU4dk5scF9VQ3hfZ0o0bW9Ga3FmdXVTeDBndEwyck1vY3dqN1JiOTA1XzBWalpQcndjUzAwZU9Xbk1LdHBkTzRkaE5x?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxOcGJQem9RMVhDNzVZd3I3S2JmNjg1YTgwTDVXQlBrQ0Q2TzkxNnJHa0dkbnloOHJTTUlHdXBaYnpUZDFpWUU4dk5scF9VQ3hfZ0o0bW9Ga3FmdXVTeDBndEwyck1vY3dqN1JiOTA1Xz
-
----
-
-### 雷军晒视频：小米机器人首次在汽车工厂挑战8小时作业 满足全天生产需求 - 驱动之家
+### 小米机器人，连续“打工”8小时 - 新浪网
 
 **发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rSV9MczYtdGFRNUVtT2Z2MnB2amxfTkR2cFYtdGZuSnVJenJpVW5oaUptQk13cEhsWkpsVUJraGlIazBkRUctOGZNSWowVGVlUFdxSGxMVUw?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFB6MU5YSzlPeXhUNHU4bGtOY3JpSW1zX3p4d29ucDJBaWJNcUdyeWhSS2FLaXRtVUkyTWlzMjkydHNGQ1U3M0M0NGxjcVpCc3J0Z2s0ZE84QVBVN0hHN0RRTkxta21XQ185TENqNlVqZV8?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE9rSV9MczYtdGFRNUVtT2Z2MnB2amxfTkR2cFYtdGZuSnVJenJpVW5oaUptQk13cEhsWkpsVUJraGlIazBkRUctOGZNSWowVGVlUFdxSGxMVUw?oc=5" target="_blank">雷军晒视频：小米
+<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFB6MU5YSzlPeXhUNHU4bGtOY3JpSW1zX3p4d29ucDJBaWJNcUdyeWhSS2FLaXRtVUkyTWlzMjkydHNGQ1U3M0M0NGxjcVpCc3J0Z2s0ZE84QVBVN0hHN0RRTkxta21XQ185TENqNlVqZV
 
 ---
 
-### 小米披露机器人“进厂”新进展：8小时稳定作业 - 搜狐网
+### 小米斩获乌镇峰会双料大奖：披露机器人工厂8小时稳定作业，青年公寓“试运营”新进展｜智启乌镇时刻 - 新浪财经
 
 **发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlk3UjhQV3htQ0Q0bktFNWtBRTlvZDY1Vms1dG5PQ2tTS2k0NUM0VXZQOUlWY2JNay1pU1c2V3MtMTV4S0Y2OGlxUEZJbXZFWWV0aFQ3TGlWVWZwbUJhSHF2T21oU3dkODA4bmN4U1ZqWWdLU2diQkR2LU9rV0FnNGJJN2c5dUNlLTVaYg?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifEFVX3lxTE05a0ViVldyNHdFb2VubUVqdmhROThYY2l4dTA2SVg4UGd2cVlIZTRQbU8wRlRtLVRSOGJHZFB2dHpMNDVZcEUtTHRNSmhKSTBSUmViSVFRZ0dRQ3pyNkYzWi1rbmFQMmZsWWtfRTJTZFFfTWpycEt5RTlSdk8?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlk3UjhQV3htQ0Q0bktFNWtBRTlvZDY1Vms1dG5PQ2tTS2k0NUM0VXZQOUlWY2JNay1pU1c2V3MtMTV4S0Y2OGlxUEZJbXZFWWV0aFQ3TGlWVWZwbUJhSHF2T21oU3dkODA4bmN4U1
+<a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE05a0ViVldyNHdFb2VubUVqdmhROThYY2l4dTA2SVg4UGd2cVlIZTRQbU8wRlRtLVRSOGJHZFB2dHpMNDVZcEUtTHRNSmhKSTBSUmViSVFRZ0dRQ3pyNkYzWi1rbmFQMmZsWWtfRTJTZF
+
+---
+
+### 小米机器人解锁新成就 产线级作业初步验证 - 中华网
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFA5NF9pdXJOTUVrSkEtU2N4UmxBRmprNDRfTTNtRVd3ZTIxZzRzOUt6RU1BZjRsbDRGWWFMSXh1Y0FBYkFCVVFjcjlKbU1lM01ScmFPMHF3UEhqVHU3TUJKTUQxaVFNa0daQ0tkT2xCZmM?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFA5NF9pdXJOTUVrSkEtU2N4UmxBRmprNDRfTTNtRVd3ZTIxZzRzOUt6RU1BZjRsbDRGWWFMSXh1Y0FBYkFCVVFjcjlKbU1lM01ScmFPMHF3UEhqVHU3TUJKTUQxaVFNa0daQ0tkT2xCZm
+
+---
+
+### 雷军：小米机器人8小时稳定运行 已经是行业最领先的水平之一 - 搜狐网
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHVmd3VwZzB0S1VGTEJzdFQ5RW05bTgyV3I1NXktSTZWRXdKMGREdVRYOUhRVmF3Y3duU0IxcFZMSFkyTnZ5UGNObElTQTN4b3FwOGlmY18xcE9DQVdKYS0zUUlXaFExcGR3VFA3TmNlQndVLTZpeUYzVWREd04yLUd1Y1JtTEdn?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiiAFBVV95cUxPdHVmd3VwZzB0S1VGTEJzdFQ5RW05bTgyV3I1NXktSTZWRXdKMGREdVRYOUhRVmF3Y3duU0IxcFZMSFkyTnZ5UGNObElTQTN4b3FwOGlmY18xcE9DQVdKYS0zUUlXaFExcGR3VFA3Tm
+
+---
+
+### 小米斩获乌镇峰会双料大奖：小米集团获“杰出贡献奖”，小米具身基座模型获“领先科技奖” - CAIJING.COM.CN
+
+**发布日期**: 2026-11-02
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WLU1DSlNZZlBYd25xMUVyX09WcmlJNnRZaDRWTkJWSEVPVlRLTWxXb0JtbDBZNk9MQVgxUHhPTWlXOUk2My1TdVRtV2hKVm9NOHE5LU5hZFJaZTU1aUZz?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiX0FVX3lxTE5WLU1DSlNZZlBYd25xMUVyX09WcmlJNnRZaDRWTkJWSEVPVlRLTWxXb0JtbDBZNk9MQVgxUHhPTWlXOUk2My1TdVRtV2hKVm9NOHE5LU5hZFJaZTU1aUZz?oc=5" target="_blank"
+
+---
+
+### 小米机器人双线突破，机器人竞争进一步升级 - 手机网易网
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TWHQ4bmdYWEF0SW1CQ1Y2N3lXVGF6SmpJM3V3eWd1d2p4bzJGald4bG1NV1ZyUnh0dUc2R3RFTlkyVUphOGdFOGNVcl80YnJtR0lwaA?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiVEFVX3lxTE9TWHQ4bmdYWEF0SW1CQ1Y2N3lXVGF6SmpJM3V3eWd1d2p4bzJGald4bG1NV1ZyUnh0dUc2R3RFTlkyVUphOGdFOGNVcl80YnJtR0lwaA?oc=5" target="_blank">小米机器人双线突破，机器人
+
+---
+
+### 小米机器人首次完成汽车工厂8小时产线级作业验证 - 新浪网
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZ3VQZnMwYVZ1NjBZYXNfOGRVUE5YRVBxb0JtM0RmTzZtUFU0QnZ0NndwRThtNkd0R1d6c216YmNzYjFUdXh3MDhRUmdoWnA1QVFWUC1oVGNwUDlwcDBKZ1JNRXk5RGpjd1A0Z2ZoMXk?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTE5rZ3VQZnMwYVZ1NjBZYXNfOGRVUE5YRVBxb0JtM0RmTzZtUFU0QnZ0NndwRThtNkd0R1d6c216YmNzYjFUdXh3MDhRUmdoWnA1QVFWUC1oVGNwUDlwcDBKZ1JNRXk5RGpjd1A0Z2ZoMX
+
+---
+
+### 不再是噱头？小米机器人进车厂干满8小时，迈出关键一步 - 新浪网
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMickFVX3lxTE10MjB2S2VvcVNZTEs1NGZHQW1OVWpuaTFpMVhOMExmNDBPNnhwZm1zVmRUYU5SRm90TFFlVklhMkMzUXV3MWFOYmh1NHpYU3dSLW40ODRyLVFhMGJDSklPWmIzSFA3NU82QzY3MklWaDBodw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMickFVX3lxTE10MjB2S2VvcVNZTEs1NGZHQW1OVWpuaTFpMVhOMExmNDBPNnhwZm1zVmRUYU5SRm90TFFlVklhMkMzUXV3MWFOYmh1NHpYU3dSLW40ODRyLVFhMGJDSklPWmIzSFA3NU82QzY3MklWaD
+
+---
+
+### 【#雷军回应工厂使用人形机器人#】11月4日，@雷军 分享一小米机器 - 凤凰网科技
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKNUc4MGE1UGlOVGtxUmRTQW5ncGVwVS1sOVpCMVFYTzdoNW5xTUhHdFJmZmFHd1F5RXZYRER4Y2FHNlJVWEFJbExUb2c?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTFBKNUc4MGE1UGlOVGtxUmRTQW5ncGVwVS1sOVpCMVFYTzdoNW5xTUhHdFJmZmFHd1F5RXZYRER4Y2FHNlJVWEFJbExUb2c?oc=5" target="_blank">【#雷军回应工厂使用人形机器人#】11月4日，@
+
+---
+
+### 小米机器人“双线突破”：成功挑战工厂8小时作业、家庭长程任务 - 凤凰网科技
+
+**发布日期**: 2026-11-03
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiTEFVX3lxTE45bndsdkpkaFZTS1UzeVJPM21YZHNWV21Vb0VaOUp0ZHc3M3YxSGRjR0xxX3BPZkpoNkRzZTRlN0dNN2Q5TjdKQk9URTA?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiTEFVX3lxTE45bndsdkpkaFZTS1UzeVJPM21YZHNWV21Vb0VaOUp0ZHc3M3YxSGRjR0xxX3BPZkpoNkRzZTRlN0dNN2Q5TjdKQk9URTA?oc=5" target="_blank">小米机器人“双线突破”：成功挑战工厂8小时作业、
+
+---
+
+### 小米机器人乌镇获奖，挑战8小时工厂作业、到公寓搞清洁 - 东方财富
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RVHVXa1BYbHdIRVNGcVhKa3RRak5pRkZ6b0JUSEVES1hjSzliZS1OX1VYLVBZYUFaYkRaVUxkZTBNX0E2Wm5PU3pRYnpSNXF2am9PYmdadUxsOGhkSlFJSEhXdnh1Zw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9RVHVXa1BYbHdIRVNGcVhKa3RRak5pRkZ6b0JUSEVES1hjSzliZS1OX1VYLVBZYUFaYkRaVUxkZTBNX0E2Wm5PU3pRYnpSNXF2am9PYmdadUxsOGhkSlFJSEhXdnh1Zw?oc=5" targe
+
+---
+
+### 南方财经全媒体集团 - 南方财经
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LbEpDXzdFY19RRkRrUVZjb1k4T0ctUWhkaUxOWjJqQUNMcUppQ1BKam0xQkE3endoXy1mR3E0X2FyaTRVSGxTVHlQMzJrbC1WaW1QbUNqRkYxSnA1ajVhX1U1THdGdw?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiZkFVX3lxTE9LbEpDXzdFY19RRkRrUVZjb1k4T0ctUWhkaUxOWjJqQUNMcUppQ1BKam0xQkE3endoXy1mR3E0X2FyaTRVSGxTVHlQMzJrbC1WaW1QbUNqRkYxSnA1ajVhX1U1THdGdw?oc=5" targe
+
+---
+
+### 雷军最新发布：小米机器人生产小米汽车！ - 电子工程专辑EE Times China
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZWmwzMkFSYUlrbC14WUVxdzRLa01OMDJqTmpBMFBSX0FXVk92cjVzUUd2b3BrU3Y5MFZ1QzZTcGI1Z0NlVTZLRVhSYkpvU1FxVFVF?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMiU0FVX3lxTE1ZWmwzMkFSYUlrbC14WUVxdzRLa01OMDJqTmpBMFBSX0FXVk92cjVzUUd2b3BrU3Y5MFZ1QzZTcGI1Z0NlVTZLRVhSYkpvU1FxVFVF?oc=5" target="_blank">雷军最新发布：小米机器人生产小
+
+---
+
+### 小米集团具身模型与应用部负责人孔涛发表主旨演讲 - 中国日报网
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTHA3VTRsU1cybUtCTkpXY1VVQ1V0S2tZemhhN2VHQjFVM2xTM0NFMndocWFGRWUwOWZVZ1pPTE1YNERvekh4TDZyMTJBOTA5a1N5aVJmbi1HbFBrTmVoclN6dUVLUTNRU0tybFFwdFJDWndhZzNFQVBxdmg?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMifEFVX3lxTE1hTHA3VTRsU1cybUtCTkpXY1VVQ1V0S2tZemhhN2VHQjFVM2xTM0NFMndocWFGRWUwOWZVZ1pPTE1YNERvekh4TDZyMTJBOTA5a1N5aVJmbi1HbFBrTmVoclN6dUVLUTNRU0tybFFwdF
+
+---
+
+### 小米披露人形机器人落地新进展 - 21财经
+
+**发布日期**: 2026-11-03
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxOS293RGYtcWtUbnE2TEEwWXhyUFB6dkM0MFgxTUhjUFUyQXlKM0hnajIyX3ZTRDdlNnV2UGhWVDdvLUxoeWFmbUctdTNMNjB1RV84cURSY0dlcE1QcG1hV2Y2Q2JiVmoyUXJpNDR1VVYxaVVFSVdlcmRwdVg3NkI0Si15ekFWcHpEMkpvVkU3RQ?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxOS293RGYtcWtUbnE2TEEwWXhyUFB6dkM0MFgxTUhjUFUyQXlKM0hnajIyX3ZTRDdlNnV2UGhWVDdvLUxoeWFmbUctdTNMNjB1RV84cURSY0dlcE1QcG1hV2Y2Q2JiVmoyUXJpNDR1VV
 
 ---
 
 ### 小米机器人进厂“通关” 具身智能赛道多股涨停 最新高增长潜力股名单出炉 - 东方财富
 
-**发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CS0VDRGYwd0tkeGFOWTY5UGFwZFBfejVzbk8xc05NZ1lQNllfZmtkZVVNYXR3X29qT0hOTkF5WFh3Z2VGZk5uMmtmV0dVT21iYVkxMV82QVd2N3NNYmlTM2hIVQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CS0VDRGYwd0tkeGFOWTY5UGFwZFBfejVzbk8xc05NZ1lQNllfZmtkZVVNYXR3X29qT0hOTkF5WFh3Z2VGZk5uMmtmV0dVT21iYVkxMV82QVd2N3NNYmlTM2hIVQ?oc=5" target="_
-
----
-
-### 小米机器人进厂作业8小时，青年公寓完成50余项任务 - VR陀螺
-
-**发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wMTR1TVJWSkNDcWtfeE0wOHdrdE5naGcxMmtheXk5QUZkTGozQkNVcU95elpsT19LNXZHWnpNekJXOGc3N0RNbVdIWQ?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE9wMTR1TVJWSkNDcWtfeE0wOHdrdE5naGcxMmtheXk5QUZkTGozQkNVcU95elpsT19LNXZHWnpNekJXOGc3N0RNbVdIWQ?oc=5" target="_blank">小米机器人进厂作业8小时，青年公寓完成50余项任务
-
----
-
-### 雷军公布小米机器人最新进展，小米机器人首次挑战8小时稳定作业 - 21财经
-
 **发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkRRaGwzbk1uYm42b3c5c2pqMmFJcDY2amNrTVZCTFJqeGxOQ2lvYnlxT1UzQmtoVkE0bEpwaDN2NV9lUThTUmI2czRKSGN0blpfNldZZlFOOUszM2ZOVjRZNUlWXzhacjB0MlRFY3c4Q3poUTFGUENwbTFpMlB0WDhQeXVtUDF0VWNTbVg2OA?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UYXBocFZicG1aYm5XbkNJUnlucVpZYzF5VklLZHZFUlhZQW4zXzByVjBBaGo5M19HVTIybXUwbHVaNlR4elBoU0twTDc5MEhVOHRXY0VRdVpnN0dfWGFPVQ?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMijwFBVV95cUxNbkRRaGwzbk1uYm42b3c5c2pqMmFJcDY2amNrTVZCTFJqeGxOQ2lvYnlxT1UzQmtoVkE0bEpwaDN2NV9lUThTUmI2czRKSGN0blpfNldZZlFOOUszM2ZOVjRZNUlWXzhacjB0MlRFY3
+<a href="https://news.google.com/rss/articles/CBMiYEFVX3lxTE1UYXBocFZicG1aYm5XbkNJUnlucVpZYzF5VklLZHZFUlhZQW4zXzByVjBBaGo5M19HVTIybXUwbHVaNlR4elBoU0twTDc5MEhVOHRXY0VRdVpnN0dfWGFPVQ?oc=5" target="_blan
 
 ---
 
-### 雷军晒出小米机器人在汽车工厂“实习”：可适应各种岗位 - 汽车之家
+### 11月4日春光科技涨停：小米概念股，机器人，家电概念热股_个股掘金 - 证券之星
 
 **发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UeEJHZWNjcktFUXFpUW1DLTFmQklzMUY5UGdaV2t0WW1HbG1MTmtPTVRuYVQwczhES0piZTBPdFhUS1pNVVVMRDBKVzdhYVRkZ2FKeGNvQmlROVE?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiNEJVUElIZzd3NjdBUGxyZzhRd191Z1JmdEdmRmotUl9PdW9ueWlUYzNZYXVPSmpsNEdTSXYwMW5id3g0YTRnekhtd2tuZ1RxRkRLd1pzaG9xZzFnM0FMLUN3?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiW0FVX3lxTE1UeEJHZWNjcktFUXFpUW1DLTFmQklzMUY5UGdaV2t0WW1HbG1MTmtPTVRuYVQwczhES0piZTBPdFhUS1pNVVVMRDBKVzdhYVRkZ2FKeGNvQmlROVE?oc=5" target="_blank">雷军晒出
-
----
-
-### 小米机器人首次挑战8小时稳定作业 机器人应用加速落地 - 财联社
-
-**发布日期**: 2026-11-02
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yZHJMQW5MSElSR1Y4eWNHd3hBZ2hwTjV0a2FGTkpDdWlLOTFiTjhYTEpsd0V5WnQtTU1XdXVMc2QxcXF0dTNtcA?oc=5)
-
-<a href="https://news.google.com/rss/articles/CBMiSEFVX3lxTE5yZHJMQW5MSElSR1Y4eWNHd3hBZ2hwTjV0a2FGTkpDdWlLOTFiTjhYTEpsd0V5WnQtTU1XdXVMc2QxcXF0dTNtcA?oc=5" target="_blank">小米机器人首次挑战8小时稳定作业 机器人应用加速落地</a
+<a href="https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiNEJVUElIZzd3NjdBUGxyZzhRd191Z1JmdEdmRmotUl9PdW9ueWlUYzNZYXVPSmpsNEdTSXYwMW5id3g0YTRnekhtd2tuZ1RxRkRLd1pzaG9xZzFnM0FMLUN3?oc=5" target="_bl
 
 ---
 
-### 小米21自由度仿生灵巧手 - RFID世界网
+### 你的下一辆车，机器人手搓的 - 新浪网
 
 **发布日期**: 2026-11-04
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMibEFVX3lxTE9LeWl2Y2JscnpvcUxJRUVKcEc5RDJoMmd3TWx2M1BTRHhkUzJ0Q09fcGE0aFZ4R3U0WkZNd05aT1V3cVdsVHRQNVJQaVZrUmdvUDh3SjhQSTlpcXhUWW5Xc0lRM0tMSExCVUZqTg?oc=5)
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMicEFVX3lxTFBSR2FiT1lIbDluZVIxRWZBZWkzTFZJa185bkdRU2NRelJDVnJ0Y0ZRQy0xTVozR0dNb1U3Q0lWSWFxNHlHcTZpeWZHcGZ1QVRTVlc0T0RQblVaem5qMnA0TVJRWllZTk5ueTFDTFBRQlM?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMibEFVX3lxTE9LeWl2Y2JscnpvcUxJRUVKcEc5RDJoMmd3TWx2M1BTRHhkUzJ0Q09fcGE0aFZ4R3U0WkZNd05aT1V3cVdsVHRQNVJQaVZrUmdvUDh3SjhQSTlpcXhUWW5Xc0lRM0tMSExCVUZqTg?oc=
+<a href="https://news.google.com/rss/articles/CBMicEFVX3lxTFBSR2FiT1lIbDluZVIxRWZBZWkzTFZJa185bkdRU2NRelJDVnJ0Y0ZRQy0xTVozR0dNb1U3Q0lWSWFxNHlHcTZpeWZHcGZ1QVRTVlc0T0RQblVaem5qMnA0TVJRWllZTk5ueTFDTFBRQl
 
 ---
 
-### 小米科技：2026年......_7x24快讯_新浪财经 - 新浪网
+### 双料大奖！小米斩获世界互联网大会 “杰出贡献奖” 与 “领先科技奖” - 具身之家
 
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fZk5PSldPckN0SzN4dW1LTnZBbzAzTVZCOWpoRk9wcHJjZmdLQ2diWmRBajNmQno4WmYwaTl6VHBiQVVhQjU5RUlZaw?oc=5)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FWDcwRlFfOV9MVUpwVENIR2ZQYUpKOTRuRmFGSVRndHJMWkVCOGJSYXZIeUtUUlRSVHdxX3hVTkhsVE91RmRFTVhjeHhQVnUtV0pYVjZ2Qlc?oc=5)
 
-<a href="https://news.google.com/rss/articles/CBMiS0FVX3lxTE9fZk5PSldPckN0SzN4dW1LTnZBbzAzTVZCOWpoRk9wcHJjZmdLQ2diWmRBajNmQno4WmYwaTl6VHBiQVVhQjU5RUlZaw?oc=5" target="_blank">小米科技：2026年......_7x24快讯_新
+<a href="https://news.google.com/rss/articles/CBMiWEFVX3lxTE1FWDcwRlFfOV9MVUpwVENIR2ZQYUpKOTRuRmFGSVRndHJMWkVCOGJSYXZIeUtUUlRSVHdxX3hVTkhsVE91RmRFTVhjeHhQVnUtV0pYVjZ2Qlc?oc=5" target="_blank">双料大奖！小米斩
+
+---
+
+## Sunday Robotics
+
+### China’s robots climb mountains carrying eggs, noodles, and hope - Johannesburg Sunday World
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFRJZ1pyaFNJSzNtQl9ibWpWUWZEb0Rob0J2Y2pLQWNwN1JIZVQ5Rk9neml1V0szMjRnbEREVE9GSUVIZU5kdk9SMlBLT0RPVE9nV3pUM28zMUlSM1NneFFWX2ZVWkNUMHI5UFQ1ZzU1Qmx1ckEyY3BxNHRzYVV2bkVBT3h5eGxFYVVCSUVfWDNvWFBmMGNsNg?oc=5)
+
+<a href="https://news.google.com/rss/articles/CBMimAFBVV95cUxNbFRJZ1pyaFNJSzNtQl9ibWpWUWZEb0Rob0J2Y2pLQWNwN1JIZVQ5Rk9neml1V0szMjRnbEREVE9GSUVIZU5kdk9SMlBLT0RPVE9nV3pUM28zMUlSM1NneFFWX2ZVWkNUMHI5UFQ1Zz
 
 ---
 
 ## Industry News
 
-### Trump declares robot imports a national security threat
+### Are Drone Ports the Next Annoying Tech Neighbor?
 
-**发布日期**: 2026-10-29
-**链接**: [查看原文](https://arstechnica.com/gadgets/2026/10/trump-declares-robot-imports-a-national-security-threat/)
-
-
-
----
-
-### Ben Waters on the latest wireless charging strategies
-
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://www.therobotreport.com/ben-waters-on-the-latest-wireless-charging-strategies/)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://spectrum.ieee.org/drone-delivery-noise)
 
 
 
 ---
 
-### Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC
+### Robotics Startup Radar 2026
 
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/)
-
-
-
----
-
-### Percepto launches Axion AI platform to unify inspection data analysis
-
-**发布日期**: 2026-10-30
-**链接**: [查看原文](https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.therobotreport.com/robotics-startup-radar-2026/)
 
 
 
 ---
 
-### White House makes Section 232 determination regarding foreign-made robots
+### How GlobalLogic helped Haystack Robotics build a UV disinfection robot
 
-**发布日期**: 2026-10-29
-**链接**: [查看原文](https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/)
-
-
-
----
-
-### Ben Waters on the latest wireless charging strategies
-
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://www.therobotreport.com/ben-waters-on-the-latest-wireless-charging-strategies/)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/)
 
 
 
 ---
 
-### Churchill Capital XI shareholders approve $2.5B Agility Robotics humanoid SPAC
+### LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action
 
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://www.therobotreport.com/agility-robotics-shareholders-approve-25b-humanoid-spac/)
-
-
-
----
-
-### Percepto launches Axion AI platform to unify inspection data analysis
-
-**发布日期**: 2026-10-30
-**链接**: [查看原文](https://www.therobotreport.com/percepto-launches-axion-ai-platform-unify-inspection-data-analysis/)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/)
 
 
 
 ---
 
-### White House makes Section 232 determination regarding foreign-made robots
+### Robotics Startup Radar 2026
 
-**发布日期**: 2026-10-29
-**链接**: [查看原文](https://www.therobotreport.com/white-house-makes-section-232-determination-regarding-foreign-made-robots/)
-
-
-
----
-
-### Fine-tuning Dream-VLA on eight robosuite manipulation tasks
-
-**发布日期**: 2026-11-03
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xn5jen/finetuning_dreamvla_on_eight_robosuite/)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.therobotreport.com/robotics-startup-radar-2026/)
 
 
 
 ---
 
-### A humanoid boxing policy trained from scratch in 7 minutes on a single consumer GPU — code + paper
+### How GlobalLogic helped Haystack Robotics build a UV disinfection robot
 
-**发布日期**: 2026-11-01
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xld2lu/a_humanoid_boxing_policy_trained_from_scratch_in/)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.therobotreport.com/how-globallogic-helped-haystack-robotics-build-uv-disinfection-robot/)
 
 
 
 ---
 
-### My DIY two-wheel balancing robot — early hardware tests and an open-source Arduino library
+### LiberAI Unveils Liber-0, a World Action Model That Grounds Human Experience in Robot Action
 
-**发布日期**: 2026-11-02
-**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xlk3nl/my_diy_twowheel_balancing_robot_early_hardware/)
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.therobotreport.com/liberai-unveils-liber-0-a-world-action-model-that-grounds-human-experience-in-robot-action/)
+
+
+
+---
+
+### Humanoid robot from scratch
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnpvjn/humanoid_robot_from_scratch/)
+
+
+
+---
+
+### After 20 years in software, I'm finally building my own robot dog. Here's my first leg hopping.
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnt4zb/after_20_years_in_software_im_finally_building_my/)
+
+
+
+---
+
+### Solo jugando
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnwej0/solo_jugando/)
+
+
+
+---
+
+### Can we make sim-to-real testing more realistic?
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xngi7i/can_we_make_simtoreal_testing_more_realistic/)
+
+
+
+---
+
+### I built this quadruped robot model, from individual parts to the full assembly!
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnw27u/i_built_this_quadruped_robot_model_from/)
+
+
+
+---
+
+### Бионический робот собака
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnuhwj/бионический_робот_собака/)
+
+
+
+---
+
+### School Project Feedback! Expert Feedback Welcome!
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnnkmu/school_project_feedback_expert_feedback_welcome/)
+
+
+
+---
+
+### School Project Feedback! Expert Feedback Welcome!
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnntd0/school_project_feedback_expert_feedback_welcome/)
+
+
+
+---
+
+### SoftSync FlexHand just showed up on CCTV-4’s Youth Innovation+
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnl1a9/softsync_flexhand_just_showed_up_on_cctv4s_youth/)
+
+
+
+---
+
+### Has anyone actually built or saw some building a CNC writing Machine?
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnmnte/has_anyone_actually_built_or_saw_some_building_a/)
+
+
+
+---
+
+### Any news on the release dates of Figure 4 and Optimus 3?
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnmi4p/any_news_on_the_release_dates_of_figure_4_and/)
+
+
+
+---
+
+### I Spent a year building an engine, now my leg design costs €800. How do I cut that down? (,,• - •,,)
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnie1a/i_spent_a_year_building_an_engine_now_my_leg/)
+
+
+
+---
+
+### Real-to-sim from one recorded drive (multi-cam + LiDAR → OpenUSD scene with weather and pothole physics). Looking for honest feedback on the approach
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xnkjxh/realtosim_from_one_recorded_drive_multicam_lidar/)
+
+
+
+---
+
+### AMA: Preparing robot recordings for training — step labels, cleanup, and LeRobot export
+
+**发布日期**: 2026-11-04
+**链接**: [查看原文](https://www.reddit.com/r/robotics/comments/1xngm27/ama_preparing_robot_recordings_for_training_step/)
 
 
 
